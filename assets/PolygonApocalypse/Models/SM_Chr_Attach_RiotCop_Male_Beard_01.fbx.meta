@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "84637a11-ad34-4266-8f23-fae6942f236a",
+  "files": [],
+  "subMetas": {
+    "8d3ed": {
+      "importer": "gltf-mesh",
+      "uuid": "84637a11-ad34-4266-8f23-fae6942f236a@8d3ed",
+      "displayName": "",
+      "id": "8d3ed",
+      "name": "SM_Chr_Attach_RiotCop_Male_Beard_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8a738": {
+      "importer": "gltf-material",
+      "uuid": "84637a11-ad34-4266-8f23-fae6942f236a@8a738",
+      "displayName": "",
+      "id": "8a738",
+      "name": "BloodDecal29.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4db00": {
+      "importer": "gltf-scene",
+      "uuid": "84637a11-ad34-4266-8f23-fae6942f236a@4db00",
+      "displayName": "",
+      "id": "4db00",
+      "name": "SM_Chr_Attach_RiotCop_Male_Beard_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "84637a11-ad34-4266-8f23-fae6942f236a@4db00",
+    "assetFinder": {
+      "meshes": [
+        "84637a11-ad34-4266-8f23-fae6942f236a@8d3ed"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "84637a11-ad34-4266-8f23-fae6942f236a@8a738"
+      ],
+      "scenes": [
+        "84637a11-ad34-4266-8f23-fae6942f236a@4db00"
+      ]
+    }
+  }
+}

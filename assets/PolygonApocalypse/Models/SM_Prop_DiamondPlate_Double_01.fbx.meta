@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a417ce3c-0681-4ddd-8448-646fe2e9ae2e",
+  "files": [],
+  "subMetas": {
+    "81a42": {
+      "importer": "gltf-mesh",
+      "uuid": "a417ce3c-0681-4ddd-8448-646fe2e9ae2e@81a42",
+      "displayName": "",
+      "id": "81a42",
+      "name": "SM_Prop_DiamondPlate_Double_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "a417ce3c-0681-4ddd-8448-646fe2e9ae2e@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "a417ce3c-0681-4ddd-8448-646fe2e9ae2e@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "a417ce3c-0681-4ddd-8448-646fe2e9ae2e@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9db69": {
+      "importer": "gltf-scene",
+      "uuid": "a417ce3c-0681-4ddd-8448-646fe2e9ae2e@9db69",
+      "displayName": "",
+      "id": "9db69",
+      "name": "SM_Prop_DiamondPlate_Double_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "a417ce3c-0681-4ddd-8448-646fe2e9ae2e@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "a417ce3c-0681-4ddd-8448-646fe2e9ae2e@9db69",
+    "assetFinder": {
+      "meshes": [
+        "a417ce3c-0681-4ddd-8448-646fe2e9ae2e@81a42"
+      ],
+      "skeletons": [],
+      "textures": [
+        "a417ce3c-0681-4ddd-8448-646fe2e9ae2e@988dc"
+      ],
+      "materials": [
+        "a417ce3c-0681-4ddd-8448-646fe2e9ae2e@8d883"
+      ],
+      "scenes": [
+        "a417ce3c-0681-4ddd-8448-646fe2e9ae2e@9db69"
+      ]
+    }
+  }
+}

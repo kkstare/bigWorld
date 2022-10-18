@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "24e378f3-a03f-41f7-9b99-d13c22e451a8",
+  "files": [],
+  "subMetas": {
+    "72865": {
+      "importer": "gltf-material",
+      "uuid": "24e378f3-a03f-41f7-9b99-d13c22e451a8@72865",
+      "displayName": "",
+      "id": "72865",
+      "name": "BloodDecal19.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "40db2": {
+      "importer": "gltf-mesh",
+      "uuid": "24e378f3-a03f-41f7-9b99-d13c22e451a8@40db2",
+      "displayName": "",
+      "id": "40db2",
+      "name": "SM_Chr_Attach_Islander_Male_Hair_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "63de0": {
+      "importer": "gltf-scene",
+      "uuid": "24e378f3-a03f-41f7-9b99-d13c22e451a8@63de0",
+      "displayName": "",
+      "id": "63de0",
+      "name": "SM_Chr_Attach_Islander_Male_Hair_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "24e378f3-a03f-41f7-9b99-d13c22e451a8@63de0",
+    "assetFinder": {
+      "meshes": [
+        "24e378f3-a03f-41f7-9b99-d13c22e451a8@40db2"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "24e378f3-a03f-41f7-9b99-d13c22e451a8@72865"
+      ],
+      "scenes": [
+        "24e378f3-a03f-41f7-9b99-d13c22e451a8@63de0"
+      ]
+    }
+  }
+}

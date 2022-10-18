@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "53e5bac2-b975-4bef-bb9f-780cdbc5bfca",
+  "files": [],
+  "subMetas": {
+    "12ebc": {
+      "importer": "gltf-mesh",
+      "uuid": "53e5bac2-b975-4bef-bb9f-780cdbc5bfca@12ebc",
+      "displayName": "",
+      "id": "12ebc",
+      "name": "SM_Chr_Attach_Armour_Shoulder_Sports_L_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1408e": {
+      "importer": "gltf-embeded-image",
+      "uuid": "53e5bac2-b975-4bef-bb9f-780cdbc5bfca@1408e",
+      "displayName": "",
+      "id": "1408e",
+      "name": "file496.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "b8257": {
+      "importer": "texture",
+      "uuid": "53e5bac2-b975-4bef-bb9f-780cdbc5bfca@b8257",
+      "displayName": "",
+      "id": "b8257",
+      "name": "file496.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "53e5bac2-b975-4bef-bb9f-780cdbc5bfca@1408e"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cf8a3": {
+      "importer": "gltf-material",
+      "uuid": "53e5bac2-b975-4bef-bb9f-780cdbc5bfca@cf8a3",
+      "displayName": "",
+      "id": "cf8a3",
+      "name": "lambert264.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9838b": {
+      "importer": "gltf-scene",
+      "uuid": "53e5bac2-b975-4bef-bb9f-780cdbc5bfca@9838b",
+      "displayName": "",
+      "id": "9838b",
+      "name": "SM_Chr_Attach_Armour_Shoulder_Sports_L_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file496",
+        "uri": "53e5bac2-b975-4bef-bb9f-780cdbc5bfca@1408e"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "53e5bac2-b975-4bef-bb9f-780cdbc5bfca@9838b",
+    "assetFinder": {
+      "meshes": [
+        "53e5bac2-b975-4bef-bb9f-780cdbc5bfca@12ebc"
+      ],
+      "skeletons": [],
+      "textures": [
+        "53e5bac2-b975-4bef-bb9f-780cdbc5bfca@b8257"
+      ],
+      "materials": [
+        "53e5bac2-b975-4bef-bb9f-780cdbc5bfca@cf8a3"
+      ],
+      "scenes": [
+        "53e5bac2-b975-4bef-bb9f-780cdbc5bfca@9838b"
+      ]
+    }
+  }
+}

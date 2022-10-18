@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "490317f7-cd33-4f7d-a30e-933a217b9b2b",
+  "files": [],
+  "subMetas": {
+    "19219": {
+      "importer": "texture",
+      "uuid": "490317f7-cd33-4f7d-a30e-933a217b9b2b@19219",
+      "displayName": "",
+      "id": "19219",
+      "name": "file114.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "490317f7-cd33-4f7d-a30e-933a217b9b2b@e513d"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6dcd5": {
+      "importer": "gltf-mesh",
+      "uuid": "490317f7-cd33-4f7d-a30e-933a217b9b2b@6dcd5",
+      "displayName": "",
+      "id": "6dcd5",
+      "name": "SM_Prop_Skull_Colour_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e513d": {
+      "importer": "gltf-embeded-image",
+      "uuid": "490317f7-cd33-4f7d-a30e-933a217b9b2b@e513d",
+      "displayName": "",
+      "id": "e513d",
+      "name": "file114.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "c0b62": {
+      "importer": "gltf-material",
+      "uuid": "490317f7-cd33-4f7d-a30e-933a217b9b2b@c0b62",
+      "displayName": "",
+      "id": "c0b62",
+      "name": "lambert25.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ceefe": {
+      "importer": "gltf-scene",
+      "uuid": "490317f7-cd33-4f7d-a30e-933a217b9b2b@ceefe",
+      "displayName": "",
+      "id": "ceefe",
+      "name": "SM_Prop_Skull_Colour_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file114",
+        "uri": "490317f7-cd33-4f7d-a30e-933a217b9b2b@e513d"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "490317f7-cd33-4f7d-a30e-933a217b9b2b@ceefe",
+    "assetFinder": {
+      "meshes": [
+        "490317f7-cd33-4f7d-a30e-933a217b9b2b@6dcd5"
+      ],
+      "skeletons": [],
+      "textures": [
+        "490317f7-cd33-4f7d-a30e-933a217b9b2b@19219"
+      ],
+      "materials": [
+        "490317f7-cd33-4f7d-a30e-933a217b9b2b@c0b62"
+      ],
+      "scenes": [
+        "490317f7-cd33-4f7d-a30e-933a217b9b2b@ceefe"
+      ]
+    }
+  }
+}

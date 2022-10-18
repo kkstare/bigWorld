@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "63907ff3-5db6-42c7-8276-c7902a9d1f44",
+  "files": [],
+  "subMetas": {
+    "d8c22": {
+      "importer": "gltf-mesh",
+      "uuid": "63907ff3-5db6-42c7-8276-c7902a9d1f44@d8c22",
+      "displayName": "",
+      "id": "d8c22",
+      "name": "SM_Bld_Cooling_Tower_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f1ec6": {
+      "importer": "gltf-embeded-image",
+      "uuid": "63907ff3-5db6-42c7-8276-c7902a9d1f44@f1ec6",
+      "displayName": "",
+      "id": "f1ec6",
+      "name": "file110.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "d85a1": {
+      "importer": "texture",
+      "uuid": "63907ff3-5db6-42c7-8276-c7902a9d1f44@d85a1",
+      "displayName": "",
+      "id": "d85a1",
+      "name": "file110.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "63907ff3-5db6-42c7-8276-c7902a9d1f44@f1ec6"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ed320": {
+      "importer": "gltf-material",
+      "uuid": "63907ff3-5db6-42c7-8276-c7902a9d1f44@ed320",
+      "displayName": "",
+      "id": "ed320",
+      "name": "lambert33.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9cd2c": {
+      "importer": "gltf-scene",
+      "uuid": "63907ff3-5db6-42c7-8276-c7902a9d1f44@9cd2c",
+      "displayName": "",
+      "id": "9cd2c",
+      "name": "SM_Bld_Cooling_Tower_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file110",
+        "uri": "63907ff3-5db6-42c7-8276-c7902a9d1f44@f1ec6"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "63907ff3-5db6-42c7-8276-c7902a9d1f44@9cd2c",
+    "assetFinder": {
+      "meshes": [
+        "63907ff3-5db6-42c7-8276-c7902a9d1f44@d8c22"
+      ],
+      "skeletons": [],
+      "textures": [
+        "63907ff3-5db6-42c7-8276-c7902a9d1f44@d85a1"
+      ],
+      "materials": [
+        "63907ff3-5db6-42c7-8276-c7902a9d1f44@ed320"
+      ],
+      "scenes": [
+        "63907ff3-5db6-42c7-8276-c7902a9d1f44@9cd2c"
+      ]
+    }
+  }
+}

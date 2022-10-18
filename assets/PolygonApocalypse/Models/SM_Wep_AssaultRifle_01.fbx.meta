@@ -1,0 +1,182 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "da35cffe-e87e-4fda-8578-0fb5286c56b5",
+  "files": [],
+  "subMetas": {
+    "f001c": {
+      "importer": "gltf-mesh",
+      "uuid": "da35cffe-e87e-4fda-8578-0fb5286c56b5@f001c",
+      "displayName": "",
+      "id": "f001c",
+      "name": "SM_Wep_AssaultRifle_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f17ba": {
+      "importer": "gltf-mesh",
+      "uuid": "da35cffe-e87e-4fda-8578-0fb5286c56b5@f17ba",
+      "displayName": "",
+      "id": "f17ba",
+      "name": "SM_Wep_AssaultRifle_01_Magazine_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3c636": {
+      "importer": "gltf-mesh",
+      "uuid": "da35cffe-e87e-4fda-8578-0fb5286c56b5@3c636",
+      "displayName": "",
+      "id": "3c636",
+      "name": "SM_Wep_AssaultRifle_01_Trigger_01.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8f953": {
+      "importer": "gltf-mesh",
+      "uuid": "da35cffe-e87e-4fda-8578-0fb5286c56b5@8f953",
+      "displayName": "",
+      "id": "8f953",
+      "name": "SM_Wep_AssaultRifle_01_Slide_01.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e43a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "da35cffe-e87e-4fda-8578-0fb5286c56b5@1e43a",
+      "displayName": "",
+      "id": "1e43a",
+      "name": "file1198.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "05eac": {
+      "importer": "texture",
+      "uuid": "da35cffe-e87e-4fda-8578-0fb5286c56b5@05eac",
+      "displayName": "",
+      "id": "05eac",
+      "name": "file1198.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5bd2": {
+      "importer": "gltf-material",
+      "uuid": "da35cffe-e87e-4fda-8578-0fb5286c56b5@a5bd2",
+      "displayName": "",
+      "id": "a5bd2",
+      "name": "lambert.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "25c2a": {
+      "importer": "gltf-scene",
+      "uuid": "da35cffe-e87e-4fda-8578-0fb5286c56b5@25c2a",
+      "displayName": "",
+      "id": "25c2a",
+      "name": "SM_Wep_AssaultRifle_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1198",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "da35cffe-e87e-4fda-8578-0fb5286c56b5@1e43a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "da35cffe-e87e-4fda-8578-0fb5286c56b5@25c2a",
+    "assetFinder": {
+      "meshes": [
+        "da35cffe-e87e-4fda-8578-0fb5286c56b5@f001c",
+        "da35cffe-e87e-4fda-8578-0fb5286c56b5@f17ba",
+        "da35cffe-e87e-4fda-8578-0fb5286c56b5@3c636",
+        "da35cffe-e87e-4fda-8578-0fb5286c56b5@8f953"
+      ],
+      "skeletons": [],
+      "textures": [
+        "da35cffe-e87e-4fda-8578-0fb5286c56b5@05eac"
+      ],
+      "materials": [
+        "da35cffe-e87e-4fda-8578-0fb5286c56b5@a5bd2"
+      ],
+      "scenes": [
+        "da35cffe-e87e-4fda-8578-0fb5286c56b5@25c2a"
+      ]
+    }
+  }
+}

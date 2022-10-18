@@ -1,0 +1,224 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "0dbafa9a-99bb-4d06-a591-e93b113e353d",
+  "files": [],
+  "subMetas": {
+    "28690": {
+      "importer": "gltf-mesh",
+      "uuid": "0dbafa9a-99bb-4d06-a591-e93b113e353d@28690",
+      "displayName": "",
+      "id": "28690",
+      "name": "SM_Veh_Buggy_Wheel_fl.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "61750": {
+      "importer": "gltf-scene",
+      "uuid": "0dbafa9a-99bb-4d06-a591-e93b113e353d@61750",
+      "displayName": "",
+      "id": "61750",
+      "name": "SM_Veh_Buggy_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "68071": {
+      "importer": "gltf-mesh",
+      "uuid": "0dbafa9a-99bb-4d06-a591-e93b113e353d@68071",
+      "displayName": "",
+      "id": "68071",
+      "name": "SM_Veh_Buggy_Glass_Armour_01.mesh",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "39d16": {
+      "importer": "gltf-mesh",
+      "uuid": "0dbafa9a-99bb-4d06-a591-e93b113e353d@39d16",
+      "displayName": "",
+      "id": "39d16",
+      "name": "SM_Veh_Buggy_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b6cd5": {
+      "importer": "gltf-mesh",
+      "uuid": "0dbafa9a-99bb-4d06-a591-e93b113e353d@b6cd5",
+      "displayName": "",
+      "id": "b6cd5",
+      "name": "SM_Veh_Buggy_Wheel_fr.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1d252": {
+      "importer": "gltf-mesh",
+      "uuid": "0dbafa9a-99bb-4d06-a591-e93b113e353d@1d252",
+      "displayName": "",
+      "id": "1d252",
+      "name": "SM_Veh_Buggy_01_SteeringW.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ef9ff": {
+      "importer": "gltf-mesh",
+      "uuid": "0dbafa9a-99bb-4d06-a591-e93b113e353d@ef9ff",
+      "displayName": "",
+      "id": "ef9ff",
+      "name": "SM_Veh_Buggy_Wheel_rl.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "092e5": {
+      "importer": "gltf-mesh",
+      "uuid": "0dbafa9a-99bb-4d06-a591-e93b113e353d@092e5",
+      "displayName": "",
+      "id": "092e5",
+      "name": "SM_Veh_Buggy_Wheel_rr.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "aa04b": {
+      "importer": "gltf-mesh",
+      "uuid": "0dbafa9a-99bb-4d06-a591-e93b113e353d@aa04b",
+      "displayName": "",
+      "id": "aa04b",
+      "name": "SM_Veh_Buggy_01_Glass.mesh",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "df032": {
+      "importer": "gltf-mesh",
+      "uuid": "0dbafa9a-99bb-4d06-a591-e93b113e353d@df032",
+      "displayName": "",
+      "id": "df032",
+      "name": "SM_Veh_Buggy_Armour_01.mesh",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ed320": {
+      "importer": "gltf-material",
+      "uuid": "0dbafa9a-99bb-4d06-a591-e93b113e353d@ed320",
+      "displayName": "",
+      "id": "ed320",
+      "name": "lambert33.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "0dbafa9a-99bb-4d06-a591-e93b113e353d@61750",
+    "assetFinder": {
+      "meshes": [
+        "0dbafa9a-99bb-4d06-a591-e93b113e353d@39d16",
+        "0dbafa9a-99bb-4d06-a591-e93b113e353d@b6cd5",
+        "0dbafa9a-99bb-4d06-a591-e93b113e353d@1d252",
+        "0dbafa9a-99bb-4d06-a591-e93b113e353d@28690",
+        "0dbafa9a-99bb-4d06-a591-e93b113e353d@ef9ff",
+        "0dbafa9a-99bb-4d06-a591-e93b113e353d@092e5",
+        "0dbafa9a-99bb-4d06-a591-e93b113e353d@68071",
+        "0dbafa9a-99bb-4d06-a591-e93b113e353d@aa04b",
+        "0dbafa9a-99bb-4d06-a591-e93b113e353d@df032"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "0dbafa9a-99bb-4d06-a591-e93b113e353d@ed320"
+      ],
+      "scenes": [
+        "0dbafa9a-99bb-4d06-a591-e93b113e353d@61750"
+      ]
+    }
+  }
+}

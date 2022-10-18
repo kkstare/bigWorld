@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "11ec6435-8e6c-4b8e-8e9e-2d1481f59995",
+  "files": [],
+  "subMetas": {
+    "76449": {
+      "importer": "gltf-mesh",
+      "uuid": "11ec6435-8e6c-4b8e-8e9e-2d1481f59995@76449",
+      "displayName": "",
+      "id": "76449",
+      "name": "SM_Chr_Attach_Soldier_Male_Helmet_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7fafc": {
+      "importer": "gltf-material",
+      "uuid": "11ec6435-8e6c-4b8e-8e9e-2d1481f59995@7fafc",
+      "displayName": "",
+      "id": "7fafc",
+      "name": "BloodDecal38.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1c9c3": {
+      "importer": "gltf-scene",
+      "uuid": "11ec6435-8e6c-4b8e-8e9e-2d1481f59995@1c9c3",
+      "displayName": "",
+      "id": "1c9c3",
+      "name": "SM_Chr_Attach_Soldier_Male_Helmet_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "11ec6435-8e6c-4b8e-8e9e-2d1481f59995@1c9c3",
+    "assetFinder": {
+      "meshes": [
+        "11ec6435-8e6c-4b8e-8e9e-2d1481f59995@76449"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "11ec6435-8e6c-4b8e-8e9e-2d1481f59995@7fafc"
+      ],
+      "scenes": [
+        "11ec6435-8e6c-4b8e-8e9e-2d1481f59995@1c9c3"
+      ]
+    }
+  }
+}

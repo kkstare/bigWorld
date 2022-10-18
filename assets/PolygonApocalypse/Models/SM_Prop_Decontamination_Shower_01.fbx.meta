@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "9e6cc500-f792-472f-8ca5-0bedad658058",
+  "files": [],
+  "subMetas": {
+    "41b9d": {
+      "importer": "gltf-mesh",
+      "uuid": "9e6cc500-f792-472f-8ca5-0bedad658058@41b9d",
+      "displayName": "",
+      "id": "41b9d",
+      "name": "SM_Prop_Decontamination_Shower_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "43c71": {
+      "importer": "gltf-embeded-image",
+      "uuid": "9e6cc500-f792-472f-8ca5-0bedad658058@43c71",
+      "displayName": "",
+      "id": "43c71",
+      "name": "file1.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "d20e9": {
+      "importer": "texture",
+      "uuid": "9e6cc500-f792-472f-8ca5-0bedad658058@d20e9",
+      "displayName": "",
+      "id": "d20e9",
+      "name": "file1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "9e6cc500-f792-472f-8ca5-0bedad658058@43c71"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fdb30": {
+      "importer": "gltf-material",
+      "uuid": "9e6cc500-f792-472f-8ca5-0bedad658058@fdb30",
+      "displayName": "",
+      "id": "fdb30",
+      "name": "lambert23.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "107a4": {
+      "importer": "gltf-scene",
+      "uuid": "9e6cc500-f792-472f-8ca5-0bedad658058@107a4",
+      "displayName": "",
+      "id": "107a4",
+      "name": "SM_Prop_Decontamination_Shower_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1",
+        "uri": "9e6cc500-f792-472f-8ca5-0bedad658058@43c71"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "9e6cc500-f792-472f-8ca5-0bedad658058@107a4",
+    "assetFinder": {
+      "meshes": [
+        "9e6cc500-f792-472f-8ca5-0bedad658058@41b9d"
+      ],
+      "skeletons": [],
+      "textures": [
+        "9e6cc500-f792-472f-8ca5-0bedad658058@d20e9"
+      ],
+      "materials": [
+        "9e6cc500-f792-472f-8ca5-0bedad658058@fdb30"
+      ],
+      "scenes": [
+        "9e6cc500-f792-472f-8ca5-0bedad658058@107a4"
+      ]
+    }
+  }
+}

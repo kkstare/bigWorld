@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "8fc2e0f0-2955-484c-9bc7-baceb115c897",
+  "files": [],
+  "subMetas": {
+    "7bc55": {
+      "importer": "gltf-mesh",
+      "uuid": "8fc2e0f0-2955-484c-9bc7-baceb115c897@7bc55",
+      "displayName": "",
+      "id": "7bc55",
+      "name": "SM_Prop_Mannequin_Female_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7ee2e": {
+      "importer": "gltf-embeded-image",
+      "uuid": "8fc2e0f0-2955-484c-9bc7-baceb115c897@7ee2e",
+      "displayName": "",
+      "id": "7ee2e",
+      "name": "lambert4SG2F1.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "672f6": {
+      "importer": "texture",
+      "uuid": "8fc2e0f0-2955-484c-9bc7-baceb115c897@672f6",
+      "displayName": "",
+      "id": "672f6",
+      "name": "lambert4SG2F1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "8fc2e0f0-2955-484c-9bc7-baceb115c897@7ee2e"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2627e": {
+      "importer": "gltf-material",
+      "uuid": "8fc2e0f0-2955-484c-9bc7-baceb115c897@2627e",
+      "displayName": "",
+      "id": "2627e",
+      "name": "lambert4SG2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "55caa": {
+      "importer": "gltf-scene",
+      "uuid": "8fc2e0f0-2955-484c-9bc7-baceb115c897@55caa",
+      "displayName": "",
+      "id": "55caa",
+      "name": "SM_Prop_Mannequin_Female_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "lambert4SG2F1",
+        "uri": "8fc2e0f0-2955-484c-9bc7-baceb115c897@7ee2e"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "8fc2e0f0-2955-484c-9bc7-baceb115c897@55caa",
+    "assetFinder": {
+      "meshes": [
+        "8fc2e0f0-2955-484c-9bc7-baceb115c897@7bc55"
+      ],
+      "skeletons": [],
+      "textures": [
+        "8fc2e0f0-2955-484c-9bc7-baceb115c897@672f6"
+      ],
+      "materials": [
+        "8fc2e0f0-2955-484c-9bc7-baceb115c897@2627e"
+      ],
+      "scenes": [
+        "8fc2e0f0-2955-484c-9bc7-baceb115c897@55caa"
+      ]
+    }
+  }
+}

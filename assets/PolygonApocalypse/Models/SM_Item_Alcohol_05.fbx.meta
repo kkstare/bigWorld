@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "9585f9a2-553b-4bd1-9884-9340093439c7",
+  "files": [],
+  "subMetas": {
+    "fb419": {
+      "importer": "gltf-mesh",
+      "uuid": "9585f9a2-553b-4bd1-9884-9340093439c7@fb419",
+      "displayName": "",
+      "id": "fb419",
+      "name": "SM_Item_Alcohol_05.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "9585f9a2-553b-4bd1-9884-9340093439c7@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "9585f9a2-553b-4bd1-9884-9340093439c7@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "927cf": {
+      "importer": "gltf-material",
+      "uuid": "9585f9a2-553b-4bd1-9884-9340093439c7@927cf",
+      "displayName": "",
+      "id": "927cf",
+      "name": "lambert892.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "08dc3": {
+      "importer": "gltf-scene",
+      "uuid": "9585f9a2-553b-4bd1-9884-9340093439c7@08dc3",
+      "displayName": "",
+      "id": "08dc3",
+      "name": "SM_Item_Alcohol_05.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "9585f9a2-553b-4bd1-9884-9340093439c7@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "9585f9a2-553b-4bd1-9884-9340093439c7@08dc3",
+    "assetFinder": {
+      "meshes": [
+        "9585f9a2-553b-4bd1-9884-9340093439c7@fb419"
+      ],
+      "skeletons": [],
+      "textures": [
+        "9585f9a2-553b-4bd1-9884-9340093439c7@988dc"
+      ],
+      "materials": [
+        "9585f9a2-553b-4bd1-9884-9340093439c7@927cf"
+      ],
+      "scenes": [
+        "9585f9a2-553b-4bd1-9884-9340093439c7@08dc3"
+      ]
+    }
+  }
+}

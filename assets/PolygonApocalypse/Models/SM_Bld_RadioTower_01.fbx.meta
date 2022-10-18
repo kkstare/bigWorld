@@ -1,0 +1,146 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "9c9086e5-ffcf-4ae6-9b62-ee034a968fe4",
+  "files": [],
+  "subMetas": {
+    "936b1": {
+      "importer": "gltf-mesh",
+      "uuid": "9c9086e5-ffcf-4ae6-9b62-ee034a968fe4@936b1",
+      "displayName": "",
+      "id": "936b1",
+      "name": "SM_Bld_RadioTower_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "21f70": {
+      "importer": "gltf-mesh",
+      "uuid": "9c9086e5-ffcf-4ae6-9b62-ee034a968fe4@21f70",
+      "displayName": "",
+      "id": "21f70",
+      "name": "SM_Bld_RadioTower_Top_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "9c9086e5-ffcf-4ae6-9b62-ee034a968fe4@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "9c9086e5-ffcf-4ae6-9b62-ee034a968fe4@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "9c9086e5-ffcf-4ae6-9b62-ee034a968fe4@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4a0e8": {
+      "importer": "gltf-scene",
+      "uuid": "9c9086e5-ffcf-4ae6-9b62-ee034a968fe4@4a0e8",
+      "displayName": "",
+      "id": "4a0e8",
+      "name": "SM_Bld_RadioTower_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "9c9086e5-ffcf-4ae6-9b62-ee034a968fe4@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "9c9086e5-ffcf-4ae6-9b62-ee034a968fe4@4a0e8",
+    "assetFinder": {
+      "meshes": [
+        "9c9086e5-ffcf-4ae6-9b62-ee034a968fe4@936b1",
+        "9c9086e5-ffcf-4ae6-9b62-ee034a968fe4@21f70"
+      ],
+      "skeletons": [],
+      "textures": [
+        "9c9086e5-ffcf-4ae6-9b62-ee034a968fe4@988dc"
+      ],
+      "materials": [
+        "9c9086e5-ffcf-4ae6-9b62-ee034a968fe4@8d883"
+      ],
+      "scenes": [
+        "9c9086e5-ffcf-4ae6-9b62-ee034a968fe4@4a0e8"
+      ]
+    }
+  }
+}

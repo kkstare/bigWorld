@@ -1,0 +1,217 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "15e6dbd4-3ea1-439b-8544-1d0daa9d36e9",
+  "files": [],
+  "subMetas": {
+    "be72b": {
+      "importer": "gltf-mesh",
+      "uuid": "15e6dbd4-3ea1-439b-8544-1d0daa9d36e9@be72b",
+      "displayName": "",
+      "id": "be72b",
+      "name": "SM_Veh_Motorbike_Apoco_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b7d26": {
+      "importer": "gltf-mesh",
+      "uuid": "15e6dbd4-3ea1-439b-8544-1d0daa9d36e9@b7d26",
+      "displayName": "",
+      "id": "b7d26",
+      "name": "SM_Veh_Motorbike_Apoco_Rear_Shock_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e933c": {
+      "importer": "gltf-mesh",
+      "uuid": "15e6dbd4-3ea1-439b-8544-1d0daa9d36e9@e933c",
+      "displayName": "",
+      "id": "e933c",
+      "name": "SM_Veh_Motorbike_Apoco_Rear_Wheel_01.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "18f65": {
+      "importer": "gltf-mesh",
+      "uuid": "15e6dbd4-3ea1-439b-8544-1d0daa9d36e9@18f65",
+      "displayName": "",
+      "id": "18f65",
+      "name": "SM_Veh_Motorbike_Apoco_HandleBars_01.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b194b": {
+      "importer": "gltf-mesh",
+      "uuid": "15e6dbd4-3ea1-439b-8544-1d0daa9d36e9@b194b",
+      "displayName": "",
+      "id": "b194b",
+      "name": "SM_Veh_Motorbike_Apoco_Front_Shock_01.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bd4f8": {
+      "importer": "gltf-mesh",
+      "uuid": "15e6dbd4-3ea1-439b-8544-1d0daa9d36e9@bd4f8",
+      "displayName": "",
+      "id": "bd4f8",
+      "name": "SM_Veh_Motorbike_Apoco_Front_Wheel_01.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "008d7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "15e6dbd4-3ea1-439b-8544-1d0daa9d36e9@008d7",
+      "displayName": "",
+      "id": "008d7",
+      "name": "__PolygonZombie_Texture_A_2.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "76a36": {
+      "importer": "texture",
+      "uuid": "15e6dbd4-3ea1-439b-8544-1d0daa9d36e9@76a36",
+      "displayName": "",
+      "id": "76a36",
+      "name": "__PolygonZombie_Texture_A_2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "15e6dbd4-3ea1-439b-8544-1d0daa9d36e9@008d7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e18d5": {
+      "importer": "gltf-material",
+      "uuid": "15e6dbd4-3ea1-439b-8544-1d0daa9d36e9@e18d5",
+      "displayName": "",
+      "id": "e18d5",
+      "name": "lambert32.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e2d99": {
+      "importer": "gltf-scene",
+      "uuid": "15e6dbd4-3ea1-439b-8544-1d0daa9d36e9@e2d99",
+      "displayName": "",
+      "id": "e2d99",
+      "name": "SM_Veh_Motorbike_Apoco_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "__PolygonZombie_Texture_A_2",
+        "uri": "15e6dbd4-3ea1-439b-8544-1d0daa9d36e9@008d7"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "15e6dbd4-3ea1-439b-8544-1d0daa9d36e9@e2d99",
+    "assetFinder": {
+      "meshes": [
+        "15e6dbd4-3ea1-439b-8544-1d0daa9d36e9@be72b",
+        "15e6dbd4-3ea1-439b-8544-1d0daa9d36e9@b7d26",
+        "15e6dbd4-3ea1-439b-8544-1d0daa9d36e9@e933c",
+        "15e6dbd4-3ea1-439b-8544-1d0daa9d36e9@18f65",
+        "15e6dbd4-3ea1-439b-8544-1d0daa9d36e9@b194b",
+        "15e6dbd4-3ea1-439b-8544-1d0daa9d36e9@bd4f8"
+      ],
+      "skeletons": [],
+      "textures": [
+        "15e6dbd4-3ea1-439b-8544-1d0daa9d36e9@76a36"
+      ],
+      "materials": [
+        "15e6dbd4-3ea1-439b-8544-1d0daa9d36e9@e18d5"
+      ],
+      "scenes": [
+        "15e6dbd4-3ea1-439b-8544-1d0daa9d36e9@e2d99"
+      ]
+    }
+  }
+}

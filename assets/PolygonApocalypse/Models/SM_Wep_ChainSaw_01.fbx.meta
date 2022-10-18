@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "55ae972b-79d4-47ac-8bca-b116bd5d171c",
+  "files": [],
+  "subMetas": {
+    "1c3d3": {
+      "importer": "gltf-mesh",
+      "uuid": "55ae972b-79d4-47ac-8bca-b116bd5d171c@1c3d3",
+      "displayName": "",
+      "id": "1c3d3",
+      "name": "SM_Wep_ChainSaw_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "41eed": {
+      "importer": "gltf-material",
+      "uuid": "55ae972b-79d4-47ac-8bca-b116bd5d171c@41eed",
+      "displayName": "",
+      "id": "41eed",
+      "name": "New_Characters_Rigging_29:BloodDecal.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2423c": {
+      "importer": "gltf-scene",
+      "uuid": "55ae972b-79d4-47ac-8bca-b116bd5d171c@2423c",
+      "displayName": "",
+      "id": "2423c",
+      "name": "SM_Wep_ChainSaw_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "55ae972b-79d4-47ac-8bca-b116bd5d171c@2423c",
+    "assetFinder": {
+      "meshes": [
+        "55ae972b-79d4-47ac-8bca-b116bd5d171c@1c3d3"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "55ae972b-79d4-47ac-8bca-b116bd5d171c@41eed"
+      ],
+      "scenes": [
+        "55ae972b-79d4-47ac-8bca-b116bd5d171c@2423c"
+      ]
+    }
+  }
+}

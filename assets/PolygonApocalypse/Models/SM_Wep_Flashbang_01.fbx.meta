@@ -1,0 +1,164 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "5f9d4d90-3c78-46e9-acab-832747c1eaa8",
+  "files": [],
+  "subMetas": {
+    "2bdd6": {
+      "importer": "gltf-mesh",
+      "uuid": "5f9d4d90-3c78-46e9-acab-832747c1eaa8@2bdd6",
+      "displayName": "",
+      "id": "2bdd6",
+      "name": "SM_Wep_Flashbang_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6eb2a": {
+      "importer": "gltf-mesh",
+      "uuid": "5f9d4d90-3c78-46e9-acab-832747c1eaa8@6eb2a",
+      "displayName": "",
+      "id": "6eb2a",
+      "name": "SM_Wep_Flashbang_Clip_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "844f4": {
+      "importer": "gltf-mesh",
+      "uuid": "5f9d4d90-3c78-46e9-acab-832747c1eaa8@844f4",
+      "displayName": "",
+      "id": "844f4",
+      "name": "SM_Wep_Flashbang_Pin_01.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e43a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "5f9d4d90-3c78-46e9-acab-832747c1eaa8@1e43a",
+      "displayName": "",
+      "id": "1e43a",
+      "name": "file1198.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "05eac": {
+      "importer": "texture",
+      "uuid": "5f9d4d90-3c78-46e9-acab-832747c1eaa8@05eac",
+      "displayName": "",
+      "id": "05eac",
+      "name": "file1198.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5bd2": {
+      "importer": "gltf-material",
+      "uuid": "5f9d4d90-3c78-46e9-acab-832747c1eaa8@a5bd2",
+      "displayName": "",
+      "id": "a5bd2",
+      "name": "lambert.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4e6cb": {
+      "importer": "gltf-scene",
+      "uuid": "5f9d4d90-3c78-46e9-acab-832747c1eaa8@4e6cb",
+      "displayName": "",
+      "id": "4e6cb",
+      "name": "SM_Wep_Flashbang_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1198",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "5f9d4d90-3c78-46e9-acab-832747c1eaa8@1e43a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "5f9d4d90-3c78-46e9-acab-832747c1eaa8@4e6cb",
+    "assetFinder": {
+      "meshes": [
+        "5f9d4d90-3c78-46e9-acab-832747c1eaa8@2bdd6",
+        "5f9d4d90-3c78-46e9-acab-832747c1eaa8@6eb2a",
+        "5f9d4d90-3c78-46e9-acab-832747c1eaa8@844f4"
+      ],
+      "skeletons": [],
+      "textures": [
+        "5f9d4d90-3c78-46e9-acab-832747c1eaa8@05eac"
+      ],
+      "materials": [
+        "5f9d4d90-3c78-46e9-acab-832747c1eaa8@a5bd2"
+      ],
+      "scenes": [
+        "5f9d4d90-3c78-46e9-acab-832747c1eaa8@4e6cb"
+      ]
+    }
+  }
+}

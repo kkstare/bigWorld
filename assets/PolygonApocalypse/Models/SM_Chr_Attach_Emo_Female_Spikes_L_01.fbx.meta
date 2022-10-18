@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "5d0244d0-d27f-49f8-9087-dd8837dde544",
+  "files": [],
+  "subMetas": {
+    "ba213": {
+      "importer": "gltf-mesh",
+      "uuid": "5d0244d0-d27f-49f8-9087-dd8837dde544@ba213",
+      "displayName": "",
+      "id": "ba213",
+      "name": "SM_Chr_Attach_Emo_Female_Spikes_L_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1a23f": {
+      "importer": "gltf-material",
+      "uuid": "5d0244d0-d27f-49f8-9087-dd8837dde544@1a23f",
+      "displayName": "",
+      "id": "1a23f",
+      "name": "BloodDecal13.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f918d": {
+      "importer": "gltf-scene",
+      "uuid": "5d0244d0-d27f-49f8-9087-dd8837dde544@f918d",
+      "displayName": "",
+      "id": "f918d",
+      "name": "SM_Chr_Attach_Emo_Female_Spikes_L_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "5d0244d0-d27f-49f8-9087-dd8837dde544@f918d",
+    "assetFinder": {
+      "meshes": [
+        "5d0244d0-d27f-49f8-9087-dd8837dde544@ba213"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "5d0244d0-d27f-49f8-9087-dd8837dde544@1a23f"
+      ],
+      "scenes": [
+        "5d0244d0-d27f-49f8-9087-dd8837dde544@f918d"
+      ]
+    }
+  }
+}

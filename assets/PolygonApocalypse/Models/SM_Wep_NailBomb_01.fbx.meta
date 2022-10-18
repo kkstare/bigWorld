@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e750e831-db70-475b-9934-eef12f769e2c",
+  "files": [],
+  "subMetas": {
+    "333ef": {
+      "importer": "gltf-mesh",
+      "uuid": "e750e831-db70-475b-9934-eef12f769e2c@333ef",
+      "displayName": "",
+      "id": "333ef",
+      "name": "SM_Wep_NailBomb_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e43a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "e750e831-db70-475b-9934-eef12f769e2c@1e43a",
+      "displayName": "",
+      "id": "1e43a",
+      "name": "file1198.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "05eac": {
+      "importer": "texture",
+      "uuid": "e750e831-db70-475b-9934-eef12f769e2c@05eac",
+      "displayName": "",
+      "id": "05eac",
+      "name": "file1198.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5bd2": {
+      "importer": "gltf-material",
+      "uuid": "e750e831-db70-475b-9934-eef12f769e2c@a5bd2",
+      "displayName": "",
+      "id": "a5bd2",
+      "name": "lambert.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c5ebc": {
+      "importer": "gltf-scene",
+      "uuid": "e750e831-db70-475b-9934-eef12f769e2c@c5ebc",
+      "displayName": "",
+      "id": "c5ebc",
+      "name": "SM_Wep_NailBomb_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1198",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "e750e831-db70-475b-9934-eef12f769e2c@1e43a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "e750e831-db70-475b-9934-eef12f769e2c@c5ebc",
+    "assetFinder": {
+      "meshes": [
+        "e750e831-db70-475b-9934-eef12f769e2c@333ef"
+      ],
+      "skeletons": [],
+      "textures": [
+        "e750e831-db70-475b-9934-eef12f769e2c@05eac"
+      ],
+      "materials": [
+        "e750e831-db70-475b-9934-eef12f769e2c@a5bd2"
+      ],
+      "scenes": [
+        "e750e831-db70-475b-9934-eef12f769e2c@c5ebc"
+      ]
+    }
+  }
+}

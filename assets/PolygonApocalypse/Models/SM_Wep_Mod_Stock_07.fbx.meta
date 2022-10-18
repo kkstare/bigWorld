@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "9784d8bc-bc5e-45a3-beb7-f035c30085a3",
+  "files": [],
+  "subMetas": {
+    "3d06e": {
+      "importer": "gltf-mesh",
+      "uuid": "9784d8bc-bc5e-45a3-beb7-f035c30085a3@3d06e",
+      "displayName": "",
+      "id": "3d06e",
+      "name": "SM_Wep_Mod_Stock_07.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "9784d8bc-bc5e-45a3-beb7-f035c30085a3@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f0945": {
+      "importer": "gltf-scene",
+      "uuid": "9784d8bc-bc5e-45a3-beb7-f035c30085a3@f0945",
+      "displayName": "",
+      "id": "f0945",
+      "name": "SM_Wep_Mod_Stock_07.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "9784d8bc-bc5e-45a3-beb7-f035c30085a3@f0945",
+    "assetFinder": {
+      "meshes": [
+        "9784d8bc-bc5e-45a3-beb7-f035c30085a3@3d06e"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "9784d8bc-bc5e-45a3-beb7-f035c30085a3@8d883"
+      ],
+      "scenes": [
+        "9784d8bc-bc5e-45a3-beb7-f035c30085a3@f0945"
+      ]
+    }
+  }
+}

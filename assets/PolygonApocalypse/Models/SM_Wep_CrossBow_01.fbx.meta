@@ -1,0 +1,272 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d867fbbe-4b9f-4258-85ee-a0e6f0920a93",
+  "files": [],
+  "subMetas": {
+    "303f1": {
+      "importer": "gltf-mesh",
+      "uuid": "d867fbbe-4b9f-4258-85ee-a0e6f0920a93@303f1",
+      "displayName": "",
+      "id": "303f1",
+      "name": "SM_Wep_CrossBow_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2636c": {
+      "importer": "gltf-mesh",
+      "uuid": "d867fbbe-4b9f-4258-85ee-a0e6f0920a93@2636c",
+      "displayName": "",
+      "id": "2636c",
+      "name": "SM_Wep_CrossBow_01_Trigger_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b862b": {
+      "importer": "gltf-mesh",
+      "uuid": "d867fbbe-4b9f-4258-85ee-a0e6f0920a93@b862b",
+      "displayName": "",
+      "id": "b862b",
+      "name": "SM_Wep_CrossBow_01_Sights_01.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "daa71": {
+      "importer": "gltf-mesh",
+      "uuid": "d867fbbe-4b9f-4258-85ee-a0e6f0920a93@daa71",
+      "displayName": "",
+      "id": "daa71",
+      "name": "SM_Wep_CrossBow_01_Arrow_01.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "35cdd": {
+      "importer": "gltf-mesh",
+      "uuid": "d867fbbe-4b9f-4258-85ee-a0e6f0920a93@35cdd",
+      "displayName": "",
+      "id": "35cdd",
+      "name": "SM_Wep_CrossBow_01_String_01.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ac988": {
+      "importer": "gltf-mesh",
+      "uuid": "d867fbbe-4b9f-4258-85ee-a0e6f0920a93@ac988",
+      "displayName": "",
+      "id": "ac988",
+      "name": "SM_Wep_CrossBow_01_Quiver_01.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "de26f": {
+      "importer": "gltf-mesh",
+      "uuid": "d867fbbe-4b9f-4258-85ee-a0e6f0920a93@de26f",
+      "displayName": "",
+      "id": "de26f",
+      "name": "SM_Wep_CrossBow_01_Quiver_Arrow_01.mesh",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bdb32": {
+      "importer": "gltf-mesh",
+      "uuid": "d867fbbe-4b9f-4258-85ee-a0e6f0920a93@bdb32",
+      "displayName": "",
+      "id": "bdb32",
+      "name": "SM_Wep_CrossBow_01_Quiver_Arrow_03.mesh",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "65eab": {
+      "importer": "gltf-mesh",
+      "uuid": "d867fbbe-4b9f-4258-85ee-a0e6f0920a93@65eab",
+      "displayName": "",
+      "id": "65eab",
+      "name": "SM_Wep_CrossBow_01_Quiver_Arrow_02.mesh",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e43a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d867fbbe-4b9f-4258-85ee-a0e6f0920a93@1e43a",
+      "displayName": "",
+      "id": "1e43a",
+      "name": "file1198.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "05eac": {
+      "importer": "texture",
+      "uuid": "d867fbbe-4b9f-4258-85ee-a0e6f0920a93@05eac",
+      "displayName": "",
+      "id": "05eac",
+      "name": "file1198.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5bd2": {
+      "importer": "gltf-material",
+      "uuid": "d867fbbe-4b9f-4258-85ee-a0e6f0920a93@a5bd2",
+      "displayName": "",
+      "id": "a5bd2",
+      "name": "lambert.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a7048": {
+      "importer": "gltf-scene",
+      "uuid": "d867fbbe-4b9f-4258-85ee-a0e6f0920a93@a7048",
+      "displayName": "",
+      "id": "a7048",
+      "name": "SM_Wep_CrossBow_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1198",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "d867fbbe-4b9f-4258-85ee-a0e6f0920a93@1e43a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "d867fbbe-4b9f-4258-85ee-a0e6f0920a93@a7048",
+    "assetFinder": {
+      "meshes": [
+        "d867fbbe-4b9f-4258-85ee-a0e6f0920a93@303f1",
+        "d867fbbe-4b9f-4258-85ee-a0e6f0920a93@2636c",
+        "d867fbbe-4b9f-4258-85ee-a0e6f0920a93@b862b",
+        "d867fbbe-4b9f-4258-85ee-a0e6f0920a93@daa71",
+        "d867fbbe-4b9f-4258-85ee-a0e6f0920a93@35cdd",
+        "d867fbbe-4b9f-4258-85ee-a0e6f0920a93@ac988",
+        "d867fbbe-4b9f-4258-85ee-a0e6f0920a93@de26f",
+        "d867fbbe-4b9f-4258-85ee-a0e6f0920a93@bdb32",
+        "d867fbbe-4b9f-4258-85ee-a0e6f0920a93@65eab"
+      ],
+      "skeletons": [],
+      "textures": [
+        "d867fbbe-4b9f-4258-85ee-a0e6f0920a93@05eac"
+      ],
+      "materials": [
+        "d867fbbe-4b9f-4258-85ee-a0e6f0920a93@a5bd2"
+      ],
+      "scenes": [
+        "d867fbbe-4b9f-4258-85ee-a0e6f0920a93@a7048"
+      ]
+    }
+  }
+}

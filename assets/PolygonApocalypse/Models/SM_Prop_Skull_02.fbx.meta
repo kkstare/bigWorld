@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "6cb5ea52-4a5d-4f86-8574-1e9c1b2c3711",
+  "files": [],
+  "subMetas": {
+    "19219": {
+      "importer": "texture",
+      "uuid": "6cb5ea52-4a5d-4f86-8574-1e9c1b2c3711@19219",
+      "displayName": "",
+      "id": "19219",
+      "name": "file114.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "6cb5ea52-4a5d-4f86-8574-1e9c1b2c3711@e513d"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b8218": {
+      "importer": "gltf-mesh",
+      "uuid": "6cb5ea52-4a5d-4f86-8574-1e9c1b2c3711@b8218",
+      "displayName": "",
+      "id": "b8218",
+      "name": "SM_Prop_Skull_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e513d": {
+      "importer": "gltf-embeded-image",
+      "uuid": "6cb5ea52-4a5d-4f86-8574-1e9c1b2c3711@e513d",
+      "displayName": "",
+      "id": "e513d",
+      "name": "file114.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "c0b62": {
+      "importer": "gltf-material",
+      "uuid": "6cb5ea52-4a5d-4f86-8574-1e9c1b2c3711@c0b62",
+      "displayName": "",
+      "id": "c0b62",
+      "name": "lambert25.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1caeb": {
+      "importer": "gltf-scene",
+      "uuid": "6cb5ea52-4a5d-4f86-8574-1e9c1b2c3711@1caeb",
+      "displayName": "",
+      "id": "1caeb",
+      "name": "SM_Prop_Skull_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file114",
+        "uri": "6cb5ea52-4a5d-4f86-8574-1e9c1b2c3711@e513d"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "6cb5ea52-4a5d-4f86-8574-1e9c1b2c3711@1caeb",
+    "assetFinder": {
+      "meshes": [
+        "6cb5ea52-4a5d-4f86-8574-1e9c1b2c3711@b8218"
+      ],
+      "skeletons": [],
+      "textures": [
+        "6cb5ea52-4a5d-4f86-8574-1e9c1b2c3711@19219"
+      ],
+      "materials": [
+        "6cb5ea52-4a5d-4f86-8574-1e9c1b2c3711@c0b62"
+      ],
+      "scenes": [
+        "6cb5ea52-4a5d-4f86-8574-1e9c1b2c3711@1caeb"
+      ]
+    }
+  }
+}

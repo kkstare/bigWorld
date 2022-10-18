@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "985cf142-92f1-421a-9ebe-7b21a69d4e06",
+  "files": [],
+  "subMetas": {
+    "c967c": {
+      "importer": "gltf-mesh",
+      "uuid": "985cf142-92f1-421a-9ebe-7b21a69d4e06@c967c",
+      "displayName": "",
+      "id": "c967c",
+      "name": "SM_Prop_Floodlights_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f4103": {
+      "importer": "gltf-embeded-image",
+      "uuid": "985cf142-92f1-421a-9ebe-7b21a69d4e06@f4103",
+      "displayName": "",
+      "id": "f4103",
+      "name": "CarRef:file113.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "c5d63": {
+      "importer": "texture",
+      "uuid": "985cf142-92f1-421a-9ebe-7b21a69d4e06@c5d63",
+      "displayName": "",
+      "id": "c5d63",
+      "name": "CarRef:file113.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "985cf142-92f1-421a-9ebe-7b21a69d4e06@f4103"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6658e": {
+      "importer": "gltf-material",
+      "uuid": "985cf142-92f1-421a-9ebe-7b21a69d4e06@6658e",
+      "displayName": "",
+      "id": "6658e",
+      "name": "CarRef:Apoc_Car.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3a41c": {
+      "importer": "gltf-scene",
+      "uuid": "985cf142-92f1-421a-9ebe-7b21a69d4e06@3a41c",
+      "displayName": "",
+      "id": "3a41c",
+      "name": "SM_Prop_Floodlights_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "CarRef:file113",
+        "uri": "985cf142-92f1-421a-9ebe-7b21a69d4e06@f4103"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "985cf142-92f1-421a-9ebe-7b21a69d4e06@3a41c",
+    "assetFinder": {
+      "meshes": [
+        "985cf142-92f1-421a-9ebe-7b21a69d4e06@c967c"
+      ],
+      "skeletons": [],
+      "textures": [
+        "985cf142-92f1-421a-9ebe-7b21a69d4e06@c5d63"
+      ],
+      "materials": [
+        "985cf142-92f1-421a-9ebe-7b21a69d4e06@6658e"
+      ],
+      "scenes": [
+        "985cf142-92f1-421a-9ebe-7b21a69d4e06@3a41c"
+      ]
+    }
+  }
+}

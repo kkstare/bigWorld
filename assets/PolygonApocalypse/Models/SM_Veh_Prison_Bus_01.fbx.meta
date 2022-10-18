@@ -1,0 +1,343 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "7c902dfd-4876-40e9-bd08-880664230245",
+  "files": [],
+  "subMetas": {
+    "cc90f": {
+      "importer": "gltf-mesh",
+      "uuid": "7c902dfd-4876-40e9-bd08-880664230245@cc90f",
+      "displayName": "",
+      "id": "cc90f",
+      "name": "SM_Veh_Prison_Bus_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1b1c5": {
+      "importer": "gltf-mesh",
+      "uuid": "7c902dfd-4876-40e9-bd08-880664230245@1b1c5",
+      "displayName": "",
+      "id": "1b1c5",
+      "name": "SM_Veh_Prison_Bus_Wheel_rl.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a4d24": {
+      "importer": "gltf-mesh",
+      "uuid": "7c902dfd-4876-40e9-bd08-880664230245@a4d24",
+      "displayName": "",
+      "id": "a4d24",
+      "name": "SM_Veh_Prison_Bus_Wheel_fl.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d25a": {
+      "importer": "gltf-mesh",
+      "uuid": "7c902dfd-4876-40e9-bd08-880664230245@8d25a",
+      "displayName": "",
+      "id": "8d25a",
+      "name": "SM_Veh_Prison_Bus_Door_02.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ca4e4": {
+      "importer": "gltf-mesh",
+      "uuid": "7c902dfd-4876-40e9-bd08-880664230245@ca4e4",
+      "displayName": "",
+      "id": "ca4e4",
+      "name": "SM_Veh_Prison_Bus_Door_02_Glass.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b50db": {
+      "importer": "gltf-mesh",
+      "uuid": "7c902dfd-4876-40e9-bd08-880664230245@b50db",
+      "displayName": "",
+      "id": "b50db",
+      "name": "SM_Veh_Prison_Bus_Wheel_rr.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e561f": {
+      "importer": "gltf-mesh",
+      "uuid": "7c902dfd-4876-40e9-bd08-880664230245@e561f",
+      "displayName": "",
+      "id": "e561f",
+      "name": "SM_Veh_Prison_Bus_SteeringW.mesh",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e5a64": {
+      "importer": "gltf-mesh",
+      "uuid": "7c902dfd-4876-40e9-bd08-880664230245@e5a64",
+      "displayName": "",
+      "id": "e5a64",
+      "name": "SM_Veh_Prison_Bus_Door_01.mesh",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "03f59": {
+      "importer": "gltf-mesh",
+      "uuid": "7c902dfd-4876-40e9-bd08-880664230245@03f59",
+      "displayName": "",
+      "id": "03f59",
+      "name": "SM_Veh_Prison_Bus_Door_01_Glass.mesh",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a4ba9": {
+      "importer": "gltf-mesh",
+      "uuid": "7c902dfd-4876-40e9-bd08-880664230245@a4ba9",
+      "displayName": "",
+      "id": "a4ba9",
+      "name": "SM_Veh_Prison_Bus_Wheel_fr.mesh",
+      "userData": {
+        "gltfIndex": 9
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7b11d": {
+      "importer": "gltf-mesh",
+      "uuid": "7c902dfd-4876-40e9-bd08-880664230245@7b11d",
+      "displayName": "",
+      "id": "7b11d",
+      "name": "SM_Veh_Prison_Bus_01_Glass.mesh",
+      "userData": {
+        "gltfIndex": 10
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f22ed": {
+      "importer": "gltf-mesh",
+      "uuid": "7c902dfd-4876-40e9-bd08-880664230245@f22ed",
+      "displayName": "",
+      "id": "f22ed",
+      "name": "SM_Veh_Prison_Bus_Armour_01.mesh",
+      "userData": {
+        "gltfIndex": 11
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b5b1d": {
+      "importer": "gltf-mesh",
+      "uuid": "7c902dfd-4876-40e9-bd08-880664230245@b5b1d",
+      "displayName": "",
+      "id": "b5b1d",
+      "name": "SM_Veh_Prison_Bus_Glass_Armour_01.mesh",
+      "userData": {
+        "gltfIndex": 12
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "008d7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "7c902dfd-4876-40e9-bd08-880664230245@008d7",
+      "displayName": "",
+      "id": "008d7",
+      "name": "__PolygonZombie_Texture_A_2.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "76a36": {
+      "importer": "texture",
+      "uuid": "7c902dfd-4876-40e9-bd08-880664230245@76a36",
+      "displayName": "",
+      "id": "76a36",
+      "name": "__PolygonZombie_Texture_A_2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "7c902dfd-4876-40e9-bd08-880664230245@008d7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8a3ae": {
+      "importer": "gltf-material",
+      "uuid": "7c902dfd-4876-40e9-bd08-880664230245@8a3ae",
+      "displayName": "",
+      "id": "8a3ae",
+      "name": "lambert39.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e82eb": {
+      "importer": "gltf-scene",
+      "uuid": "7c902dfd-4876-40e9-bd08-880664230245@e82eb",
+      "displayName": "",
+      "id": "e82eb",
+      "name": "SM_Veh_Prison_Bus_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "__PolygonZombie_Texture_A_2",
+        "uri": "7c902dfd-4876-40e9-bd08-880664230245@008d7"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "7c902dfd-4876-40e9-bd08-880664230245@e82eb",
+    "assetFinder": {
+      "meshes": [
+        "7c902dfd-4876-40e9-bd08-880664230245@cc90f",
+        "7c902dfd-4876-40e9-bd08-880664230245@1b1c5",
+        "7c902dfd-4876-40e9-bd08-880664230245@a4d24",
+        "7c902dfd-4876-40e9-bd08-880664230245@8d25a",
+        "7c902dfd-4876-40e9-bd08-880664230245@ca4e4",
+        "7c902dfd-4876-40e9-bd08-880664230245@b50db",
+        "7c902dfd-4876-40e9-bd08-880664230245@e561f",
+        "7c902dfd-4876-40e9-bd08-880664230245@e5a64",
+        "7c902dfd-4876-40e9-bd08-880664230245@03f59",
+        "7c902dfd-4876-40e9-bd08-880664230245@a4ba9",
+        "7c902dfd-4876-40e9-bd08-880664230245@7b11d",
+        "7c902dfd-4876-40e9-bd08-880664230245@f22ed",
+        "7c902dfd-4876-40e9-bd08-880664230245@b5b1d"
+      ],
+      "skeletons": [],
+      "textures": [
+        "7c902dfd-4876-40e9-bd08-880664230245@76a36"
+      ],
+      "materials": [
+        "7c902dfd-4876-40e9-bd08-880664230245@8a3ae"
+      ],
+      "scenes": [
+        "7c902dfd-4876-40e9-bd08-880664230245@e82eb"
+      ]
+    }
+  }
+}

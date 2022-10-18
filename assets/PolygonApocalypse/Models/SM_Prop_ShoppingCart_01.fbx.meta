@@ -1,0 +1,298 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a1f7c8b9-14c1-4e8c-8bed-798ebb4a4607",
+  "files": [],
+  "subMetas": {
+    "14661": {
+      "importer": "gltf-material",
+      "uuid": "a1f7c8b9-14c1-4e8c-8bed-798ebb4a4607@14661",
+      "displayName": "",
+      "id": "14661",
+      "name": "A_Wire.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "38577": {
+      "importer": "texture",
+      "uuid": "a1f7c8b9-14c1-4e8c-8bed-798ebb4a4607@38577",
+      "displayName": "",
+      "id": "38577",
+      "name": "file1135.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "a1f7c8b9-14c1-4e8c-8bed-798ebb4a4607@209c7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "66874": {
+      "importer": "gltf-mesh",
+      "uuid": "a1f7c8b9-14c1-4e8c-8bed-798ebb4a4607@66874",
+      "displayName": "",
+      "id": "66874",
+      "name": "SM_Prop_ShoppingCart_Wheel_fr.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6e0e2": {
+      "importer": "gltf-mesh",
+      "uuid": "a1f7c8b9-14c1-4e8c-8bed-798ebb4a4607@6e0e2",
+      "displayName": "",
+      "id": "6e0e2",
+      "name": "SM_Prop_ShoppingCart_01_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f6a45": {
+      "importer": "gltf-mesh",
+      "uuid": "a1f7c8b9-14c1-4e8c-8bed-798ebb4a4607@f6a45",
+      "displayName": "",
+      "id": "f6a45",
+      "name": "SM_Prop_ShoppingCart_Wheel_rr.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "76a62": {
+      "importer": "gltf-mesh",
+      "uuid": "a1f7c8b9-14c1-4e8c-8bed-798ebb4a4607@76a62",
+      "displayName": "",
+      "id": "76a62",
+      "name": "SM_Prop_ShoppingCart_Wheel_rl.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ad134": {
+      "importer": "gltf-mesh",
+      "uuid": "a1f7c8b9-14c1-4e8c-8bed-798ebb4a4607@ad134",
+      "displayName": "",
+      "id": "ad134",
+      "name": "SM_Prop_ShoppingCart_Wheel_Guard_fr.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2cc01": {
+      "importer": "gltf-mesh",
+      "uuid": "a1f7c8b9-14c1-4e8c-8bed-798ebb4a4607@2cc01",
+      "displayName": "",
+      "id": "2cc01",
+      "name": "SM_Prop_ShoppingCart_Wheel_Guard_fl.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2dcf7": {
+      "importer": "gltf-mesh",
+      "uuid": "a1f7c8b9-14c1-4e8c-8bed-798ebb4a4607@2dcf7",
+      "displayName": "",
+      "id": "2dcf7",
+      "name": "SM_Prop_ShoppingCart_Wheel_fl.mesh",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "209c7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "a1f7c8b9-14c1-4e8c-8bed-798ebb4a4607@209c7",
+      "displayName": "",
+      "id": "209c7",
+      "name": "file1135.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "a1f7c8b9-14c1-4e8c-8bed-798ebb4a4607@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "a1f7c8b9-14c1-4e8c-8bed-798ebb4a4607@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "a1f7c8b9-14c1-4e8c-8bed-798ebb4a4607@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "88fa5": {
+      "importer": "gltf-scene",
+      "uuid": "a1f7c8b9-14c1-4e8c-8bed-798ebb4a4607@88fa5",
+      "displayName": "",
+      "id": "88fa5",
+      "name": "SM_Prop_ShoppingCart_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1135",
+        "uri": "a1f7c8b9-14c1-4e8c-8bed-798ebb4a4607@209c7"
+      },
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "a1f7c8b9-14c1-4e8c-8bed-798ebb4a4607@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "a1f7c8b9-14c1-4e8c-8bed-798ebb4a4607@88fa5",
+    "assetFinder": {
+      "meshes": [
+        "a1f7c8b9-14c1-4e8c-8bed-798ebb4a4607@6e0e2",
+        "a1f7c8b9-14c1-4e8c-8bed-798ebb4a4607@f6a45",
+        "a1f7c8b9-14c1-4e8c-8bed-798ebb4a4607@76a62",
+        "a1f7c8b9-14c1-4e8c-8bed-798ebb4a4607@ad134",
+        "a1f7c8b9-14c1-4e8c-8bed-798ebb4a4607@66874",
+        "a1f7c8b9-14c1-4e8c-8bed-798ebb4a4607@2cc01",
+        "a1f7c8b9-14c1-4e8c-8bed-798ebb4a4607@2dcf7"
+      ],
+      "skeletons": [],
+      "textures": [
+        "a1f7c8b9-14c1-4e8c-8bed-798ebb4a4607@38577",
+        "a1f7c8b9-14c1-4e8c-8bed-798ebb4a4607@988dc"
+      ],
+      "materials": [
+        "a1f7c8b9-14c1-4e8c-8bed-798ebb4a4607@14661",
+        "a1f7c8b9-14c1-4e8c-8bed-798ebb4a4607@8d883"
+      ],
+      "scenes": [
+        "a1f7c8b9-14c1-4e8c-8bed-798ebb4a4607@88fa5"
+      ]
+    }
+  }
+}

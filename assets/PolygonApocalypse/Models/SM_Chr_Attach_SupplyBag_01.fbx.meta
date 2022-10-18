@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a92ce639-b797-4349-b54b-fdd1bd438cba",
+  "files": [],
+  "subMetas": {
+    "9c263": {
+      "importer": "gltf-mesh",
+      "uuid": "a92ce639-b797-4349-b54b-fdd1bd438cba@9c263",
+      "displayName": "",
+      "id": "9c263",
+      "name": "SM_Chr_Attach_SupplyBag_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "790d4": {
+      "importer": "gltf-embeded-image",
+      "uuid": "a92ce639-b797-4349-b54b-fdd1bd438cba@790d4",
+      "displayName": "",
+      "id": "790d4",
+      "name": "file1211.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "17ade": {
+      "importer": "texture",
+      "uuid": "a92ce639-b797-4349-b54b-fdd1bd438cba@17ade",
+      "displayName": "",
+      "id": "17ade",
+      "name": "file1211.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "a92ce639-b797-4349-b54b-fdd1bd438cba@790d4"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bd9b8": {
+      "importer": "gltf-material",
+      "uuid": "a92ce639-b797-4349-b54b-fdd1bd438cba@bd9b8",
+      "displayName": "",
+      "id": "bd9b8",
+      "name": "lambert290.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "034c8": {
+      "importer": "gltf-scene",
+      "uuid": "a92ce639-b797-4349-b54b-fdd1bd438cba@034c8",
+      "displayName": "",
+      "id": "034c8",
+      "name": "SM_Chr_Attach_SupplyBag_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1211",
+        "uri": "a92ce639-b797-4349-b54b-fdd1bd438cba@790d4"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "a92ce639-b797-4349-b54b-fdd1bd438cba@034c8",
+    "assetFinder": {
+      "meshes": [
+        "a92ce639-b797-4349-b54b-fdd1bd438cba@9c263"
+      ],
+      "skeletons": [],
+      "textures": [
+        "a92ce639-b797-4349-b54b-fdd1bd438cba@17ade"
+      ],
+      "materials": [
+        "a92ce639-b797-4349-b54b-fdd1bd438cba@bd9b8"
+      ],
+      "scenes": [
+        "a92ce639-b797-4349-b54b-fdd1bd438cba@034c8"
+      ]
+    }
+  }
+}

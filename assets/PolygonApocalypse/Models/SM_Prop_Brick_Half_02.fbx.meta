@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e5cdf30c-1e9d-4bb0-843c-8405f013b8b9",
+  "files": [],
+  "subMetas": {
+    "ef4e8": {
+      "importer": "gltf-mesh",
+      "uuid": "e5cdf30c-1e9d-4bb0-843c-8405f013b8b9@ef4e8",
+      "displayName": "",
+      "id": "ef4e8",
+      "name": "SM_Prop_Brick_Half_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "26fdd": {
+      "importer": "gltf-material",
+      "uuid": "e5cdf30c-1e9d-4bb0-843c-8405f013b8b9@26fdd",
+      "displayName": "",
+      "id": "26fdd",
+      "name": "lambert36.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "493e5": {
+      "importer": "gltf-scene",
+      "uuid": "e5cdf30c-1e9d-4bb0-843c-8405f013b8b9@493e5",
+      "displayName": "",
+      "id": "493e5",
+      "name": "SM_Prop_Brick_Half_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "e5cdf30c-1e9d-4bb0-843c-8405f013b8b9@493e5",
+    "assetFinder": {
+      "meshes": [
+        "e5cdf30c-1e9d-4bb0-843c-8405f013b8b9@ef4e8"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "e5cdf30c-1e9d-4bb0-843c-8405f013b8b9@26fdd"
+      ],
+      "scenes": [
+        "e5cdf30c-1e9d-4bb0-843c-8405f013b8b9@493e5"
+      ]
+    }
+  }
+}

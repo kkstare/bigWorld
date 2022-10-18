@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b10f3c4c-4f0e-44fe-a5d5-28313734be28",
+  "files": [],
+  "subMetas": {
+    "26ec6": {
+      "importer": "gltf-mesh",
+      "uuid": "b10f3c4c-4f0e-44fe-a5d5-28313734be28@26ec6",
+      "displayName": "",
+      "id": "26ec6",
+      "name": "SM_Prop_Tent_Dome_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5954e": {
+      "importer": "gltf-material",
+      "uuid": "b10f3c4c-4f0e-44fe-a5d5-28313734be28@5954e",
+      "displayName": "",
+      "id": "5954e",
+      "name": "PolygonGangs.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9e265": {
+      "importer": "gltf-scene",
+      "uuid": "b10f3c4c-4f0e-44fe-a5d5-28313734be28@9e265",
+      "displayName": "",
+      "id": "9e265",
+      "name": "SM_Prop_Tent_Dome_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "b10f3c4c-4f0e-44fe-a5d5-28313734be28@9e265",
+    "assetFinder": {
+      "meshes": [
+        "b10f3c4c-4f0e-44fe-a5d5-28313734be28@26ec6"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "b10f3c4c-4f0e-44fe-a5d5-28313734be28@5954e"
+      ],
+      "scenes": [
+        "b10f3c4c-4f0e-44fe-a5d5-28313734be28@9e265"
+      ]
+    }
+  }
+}

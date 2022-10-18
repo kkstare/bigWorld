@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "1a3e4421-7a3c-4d9b-a819-1306143274f7",
+  "files": [],
+  "subMetas": {
+    "e649b": {
+      "importer": "gltf-mesh",
+      "uuid": "1a3e4421-7a3c-4d9b-a819-1306143274f7@e649b",
+      "displayName": "",
+      "id": "e649b",
+      "name": "SM_Veh_Attach_Wheel_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5a410": {
+      "importer": "gltf-material",
+      "uuid": "1a3e4421-7a3c-4d9b-a819-1306143274f7@5a410",
+      "displayName": "",
+      "id": "5a410",
+      "name": "__BloodDecal1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "41c90": {
+      "importer": "gltf-scene",
+      "uuid": "1a3e4421-7a3c-4d9b-a819-1306143274f7@41c90",
+      "displayName": "",
+      "id": "41c90",
+      "name": "SM_Veh_Attach_Wheel_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "1a3e4421-7a3c-4d9b-a819-1306143274f7@41c90",
+    "assetFinder": {
+      "meshes": [
+        "1a3e4421-7a3c-4d9b-a819-1306143274f7@e649b"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "1a3e4421-7a3c-4d9b-a819-1306143274f7@5a410"
+      ],
+      "scenes": [
+        "1a3e4421-7a3c-4d9b-a819-1306143274f7@41c90"
+      ]
+    }
+  }
+}

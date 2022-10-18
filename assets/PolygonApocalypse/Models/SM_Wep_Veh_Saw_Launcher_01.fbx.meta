@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "aecd4420-04be-4794-b755-8c76e38c22a3",
+  "files": [],
+  "subMetas": {
+    "31440": {
+      "importer": "gltf-mesh",
+      "uuid": "aecd4420-04be-4794-b755-8c76e38c22a3@31440",
+      "displayName": "",
+      "id": "31440",
+      "name": "SM_Wep_Veh_Saw_Launcher_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d2dd0": {
+      "importer": "gltf-material",
+      "uuid": "aecd4420-04be-4794-b755-8c76e38c22a3@d2dd0",
+      "displayName": "",
+      "id": "d2dd0",
+      "name": "pasted__lambert98.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d6173": {
+      "importer": "gltf-scene",
+      "uuid": "aecd4420-04be-4794-b755-8c76e38c22a3@d6173",
+      "displayName": "",
+      "id": "d6173",
+      "name": "SM_Wep_Veh_Saw_Launcher_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "aecd4420-04be-4794-b755-8c76e38c22a3@d6173",
+    "assetFinder": {
+      "meshes": [
+        "aecd4420-04be-4794-b755-8c76e38c22a3@31440"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "aecd4420-04be-4794-b755-8c76e38c22a3@d2dd0"
+      ],
+      "scenes": [
+        "aecd4420-04be-4794-b755-8c76e38c22a3@d6173"
+      ]
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "db1f9c7e-3cb3-4b01-b93d-9ec3dc55ec56",
+  "files": [],
+  "subMetas": {
+    "9059f": {
+      "importer": "gltf-mesh",
+      "uuid": "db1f9c7e-3cb3-4b01-b93d-9ec3dc55ec56@9059f",
+      "displayName": "",
+      "id": "9059f",
+      "name": "SM_Chr_Attach_Armour_Shoulder_Soft_L_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2ea36": {
+      "importer": "gltf-embeded-image",
+      "uuid": "db1f9c7e-3cb3-4b01-b93d-9ec3dc55ec56@2ea36",
+      "displayName": "",
+      "id": "2ea36",
+      "name": "file493.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "66d33": {
+      "importer": "texture",
+      "uuid": "db1f9c7e-3cb3-4b01-b93d-9ec3dc55ec56@66d33",
+      "displayName": "",
+      "id": "66d33",
+      "name": "file493.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "db1f9c7e-3cb3-4b01-b93d-9ec3dc55ec56@2ea36"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "125f1": {
+      "importer": "gltf-material",
+      "uuid": "db1f9c7e-3cb3-4b01-b93d-9ec3dc55ec56@125f1",
+      "displayName": "",
+      "id": "125f1",
+      "name": "lambert261.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a396d": {
+      "importer": "gltf-scene",
+      "uuid": "db1f9c7e-3cb3-4b01-b93d-9ec3dc55ec56@a396d",
+      "displayName": "",
+      "id": "a396d",
+      "name": "SM_Chr_Attach_Armour_Shoulder_Soft_L_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file493",
+        "uri": "db1f9c7e-3cb3-4b01-b93d-9ec3dc55ec56@2ea36"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "db1f9c7e-3cb3-4b01-b93d-9ec3dc55ec56@a396d",
+    "assetFinder": {
+      "meshes": [
+        "db1f9c7e-3cb3-4b01-b93d-9ec3dc55ec56@9059f"
+      ],
+      "skeletons": [],
+      "textures": [
+        "db1f9c7e-3cb3-4b01-b93d-9ec3dc55ec56@66d33"
+      ],
+      "materials": [
+        "db1f9c7e-3cb3-4b01-b93d-9ec3dc55ec56@125f1"
+      ],
+      "scenes": [
+        "db1f9c7e-3cb3-4b01-b93d-9ec3dc55ec56@a396d"
+      ]
+    }
+  }
+}

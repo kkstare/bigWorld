@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "9dce9270-8837-4236-a2a6-e3ea679870d0",
+  "files": [],
+  "subMetas": {
+    "d4068": {
+      "importer": "gltf-mesh",
+      "uuid": "9dce9270-8837-4236-a2a6-e3ea679870d0@d4068",
+      "displayName": "",
+      "id": "d4068",
+      "name": "SM_Veh_BigRig_Trailer_Tanker_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5a410": {
+      "importer": "gltf-material",
+      "uuid": "9dce9270-8837-4236-a2a6-e3ea679870d0@5a410",
+      "displayName": "",
+      "id": "5a410",
+      "name": "__BloodDecal1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0fcf1": {
+      "importer": "gltf-scene",
+      "uuid": "9dce9270-8837-4236-a2a6-e3ea679870d0@0fcf1",
+      "displayName": "",
+      "id": "0fcf1",
+      "name": "SM_Veh_BigRig_Trailer_Tanker_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "9dce9270-8837-4236-a2a6-e3ea679870d0@0fcf1",
+    "assetFinder": {
+      "meshes": [
+        "9dce9270-8837-4236-a2a6-e3ea679870d0@d4068"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "9dce9270-8837-4236-a2a6-e3ea679870d0@5a410"
+      ],
+      "scenes": [
+        "9dce9270-8837-4236-a2a6-e3ea679870d0@0fcf1"
+      ]
+    }
+  }
+}

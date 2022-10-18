@@ -1,0 +1,144 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "621cbc84-80e6-4654-973d-71ec61aa3ac7",
+  "files": [],
+  "subMetas": {
+    "2aaeb": {
+      "importer": "gltf-mesh",
+      "uuid": "621cbc84-80e6-4654-973d-71ec61aa3ac7@2aaeb",
+      "displayName": "",
+      "id": "2aaeb",
+      "name": "SM_Env_Road_BridgeRamp_01_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8b24b": {
+      "importer": "gltf-embeded-image",
+      "uuid": "621cbc84-80e6-4654-973d-71ec61aa3ac7@8b24b",
+      "displayName": "",
+      "id": "8b24b",
+      "name": "pasted__file996.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "4280d": {
+      "importer": "texture",
+      "uuid": "621cbc84-80e6-4654-973d-71ec61aa3ac7@4280d",
+      "displayName": "",
+      "id": "4280d",
+      "name": "pasted__file996.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "621cbc84-80e6-4654-973d-71ec61aa3ac7@8b24b"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a3ca": {
+      "importer": "gltf-material",
+      "uuid": "621cbc84-80e6-4654-973d-71ec61aa3ac7@7a3ca",
+      "displayName": "",
+      "id": "7a3ca",
+      "name": "lambert2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "633e5": {
+      "importer": "gltf-material",
+      "uuid": "621cbc84-80e6-4654-973d-71ec61aa3ac7@633e5",
+      "displayName": "",
+      "id": "633e5",
+      "name": "Base_Maya_Scene1:pasted__MiniColour44.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "de47f": {
+      "importer": "gltf-scene",
+      "uuid": "621cbc84-80e6-4654-973d-71ec61aa3ac7@de47f",
+      "displayName": "",
+      "id": "de47f",
+      "name": "SM_Env_Road_BridgeRamp_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "pasted__file996",
+        "uri": "621cbc84-80e6-4654-973d-71ec61aa3ac7@8b24b"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "621cbc84-80e6-4654-973d-71ec61aa3ac7@de47f",
+    "assetFinder": {
+      "meshes": [
+        "621cbc84-80e6-4654-973d-71ec61aa3ac7@2aaeb"
+      ],
+      "skeletons": [],
+      "textures": [
+        "621cbc84-80e6-4654-973d-71ec61aa3ac7@4280d"
+      ],
+      "materials": [
+        "621cbc84-80e6-4654-973d-71ec61aa3ac7@7a3ca",
+        "621cbc84-80e6-4654-973d-71ec61aa3ac7@633e5"
+      ],
+      "scenes": [
+        "621cbc84-80e6-4654-973d-71ec61aa3ac7@de47f"
+      ]
+    }
+  }
+}

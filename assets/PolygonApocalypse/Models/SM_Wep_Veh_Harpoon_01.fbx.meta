@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "cc10f0f2-d99a-4c27-9477-1f5a78f0b8ee",
+  "files": [],
+  "subMetas": {
+    "28136": {
+      "importer": "gltf-scene",
+      "uuid": "cc10f0f2-d99a-4c27-9477-1f5a78f0b8ee@28136",
+      "displayName": "",
+      "id": "28136",
+      "name": "SM_Wep_Veh_Harpoon_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "95d26": {
+      "importer": "gltf-mesh",
+      "uuid": "cc10f0f2-d99a-4c27-9477-1f5a78f0b8ee@95d26",
+      "displayName": "",
+      "id": "95d26",
+      "name": "SM_Wep_Veh_Harpoon_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ed5d0": {
+      "importer": "gltf-material",
+      "uuid": "cc10f0f2-d99a-4c27-9477-1f5a78f0b8ee@ed5d0",
+      "displayName": "",
+      "id": "ed5d0",
+      "name": "pasted__lambert93.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "cc10f0f2-d99a-4c27-9477-1f5a78f0b8ee@28136",
+    "assetFinder": {
+      "meshes": [
+        "cc10f0f2-d99a-4c27-9477-1f5a78f0b8ee@95d26"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "cc10f0f2-d99a-4c27-9477-1f5a78f0b8ee@ed5d0"
+      ],
+      "scenes": [
+        "cc10f0f2-d99a-4c27-9477-1f5a78f0b8ee@28136"
+      ]
+    }
+  }
+}

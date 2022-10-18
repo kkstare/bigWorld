@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "65395dcc-ca94-46f1-94c8-a3ac66098049",
+  "files": [],
+  "subMetas": {
+    "d2e45": {
+      "importer": "gltf-mesh",
+      "uuid": "65395dcc-ca94-46f1-94c8-a3ac66098049@d2e45",
+      "displayName": "",
+      "id": "d2e45",
+      "name": "SM_Prop_Television_Broken_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "65395dcc-ca94-46f1-94c8-a3ac66098049@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "65395dcc-ca94-46f1-94c8-a3ac66098049@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "65395dcc-ca94-46f1-94c8-a3ac66098049@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "018e7": {
+      "importer": "gltf-scene",
+      "uuid": "65395dcc-ca94-46f1-94c8-a3ac66098049@018e7",
+      "displayName": "",
+      "id": "018e7",
+      "name": "SM_Prop_Television_Broken_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "65395dcc-ca94-46f1-94c8-a3ac66098049@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "65395dcc-ca94-46f1-94c8-a3ac66098049@018e7",
+    "assetFinder": {
+      "meshes": [
+        "65395dcc-ca94-46f1-94c8-a3ac66098049@d2e45"
+      ],
+      "skeletons": [],
+      "textures": [
+        "65395dcc-ca94-46f1-94c8-a3ac66098049@988dc"
+      ],
+      "materials": [
+        "65395dcc-ca94-46f1-94c8-a3ac66098049@8d883"
+      ],
+      "scenes": [
+        "65395dcc-ca94-46f1-94c8-a3ac66098049@018e7"
+      ]
+    }
+  }
+}

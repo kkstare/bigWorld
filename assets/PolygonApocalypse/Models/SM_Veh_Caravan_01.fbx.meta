@@ -1,0 +1,223 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "91cfb21e-7aa2-427b-a7e2-893da3d92470",
+  "files": [],
+  "subMetas": {
+    "92d3c": {
+      "importer": "gltf-mesh",
+      "uuid": "91cfb21e-7aa2-427b-a7e2-893da3d92470@92d3c",
+      "displayName": "",
+      "id": "92d3c",
+      "name": "SM_Veh_Caravan_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6389e": {
+      "importer": "gltf-mesh",
+      "uuid": "91cfb21e-7aa2-427b-a7e2-893da3d92470@6389e",
+      "displayName": "",
+      "id": "6389e",
+      "name": "SM_Veh_Caravan_Wheel_l.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f437b": {
+      "importer": "gltf-mesh",
+      "uuid": "91cfb21e-7aa2-427b-a7e2-893da3d92470@f437b",
+      "displayName": "",
+      "id": "f437b",
+      "name": "SM_Veh_Caravan_Interior_01.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "82d86": {
+      "importer": "gltf-mesh",
+      "uuid": "91cfb21e-7aa2-427b-a7e2-893da3d92470@82d86",
+      "displayName": "",
+      "id": "82d86",
+      "name": "SM_Veh_Caravan_Interior_Door_01.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3b86c": {
+      "importer": "gltf-mesh",
+      "uuid": "91cfb21e-7aa2-427b-a7e2-893da3d92470@3b86c",
+      "displayName": "",
+      "id": "3b86c",
+      "name": "SM_Veh_Caravan_Glass_01.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1c581": {
+      "importer": "gltf-mesh",
+      "uuid": "91cfb21e-7aa2-427b-a7e2-893da3d92470@1c581",
+      "displayName": "",
+      "id": "1c581",
+      "name": "SM_Veh_Caravan_Door_01.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b6845": {
+      "importer": "gltf-mesh",
+      "uuid": "91cfb21e-7aa2-427b-a7e2-893da3d92470@b6845",
+      "displayName": "",
+      "id": "b6845",
+      "name": "SM_Veh_Caravan_Wheel_r.mesh",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d6cde": {
+      "importer": "gltf-mesh",
+      "uuid": "91cfb21e-7aa2-427b-a7e2-893da3d92470@d6cde",
+      "displayName": "",
+      "id": "d6cde",
+      "name": "SM_Veh_Caravan_Stand_01.mesh",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3df92": {
+      "importer": "gltf-material",
+      "uuid": "91cfb21e-7aa2-427b-a7e2-893da3d92470@3df92",
+      "displayName": "",
+      "id": "3df92",
+      "name": "___BloodDecal1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f5222": {
+      "importer": "gltf-material",
+      "uuid": "91cfb21e-7aa2-427b-a7e2-893da3d92470@f5222",
+      "displayName": "",
+      "id": "f5222",
+      "name": "lambert34.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8e71a": {
+      "importer": "gltf-scene",
+      "uuid": "91cfb21e-7aa2-427b-a7e2-893da3d92470@8e71a",
+      "displayName": "",
+      "id": "8e71a",
+      "name": "SM_Veh_Caravan_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "91cfb21e-7aa2-427b-a7e2-893da3d92470@8e71a",
+    "assetFinder": {
+      "meshes": [
+        "91cfb21e-7aa2-427b-a7e2-893da3d92470@92d3c",
+        "91cfb21e-7aa2-427b-a7e2-893da3d92470@6389e",
+        "91cfb21e-7aa2-427b-a7e2-893da3d92470@f437b",
+        "91cfb21e-7aa2-427b-a7e2-893da3d92470@82d86",
+        "91cfb21e-7aa2-427b-a7e2-893da3d92470@3b86c",
+        "91cfb21e-7aa2-427b-a7e2-893da3d92470@1c581",
+        "91cfb21e-7aa2-427b-a7e2-893da3d92470@b6845",
+        "91cfb21e-7aa2-427b-a7e2-893da3d92470@d6cde"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "91cfb21e-7aa2-427b-a7e2-893da3d92470@3df92",
+        "91cfb21e-7aa2-427b-a7e2-893da3d92470@f5222"
+      ],
+      "scenes": [
+        "91cfb21e-7aa2-427b-a7e2-893da3d92470@8e71a"
+      ]
+    }
+  }
+}

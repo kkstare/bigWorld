@@ -1,0 +1,164 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "87b5de79-d42c-4497-819e-0275d1d403ec",
+  "files": [],
+  "subMetas": {
+    "2e8ad": {
+      "importer": "gltf-mesh",
+      "uuid": "87b5de79-d42c-4497-819e-0275d1d403ec@2e8ad",
+      "displayName": "",
+      "id": "2e8ad",
+      "name": "SM_Bld_Bunker_Wall_Concrete_Door_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2a81f": {
+      "importer": "gltf-mesh",
+      "uuid": "87b5de79-d42c-4497-819e-0275d1d403ec@2a81f",
+      "displayName": "",
+      "id": "2a81f",
+      "name": "SM_Bld_Bunker_Wall_Concrete_Door_L.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "41cb6": {
+      "importer": "gltf-mesh",
+      "uuid": "87b5de79-d42c-4497-819e-0275d1d403ec@41cb6",
+      "displayName": "",
+      "id": "41cb6",
+      "name": "SM_Bld_Bunker_Wall_Concrete_Door_R.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "87b5de79-d42c-4497-819e-0275d1d403ec@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "87b5de79-d42c-4497-819e-0275d1d403ec@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "87b5de79-d42c-4497-819e-0275d1d403ec@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "be388": {
+      "importer": "gltf-scene",
+      "uuid": "87b5de79-d42c-4497-819e-0275d1d403ec@be388",
+      "displayName": "",
+      "id": "be388",
+      "name": "SM_Bld_Bunker_Wall_Concrete_Door_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "87b5de79-d42c-4497-819e-0275d1d403ec@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "87b5de79-d42c-4497-819e-0275d1d403ec@be388",
+    "assetFinder": {
+      "meshes": [
+        "87b5de79-d42c-4497-819e-0275d1d403ec@2e8ad",
+        "87b5de79-d42c-4497-819e-0275d1d403ec@2a81f",
+        "87b5de79-d42c-4497-819e-0275d1d403ec@41cb6"
+      ],
+      "skeletons": [],
+      "textures": [
+        "87b5de79-d42c-4497-819e-0275d1d403ec@988dc"
+      ],
+      "materials": [
+        "87b5de79-d42c-4497-819e-0275d1d403ec@8d883"
+      ],
+      "scenes": [
+        "87b5de79-d42c-4497-819e-0275d1d403ec@be388"
+      ]
+    }
+  }
+}

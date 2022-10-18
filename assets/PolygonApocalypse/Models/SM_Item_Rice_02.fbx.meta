@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "3826ebf3-d767-47bf-8188-e2cd9f1d940b",
+  "files": [],
+  "subMetas": {
+    "49c47": {
+      "importer": "gltf-mesh",
+      "uuid": "3826ebf3-d767-47bf-8188-e2cd9f1d940b@49c47",
+      "displayName": "",
+      "id": "49c47",
+      "name": "SM_Item_Rice_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e942": {
+      "importer": "gltf-embeded-image",
+      "uuid": "3826ebf3-d767-47bf-8188-e2cd9f1d940b@1e942",
+      "displayName": "",
+      "id": "1e942",
+      "name": "Copter:file112.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "585d0": {
+      "importer": "texture",
+      "uuid": "3826ebf3-d767-47bf-8188-e2cd9f1d940b@585d0",
+      "displayName": "",
+      "id": "585d0",
+      "name": "Copter:file112.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3826ebf3-d767-47bf-8188-e2cd9f1d940b@1e942"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a3ca": {
+      "importer": "gltf-material",
+      "uuid": "3826ebf3-d767-47bf-8188-e2cd9f1d940b@7a3ca",
+      "displayName": "",
+      "id": "7a3ca",
+      "name": "lambert2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "62a31": {
+      "importer": "gltf-scene",
+      "uuid": "3826ebf3-d767-47bf-8188-e2cd9f1d940b@62a31",
+      "displayName": "",
+      "id": "62a31",
+      "name": "SM_Item_Rice_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Copter:file112",
+        "uri": "3826ebf3-d767-47bf-8188-e2cd9f1d940b@1e942"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "3826ebf3-d767-47bf-8188-e2cd9f1d940b@62a31",
+    "assetFinder": {
+      "meshes": [
+        "3826ebf3-d767-47bf-8188-e2cd9f1d940b@49c47"
+      ],
+      "skeletons": [],
+      "textures": [
+        "3826ebf3-d767-47bf-8188-e2cd9f1d940b@585d0"
+      ],
+      "materials": [
+        "3826ebf3-d767-47bf-8188-e2cd9f1d940b@7a3ca"
+      ],
+      "scenes": [
+        "3826ebf3-d767-47bf-8188-e2cd9f1d940b@62a31"
+      ]
+    }
+  }
+}

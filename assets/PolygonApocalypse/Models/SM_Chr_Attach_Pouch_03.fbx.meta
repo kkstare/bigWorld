@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "0a23e7ee-bd53-4438-8ce8-5aff4cab3fa0",
+  "files": [],
+  "subMetas": {
+    "11981": {
+      "importer": "texture",
+      "uuid": "0a23e7ee-bd53-4438-8ce8-5aff4cab3fa0@11981",
+      "displayName": "",
+      "id": "11981",
+      "name": "file1208.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0a23e7ee-bd53-4438-8ce8-5aff4cab3fa0@db468"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e3264": {
+      "importer": "gltf-mesh",
+      "uuid": "0a23e7ee-bd53-4438-8ce8-5aff4cab3fa0@e3264",
+      "displayName": "",
+      "id": "e3264",
+      "name": "SM_Chr_Attach_Pouch_03.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "db468": {
+      "importer": "gltf-embeded-image",
+      "uuid": "0a23e7ee-bd53-4438-8ce8-5aff4cab3fa0@db468",
+      "displayName": "",
+      "id": "db468",
+      "name": "file1208.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "b5872": {
+      "importer": "gltf-material",
+      "uuid": "0a23e7ee-bd53-4438-8ce8-5aff4cab3fa0@b5872",
+      "displayName": "",
+      "id": "b5872",
+      "name": "lambert289.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3a2b0": {
+      "importer": "gltf-scene",
+      "uuid": "0a23e7ee-bd53-4438-8ce8-5aff4cab3fa0@3a2b0",
+      "displayName": "",
+      "id": "3a2b0",
+      "name": "SM_Chr_Attach_Pouch_03.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1208",
+        "uri": "0a23e7ee-bd53-4438-8ce8-5aff4cab3fa0@db468"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "0a23e7ee-bd53-4438-8ce8-5aff4cab3fa0@3a2b0",
+    "assetFinder": {
+      "meshes": [
+        "0a23e7ee-bd53-4438-8ce8-5aff4cab3fa0@e3264"
+      ],
+      "skeletons": [],
+      "textures": [
+        "0a23e7ee-bd53-4438-8ce8-5aff4cab3fa0@11981"
+      ],
+      "materials": [
+        "0a23e7ee-bd53-4438-8ce8-5aff4cab3fa0@b5872"
+      ],
+      "scenes": [
+        "0a23e7ee-bd53-4438-8ce8-5aff4cab3fa0@3a2b0"
+      ]
+    }
+  }
+}

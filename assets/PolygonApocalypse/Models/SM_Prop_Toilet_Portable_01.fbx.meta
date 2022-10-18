@@ -1,0 +1,146 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "aceb2413-fa6d-4215-af84-0387bda4ac98",
+  "files": [],
+  "subMetas": {
+    "39501": {
+      "importer": "gltf-scene",
+      "uuid": "aceb2413-fa6d-4215-af84-0387bda4ac98@39501",
+      "displayName": "",
+      "id": "39501",
+      "name": "SM_Prop_Toilet_Portable_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2e38f": {
+      "importer": "gltf-mesh",
+      "uuid": "aceb2413-fa6d-4215-af84-0387bda4ac98@2e38f",
+      "displayName": "",
+      "id": "2e38f",
+      "name": "SM_Prop_Toilet_Portable_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "45e23": {
+      "importer": "gltf-mesh",
+      "uuid": "aceb2413-fa6d-4215-af84-0387bda4ac98@45e23",
+      "displayName": "",
+      "id": "45e23",
+      "name": "SM_Prop_Toilet_Portable_Lid_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "aceb2413-fa6d-4215-af84-0387bda4ac98@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "aceb2413-fa6d-4215-af84-0387bda4ac98@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "aceb2413-fa6d-4215-af84-0387bda4ac98@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "aceb2413-fa6d-4215-af84-0387bda4ac98@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "aceb2413-fa6d-4215-af84-0387bda4ac98@39501",
+    "assetFinder": {
+      "meshes": [
+        "aceb2413-fa6d-4215-af84-0387bda4ac98@2e38f",
+        "aceb2413-fa6d-4215-af84-0387bda4ac98@45e23"
+      ],
+      "skeletons": [],
+      "textures": [
+        "aceb2413-fa6d-4215-af84-0387bda4ac98@988dc"
+      ],
+      "materials": [
+        "aceb2413-fa6d-4215-af84-0387bda4ac98@8d883"
+      ],
+      "scenes": [
+        "aceb2413-fa6d-4215-af84-0387bda4ac98@39501"
+      ]
+    }
+  }
+}

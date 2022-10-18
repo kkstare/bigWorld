@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "76ae885f-2db5-405b-a34e-e4c805bcd262",
+  "files": [],
+  "subMetas": {
+    "42182": {
+      "importer": "texture",
+      "uuid": "76ae885f-2db5-405b-a34e-e4c805bcd262@42182",
+      "displayName": "",
+      "id": "42182",
+      "name": "file1115.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "76ae885f-2db5-405b-a34e-e4c805bcd262@261f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "15e29": {
+      "importer": "gltf-mesh",
+      "uuid": "76ae885f-2db5-405b-a34e-e4c805bcd262@15e29",
+      "displayName": "",
+      "id": "15e29",
+      "name": "SM_Prop_Tool_Bucket_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "261f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "76ae885f-2db5-405b-a34e-e4c805bcd262@261f7",
+      "displayName": "",
+      "id": "261f7",
+      "name": "file1115.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "f75ae": {
+      "importer": "gltf-material",
+      "uuid": "76ae885f-2db5-405b-a34e-e4c805bcd262@f75ae",
+      "displayName": "",
+      "id": "f75ae",
+      "name": "Farm.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f7bf1": {
+      "importer": "gltf-scene",
+      "uuid": "76ae885f-2db5-405b-a34e-e4c805bcd262@f7bf1",
+      "displayName": "",
+      "id": "f7bf1",
+      "name": "SM_Prop_Tool_Bucket_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1115",
+        "uri": "76ae885f-2db5-405b-a34e-e4c805bcd262@261f7"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "76ae885f-2db5-405b-a34e-e4c805bcd262@f7bf1",
+    "assetFinder": {
+      "meshes": [
+        "76ae885f-2db5-405b-a34e-e4c805bcd262@15e29"
+      ],
+      "skeletons": [],
+      "textures": [
+        "76ae885f-2db5-405b-a34e-e4c805bcd262@42182"
+      ],
+      "materials": [
+        "76ae885f-2db5-405b-a34e-e4c805bcd262@f75ae"
+      ],
+      "scenes": [
+        "76ae885f-2db5-405b-a34e-e4c805bcd262@f7bf1"
+      ]
+    }
+  }
+}

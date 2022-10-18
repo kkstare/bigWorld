@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "6eb2fcab-b6a2-40f7-b116-33cafd74c335",
+  "files": [],
+  "subMetas": {
+    "36823": {
+      "importer": "gltf-scene",
+      "uuid": "6eb2fcab-b6a2-40f7-b116-33cafd74c335@36823",
+      "displayName": "",
+      "id": "36823",
+      "name": "SM_Veh_Attach_Plating_35.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c36e4": {
+      "importer": "gltf-mesh",
+      "uuid": "6eb2fcab-b6a2-40f7-b116-33cafd74c335@c36e4",
+      "displayName": "",
+      "id": "c36e4",
+      "name": "SM_Veh_Attach_Plating_35.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5a410": {
+      "importer": "gltf-material",
+      "uuid": "6eb2fcab-b6a2-40f7-b116-33cafd74c335@5a410",
+      "displayName": "",
+      "id": "5a410",
+      "name": "__BloodDecal1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "6eb2fcab-b6a2-40f7-b116-33cafd74c335@36823",
+    "assetFinder": {
+      "meshes": [
+        "6eb2fcab-b6a2-40f7-b116-33cafd74c335@c36e4"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "6eb2fcab-b6a2-40f7-b116-33cafd74c335@5a410"
+      ],
+      "scenes": [
+        "6eb2fcab-b6a2-40f7-b116-33cafd74c335@36823"
+      ]
+    }
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "9f358d38-32ad-4b1a-860b-b01bb0a2bdaf",
+  "files": [],
+  "subMetas": {
+    "e0159": {
+      "importer": "gltf-mesh",
+      "uuid": "9f358d38-32ad-4b1a-860b-b01bb0a2bdaf@e0159",
+      "displayName": "",
+      "id": "e0159",
+      "name": "SM_Wep_SniperRifle_Pneumatic_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4dc1f": {
+      "importer": "gltf-mesh",
+      "uuid": "9f358d38-32ad-4b1a-860b-b01bb0a2bdaf@4dc1f",
+      "displayName": "",
+      "id": "4dc1f",
+      "name": "SM_Wep_SniperRifle_Pneumatic_01_Handle_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "86c3d": {
+      "importer": "gltf-mesh",
+      "uuid": "9f358d38-32ad-4b1a-860b-b01bb0a2bdaf@86c3d",
+      "displayName": "",
+      "id": "86c3d",
+      "name": "SM_Wep_SniperRifle_Pneumatic_01_Trigger_01.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "00831": {
+      "importer": "gltf-mesh",
+      "uuid": "9f358d38-32ad-4b1a-860b-b01bb0a2bdaf@00831",
+      "displayName": "",
+      "id": "00831",
+      "name": "SM_Wep_SniperRifle_Pneumatic_01_Scope_01.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bcd5b": {
+      "importer": "gltf-mesh",
+      "uuid": "9f358d38-32ad-4b1a-860b-b01bb0a2bdaf@bcd5b",
+      "displayName": "",
+      "id": "bcd5b",
+      "name": "SM_Wep_SniperRifle_Pneumatic_01_Slide.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e43a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "9f358d38-32ad-4b1a-860b-b01bb0a2bdaf@1e43a",
+      "displayName": "",
+      "id": "1e43a",
+      "name": "file1198.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "05eac": {
+      "importer": "texture",
+      "uuid": "9f358d38-32ad-4b1a-860b-b01bb0a2bdaf@05eac",
+      "displayName": "",
+      "id": "05eac",
+      "name": "file1198.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5bd2": {
+      "importer": "gltf-material",
+      "uuid": "9f358d38-32ad-4b1a-860b-b01bb0a2bdaf@a5bd2",
+      "displayName": "",
+      "id": "a5bd2",
+      "name": "lambert.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2292f": {
+      "importer": "gltf-scene",
+      "uuid": "9f358d38-32ad-4b1a-860b-b01bb0a2bdaf@2292f",
+      "displayName": "",
+      "id": "2292f",
+      "name": "SM_Wep_SniperRifle_Pneumatic_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1198",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "9f358d38-32ad-4b1a-860b-b01bb0a2bdaf@1e43a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "9f358d38-32ad-4b1a-860b-b01bb0a2bdaf@2292f",
+    "assetFinder": {
+      "meshes": [
+        "9f358d38-32ad-4b1a-860b-b01bb0a2bdaf@e0159",
+        "9f358d38-32ad-4b1a-860b-b01bb0a2bdaf@4dc1f",
+        "9f358d38-32ad-4b1a-860b-b01bb0a2bdaf@86c3d",
+        "9f358d38-32ad-4b1a-860b-b01bb0a2bdaf@00831",
+        "9f358d38-32ad-4b1a-860b-b01bb0a2bdaf@bcd5b"
+      ],
+      "skeletons": [],
+      "textures": [
+        "9f358d38-32ad-4b1a-860b-b01bb0a2bdaf@05eac"
+      ],
+      "materials": [
+        "9f358d38-32ad-4b1a-860b-b01bb0a2bdaf@a5bd2"
+      ],
+      "scenes": [
+        "9f358d38-32ad-4b1a-860b-b01bb0a2bdaf@2292f"
+      ]
+    }
+  }
+}

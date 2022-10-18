@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "752f7b6f-790b-4cb0-861b-735120267f9f",
+  "files": [],
+  "subMetas": {
+    "9e7b9": {
+      "importer": "gltf-mesh",
+      "uuid": "752f7b6f-790b-4cb0-861b-735120267f9f@9e7b9",
+      "displayName": "",
+      "id": "9e7b9",
+      "name": "SM_Prop_Wall_Quarantine_BarbedWire_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "752f7b6f-790b-4cb0-861b-735120267f9f@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "752f7b6f-790b-4cb0-861b-735120267f9f@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a7424": {
+      "importer": "gltf-material",
+      "uuid": "752f7b6f-790b-4cb0-861b-735120267f9f@a7424",
+      "displayName": "",
+      "id": "a7424",
+      "name": "lambert5.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ebb2c": {
+      "importer": "gltf-scene",
+      "uuid": "752f7b6f-790b-4cb0-861b-735120267f9f@ebb2c",
+      "displayName": "",
+      "id": "ebb2c",
+      "name": "SM_Prop_Wall_Quarantine_BarbedWire_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "752f7b6f-790b-4cb0-861b-735120267f9f@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "752f7b6f-790b-4cb0-861b-735120267f9f@ebb2c",
+    "assetFinder": {
+      "meshes": [
+        "752f7b6f-790b-4cb0-861b-735120267f9f@9e7b9"
+      ],
+      "skeletons": [],
+      "textures": [
+        "752f7b6f-790b-4cb0-861b-735120267f9f@988dc"
+      ],
+      "materials": [
+        "752f7b6f-790b-4cb0-861b-735120267f9f@a7424"
+      ],
+      "scenes": [
+        "752f7b6f-790b-4cb0-861b-735120267f9f@ebb2c"
+      ]
+    }
+  }
+}

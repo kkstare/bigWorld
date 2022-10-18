@@ -1,0 +1,164 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "cb8857f5-0788-485d-a5da-b4960b3f4b55",
+  "files": [],
+  "subMetas": {
+    "ccd5f": {
+      "importer": "gltf-mesh",
+      "uuid": "cb8857f5-0788-485d-a5da-b4960b3f4b55@ccd5f",
+      "displayName": "",
+      "id": "ccd5f",
+      "name": "SM_Wep_Melee_GolfClub_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "de671": {
+      "importer": "gltf-mesh",
+      "uuid": "cb8857f5-0788-485d-a5da-b4960b3f4b55@de671",
+      "displayName": "",
+      "id": "de671",
+      "name": "SM_Wep_Melee_GolfClub_Pole_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "598f4": {
+      "importer": "gltf-mesh",
+      "uuid": "cb8857f5-0788-485d-a5da-b4960b3f4b55@598f4",
+      "displayName": "",
+      "id": "598f4",
+      "name": "SM_Wep_Melee_GolfClub_Knife_01.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e43a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "cb8857f5-0788-485d-a5da-b4960b3f4b55@1e43a",
+      "displayName": "",
+      "id": "1e43a",
+      "name": "file1198.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "05eac": {
+      "importer": "texture",
+      "uuid": "cb8857f5-0788-485d-a5da-b4960b3f4b55@05eac",
+      "displayName": "",
+      "id": "05eac",
+      "name": "file1198.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5bd2": {
+      "importer": "gltf-material",
+      "uuid": "cb8857f5-0788-485d-a5da-b4960b3f4b55@a5bd2",
+      "displayName": "",
+      "id": "a5bd2",
+      "name": "lambert.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7f56e": {
+      "importer": "gltf-scene",
+      "uuid": "cb8857f5-0788-485d-a5da-b4960b3f4b55@7f56e",
+      "displayName": "",
+      "id": "7f56e",
+      "name": "SM_Wep_Melee_GolfClub_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1198",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "cb8857f5-0788-485d-a5da-b4960b3f4b55@1e43a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "cb8857f5-0788-485d-a5da-b4960b3f4b55@7f56e",
+    "assetFinder": {
+      "meshes": [
+        "cb8857f5-0788-485d-a5da-b4960b3f4b55@ccd5f",
+        "cb8857f5-0788-485d-a5da-b4960b3f4b55@de671",
+        "cb8857f5-0788-485d-a5da-b4960b3f4b55@598f4"
+      ],
+      "skeletons": [],
+      "textures": [
+        "cb8857f5-0788-485d-a5da-b4960b3f4b55@05eac"
+      ],
+      "materials": [
+        "cb8857f5-0788-485d-a5da-b4960b3f4b55@a5bd2"
+      ],
+      "scenes": [
+        "cb8857f5-0788-485d-a5da-b4960b3f4b55@7f56e"
+      ]
+    }
+  }
+}

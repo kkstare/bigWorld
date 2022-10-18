@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "5bee3eb3-3d18-4a79-8dfa-0611ab49ef66",
+  "files": [],
+  "subMetas": {
+    "19738": {
+      "importer": "texture",
+      "uuid": "5bee3eb3-3d18-4a79-8dfa-0611ab49ef66@19738",
+      "displayName": "",
+      "id": "19738",
+      "name": "file1149.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "5bee3eb3-3d18-4a79-8dfa-0611ab49ef66@7f213"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f8234": {
+      "importer": "gltf-mesh",
+      "uuid": "5bee3eb3-3d18-4a79-8dfa-0611ab49ef66@f8234",
+      "displayName": "",
+      "id": "f8234",
+      "name": "SM_Env_Overgrowth_07.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7f213": {
+      "importer": "gltf-embeded-image",
+      "uuid": "5bee3eb3-3d18-4a79-8dfa-0611ab49ef66@7f213",
+      "displayName": "",
+      "id": "7f213",
+      "name": "file1149.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "fd774": {
+      "importer": "gltf-material",
+      "uuid": "5bee3eb3-3d18-4a79-8dfa-0611ab49ef66@fd774",
+      "displayName": "",
+      "id": "fd774",
+      "name": "GrassTest4.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1d02b": {
+      "importer": "gltf-scene",
+      "uuid": "5bee3eb3-3d18-4a79-8dfa-0611ab49ef66@1d02b",
+      "displayName": "",
+      "id": "1d02b",
+      "name": "SM_Env_Overgrowth_07.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1149",
+        "uri": "5bee3eb3-3d18-4a79-8dfa-0611ab49ef66@7f213"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "5bee3eb3-3d18-4a79-8dfa-0611ab49ef66@1d02b",
+    "assetFinder": {
+      "meshes": [
+        "5bee3eb3-3d18-4a79-8dfa-0611ab49ef66@f8234"
+      ],
+      "skeletons": [],
+      "textures": [
+        "5bee3eb3-3d18-4a79-8dfa-0611ab49ef66@19738"
+      ],
+      "materials": [
+        "5bee3eb3-3d18-4a79-8dfa-0611ab49ef66@fd774"
+      ],
+      "scenes": [
+        "5bee3eb3-3d18-4a79-8dfa-0611ab49ef66@1d02b"
+      ]
+    }
+  }
+}

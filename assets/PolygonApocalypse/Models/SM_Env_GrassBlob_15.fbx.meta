@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "bb776bdb-af63-41ef-a276-1ff87dff42a9",
+  "files": [],
+  "subMetas": {
+    "39610": {
+      "importer": "gltf-mesh",
+      "uuid": "bb776bdb-af63-41ef-a276-1ff87dff42a9@39610",
+      "displayName": "",
+      "id": "39610",
+      "name": "SM_Env_GrassBlob_15.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "bb776bdb-af63-41ef-a276-1ff87dff42a9@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7251e": {
+      "importer": "gltf-scene",
+      "uuid": "bb776bdb-af63-41ef-a276-1ff87dff42a9@7251e",
+      "displayName": "",
+      "id": "7251e",
+      "name": "SM_Env_GrassBlob_15.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "bb776bdb-af63-41ef-a276-1ff87dff42a9@7251e",
+    "assetFinder": {
+      "meshes": [
+        "bb776bdb-af63-41ef-a276-1ff87dff42a9@39610"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "bb776bdb-af63-41ef-a276-1ff87dff42a9@8d883"
+      ],
+      "scenes": [
+        "bb776bdb-af63-41ef-a276-1ff87dff42a9@7251e"
+      ]
+    }
+  }
+}

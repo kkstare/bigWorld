@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "cac768ac-d8df-49b2-a6c6-99cf1c2257af",
+  "files": [],
+  "subMetas": {
+    "b2cec": {
+      "importer": "gltf-mesh",
+      "uuid": "cac768ac-d8df-49b2-a6c6-99cf1c2257af@b2cec",
+      "displayName": "",
+      "id": "b2cec",
+      "name": "SM_Env_BackgroundCard_03.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9b723": {
+      "importer": "gltf-embeded-image",
+      "uuid": "cac768ac-d8df-49b2-a6c6-99cf1c2257af@9b723",
+      "displayName": "",
+      "id": "9b723",
+      "name": "file36.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "5db2e": {
+      "importer": "texture",
+      "uuid": "cac768ac-d8df-49b2-a6c6-99cf1c2257af@5db2e",
+      "displayName": "",
+      "id": "5db2e",
+      "name": "file36.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "cac768ac-d8df-49b2-a6c6-99cf1c2257af@9b723"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0a2e0": {
+      "importer": "gltf-material",
+      "uuid": "cac768ac-d8df-49b2-a6c6-99cf1c2257af@0a2e0",
+      "displayName": "",
+      "id": "0a2e0",
+      "name": "lambert102.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8ffcd": {
+      "importer": "gltf-scene",
+      "uuid": "cac768ac-d8df-49b2-a6c6-99cf1c2257af@8ffcd",
+      "displayName": "",
+      "id": "8ffcd",
+      "name": "SM_Env_BackgroundCard_03.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file36",
+        "uri": "cac768ac-d8df-49b2-a6c6-99cf1c2257af@9b723"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "cac768ac-d8df-49b2-a6c6-99cf1c2257af@8ffcd",
+    "assetFinder": {
+      "meshes": [
+        "cac768ac-d8df-49b2-a6c6-99cf1c2257af@b2cec"
+      ],
+      "skeletons": [],
+      "textures": [
+        "cac768ac-d8df-49b2-a6c6-99cf1c2257af@5db2e"
+      ],
+      "materials": [
+        "cac768ac-d8df-49b2-a6c6-99cf1c2257af@0a2e0"
+      ],
+      "scenes": [
+        "cac768ac-d8df-49b2-a6c6-99cf1c2257af@8ffcd"
+      ]
+    }
+  }
+}

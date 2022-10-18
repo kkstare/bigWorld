@@ -1,0 +1,260 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "797426b6-7a27-4531-a36c-7ffc14111358",
+  "files": [],
+  "subMetas": {
+    "edefa": {
+      "importer": "gltf-mesh",
+      "uuid": "797426b6-7a27-4531-a36c-7ffc14111358@edefa",
+      "displayName": "",
+      "id": "edefa",
+      "name": "SM_Wep_Mod_Body_11.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a898e": {
+      "importer": "gltf-mesh",
+      "uuid": "797426b6-7a27-4531-a36c-7ffc14111358@a898e",
+      "displayName": "",
+      "id": "a898e",
+      "name": "SM_Wep_Mod_Body_11_Trigger.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b4cd1": {
+      "importer": "gltf-mesh",
+      "uuid": "797426b6-7a27-4531-a36c-7ffc14111358@b4cd1",
+      "displayName": "",
+      "id": "b4cd1",
+      "name": "SM_Wep_Mod_Body_11_Hammer.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "97c8b": {
+      "importer": "gltf-mesh",
+      "uuid": "797426b6-7a27-4531-a36c-7ffc14111358@97c8b",
+      "displayName": "",
+      "id": "97c8b",
+      "name": "SM_Wep_Mod_Body_11_Cylinder.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "87c46": {
+      "importer": "gltf-mesh",
+      "uuid": "797426b6-7a27-4531-a36c-7ffc14111358@87c46",
+      "displayName": "",
+      "id": "87c46",
+      "name": "SM_Wep_Mod_Body_11_Cylinder_Spin.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4e75b": {
+      "importer": "gltf-mesh",
+      "uuid": "797426b6-7a27-4531-a36c-7ffc14111358@4e75b",
+      "displayName": "",
+      "id": "4e75b",
+      "name": "SM_Wep_Mod_Body_11_Cylinder_Bullet_01.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d2c46": {
+      "importer": "gltf-mesh",
+      "uuid": "797426b6-7a27-4531-a36c-7ffc14111358@d2c46",
+      "displayName": "",
+      "id": "d2c46",
+      "name": "SM_Wep_Mod_Body_11_Cylinder_Bullet_02.mesh",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c4200": {
+      "importer": "gltf-mesh",
+      "uuid": "797426b6-7a27-4531-a36c-7ffc14111358@c4200",
+      "displayName": "",
+      "id": "c4200",
+      "name": "SM_Wep_Mod_Body_11_Cylinder_Bullet_04.mesh",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fe4a2": {
+      "importer": "gltf-mesh",
+      "uuid": "797426b6-7a27-4531-a36c-7ffc14111358@fe4a2",
+      "displayName": "",
+      "id": "fe4a2",
+      "name": "SM_Wep_Mod_Body_11_Cylinder_Bullet_03.mesh",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9067a": {
+      "importer": "gltf-mesh",
+      "uuid": "797426b6-7a27-4531-a36c-7ffc14111358@9067a",
+      "displayName": "",
+      "id": "9067a",
+      "name": "SM_Wep_Mod_Body_11_Cylinder_Bullet_06.mesh",
+      "userData": {
+        "gltfIndex": 9
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1a23c": {
+      "importer": "gltf-mesh",
+      "uuid": "797426b6-7a27-4531-a36c-7ffc14111358@1a23c",
+      "displayName": "",
+      "id": "1a23c",
+      "name": "SM_Wep_Mod_Body_11_Cylinder_Bullet_05.mesh",
+      "userData": {
+        "gltfIndex": 10
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "797426b6-7a27-4531-a36c-7ffc14111358@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "27dc9": {
+      "importer": "gltf-scene",
+      "uuid": "797426b6-7a27-4531-a36c-7ffc14111358@27dc9",
+      "displayName": "",
+      "id": "27dc9",
+      "name": "SM_Wep_Mod_Body_11.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "797426b6-7a27-4531-a36c-7ffc14111358@27dc9",
+    "assetFinder": {
+      "meshes": [
+        "797426b6-7a27-4531-a36c-7ffc14111358@edefa",
+        "797426b6-7a27-4531-a36c-7ffc14111358@a898e",
+        "797426b6-7a27-4531-a36c-7ffc14111358@b4cd1",
+        "797426b6-7a27-4531-a36c-7ffc14111358@97c8b",
+        "797426b6-7a27-4531-a36c-7ffc14111358@87c46",
+        "797426b6-7a27-4531-a36c-7ffc14111358@4e75b",
+        "797426b6-7a27-4531-a36c-7ffc14111358@d2c46",
+        "797426b6-7a27-4531-a36c-7ffc14111358@c4200",
+        "797426b6-7a27-4531-a36c-7ffc14111358@fe4a2",
+        "797426b6-7a27-4531-a36c-7ffc14111358@9067a",
+        "797426b6-7a27-4531-a36c-7ffc14111358@1a23c"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "797426b6-7a27-4531-a36c-7ffc14111358@8d883"
+      ],
+      "scenes": [
+        "797426b6-7a27-4531-a36c-7ffc14111358@27dc9"
+      ]
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "3123fdbd-877c-4292-a476-915f138237ae",
+  "files": [],
+  "subMetas": {
+    "6be77": {
+      "importer": "gltf-mesh",
+      "uuid": "3123fdbd-877c-4292-a476-915f138237ae@6be77",
+      "displayName": "",
+      "id": "6be77",
+      "name": "SM_Veh_Attach_Roof_Props_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5a410": {
+      "importer": "gltf-material",
+      "uuid": "3123fdbd-877c-4292-a476-915f138237ae@5a410",
+      "displayName": "",
+      "id": "5a410",
+      "name": "__BloodDecal1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fda99": {
+      "importer": "gltf-scene",
+      "uuid": "3123fdbd-877c-4292-a476-915f138237ae@fda99",
+      "displayName": "",
+      "id": "fda99",
+      "name": "SM_Veh_Attach_Roof_Props_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "3123fdbd-877c-4292-a476-915f138237ae@fda99",
+    "assetFinder": {
+      "meshes": [
+        "3123fdbd-877c-4292-a476-915f138237ae@6be77"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "3123fdbd-877c-4292-a476-915f138237ae@5a410"
+      ],
+      "scenes": [
+        "3123fdbd-877c-4292-a476-915f138237ae@fda99"
+      ]
+    }
+  }
+}

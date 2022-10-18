@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ec24204e-b02d-4e76-a3d9-5fb3d1bbfce9",
+  "files": [],
+  "subMetas": {
+    "2688c": {
+      "importer": "gltf-mesh",
+      "uuid": "ec24204e-b02d-4e76-a3d9-5fb3d1bbfce9@2688c",
+      "displayName": "",
+      "id": "2688c",
+      "name": "SM_Item_WalkieTalkie_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e942": {
+      "importer": "gltf-embeded-image",
+      "uuid": "ec24204e-b02d-4e76-a3d9-5fb3d1bbfce9@1e942",
+      "displayName": "",
+      "id": "1e942",
+      "name": "Copter:file112.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "585d0": {
+      "importer": "texture",
+      "uuid": "ec24204e-b02d-4e76-a3d9-5fb3d1bbfce9@585d0",
+      "displayName": "",
+      "id": "585d0",
+      "name": "Copter:file112.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "ec24204e-b02d-4e76-a3d9-5fb3d1bbfce9@1e942"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a3ca": {
+      "importer": "gltf-material",
+      "uuid": "ec24204e-b02d-4e76-a3d9-5fb3d1bbfce9@7a3ca",
+      "displayName": "",
+      "id": "7a3ca",
+      "name": "lambert2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "220d9": {
+      "importer": "gltf-scene",
+      "uuid": "ec24204e-b02d-4e76-a3d9-5fb3d1bbfce9@220d9",
+      "displayName": "",
+      "id": "220d9",
+      "name": "SM_Item_WalkieTalkie_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Copter:file112",
+        "uri": "ec24204e-b02d-4e76-a3d9-5fb3d1bbfce9@1e942"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "ec24204e-b02d-4e76-a3d9-5fb3d1bbfce9@220d9",
+    "assetFinder": {
+      "meshes": [
+        "ec24204e-b02d-4e76-a3d9-5fb3d1bbfce9@2688c"
+      ],
+      "skeletons": [],
+      "textures": [
+        "ec24204e-b02d-4e76-a3d9-5fb3d1bbfce9@585d0"
+      ],
+      "materials": [
+        "ec24204e-b02d-4e76-a3d9-5fb3d1bbfce9@7a3ca"
+      ],
+      "scenes": [
+        "ec24204e-b02d-4e76-a3d9-5fb3d1bbfce9@220d9"
+      ]
+    }
+  }
+}

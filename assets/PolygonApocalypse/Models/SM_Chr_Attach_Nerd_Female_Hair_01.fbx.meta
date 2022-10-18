@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "18e6a6b5-ade3-48e7-8574-07127f9895f3",
+  "files": [],
+  "subMetas": {
+    "84779": {
+      "importer": "gltf-scene",
+      "uuid": "18e6a6b5-ade3-48e7-8574-07127f9895f3@84779",
+      "displayName": "",
+      "id": "84779",
+      "name": "SM_Chr_Attach_Nerd_Female_Hair_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "98b08": {
+      "importer": "gltf-mesh",
+      "uuid": "18e6a6b5-ade3-48e7-8574-07127f9895f3@98b08",
+      "displayName": "",
+      "id": "98b08",
+      "name": "SM_Chr_Attach_Nerd_Female_Hair_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6f09d": {
+      "importer": "gltf-material",
+      "uuid": "18e6a6b5-ade3-48e7-8574-07127f9895f3@6f09d",
+      "displayName": "",
+      "id": "6f09d",
+      "name": "BloodDecal22.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "18e6a6b5-ade3-48e7-8574-07127f9895f3@84779",
+    "assetFinder": {
+      "meshes": [
+        "18e6a6b5-ade3-48e7-8574-07127f9895f3@98b08"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "18e6a6b5-ade3-48e7-8574-07127f9895f3@6f09d"
+      ],
+      "scenes": [
+        "18e6a6b5-ade3-48e7-8574-07127f9895f3@84779"
+      ]
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "4af54047-eae3-4385-a6e2-d1defdd3b9cd",
+  "files": [],
+  "subMetas": {
+    "74325": {
+      "importer": "gltf-mesh",
+      "uuid": "4af54047-eae3-4385-a6e2-d1defdd3b9cd@74325",
+      "displayName": "",
+      "id": "74325",
+      "name": "SM_DeadBody_Female_04.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "41eed": {
+      "importer": "gltf-material",
+      "uuid": "4af54047-eae3-4385-a6e2-d1defdd3b9cd@41eed",
+      "displayName": "",
+      "id": "41eed",
+      "name": "New_Characters_Rigging_29:BloodDecal.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "259f9": {
+      "importer": "gltf-scene",
+      "uuid": "4af54047-eae3-4385-a6e2-d1defdd3b9cd@259f9",
+      "displayName": "",
+      "id": "259f9",
+      "name": "SM_DeadBody_Female_04.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "4af54047-eae3-4385-a6e2-d1defdd3b9cd@259f9",
+    "assetFinder": {
+      "meshes": [
+        "4af54047-eae3-4385-a6e2-d1defdd3b9cd@74325"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "4af54047-eae3-4385-a6e2-d1defdd3b9cd@41eed"
+      ],
+      "scenes": [
+        "4af54047-eae3-4385-a6e2-d1defdd3b9cd@259f9"
+      ]
+    }
+  }
+}

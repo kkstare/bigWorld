@@ -1,0 +1,314 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f4079aa3-7d0c-472d-a30e-3d97ac211e49",
+  "files": [],
+  "subMetas": {
+    "49589": {
+      "importer": "gltf-mesh",
+      "uuid": "f4079aa3-7d0c-472d-a30e-3d97ac211e49@49589",
+      "displayName": "",
+      "id": "49589",
+      "name": "SM_Veh_BigRig_SteeringW.mesh",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a806f": {
+      "importer": "gltf-mesh",
+      "uuid": "f4079aa3-7d0c-472d-a30e-3d97ac211e49@a806f",
+      "displayName": "",
+      "id": "a806f",
+      "name": "SM_Veh_BigRig_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "754e2": {
+      "importer": "gltf-mesh",
+      "uuid": "f4079aa3-7d0c-472d-a30e-3d97ac211e49@754e2",
+      "displayName": "",
+      "id": "754e2",
+      "name": "SM_Veh_BigRig_Wheel_fr.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e2bf8": {
+      "importer": "gltf-mesh",
+      "uuid": "f4079aa3-7d0c-472d-a30e-3d97ac211e49@e2bf8",
+      "displayName": "",
+      "id": "e2bf8",
+      "name": "SM_Veh_BigRig_Ram_01.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "51be1": {
+      "importer": "gltf-mesh",
+      "uuid": "f4079aa3-7d0c-472d-a30e-3d97ac211e49@51be1",
+      "displayName": "",
+      "id": "51be1",
+      "name": "SM_Veh_BigRig_Glass_Armour_01.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "367ac": {
+      "importer": "gltf-mesh",
+      "uuid": "f4079aa3-7d0c-472d-a30e-3d97ac211e49@367ac",
+      "displayName": "",
+      "id": "367ac",
+      "name": "SM_Veh_BigRig_Wheel_rl_01.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5ddbf": {
+      "importer": "gltf-mesh",
+      "uuid": "f4079aa3-7d0c-472d-a30e-3d97ac211e49@5ddbf",
+      "displayName": "",
+      "id": "5ddbf",
+      "name": "SM_Veh_BigRig_BullBars_01.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0701c": {
+      "importer": "gltf-mesh",
+      "uuid": "f4079aa3-7d0c-472d-a30e-3d97ac211e49@0701c",
+      "displayName": "",
+      "id": "0701c",
+      "name": "SM_Veh_BigRig_Wheel_rr_01.mesh",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "77a31": {
+      "importer": "gltf-mesh",
+      "uuid": "f4079aa3-7d0c-472d-a30e-3d97ac211e49@77a31",
+      "displayName": "",
+      "id": "77a31",
+      "name": "SM_Veh_BigRig_BigBlock_01.mesh",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2a7d2": {
+      "importer": "gltf-mesh",
+      "uuid": "f4079aa3-7d0c-472d-a30e-3d97ac211e49@2a7d2",
+      "displayName": "",
+      "id": "2a7d2",
+      "name": "SM_Veh_BigRig_Wheel_fl.mesh",
+      "userData": {
+        "gltfIndex": 9
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7e1a6": {
+      "importer": "gltf-mesh",
+      "uuid": "f4079aa3-7d0c-472d-a30e-3d97ac211e49@7e1a6",
+      "displayName": "",
+      "id": "7e1a6",
+      "name": "SM_Veh_BigRig_Glass_01.mesh",
+      "userData": {
+        "gltfIndex": 10
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "082e5": {
+      "importer": "gltf-mesh",
+      "uuid": "f4079aa3-7d0c-472d-a30e-3d97ac211e49@082e5",
+      "displayName": "",
+      "id": "082e5",
+      "name": "SM_Veh_BigRig_Wheel_rr_02.mesh",
+      "userData": {
+        "gltfIndex": 11
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "53e61": {
+      "importer": "gltf-mesh",
+      "uuid": "f4079aa3-7d0c-472d-a30e-3d97ac211e49@53e61",
+      "displayName": "",
+      "id": "53e61",
+      "name": "SM_Veh_BigRig_Wheel_rl_02.mesh",
+      "userData": {
+        "gltfIndex": 12
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d8995": {
+      "importer": "gltf-mesh",
+      "uuid": "f4079aa3-7d0c-472d-a30e-3d97ac211e49@d8995",
+      "displayName": "",
+      "id": "d8995",
+      "name": "SM_Veh_BigRig_Armour_01.mesh",
+      "userData": {
+        "gltfIndex": 13
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e18d5": {
+      "importer": "gltf-material",
+      "uuid": "f4079aa3-7d0c-472d-a30e-3d97ac211e49@e18d5",
+      "displayName": "",
+      "id": "e18d5",
+      "name": "lambert32.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3570d": {
+      "importer": "gltf-scene",
+      "uuid": "f4079aa3-7d0c-472d-a30e-3d97ac211e49@3570d",
+      "displayName": "",
+      "id": "3570d",
+      "name": "SM_Veh_BigRig_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "f4079aa3-7d0c-472d-a30e-3d97ac211e49@3570d",
+    "assetFinder": {
+      "meshes": [
+        "f4079aa3-7d0c-472d-a30e-3d97ac211e49@a806f",
+        "f4079aa3-7d0c-472d-a30e-3d97ac211e49@754e2",
+        "f4079aa3-7d0c-472d-a30e-3d97ac211e49@e2bf8",
+        "f4079aa3-7d0c-472d-a30e-3d97ac211e49@51be1",
+        "f4079aa3-7d0c-472d-a30e-3d97ac211e49@367ac",
+        "f4079aa3-7d0c-472d-a30e-3d97ac211e49@5ddbf",
+        "f4079aa3-7d0c-472d-a30e-3d97ac211e49@49589",
+        "f4079aa3-7d0c-472d-a30e-3d97ac211e49@0701c",
+        "f4079aa3-7d0c-472d-a30e-3d97ac211e49@77a31",
+        "f4079aa3-7d0c-472d-a30e-3d97ac211e49@2a7d2",
+        "f4079aa3-7d0c-472d-a30e-3d97ac211e49@7e1a6",
+        "f4079aa3-7d0c-472d-a30e-3d97ac211e49@082e5",
+        "f4079aa3-7d0c-472d-a30e-3d97ac211e49@53e61",
+        "f4079aa3-7d0c-472d-a30e-3d97ac211e49@d8995"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "f4079aa3-7d0c-472d-a30e-3d97ac211e49@e18d5"
+      ],
+      "scenes": [
+        "f4079aa3-7d0c-472d-a30e-3d97ac211e49@3570d"
+      ]
+    }
+  }
+}

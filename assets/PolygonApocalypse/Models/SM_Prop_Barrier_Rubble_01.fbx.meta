@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "592fe71f-4547-4da9-a57d-f9e2b2179c87",
+  "files": [],
+  "subMetas": {
+    "8f235": {
+      "importer": "gltf-mesh",
+      "uuid": "592fe71f-4547-4da9-a57d-f9e2b2179c87@8f235",
+      "displayName": "",
+      "id": "8f235",
+      "name": "SM_Prop_Barrier_Rubble_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0d44d": {
+      "importer": "gltf-embeded-image",
+      "uuid": "592fe71f-4547-4da9-a57d-f9e2b2179c87@0d44d",
+      "displayName": "",
+      "id": "0d44d",
+      "name": "file411.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "0c5a9": {
+      "importer": "texture",
+      "uuid": "592fe71f-4547-4da9-a57d-f9e2b2179c87@0c5a9",
+      "displayName": "",
+      "id": "0c5a9",
+      "name": "file411.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "592fe71f-4547-4da9-a57d-f9e2b2179c87@0d44d"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9cec5": {
+      "importer": "gltf-material",
+      "uuid": "592fe71f-4547-4da9-a57d-f9e2b2179c87@9cec5",
+      "displayName": "",
+      "id": "9cec5",
+      "name": "lambert148.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a1c06": {
+      "importer": "gltf-scene",
+      "uuid": "592fe71f-4547-4da9-a57d-f9e2b2179c87@a1c06",
+      "displayName": "",
+      "id": "a1c06",
+      "name": "SM_Prop_Barrier_Rubble_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file411",
+        "uri": "592fe71f-4547-4da9-a57d-f9e2b2179c87@0d44d"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "592fe71f-4547-4da9-a57d-f9e2b2179c87@a1c06",
+    "assetFinder": {
+      "meshes": [
+        "592fe71f-4547-4da9-a57d-f9e2b2179c87@8f235"
+      ],
+      "skeletons": [],
+      "textures": [
+        "592fe71f-4547-4da9-a57d-f9e2b2179c87@0c5a9"
+      ],
+      "materials": [
+        "592fe71f-4547-4da9-a57d-f9e2b2179c87@9cec5"
+      ],
+      "scenes": [
+        "592fe71f-4547-4da9-a57d-f9e2b2179c87@a1c06"
+      ]
+    }
+  }
+}

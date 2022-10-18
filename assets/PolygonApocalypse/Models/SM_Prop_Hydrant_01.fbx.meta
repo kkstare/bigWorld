@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d4f5a9be-ba67-4793-849b-57217d5f573f",
+  "files": [],
+  "subMetas": {
+    "23215": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d4f5a9be-ba67-4793-849b-57217d5f573f@23215",
+      "displayName": "",
+      "id": "23215",
+      "name": "file1031.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "13b2e": {
+      "importer": "gltf-mesh",
+      "uuid": "d4f5a9be-ba67-4793-849b-57217d5f573f@13b2e",
+      "displayName": "",
+      "id": "13b2e",
+      "name": "SM_Prop_Hydrant_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5691d": {
+      "importer": "texture",
+      "uuid": "d4f5a9be-ba67-4793-849b-57217d5f573f@5691d",
+      "displayName": "",
+      "id": "5691d",
+      "name": "file1031.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d4f5a9be-ba67-4793-849b-57217d5f573f@23215"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "38a38": {
+      "importer": "gltf-material",
+      "uuid": "d4f5a9be-ba67-4793-849b-57217d5f573f@38a38",
+      "displayName": "",
+      "id": "38a38",
+      "name": "lambert886.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5e819": {
+      "importer": "gltf-scene",
+      "uuid": "d4f5a9be-ba67-4793-849b-57217d5f573f@5e819",
+      "displayName": "",
+      "id": "5e819",
+      "name": "SM_Prop_Hydrant_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1031",
+        "uri": "d4f5a9be-ba67-4793-849b-57217d5f573f@23215"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "d4f5a9be-ba67-4793-849b-57217d5f573f@5e819",
+    "assetFinder": {
+      "meshes": [
+        "d4f5a9be-ba67-4793-849b-57217d5f573f@13b2e"
+      ],
+      "skeletons": [],
+      "textures": [
+        "d4f5a9be-ba67-4793-849b-57217d5f573f@5691d"
+      ],
+      "materials": [
+        "d4f5a9be-ba67-4793-849b-57217d5f573f@38a38"
+      ],
+      "scenes": [
+        "d4f5a9be-ba67-4793-849b-57217d5f573f@5e819"
+      ]
+    }
+  }
+}

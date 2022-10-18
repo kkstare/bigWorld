@@ -1,0 +1,164 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "fd882418-e23a-432f-972c-e89aa5682451",
+  "files": [],
+  "subMetas": {
+    "0b965": {
+      "importer": "gltf-mesh",
+      "uuid": "fd882418-e23a-432f-972c-e89aa5682451@0b965",
+      "displayName": "",
+      "id": "0b965",
+      "name": "SM_Bld_Bunker_Hatch_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "04fa7": {
+      "importer": "gltf-mesh",
+      "uuid": "fd882418-e23a-432f-972c-e89aa5682451@04fa7",
+      "displayName": "",
+      "id": "04fa7",
+      "name": "SM_Bld_Bunker_Hatch_Lid_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "76e28": {
+      "importer": "gltf-mesh",
+      "uuid": "fd882418-e23a-432f-972c-e89aa5682451@76e28",
+      "displayName": "",
+      "id": "76e28",
+      "name": "SM_Bld_Bunker_Hatch_Handle_01.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "fd882418-e23a-432f-972c-e89aa5682451@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "fd882418-e23a-432f-972c-e89aa5682451@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "fd882418-e23a-432f-972c-e89aa5682451@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fe6ad": {
+      "importer": "gltf-scene",
+      "uuid": "fd882418-e23a-432f-972c-e89aa5682451@fe6ad",
+      "displayName": "",
+      "id": "fe6ad",
+      "name": "SM_Bld_Bunker_Hatch_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "fd882418-e23a-432f-972c-e89aa5682451@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "fd882418-e23a-432f-972c-e89aa5682451@fe6ad",
+    "assetFinder": {
+      "meshes": [
+        "fd882418-e23a-432f-972c-e89aa5682451@0b965",
+        "fd882418-e23a-432f-972c-e89aa5682451@04fa7",
+        "fd882418-e23a-432f-972c-e89aa5682451@76e28"
+      ],
+      "skeletons": [],
+      "textures": [
+        "fd882418-e23a-432f-972c-e89aa5682451@988dc"
+      ],
+      "materials": [
+        "fd882418-e23a-432f-972c-e89aa5682451@8d883"
+      ],
+      "scenes": [
+        "fd882418-e23a-432f-972c-e89aa5682451@fe6ad"
+      ]
+    }
+  }
+}

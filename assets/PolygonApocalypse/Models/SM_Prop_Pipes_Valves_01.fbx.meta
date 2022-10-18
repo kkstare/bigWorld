@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "66c8c6fb-98a8-497e-b9f2-2d059a936424",
+  "files": [],
+  "subMetas": {
+    "4e3e7": {
+      "importer": "gltf-mesh",
+      "uuid": "66c8c6fb-98a8-497e-b9f2-2d059a936424@4e3e7",
+      "displayName": "",
+      "id": "4e3e7",
+      "name": "SM_Prop_Pipes_Valves_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "66c8c6fb-98a8-497e-b9f2-2d059a936424@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "66c8c6fb-98a8-497e-b9f2-2d059a936424@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "66c8c6fb-98a8-497e-b9f2-2d059a936424@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8ed75": {
+      "importer": "gltf-scene",
+      "uuid": "66c8c6fb-98a8-497e-b9f2-2d059a936424@8ed75",
+      "displayName": "",
+      "id": "8ed75",
+      "name": "SM_Prop_Pipes_Valves_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "66c8c6fb-98a8-497e-b9f2-2d059a936424@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "66c8c6fb-98a8-497e-b9f2-2d059a936424@8ed75",
+    "assetFinder": {
+      "meshes": [
+        "66c8c6fb-98a8-497e-b9f2-2d059a936424@4e3e7"
+      ],
+      "skeletons": [],
+      "textures": [
+        "66c8c6fb-98a8-497e-b9f2-2d059a936424@988dc"
+      ],
+      "materials": [
+        "66c8c6fb-98a8-497e-b9f2-2d059a936424@8d883"
+      ],
+      "scenes": [
+        "66c8c6fb-98a8-497e-b9f2-2d059a936424@8ed75"
+      ]
+    }
+  }
+}

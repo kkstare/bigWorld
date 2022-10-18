@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c7f6fa2e-aa34-4bea-8a21-87387cae1086",
+  "files": [],
+  "subMetas": {
+    "23215": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c7f6fa2e-aa34-4bea-8a21-87387cae1086@23215",
+      "displayName": "",
+      "id": "23215",
+      "name": "file1031.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "a8e96": {
+      "importer": "gltf-mesh",
+      "uuid": "c7f6fa2e-aa34-4bea-8a21-87387cae1086@a8e96",
+      "displayName": "",
+      "id": "a8e96",
+      "name": "SM_Prop_Dog_House_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5691d": {
+      "importer": "texture",
+      "uuid": "c7f6fa2e-aa34-4bea-8a21-87387cae1086@5691d",
+      "displayName": "",
+      "id": "5691d",
+      "name": "file1031.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c7f6fa2e-aa34-4bea-8a21-87387cae1086@23215"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "38a38": {
+      "importer": "gltf-material",
+      "uuid": "c7f6fa2e-aa34-4bea-8a21-87387cae1086@38a38",
+      "displayName": "",
+      "id": "38a38",
+      "name": "lambert886.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9a208": {
+      "importer": "gltf-scene",
+      "uuid": "c7f6fa2e-aa34-4bea-8a21-87387cae1086@9a208",
+      "displayName": "",
+      "id": "9a208",
+      "name": "SM_Prop_Dog_House_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1031",
+        "uri": "c7f6fa2e-aa34-4bea-8a21-87387cae1086@23215"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "c7f6fa2e-aa34-4bea-8a21-87387cae1086@9a208",
+    "assetFinder": {
+      "meshes": [
+        "c7f6fa2e-aa34-4bea-8a21-87387cae1086@a8e96"
+      ],
+      "skeletons": [],
+      "textures": [
+        "c7f6fa2e-aa34-4bea-8a21-87387cae1086@5691d"
+      ],
+      "materials": [
+        "c7f6fa2e-aa34-4bea-8a21-87387cae1086@38a38"
+      ],
+      "scenes": [
+        "c7f6fa2e-aa34-4bea-8a21-87387cae1086@9a208"
+      ]
+    }
+  }
+}

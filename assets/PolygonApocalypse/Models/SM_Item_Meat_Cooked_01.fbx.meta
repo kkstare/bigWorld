@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c4925c19-6498-4f2d-aeba-f258a5a3f0ca",
+  "files": [],
+  "subMetas": {
+    "97bf9": {
+      "importer": "gltf-mesh",
+      "uuid": "c4925c19-6498-4f2d-aeba-f258a5a3f0ca@97bf9",
+      "displayName": "",
+      "id": "97bf9",
+      "name": "SM_Item_Meat_Cooked_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e942": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c4925c19-6498-4f2d-aeba-f258a5a3f0ca@1e942",
+      "displayName": "",
+      "id": "1e942",
+      "name": "Copter:file112.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "585d0": {
+      "importer": "texture",
+      "uuid": "c4925c19-6498-4f2d-aeba-f258a5a3f0ca@585d0",
+      "displayName": "",
+      "id": "585d0",
+      "name": "Copter:file112.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c4925c19-6498-4f2d-aeba-f258a5a3f0ca@1e942"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a3ca": {
+      "importer": "gltf-material",
+      "uuid": "c4925c19-6498-4f2d-aeba-f258a5a3f0ca@7a3ca",
+      "displayName": "",
+      "id": "7a3ca",
+      "name": "lambert2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6c0b0": {
+      "importer": "gltf-scene",
+      "uuid": "c4925c19-6498-4f2d-aeba-f258a5a3f0ca@6c0b0",
+      "displayName": "",
+      "id": "6c0b0",
+      "name": "SM_Item_Meat_Cooked_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Copter:file112",
+        "uri": "c4925c19-6498-4f2d-aeba-f258a5a3f0ca@1e942"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "c4925c19-6498-4f2d-aeba-f258a5a3f0ca@6c0b0",
+    "assetFinder": {
+      "meshes": [
+        "c4925c19-6498-4f2d-aeba-f258a5a3f0ca@97bf9"
+      ],
+      "skeletons": [],
+      "textures": [
+        "c4925c19-6498-4f2d-aeba-f258a5a3f0ca@585d0"
+      ],
+      "materials": [
+        "c4925c19-6498-4f2d-aeba-f258a5a3f0ca@7a3ca"
+      ],
+      "scenes": [
+        "c4925c19-6498-4f2d-aeba-f258a5a3f0ca@6c0b0"
+      ]
+    }
+  }
+}

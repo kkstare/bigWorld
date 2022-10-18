@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "bf758976-7c5b-4371-bf83-fd517daa501e",
+  "files": [],
+  "subMetas": {
+    "6470a": {
+      "importer": "gltf-mesh",
+      "uuid": "bf758976-7c5b-4371-bf83-fd517daa501e@6470a",
+      "displayName": "",
+      "id": "6470a",
+      "name": "SM_Chr_Attach_Press_Male_Hair_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2a7ad": {
+      "importer": "gltf-material",
+      "uuid": "bf758976-7c5b-4371-bf83-fd517daa501e@2a7ad",
+      "displayName": "",
+      "id": "2a7ad",
+      "name": "BloodDecal27.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cb7f2": {
+      "importer": "gltf-scene",
+      "uuid": "bf758976-7c5b-4371-bf83-fd517daa501e@cb7f2",
+      "displayName": "",
+      "id": "cb7f2",
+      "name": "SM_Chr_Attach_Press_Male_Hair_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "bf758976-7c5b-4371-bf83-fd517daa501e@cb7f2",
+    "assetFinder": {
+      "meshes": [
+        "bf758976-7c5b-4371-bf83-fd517daa501e@6470a"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "bf758976-7c5b-4371-bf83-fd517daa501e@2a7ad"
+      ],
+      "scenes": [
+        "bf758976-7c5b-4371-bf83-fd517daa501e@cb7f2"
+      ]
+    }
+  }
+}

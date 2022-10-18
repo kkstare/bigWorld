@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "832244d0-6fc0-41c2-985d-1102bd654e41",
+  "files": [],
+  "subMetas": {
+    "de3cb": {
+      "importer": "gltf-mesh",
+      "uuid": "832244d0-6fc0-41c2-985d-1102bd654e41@de3cb",
+      "displayName": "",
+      "id": "de3cb",
+      "name": "SM_Prop_Church_Pew_Broken_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "832244d0-6fc0-41c2-985d-1102bd654e41@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "832244d0-6fc0-41c2-985d-1102bd654e41@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "832244d0-6fc0-41c2-985d-1102bd654e41@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cb31a": {
+      "importer": "gltf-scene",
+      "uuid": "832244d0-6fc0-41c2-985d-1102bd654e41@cb31a",
+      "displayName": "",
+      "id": "cb31a",
+      "name": "SM_Prop_Church_Pew_Broken_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "832244d0-6fc0-41c2-985d-1102bd654e41@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "832244d0-6fc0-41c2-985d-1102bd654e41@cb31a",
+    "assetFinder": {
+      "meshes": [
+        "832244d0-6fc0-41c2-985d-1102bd654e41@de3cb"
+      ],
+      "skeletons": [],
+      "textures": [
+        "832244d0-6fc0-41c2-985d-1102bd654e41@988dc"
+      ],
+      "materials": [
+        "832244d0-6fc0-41c2-985d-1102bd654e41@8d883"
+      ],
+      "scenes": [
+        "832244d0-6fc0-41c2-985d-1102bd654e41@cb31a"
+      ]
+    }
+  }
+}

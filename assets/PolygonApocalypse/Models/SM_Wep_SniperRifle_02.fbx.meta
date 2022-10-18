@@ -1,0 +1,218 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e71590e1-1adf-486a-9a78-2ed210cbc479",
+  "files": [],
+  "subMetas": {
+    "86041": {
+      "importer": "gltf-mesh",
+      "uuid": "e71590e1-1adf-486a-9a78-2ed210cbc479@86041",
+      "displayName": "",
+      "id": "86041",
+      "name": "SM_Wep_SniperRifle_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d100": {
+      "importer": "gltf-mesh",
+      "uuid": "e71590e1-1adf-486a-9a78-2ed210cbc479@7d100",
+      "displayName": "",
+      "id": "7d100",
+      "name": "SM_Wep_SniperRifle_02_Trigger_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3b71d": {
+      "importer": "gltf-mesh",
+      "uuid": "e71590e1-1adf-486a-9a78-2ed210cbc479@3b71d",
+      "displayName": "",
+      "id": "3b71d",
+      "name": "SM_Wep_SniperRifle_02_Bolt_01.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fd4d6": {
+      "importer": "gltf-mesh",
+      "uuid": "e71590e1-1adf-486a-9a78-2ed210cbc479@fd4d6",
+      "displayName": "",
+      "id": "fd4d6",
+      "name": "SM_Wep_SniperRifle_02_Scope_01.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1f14e": {
+      "importer": "gltf-mesh",
+      "uuid": "e71590e1-1adf-486a-9a78-2ed210cbc479@1f14e",
+      "displayName": "",
+      "id": "1f14e",
+      "name": "SM_Wep_SniperRifle_02_Magazine_01.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "76eae": {
+      "importer": "gltf-mesh",
+      "uuid": "e71590e1-1adf-486a-9a78-2ed210cbc479@76eae",
+      "displayName": "",
+      "id": "76eae",
+      "name": "SM_Wep_SniperRifle_02_Bullets_01.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e43a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "e71590e1-1adf-486a-9a78-2ed210cbc479@1e43a",
+      "displayName": "",
+      "id": "1e43a",
+      "name": "file1198.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "05eac": {
+      "importer": "texture",
+      "uuid": "e71590e1-1adf-486a-9a78-2ed210cbc479@05eac",
+      "displayName": "",
+      "id": "05eac",
+      "name": "file1198.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5bd2": {
+      "importer": "gltf-material",
+      "uuid": "e71590e1-1adf-486a-9a78-2ed210cbc479@a5bd2",
+      "displayName": "",
+      "id": "a5bd2",
+      "name": "lambert.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ec55c": {
+      "importer": "gltf-scene",
+      "uuid": "e71590e1-1adf-486a-9a78-2ed210cbc479@ec55c",
+      "displayName": "",
+      "id": "ec55c",
+      "name": "SM_Wep_SniperRifle_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1198",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "e71590e1-1adf-486a-9a78-2ed210cbc479@1e43a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "e71590e1-1adf-486a-9a78-2ed210cbc479@ec55c",
+    "assetFinder": {
+      "meshes": [
+        "e71590e1-1adf-486a-9a78-2ed210cbc479@86041",
+        "e71590e1-1adf-486a-9a78-2ed210cbc479@7d100",
+        "e71590e1-1adf-486a-9a78-2ed210cbc479@3b71d",
+        "e71590e1-1adf-486a-9a78-2ed210cbc479@fd4d6",
+        "e71590e1-1adf-486a-9a78-2ed210cbc479@1f14e",
+        "e71590e1-1adf-486a-9a78-2ed210cbc479@76eae"
+      ],
+      "skeletons": [],
+      "textures": [
+        "e71590e1-1adf-486a-9a78-2ed210cbc479@05eac"
+      ],
+      "materials": [
+        "e71590e1-1adf-486a-9a78-2ed210cbc479@a5bd2"
+      ],
+      "scenes": [
+        "e71590e1-1adf-486a-9a78-2ed210cbc479@ec55c"
+      ]
+    }
+  }
+}

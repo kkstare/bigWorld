@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "aed0dfe3-b9cf-4cc2-9cdd-6d56645cba7b",
+  "files": [],
+  "subMetas": {
+    "23215": {
+      "importer": "gltf-embeded-image",
+      "uuid": "aed0dfe3-b9cf-4cc2-9cdd-6d56645cba7b@23215",
+      "displayName": "",
+      "id": "23215",
+      "name": "file1031.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ab9cb": {
+      "importer": "gltf-mesh",
+      "uuid": "aed0dfe3-b9cf-4cc2-9cdd-6d56645cba7b@ab9cb",
+      "displayName": "",
+      "id": "ab9cb",
+      "name": "SM_Prop_Gramophone_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5691d": {
+      "importer": "texture",
+      "uuid": "aed0dfe3-b9cf-4cc2-9cdd-6d56645cba7b@5691d",
+      "displayName": "",
+      "id": "5691d",
+      "name": "file1031.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "aed0dfe3-b9cf-4cc2-9cdd-6d56645cba7b@23215"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "38a38": {
+      "importer": "gltf-material",
+      "uuid": "aed0dfe3-b9cf-4cc2-9cdd-6d56645cba7b@38a38",
+      "displayName": "",
+      "id": "38a38",
+      "name": "lambert886.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dff36": {
+      "importer": "gltf-scene",
+      "uuid": "aed0dfe3-b9cf-4cc2-9cdd-6d56645cba7b@dff36",
+      "displayName": "",
+      "id": "dff36",
+      "name": "SM_Prop_Gramophone_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1031",
+        "uri": "aed0dfe3-b9cf-4cc2-9cdd-6d56645cba7b@23215"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "aed0dfe3-b9cf-4cc2-9cdd-6d56645cba7b@dff36",
+    "assetFinder": {
+      "meshes": [
+        "aed0dfe3-b9cf-4cc2-9cdd-6d56645cba7b@ab9cb"
+      ],
+      "skeletons": [],
+      "textures": [
+        "aed0dfe3-b9cf-4cc2-9cdd-6d56645cba7b@5691d"
+      ],
+      "materials": [
+        "aed0dfe3-b9cf-4cc2-9cdd-6d56645cba7b@38a38"
+      ],
+      "scenes": [
+        "aed0dfe3-b9cf-4cc2-9cdd-6d56645cba7b@dff36"
+      ]
+    }
+  }
+}

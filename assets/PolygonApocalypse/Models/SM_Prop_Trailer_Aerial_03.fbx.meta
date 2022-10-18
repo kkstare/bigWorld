@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "3af400ec-9d05-4651-95b9-2c516fbfe2a0",
+  "files": [],
+  "subMetas": {
+    "2f1d2": {
+      "importer": "gltf-mesh",
+      "uuid": "3af400ec-9d05-4651-95b9-2c516fbfe2a0@2f1d2",
+      "displayName": "",
+      "id": "2f1d2",
+      "name": "SM_Prop_Trailer_Aerial_03.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f1ec6": {
+      "importer": "gltf-embeded-image",
+      "uuid": "3af400ec-9d05-4651-95b9-2c516fbfe2a0@f1ec6",
+      "displayName": "",
+      "id": "f1ec6",
+      "name": "file110.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "d85a1": {
+      "importer": "texture",
+      "uuid": "3af400ec-9d05-4651-95b9-2c516fbfe2a0@d85a1",
+      "displayName": "",
+      "id": "d85a1",
+      "name": "file110.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3af400ec-9d05-4651-95b9-2c516fbfe2a0@f1ec6"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ed320": {
+      "importer": "gltf-material",
+      "uuid": "3af400ec-9d05-4651-95b9-2c516fbfe2a0@ed320",
+      "displayName": "",
+      "id": "ed320",
+      "name": "lambert33.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e86a0": {
+      "importer": "gltf-scene",
+      "uuid": "3af400ec-9d05-4651-95b9-2c516fbfe2a0@e86a0",
+      "displayName": "",
+      "id": "e86a0",
+      "name": "SM_Prop_Trailer_Aerial_03.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file110",
+        "uri": "3af400ec-9d05-4651-95b9-2c516fbfe2a0@f1ec6"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "3af400ec-9d05-4651-95b9-2c516fbfe2a0@e86a0",
+    "assetFinder": {
+      "meshes": [
+        "3af400ec-9d05-4651-95b9-2c516fbfe2a0@2f1d2"
+      ],
+      "skeletons": [],
+      "textures": [
+        "3af400ec-9d05-4651-95b9-2c516fbfe2a0@d85a1"
+      ],
+      "materials": [
+        "3af400ec-9d05-4651-95b9-2c516fbfe2a0@ed320"
+      ],
+      "scenes": [
+        "3af400ec-9d05-4651-95b9-2c516fbfe2a0@e86a0"
+      ]
+    }
+  }
+}

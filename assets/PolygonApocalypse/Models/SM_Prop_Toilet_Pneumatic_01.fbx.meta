@@ -1,0 +1,146 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "cd29571c-d1a1-4027-b269-3e7b0ee70a39",
+  "files": [],
+  "subMetas": {
+    "df666": {
+      "importer": "gltf-mesh",
+      "uuid": "cd29571c-d1a1-4027-b269-3e7b0ee70a39@df666",
+      "displayName": "",
+      "id": "df666",
+      "name": "SM_Prop_Toilet_Pneumatic_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "73afd": {
+      "importer": "gltf-mesh",
+      "uuid": "cd29571c-d1a1-4027-b269-3e7b0ee70a39@73afd",
+      "displayName": "",
+      "id": "73afd",
+      "name": "SM_Prop_Toilet_Pneumatic_Lid_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "cd29571c-d1a1-4027-b269-3e7b0ee70a39@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "cd29571c-d1a1-4027-b269-3e7b0ee70a39@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "cd29571c-d1a1-4027-b269-3e7b0ee70a39@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9b154": {
+      "importer": "gltf-scene",
+      "uuid": "cd29571c-d1a1-4027-b269-3e7b0ee70a39@9b154",
+      "displayName": "",
+      "id": "9b154",
+      "name": "SM_Prop_Toilet_Pneumatic_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "cd29571c-d1a1-4027-b269-3e7b0ee70a39@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "cd29571c-d1a1-4027-b269-3e7b0ee70a39@9b154",
+    "assetFinder": {
+      "meshes": [
+        "cd29571c-d1a1-4027-b269-3e7b0ee70a39@df666",
+        "cd29571c-d1a1-4027-b269-3e7b0ee70a39@73afd"
+      ],
+      "skeletons": [],
+      "textures": [
+        "cd29571c-d1a1-4027-b269-3e7b0ee70a39@988dc"
+      ],
+      "materials": [
+        "cd29571c-d1a1-4027-b269-3e7b0ee70a39@8d883"
+      ],
+      "scenes": [
+        "cd29571c-d1a1-4027-b269-3e7b0ee70a39@9b154"
+      ]
+    }
+  }
+}

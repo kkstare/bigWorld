@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "cc2971d7-9277-4641-9f6b-7db02e932336",
+  "files": [],
+  "subMetas": {
+    "0250f": {
+      "importer": "gltf-mesh",
+      "uuid": "cc2971d7-9277-4641-9f6b-7db02e932336@0250f",
+      "displayName": "",
+      "id": "0250f",
+      "name": "SM_Prop_BarrelStack_01_Tarp.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "cc2971d7-9277-4641-9f6b-7db02e932336@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "cc2971d7-9277-4641-9f6b-7db02e932336@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "86f3e": {
+      "importer": "gltf-material",
+      "uuid": "cc2971d7-9277-4641-9f6b-7db02e932336@86f3e",
+      "displayName": "",
+      "id": "86f3e",
+      "name": "lambert431.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7cb3b": {
+      "importer": "gltf-scene",
+      "uuid": "cc2971d7-9277-4641-9f6b-7db02e932336@7cb3b",
+      "displayName": "",
+      "id": "7cb3b",
+      "name": "SM_Prop_BarrelStack_01_Tarp.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "cc2971d7-9277-4641-9f6b-7db02e932336@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "cc2971d7-9277-4641-9f6b-7db02e932336@7cb3b",
+    "assetFinder": {
+      "meshes": [
+        "cc2971d7-9277-4641-9f6b-7db02e932336@0250f"
+      ],
+      "skeletons": [],
+      "textures": [
+        "cc2971d7-9277-4641-9f6b-7db02e932336@988dc"
+      ],
+      "materials": [
+        "cc2971d7-9277-4641-9f6b-7db02e932336@86f3e"
+      ],
+      "scenes": [
+        "cc2971d7-9277-4641-9f6b-7db02e932336@7cb3b"
+      ]
+    }
+  }
+}

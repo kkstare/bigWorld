@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "cc71ea4f-7073-4633-a9e5-31cb9fb426dc",
+  "files": [],
+  "subMetas": {
+    "cef71": {
+      "importer": "gltf-mesh",
+      "uuid": "cc71ea4f-7073-4633-a9e5-31cb9fb426dc@cef71",
+      "displayName": "",
+      "id": "cef71",
+      "name": "SM_Prop_Glass_Shard_09.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e43a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "cc71ea4f-7073-4633-a9e5-31cb9fb426dc@1e43a",
+      "displayName": "",
+      "id": "1e43a",
+      "name": "file1198.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "05eac": {
+      "importer": "texture",
+      "uuid": "cc71ea4f-7073-4633-a9e5-31cb9fb426dc@05eac",
+      "displayName": "",
+      "id": "05eac",
+      "name": "file1198.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5bd2": {
+      "importer": "gltf-material",
+      "uuid": "cc71ea4f-7073-4633-a9e5-31cb9fb426dc@a5bd2",
+      "displayName": "",
+      "id": "a5bd2",
+      "name": "lambert.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ff16e": {
+      "importer": "gltf-scene",
+      "uuid": "cc71ea4f-7073-4633-a9e5-31cb9fb426dc@ff16e",
+      "displayName": "",
+      "id": "ff16e",
+      "name": "SM_Prop_Glass_Shard_09.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1198",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "cc71ea4f-7073-4633-a9e5-31cb9fb426dc@1e43a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "cc71ea4f-7073-4633-a9e5-31cb9fb426dc@ff16e",
+    "assetFinder": {
+      "meshes": [
+        "cc71ea4f-7073-4633-a9e5-31cb9fb426dc@cef71"
+      ],
+      "skeletons": [],
+      "textures": [
+        "cc71ea4f-7073-4633-a9e5-31cb9fb426dc@05eac"
+      ],
+      "materials": [
+        "cc71ea4f-7073-4633-a9e5-31cb9fb426dc@a5bd2"
+      ],
+      "scenes": [
+        "cc71ea4f-7073-4633-a9e5-31cb9fb426dc@ff16e"
+      ]
+    }
+  }
+}

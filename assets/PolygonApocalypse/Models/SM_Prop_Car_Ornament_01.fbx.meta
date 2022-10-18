@@ -1,0 +1,145 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e7a62155-f920-4d2c-81b2-aa0b5cb119a7",
+  "files": [],
+  "subMetas": {
+    "19219": {
+      "importer": "texture",
+      "uuid": "e7a62155-f920-4d2c-81b2-aa0b5cb119a7@19219",
+      "displayName": "",
+      "id": "19219",
+      "name": "file114.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "e7a62155-f920-4d2c-81b2-aa0b5cb119a7@e513d"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bf76a": {
+      "importer": "gltf-mesh",
+      "uuid": "e7a62155-f920-4d2c-81b2-aa0b5cb119a7@bf76a",
+      "displayName": "",
+      "id": "bf76a",
+      "name": "SM_Prop_Car_Ornament_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c89e6": {
+      "importer": "gltf-mesh",
+      "uuid": "e7a62155-f920-4d2c-81b2-aa0b5cb119a7@c89e6",
+      "displayName": "",
+      "id": "c89e6",
+      "name": "SM_Prop_Car_Ornament_Top_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e513d": {
+      "importer": "gltf-embeded-image",
+      "uuid": "e7a62155-f920-4d2c-81b2-aa0b5cb119a7@e513d",
+      "displayName": "",
+      "id": "e513d",
+      "name": "file114.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "c0b62": {
+      "importer": "gltf-material",
+      "uuid": "e7a62155-f920-4d2c-81b2-aa0b5cb119a7@c0b62",
+      "displayName": "",
+      "id": "c0b62",
+      "name": "lambert25.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "040cc": {
+      "importer": "gltf-scene",
+      "uuid": "e7a62155-f920-4d2c-81b2-aa0b5cb119a7@040cc",
+      "displayName": "",
+      "id": "040cc",
+      "name": "SM_Prop_Car_Ornament_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file114",
+        "uri": "e7a62155-f920-4d2c-81b2-aa0b5cb119a7@e513d"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "e7a62155-f920-4d2c-81b2-aa0b5cb119a7@040cc",
+    "assetFinder": {
+      "meshes": [
+        "e7a62155-f920-4d2c-81b2-aa0b5cb119a7@bf76a",
+        "e7a62155-f920-4d2c-81b2-aa0b5cb119a7@c89e6"
+      ],
+      "skeletons": [],
+      "textures": [
+        "e7a62155-f920-4d2c-81b2-aa0b5cb119a7@19219"
+      ],
+      "materials": [
+        "e7a62155-f920-4d2c-81b2-aa0b5cb119a7@c0b62"
+      ],
+      "scenes": [
+        "e7a62155-f920-4d2c-81b2-aa0b5cb119a7@040cc"
+      ]
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "68d256ff-1949-4e46-8121-1b7ec2c280a0",
+  "files": [],
+  "subMetas": {
+    "23215": {
+      "importer": "gltf-embeded-image",
+      "uuid": "68d256ff-1949-4e46-8121-1b7ec2c280a0@23215",
+      "displayName": "",
+      "id": "23215",
+      "name": "file1031.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "47c98": {
+      "importer": "gltf-mesh",
+      "uuid": "68d256ff-1949-4e46-8121-1b7ec2c280a0@47c98",
+      "displayName": "",
+      "id": "47c98",
+      "name": "SM_Prop_Sleeping_Bag_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5691d": {
+      "importer": "texture",
+      "uuid": "68d256ff-1949-4e46-8121-1b7ec2c280a0@5691d",
+      "displayName": "",
+      "id": "5691d",
+      "name": "file1031.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "68d256ff-1949-4e46-8121-1b7ec2c280a0@23215"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c8ff4": {
+      "importer": "gltf-material",
+      "uuid": "68d256ff-1949-4e46-8121-1b7ec2c280a0@c8ff4",
+      "displayName": "",
+      "id": "c8ff4",
+      "name": "lambert888.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5b2a2": {
+      "importer": "gltf-scene",
+      "uuid": "68d256ff-1949-4e46-8121-1b7ec2c280a0@5b2a2",
+      "displayName": "",
+      "id": "5b2a2",
+      "name": "SM_Prop_Sleeping_Bag_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1031",
+        "uri": "68d256ff-1949-4e46-8121-1b7ec2c280a0@23215"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "68d256ff-1949-4e46-8121-1b7ec2c280a0@5b2a2",
+    "assetFinder": {
+      "meshes": [
+        "68d256ff-1949-4e46-8121-1b7ec2c280a0@47c98"
+      ],
+      "skeletons": [],
+      "textures": [
+        "68d256ff-1949-4e46-8121-1b7ec2c280a0@5691d"
+      ],
+      "materials": [
+        "68d256ff-1949-4e46-8121-1b7ec2c280a0@c8ff4"
+      ],
+      "scenes": [
+        "68d256ff-1949-4e46-8121-1b7ec2c280a0@5b2a2"
+      ]
+    }
+  }
+}

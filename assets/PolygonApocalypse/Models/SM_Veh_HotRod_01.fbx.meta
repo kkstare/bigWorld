@@ -1,0 +1,332 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "2b105356-8be6-48dc-bbbb-38978b9e8bf8",
+  "files": [],
+  "subMetas": {
+    "32014": {
+      "importer": "gltf-mesh",
+      "uuid": "2b105356-8be6-48dc-bbbb-38978b9e8bf8@32014",
+      "displayName": "",
+      "id": "32014",
+      "name": "SM_Veh_HotRod_Wheel_rl.mesh",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "36630": {
+      "importer": "gltf-mesh",
+      "uuid": "2b105356-8be6-48dc-bbbb-38978b9e8bf8@36630",
+      "displayName": "",
+      "id": "36630",
+      "name": "SM_Veh_HotRod_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "71690": {
+      "importer": "gltf-mesh",
+      "uuid": "2b105356-8be6-48dc-bbbb-38978b9e8bf8@71690",
+      "displayName": "",
+      "id": "71690",
+      "name": "SM_Veh_HotRod_Ram_01.mesh",
+      "userData": {
+        "gltfIndex": 12
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "476f0": {
+      "importer": "gltf-mesh",
+      "uuid": "2b105356-8be6-48dc-bbbb-38978b9e8bf8@476f0",
+      "displayName": "",
+      "id": "476f0",
+      "name": "SM_Veh_HotRod_Suspension_L.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7664f": {
+      "importer": "gltf-mesh",
+      "uuid": "2b105356-8be6-48dc-bbbb-38978b9e8bf8@7664f",
+      "displayName": "",
+      "id": "7664f",
+      "name": "SM_Veh_HotRod_Wheel_fl.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3a248": {
+      "importer": "gltf-mesh",
+      "uuid": "2b105356-8be6-48dc-bbbb-38978b9e8bf8@3a248",
+      "displayName": "",
+      "id": "3a248",
+      "name": "SM_Veh_HotRod_01_SteeringW.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1a819": {
+      "importer": "gltf-mesh",
+      "uuid": "2b105356-8be6-48dc-bbbb-38978b9e8bf8@1a819",
+      "displayName": "",
+      "id": "1a819",
+      "name": "SM_Veh_HotRod_Suspension_R.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a15f3": {
+      "importer": "gltf-mesh",
+      "uuid": "2b105356-8be6-48dc-bbbb-38978b9e8bf8@a15f3",
+      "displayName": "",
+      "id": "a15f3",
+      "name": "SM_Veh_HotRod_Wheel_fr.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "90a0e": {
+      "importer": "gltf-mesh",
+      "uuid": "2b105356-8be6-48dc-bbbb-38978b9e8bf8@90a0e",
+      "displayName": "",
+      "id": "90a0e",
+      "name": "SM_Veh_HotRod_Wheel_rr.mesh",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c79c1": {
+      "importer": "gltf-mesh",
+      "uuid": "2b105356-8be6-48dc-bbbb-38978b9e8bf8@c79c1",
+      "displayName": "",
+      "id": "c79c1",
+      "name": "SM_Veh_HotRod_Intake_01.mesh",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3a781": {
+      "importer": "gltf-mesh",
+      "uuid": "2b105356-8be6-48dc-bbbb-38978b9e8bf8@3a781",
+      "displayName": "",
+      "id": "3a781",
+      "name": "SM_Veh_HotRod_Intake_Plug_01.mesh",
+      "userData": {
+        "gltfIndex": 9
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0ccff": {
+      "importer": "gltf-mesh",
+      "uuid": "2b105356-8be6-48dc-bbbb-38978b9e8bf8@0ccff",
+      "displayName": "",
+      "id": "0ccff",
+      "name": "SM_Veh_HotRod_Intake_Valve_01.mesh",
+      "userData": {
+        "gltfIndex": 10
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bb9eb": {
+      "importer": "gltf-mesh",
+      "uuid": "2b105356-8be6-48dc-bbbb-38978b9e8bf8@bb9eb",
+      "displayName": "",
+      "id": "bb9eb",
+      "name": "SM_Veh_HotRod_Armour_01.mesh",
+      "userData": {
+        "gltfIndex": 11
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9e008": {
+      "importer": "gltf-mesh",
+      "uuid": "2b105356-8be6-48dc-bbbb-38978b9e8bf8@9e008",
+      "displayName": "",
+      "id": "9e008",
+      "name": "SM_Veh_HotRod_Glass_Armour_01.mesh",
+      "userData": {
+        "gltfIndex": 13
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "37b43": {
+      "importer": "gltf-mesh",
+      "uuid": "2b105356-8be6-48dc-bbbb-38978b9e8bf8@37b43",
+      "displayName": "",
+      "id": "37b43",
+      "name": "SM_Veh_HotRod_Glass_01.mesh",
+      "userData": {
+        "gltfIndex": 14
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5c002": {
+      "importer": "gltf-material",
+      "uuid": "2b105356-8be6-48dc-bbbb-38978b9e8bf8@5c002",
+      "displayName": "",
+      "id": "5c002",
+      "name": "lambert35.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5939a": {
+      "importer": "gltf-scene",
+      "uuid": "2b105356-8be6-48dc-bbbb-38978b9e8bf8@5939a",
+      "displayName": "",
+      "id": "5939a",
+      "name": "SM_Veh_HotRod_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "2b105356-8be6-48dc-bbbb-38978b9e8bf8@5939a",
+    "assetFinder": {
+      "meshes": [
+        "2b105356-8be6-48dc-bbbb-38978b9e8bf8@36630",
+        "2b105356-8be6-48dc-bbbb-38978b9e8bf8@476f0",
+        "2b105356-8be6-48dc-bbbb-38978b9e8bf8@7664f",
+        "2b105356-8be6-48dc-bbbb-38978b9e8bf8@3a248",
+        "2b105356-8be6-48dc-bbbb-38978b9e8bf8@1a819",
+        "2b105356-8be6-48dc-bbbb-38978b9e8bf8@a15f3",
+        "2b105356-8be6-48dc-bbbb-38978b9e8bf8@32014",
+        "2b105356-8be6-48dc-bbbb-38978b9e8bf8@90a0e",
+        "2b105356-8be6-48dc-bbbb-38978b9e8bf8@c79c1",
+        "2b105356-8be6-48dc-bbbb-38978b9e8bf8@3a781",
+        "2b105356-8be6-48dc-bbbb-38978b9e8bf8@0ccff",
+        "2b105356-8be6-48dc-bbbb-38978b9e8bf8@bb9eb",
+        "2b105356-8be6-48dc-bbbb-38978b9e8bf8@71690",
+        "2b105356-8be6-48dc-bbbb-38978b9e8bf8@9e008",
+        "2b105356-8be6-48dc-bbbb-38978b9e8bf8@37b43"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "2b105356-8be6-48dc-bbbb-38978b9e8bf8@5c002"
+      ],
+      "scenes": [
+        "2b105356-8be6-48dc-bbbb-38978b9e8bf8@5939a"
+      ]
+    }
+  }
+}

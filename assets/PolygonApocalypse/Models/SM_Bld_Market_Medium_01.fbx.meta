@@ -1,0 +1,245 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f52cb5e5-eb9e-498c-8439-9aec4b54657f",
+  "files": [],
+  "subMetas": {
+    "94979": {
+      "importer": "gltf-mesh",
+      "uuid": "f52cb5e5-eb9e-498c-8439-9aec4b54657f@94979",
+      "displayName": "",
+      "id": "94979",
+      "name": "SM_Bld_Market_Medium_01_Glass_01.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f895b": {
+      "importer": "gltf-mesh",
+      "uuid": "f52cb5e5-eb9e-498c-8439-9aec4b54657f@f895b",
+      "displayName": "",
+      "id": "f895b",
+      "name": "SM_Bld_Market_Medium_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0b6ed": {
+      "importer": "gltf-mesh",
+      "uuid": "f52cb5e5-eb9e-498c-8439-9aec4b54657f@0b6ed",
+      "displayName": "",
+      "id": "0b6ed",
+      "name": "SM_Bld_Market_Medium_01_Door_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "724ff": {
+      "importer": "gltf-mesh",
+      "uuid": "f52cb5e5-eb9e-498c-8439-9aec4b54657f@724ff",
+      "displayName": "",
+      "id": "724ff",
+      "name": "SM_Bld_Market_Medium_01_Overgrowth_01_Material0.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "f52cb5e5-eb9e-498c-8439-9aec4b54657f@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "e8ca8": {
+      "importer": "gltf-embeded-image",
+      "uuid": "f52cb5e5-eb9e-498c-8439-9aec4b54657f@e8ca8",
+      "displayName": "",
+      "id": "e8ca8",
+      "name": "file1143.image",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "f52cb5e5-eb9e-498c-8439-9aec4b54657f@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1988e": {
+      "importer": "texture",
+      "uuid": "f52cb5e5-eb9e-498c-8439-9aec4b54657f@1988e",
+      "displayName": "",
+      "id": "1988e",
+      "name": "file1143.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "f52cb5e5-eb9e-498c-8439-9aec4b54657f@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2092e": {
+      "importer": "gltf-material",
+      "uuid": "f52cb5e5-eb9e-498c-8439-9aec4b54657f@2092e",
+      "displayName": "",
+      "id": "2092e",
+      "name": "GrassTest.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "377ad": {
+      "importer": "gltf-scene",
+      "uuid": "f52cb5e5-eb9e-498c-8439-9aec4b54657f@377ad",
+      "displayName": "",
+      "id": "377ad",
+      "name": "SM_Bld_Market_Medium_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "f52cb5e5-eb9e-498c-8439-9aec4b54657f@5de53"
+      },
+      {
+        "name": "file1143",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "f52cb5e5-eb9e-498c-8439-9aec4b54657f@e8ca8"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "f52cb5e5-eb9e-498c-8439-9aec4b54657f@377ad",
+    "assetFinder": {
+      "meshes": [
+        "f52cb5e5-eb9e-498c-8439-9aec4b54657f@f895b",
+        "f52cb5e5-eb9e-498c-8439-9aec4b54657f@0b6ed",
+        "f52cb5e5-eb9e-498c-8439-9aec4b54657f@724ff",
+        "f52cb5e5-eb9e-498c-8439-9aec4b54657f@94979"
+      ],
+      "skeletons": [],
+      "textures": [
+        "f52cb5e5-eb9e-498c-8439-9aec4b54657f@988dc",
+        "f52cb5e5-eb9e-498c-8439-9aec4b54657f@1988e"
+      ],
+      "materials": [
+        "f52cb5e5-eb9e-498c-8439-9aec4b54657f@8d883",
+        "f52cb5e5-eb9e-498c-8439-9aec4b54657f@2092e"
+      ],
+      "scenes": [
+        "f52cb5e5-eb9e-498c-8439-9aec4b54657f@377ad"
+      ]
+    }
+  }
+}

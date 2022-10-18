@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f6dc0e75-7f59-40ba-b35c-8f7f1cfc31cf",
+  "files": [],
+  "subMetas": {
+    "9574e": {
+      "importer": "gltf-mesh",
+      "uuid": "f6dc0e75-7f59-40ba-b35c-8f7f1cfc31cf@9574e",
+      "displayName": "",
+      "id": "9574e",
+      "name": "SM_Bld_Bunker_Entrance_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "f6dc0e75-7f59-40ba-b35c-8f7f1cfc31cf@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "f6dc0e75-7f59-40ba-b35c-8f7f1cfc31cf@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "f6dc0e75-7f59-40ba-b35c-8f7f1cfc31cf@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f0110": {
+      "importer": "gltf-scene",
+      "uuid": "f6dc0e75-7f59-40ba-b35c-8f7f1cfc31cf@f0110",
+      "displayName": "",
+      "id": "f0110",
+      "name": "SM_Bld_Bunker_Entrance_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "f6dc0e75-7f59-40ba-b35c-8f7f1cfc31cf@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "f6dc0e75-7f59-40ba-b35c-8f7f1cfc31cf@f0110",
+    "assetFinder": {
+      "meshes": [
+        "f6dc0e75-7f59-40ba-b35c-8f7f1cfc31cf@9574e"
+      ],
+      "skeletons": [],
+      "textures": [
+        "f6dc0e75-7f59-40ba-b35c-8f7f1cfc31cf@988dc"
+      ],
+      "materials": [
+        "f6dc0e75-7f59-40ba-b35c-8f7f1cfc31cf@8d883"
+      ],
+      "scenes": [
+        "f6dc0e75-7f59-40ba-b35c-8f7f1cfc31cf@f0110"
+      ]
+    }
+  }
+}

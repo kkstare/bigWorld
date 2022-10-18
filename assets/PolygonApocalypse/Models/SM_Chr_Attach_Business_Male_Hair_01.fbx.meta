@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f71bfd27-3c83-4450-8c63-f0a94d151c7f",
+  "files": [],
+  "subMetas": {
+    "f74da": {
+      "importer": "gltf-mesh",
+      "uuid": "f71bfd27-3c83-4450-8c63-f0a94d151c7f@f74da",
+      "displayName": "",
+      "id": "f74da",
+      "name": "SM_Chr_Attach_Business_Male_Hair_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5359e": {
+      "importer": "gltf-embeded-image",
+      "uuid": "f71bfd27-3c83-4450-8c63-f0a94d151c7f@5359e",
+      "displayName": "",
+      "id": "5359e",
+      "name": "file510.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "10b9d": {
+      "importer": "texture",
+      "uuid": "f71bfd27-3c83-4450-8c63-f0a94d151c7f@10b9d",
+      "displayName": "",
+      "id": "10b9d",
+      "name": "file510.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "f71bfd27-3c83-4450-8c63-f0a94d151c7f@5359e"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e4809": {
+      "importer": "gltf-material",
+      "uuid": "f71bfd27-3c83-4450-8c63-f0a94d151c7f@e4809",
+      "displayName": "",
+      "id": "e4809",
+      "name": "lambert278.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d236e": {
+      "importer": "gltf-scene",
+      "uuid": "f71bfd27-3c83-4450-8c63-f0a94d151c7f@d236e",
+      "displayName": "",
+      "id": "d236e",
+      "name": "SM_Chr_Attach_Business_Male_Hair_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file510",
+        "uri": "f71bfd27-3c83-4450-8c63-f0a94d151c7f@5359e"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "f71bfd27-3c83-4450-8c63-f0a94d151c7f@d236e",
+    "assetFinder": {
+      "meshes": [
+        "f71bfd27-3c83-4450-8c63-f0a94d151c7f@f74da"
+      ],
+      "skeletons": [],
+      "textures": [
+        "f71bfd27-3c83-4450-8c63-f0a94d151c7f@10b9d"
+      ],
+      "materials": [
+        "f71bfd27-3c83-4450-8c63-f0a94d151c7f@e4809"
+      ],
+      "scenes": [
+        "f71bfd27-3c83-4450-8c63-f0a94d151c7f@d236e"
+      ]
+    }
+  }
+}

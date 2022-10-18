@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "4f20d25f-945c-4ffc-b554-905fc70f7bab",
+  "files": [],
+  "subMetas": {
+    "d7bba": {
+      "importer": "gltf-mesh",
+      "uuid": "4f20d25f-945c-4ffc-b554-905fc70f7bab@d7bba",
+      "displayName": "",
+      "id": "d7bba",
+      "name": "SM_Bld_Bunker_Wood_Floor_Raised_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "4f20d25f-945c-4ffc-b554-905fc70f7bab@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "4f20d25f-945c-4ffc-b554-905fc70f7bab@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "4f20d25f-945c-4ffc-b554-905fc70f7bab@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0bf37": {
+      "importer": "gltf-scene",
+      "uuid": "4f20d25f-945c-4ffc-b554-905fc70f7bab@0bf37",
+      "displayName": "",
+      "id": "0bf37",
+      "name": "SM_Bld_Bunker_Wood_Floor_Raised_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "4f20d25f-945c-4ffc-b554-905fc70f7bab@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "4f20d25f-945c-4ffc-b554-905fc70f7bab@0bf37",
+    "assetFinder": {
+      "meshes": [
+        "4f20d25f-945c-4ffc-b554-905fc70f7bab@d7bba"
+      ],
+      "skeletons": [],
+      "textures": [
+        "4f20d25f-945c-4ffc-b554-905fc70f7bab@988dc"
+      ],
+      "materials": [
+        "4f20d25f-945c-4ffc-b554-905fc70f7bab@8d883"
+      ],
+      "scenes": [
+        "4f20d25f-945c-4ffc-b554-905fc70f7bab@0bf37"
+      ]
+    }
+  }
+}

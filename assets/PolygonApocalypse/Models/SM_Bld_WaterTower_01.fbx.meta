@@ -1,0 +1,190 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ebc166a0-b246-4d31-a603-84453f804c12",
+  "files": [],
+  "subMetas": {
+    "14661": {
+      "importer": "gltf-material",
+      "uuid": "ebc166a0-b246-4d31-a603-84453f804c12@14661",
+      "displayName": "",
+      "id": "14661",
+      "name": "A_Wire.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "38577": {
+      "importer": "texture",
+      "uuid": "ebc166a0-b246-4d31-a603-84453f804c12@38577",
+      "displayName": "",
+      "id": "38577",
+      "name": "file1135.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "ebc166a0-b246-4d31-a603-84453f804c12@209c7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e55ab": {
+      "importer": "gltf-mesh",
+      "uuid": "ebc166a0-b246-4d31-a603-84453f804c12@e55ab",
+      "displayName": "",
+      "id": "e55ab",
+      "name": "SM_Bld_WaterTower_01_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "ebc166a0-b246-4d31-a603-84453f804c12@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "209c7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "ebc166a0-b246-4d31-a603-84453f804c12@209c7",
+      "displayName": "",
+      "id": "209c7",
+      "name": "file1135.image",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "ebc166a0-b246-4d31-a603-84453f804c12@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "ebc166a0-b246-4d31-a603-84453f804c12@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c4a28": {
+      "importer": "gltf-scene",
+      "uuid": "ebc166a0-b246-4d31-a603-84453f804c12@c4a28",
+      "displayName": "",
+      "id": "c4a28",
+      "name": "SM_Bld_WaterTower_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "ebc166a0-b246-4d31-a603-84453f804c12@5de53"
+      },
+      {
+        "name": "file1135",
+        "uri": "ebc166a0-b246-4d31-a603-84453f804c12@209c7"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "ebc166a0-b246-4d31-a603-84453f804c12@c4a28",
+    "assetFinder": {
+      "meshes": [
+        "ebc166a0-b246-4d31-a603-84453f804c12@e55ab"
+      ],
+      "skeletons": [],
+      "textures": [
+        "ebc166a0-b246-4d31-a603-84453f804c12@988dc",
+        "ebc166a0-b246-4d31-a603-84453f804c12@38577"
+      ],
+      "materials": [
+        "ebc166a0-b246-4d31-a603-84453f804c12@8d883",
+        "ebc166a0-b246-4d31-a603-84453f804c12@14661"
+      ],
+      "scenes": [
+        "ebc166a0-b246-4d31-a603-84453f804c12@c4a28"
+      ]
+    }
+  }
+}

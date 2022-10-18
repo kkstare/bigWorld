@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "83c561de-8676-4578-83a0-76cf0b1c9c33",
+  "files": [],
+  "subMetas": {
+    "7f2be": {
+      "importer": "gltf-mesh",
+      "uuid": "83c561de-8676-4578-83a0-76cf0b1c9c33@7f2be",
+      "displayName": "",
+      "id": "7f2be",
+      "name": "SM_Wep_Melee_Spear_Wood_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e43a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "83c561de-8676-4578-83a0-76cf0b1c9c33@1e43a",
+      "displayName": "",
+      "id": "1e43a",
+      "name": "file1198.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "05eac": {
+      "importer": "texture",
+      "uuid": "83c561de-8676-4578-83a0-76cf0b1c9c33@05eac",
+      "displayName": "",
+      "id": "05eac",
+      "name": "file1198.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5bd2": {
+      "importer": "gltf-material",
+      "uuid": "83c561de-8676-4578-83a0-76cf0b1c9c33@a5bd2",
+      "displayName": "",
+      "id": "a5bd2",
+      "name": "lambert.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "05aef": {
+      "importer": "gltf-scene",
+      "uuid": "83c561de-8676-4578-83a0-76cf0b1c9c33@05aef",
+      "displayName": "",
+      "id": "05aef",
+      "name": "SM_Wep_Melee_Spear_Wood_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1198",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "83c561de-8676-4578-83a0-76cf0b1c9c33@1e43a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "83c561de-8676-4578-83a0-76cf0b1c9c33@05aef",
+    "assetFinder": {
+      "meshes": [
+        "83c561de-8676-4578-83a0-76cf0b1c9c33@7f2be"
+      ],
+      "skeletons": [],
+      "textures": [
+        "83c561de-8676-4578-83a0-76cf0b1c9c33@05eac"
+      ],
+      "materials": [
+        "83c561de-8676-4578-83a0-76cf0b1c9c33@a5bd2"
+      ],
+      "scenes": [
+        "83c561de-8676-4578-83a0-76cf0b1c9c33@05aef"
+      ]
+    }
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e2152574-86a1-4462-86dd-d051fc187809",
+  "files": [],
+  "subMetas": {
+    "23215": {
+      "importer": "gltf-embeded-image",
+      "uuid": "e2152574-86a1-4462-86dd-d051fc187809@23215",
+      "displayName": "",
+      "id": "23215",
+      "name": "file1031.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "53163": {
+      "importer": "gltf-mesh",
+      "uuid": "e2152574-86a1-4462-86dd-d051fc187809@53163",
+      "displayName": "",
+      "id": "53163",
+      "name": "SM_Prop_WashingMachine_01_Glass.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6659e": {
+      "importer": "gltf-mesh",
+      "uuid": "e2152574-86a1-4462-86dd-d051fc187809@6659e",
+      "displayName": "",
+      "id": "6659e",
+      "name": "SM_Prop_WashingMachine_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5691d": {
+      "importer": "texture",
+      "uuid": "e2152574-86a1-4462-86dd-d051fc187809@5691d",
+      "displayName": "",
+      "id": "5691d",
+      "name": "file1031.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "e2152574-86a1-4462-86dd-d051fc187809@23215"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "38a38": {
+      "importer": "gltf-material",
+      "uuid": "e2152574-86a1-4462-86dd-d051fc187809@38a38",
+      "displayName": "",
+      "id": "38a38",
+      "name": "lambert886.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b9ea2": {
+      "importer": "gltf-scene",
+      "uuid": "e2152574-86a1-4462-86dd-d051fc187809@b9ea2",
+      "displayName": "",
+      "id": "b9ea2",
+      "name": "SM_Prop_WashingMachine_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1031",
+        "uri": "e2152574-86a1-4462-86dd-d051fc187809@23215"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "e2152574-86a1-4462-86dd-d051fc187809@b9ea2",
+    "assetFinder": {
+      "meshes": [
+        "e2152574-86a1-4462-86dd-d051fc187809@6659e",
+        "e2152574-86a1-4462-86dd-d051fc187809@53163"
+      ],
+      "skeletons": [],
+      "textures": [
+        "e2152574-86a1-4462-86dd-d051fc187809@5691d"
+      ],
+      "materials": [
+        "e2152574-86a1-4462-86dd-d051fc187809@38a38"
+      ],
+      "scenes": [
+        "e2152574-86a1-4462-86dd-d051fc187809@b9ea2"
+      ]
+    }
+  }
+}

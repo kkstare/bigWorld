@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d7a38f76-701e-4715-9d40-12583e5846df",
+  "files": [],
+  "subMetas": {
+    "71a3d": {
+      "importer": "gltf-mesh",
+      "uuid": "d7a38f76-701e-4715-9d40-12583e5846df@71a3d",
+      "displayName": "",
+      "id": "71a3d",
+      "name": "SM_Wep_Katana_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e43a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d7a38f76-701e-4715-9d40-12583e5846df@1e43a",
+      "displayName": "",
+      "id": "1e43a",
+      "name": "file1198.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "05eac": {
+      "importer": "texture",
+      "uuid": "d7a38f76-701e-4715-9d40-12583e5846df@05eac",
+      "displayName": "",
+      "id": "05eac",
+      "name": "file1198.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5bd2": {
+      "importer": "gltf-material",
+      "uuid": "d7a38f76-701e-4715-9d40-12583e5846df@a5bd2",
+      "displayName": "",
+      "id": "a5bd2",
+      "name": "lambert.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0460c": {
+      "importer": "gltf-scene",
+      "uuid": "d7a38f76-701e-4715-9d40-12583e5846df@0460c",
+      "displayName": "",
+      "id": "0460c",
+      "name": "SM_Wep_Katana_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1198",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "d7a38f76-701e-4715-9d40-12583e5846df@1e43a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "d7a38f76-701e-4715-9d40-12583e5846df@0460c",
+    "assetFinder": {
+      "meshes": [
+        "d7a38f76-701e-4715-9d40-12583e5846df@71a3d"
+      ],
+      "skeletons": [],
+      "textures": [
+        "d7a38f76-701e-4715-9d40-12583e5846df@05eac"
+      ],
+      "materials": [
+        "d7a38f76-701e-4715-9d40-12583e5846df@a5bd2"
+      ],
+      "scenes": [
+        "d7a38f76-701e-4715-9d40-12583e5846df@0460c"
+      ]
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "2492e89b-67b8-411e-8682-82df4e6081b8",
+  "files": [],
+  "subMetas": {
+    "58336": {
+      "importer": "gltf-mesh",
+      "uuid": "2492e89b-67b8-411e-8682-82df4e6081b8@58336",
+      "displayName": "",
+      "id": "58336",
+      "name": "SM_Prop_FlowerPot_05.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e942": {
+      "importer": "gltf-embeded-image",
+      "uuid": "2492e89b-67b8-411e-8682-82df4e6081b8@1e942",
+      "displayName": "",
+      "id": "1e942",
+      "name": "Copter:file112.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "585d0": {
+      "importer": "texture",
+      "uuid": "2492e89b-67b8-411e-8682-82df4e6081b8@585d0",
+      "displayName": "",
+      "id": "585d0",
+      "name": "Copter:file112.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "2492e89b-67b8-411e-8682-82df4e6081b8@1e942"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a3ca": {
+      "importer": "gltf-material",
+      "uuid": "2492e89b-67b8-411e-8682-82df4e6081b8@7a3ca",
+      "displayName": "",
+      "id": "7a3ca",
+      "name": "lambert2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4b305": {
+      "importer": "gltf-scene",
+      "uuid": "2492e89b-67b8-411e-8682-82df4e6081b8@4b305",
+      "displayName": "",
+      "id": "4b305",
+      "name": "SM_Prop_FlowerPot_05.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Copter:file112",
+        "uri": "2492e89b-67b8-411e-8682-82df4e6081b8@1e942"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "2492e89b-67b8-411e-8682-82df4e6081b8@4b305",
+    "assetFinder": {
+      "meshes": [
+        "2492e89b-67b8-411e-8682-82df4e6081b8@58336"
+      ],
+      "skeletons": [],
+      "textures": [
+        "2492e89b-67b8-411e-8682-82df4e6081b8@585d0"
+      ],
+      "materials": [
+        "2492e89b-67b8-411e-8682-82df4e6081b8@7a3ca"
+      ],
+      "scenes": [
+        "2492e89b-67b8-411e-8682-82df4e6081b8@4b305"
+      ]
+    }
+  }
+}

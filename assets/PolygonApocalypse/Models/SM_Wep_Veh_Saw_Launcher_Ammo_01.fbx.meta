@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "4d50bb2b-6c9c-4056-9dfe-3cca7f59bf0d",
+  "files": [],
+  "subMetas": {
+    "d5064": {
+      "importer": "gltf-mesh",
+      "uuid": "4d50bb2b-6c9c-4056-9dfe-3cca7f59bf0d@d5064",
+      "displayName": "",
+      "id": "d5064",
+      "name": "SM_Wep_Veh_Saw_Launcher_Ammo_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d2dd0": {
+      "importer": "gltf-material",
+      "uuid": "4d50bb2b-6c9c-4056-9dfe-3cca7f59bf0d@d2dd0",
+      "displayName": "",
+      "id": "d2dd0",
+      "name": "pasted__lambert98.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5b28c": {
+      "importer": "gltf-scene",
+      "uuid": "4d50bb2b-6c9c-4056-9dfe-3cca7f59bf0d@5b28c",
+      "displayName": "",
+      "id": "5b28c",
+      "name": "SM_Wep_Veh_Saw_Launcher_Ammo_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "4d50bb2b-6c9c-4056-9dfe-3cca7f59bf0d@5b28c",
+    "assetFinder": {
+      "meshes": [
+        "4d50bb2b-6c9c-4056-9dfe-3cca7f59bf0d@d5064"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "4d50bb2b-6c9c-4056-9dfe-3cca7f59bf0d@d2dd0"
+      ],
+      "scenes": [
+        "4d50bb2b-6c9c-4056-9dfe-3cca7f59bf0d@5b28c"
+      ]
+    }
+  }
+}

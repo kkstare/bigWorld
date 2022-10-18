@@ -1,0 +1,332 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "521d5c43-76be-42d0-8749-9761ed195c13",
+  "files": [],
+  "subMetas": {
+    "40e34": {
+      "importer": "gltf-mesh",
+      "uuid": "521d5c43-76be-42d0-8749-9761ed195c13@40e34",
+      "displayName": "",
+      "id": "40e34",
+      "name": "SM_Veh_Army_Truck_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "09518": {
+      "importer": "gltf-mesh",
+      "uuid": "521d5c43-76be-42d0-8749-9761ed195c13@09518",
+      "displayName": "",
+      "id": "09518",
+      "name": "SM_Veh_Army_Truck_Wheel_rl_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6381c": {
+      "importer": "gltf-mesh",
+      "uuid": "521d5c43-76be-42d0-8749-9761ed195c13@6381c",
+      "displayName": "",
+      "id": "6381c",
+      "name": "SM_Veh_Army_Truck_Wheel_fr.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0501e": {
+      "importer": "gltf-mesh",
+      "uuid": "521d5c43-76be-42d0-8749-9761ed195c13@0501e",
+      "displayName": "",
+      "id": "0501e",
+      "name": "SM_Veh_Army_Truck_Trailer_01.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b3fbb": {
+      "importer": "gltf-mesh",
+      "uuid": "521d5c43-76be-42d0-8749-9761ed195c13@b3fbb",
+      "displayName": "",
+      "id": "b3fbb",
+      "name": "SM_Veh_Army_Truck_Wheel_rr_01.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "63ea9": {
+      "importer": "gltf-mesh",
+      "uuid": "521d5c43-76be-42d0-8749-9761ed195c13@63ea9",
+      "displayName": "",
+      "id": "63ea9",
+      "name": "SM_Veh_Army_Truck_Wheel_rr_02.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "853b1": {
+      "importer": "gltf-mesh",
+      "uuid": "521d5c43-76be-42d0-8749-9761ed195c13@853b1",
+      "displayName": "",
+      "id": "853b1",
+      "name": "SM_Veh_Army_Truck_Wheel_fl.mesh",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3d8ee": {
+      "importer": "gltf-mesh",
+      "uuid": "521d5c43-76be-42d0-8749-9761ed195c13@3d8ee",
+      "displayName": "",
+      "id": "3d8ee",
+      "name": "SM_Veh_Army_Truck_Glass_01.mesh",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2a73a": {
+      "importer": "gltf-mesh",
+      "uuid": "521d5c43-76be-42d0-8749-9761ed195c13@2a73a",
+      "displayName": "",
+      "id": "2a73a",
+      "name": "SM_Veh_Army_Truck_Wheel_rl_02.mesh",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "79ad3": {
+      "importer": "gltf-mesh",
+      "uuid": "521d5c43-76be-42d0-8749-9761ed195c13@79ad3",
+      "displayName": "",
+      "id": "79ad3",
+      "name": "SM_Veh_Army_Truck_Canopy_01.mesh",
+      "userData": {
+        "gltfIndex": 9
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2343a": {
+      "importer": "gltf-mesh",
+      "uuid": "521d5c43-76be-42d0-8749-9761ed195c13@2343a",
+      "displayName": "",
+      "id": "2343a",
+      "name": "SM_Veh_Army_Truck_Tank_01.mesh",
+      "userData": {
+        "gltfIndex": 10
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8990b": {
+      "importer": "gltf-mesh",
+      "uuid": "521d5c43-76be-42d0-8749-9761ed195c13@8990b",
+      "displayName": "",
+      "id": "8990b",
+      "name": "SM_Veh_Army_Truck_Trailer_Gate_01.mesh",
+      "userData": {
+        "gltfIndex": 11
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "615a6": {
+      "importer": "gltf-mesh",
+      "uuid": "521d5c43-76be-42d0-8749-9761ed195c13@615a6",
+      "displayName": "",
+      "id": "615a6",
+      "name": "SM_Veh_Army_Truck_01_SteeringW.mesh",
+      "userData": {
+        "gltfIndex": 12
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "258e3": {
+      "importer": "gltf-mesh",
+      "uuid": "521d5c43-76be-42d0-8749-9761ed195c13@258e3",
+      "displayName": "",
+      "id": "258e3",
+      "name": "SM_Veh_Army_Truck_Armour_01.mesh",
+      "userData": {
+        "gltfIndex": 13
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5cbe8": {
+      "importer": "gltf-mesh",
+      "uuid": "521d5c43-76be-42d0-8749-9761ed195c13@5cbe8",
+      "displayName": "",
+      "id": "5cbe8",
+      "name": "SM_Veh_Army_Truck_Glass_Armour_01.mesh",
+      "userData": {
+        "gltfIndex": 14
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e18d5": {
+      "importer": "gltf-material",
+      "uuid": "521d5c43-76be-42d0-8749-9761ed195c13@e18d5",
+      "displayName": "",
+      "id": "e18d5",
+      "name": "lambert32.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "50cf4": {
+      "importer": "gltf-scene",
+      "uuid": "521d5c43-76be-42d0-8749-9761ed195c13@50cf4",
+      "displayName": "",
+      "id": "50cf4",
+      "name": "SM_Veh_Army_Truck_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "521d5c43-76be-42d0-8749-9761ed195c13@50cf4",
+    "assetFinder": {
+      "meshes": [
+        "521d5c43-76be-42d0-8749-9761ed195c13@40e34",
+        "521d5c43-76be-42d0-8749-9761ed195c13@09518",
+        "521d5c43-76be-42d0-8749-9761ed195c13@6381c",
+        "521d5c43-76be-42d0-8749-9761ed195c13@0501e",
+        "521d5c43-76be-42d0-8749-9761ed195c13@b3fbb",
+        "521d5c43-76be-42d0-8749-9761ed195c13@63ea9",
+        "521d5c43-76be-42d0-8749-9761ed195c13@853b1",
+        "521d5c43-76be-42d0-8749-9761ed195c13@3d8ee",
+        "521d5c43-76be-42d0-8749-9761ed195c13@2a73a",
+        "521d5c43-76be-42d0-8749-9761ed195c13@79ad3",
+        "521d5c43-76be-42d0-8749-9761ed195c13@2343a",
+        "521d5c43-76be-42d0-8749-9761ed195c13@8990b",
+        "521d5c43-76be-42d0-8749-9761ed195c13@615a6",
+        "521d5c43-76be-42d0-8749-9761ed195c13@258e3",
+        "521d5c43-76be-42d0-8749-9761ed195c13@5cbe8"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "521d5c43-76be-42d0-8749-9761ed195c13@e18d5"
+      ],
+      "scenes": [
+        "521d5c43-76be-42d0-8749-9761ed195c13@50cf4"
+      ]
+    }
+  }
+}

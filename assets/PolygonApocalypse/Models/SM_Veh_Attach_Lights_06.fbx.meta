@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "800453bc-3cd2-42d8-81e3-333b0928aa0a",
+  "files": [],
+  "subMetas": {
+    "545d3": {
+      "importer": "gltf-mesh",
+      "uuid": "800453bc-3cd2-42d8-81e3-333b0928aa0a@545d3",
+      "displayName": "",
+      "id": "545d3",
+      "name": "SM_Veh_Attach_Lights_06.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5a410": {
+      "importer": "gltf-material",
+      "uuid": "800453bc-3cd2-42d8-81e3-333b0928aa0a@5a410",
+      "displayName": "",
+      "id": "5a410",
+      "name": "__BloodDecal1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "af53b": {
+      "importer": "gltf-scene",
+      "uuid": "800453bc-3cd2-42d8-81e3-333b0928aa0a@af53b",
+      "displayName": "",
+      "id": "af53b",
+      "name": "SM_Veh_Attach_Lights_06.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "800453bc-3cd2-42d8-81e3-333b0928aa0a@af53b",
+    "assetFinder": {
+      "meshes": [
+        "800453bc-3cd2-42d8-81e3-333b0928aa0a@545d3"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "800453bc-3cd2-42d8-81e3-333b0928aa0a@5a410"
+      ],
+      "scenes": [
+        "800453bc-3cd2-42d8-81e3-333b0928aa0a@af53b"
+      ]
+    }
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e52a6d31-64bc-43b0-ad1b-197fb50191ce",
+  "files": [],
+  "subMetas": {
+    "7a486": {
+      "importer": "gltf-mesh",
+      "uuid": "e52a6d31-64bc-43b0-ad1b-197fb50191ce@7a486",
+      "displayName": "",
+      "id": "7a486",
+      "name": "SM_Bld_AutoRepair_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d2f74": {
+      "importer": "gltf-mesh",
+      "uuid": "e52a6d31-64bc-43b0-ad1b-197fb50191ce@d2f74",
+      "displayName": "",
+      "id": "d2f74",
+      "name": "SM_Bld_AutoRepair_01_Overgrowth_01_Material0.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "26f83": {
+      "importer": "gltf-mesh",
+      "uuid": "e52a6d31-64bc-43b0-ad1b-197fb50191ce@26f83",
+      "displayName": "",
+      "id": "26f83",
+      "name": "SM_Bld_AutoRepair_01_Door_02.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c3267": {
+      "importer": "gltf-mesh",
+      "uuid": "e52a6d31-64bc-43b0-ad1b-197fb50191ce@c3267",
+      "displayName": "",
+      "id": "c3267",
+      "name": "SM_Bld_AutoRepair_01_Door_01.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "28c45": {
+      "importer": "gltf-mesh",
+      "uuid": "e52a6d31-64bc-43b0-ad1b-197fb50191ce@28c45",
+      "displayName": "",
+      "id": "28c45",
+      "name": "SM_Bld_AutoRepair_01_Glass_01.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "e52a6d31-64bc-43b0-ad1b-197fb50191ce@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "e8ca8": {
+      "importer": "gltf-embeded-image",
+      "uuid": "e52a6d31-64bc-43b0-ad1b-197fb50191ce@e8ca8",
+      "displayName": "",
+      "id": "e8ca8",
+      "name": "file1143.image",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "e52a6d31-64bc-43b0-ad1b-197fb50191ce@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1988e": {
+      "importer": "texture",
+      "uuid": "e52a6d31-64bc-43b0-ad1b-197fb50191ce@1988e",
+      "displayName": "",
+      "id": "1988e",
+      "name": "file1143.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "e52a6d31-64bc-43b0-ad1b-197fb50191ce@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2092e": {
+      "importer": "gltf-material",
+      "uuid": "e52a6d31-64bc-43b0-ad1b-197fb50191ce@2092e",
+      "displayName": "",
+      "id": "2092e",
+      "name": "GrassTest.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "05daf": {
+      "importer": "gltf-scene",
+      "uuid": "e52a6d31-64bc-43b0-ad1b-197fb50191ce@05daf",
+      "displayName": "",
+      "id": "05daf",
+      "name": "SM_Bld_AutoRepair_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "e52a6d31-64bc-43b0-ad1b-197fb50191ce@5de53"
+      },
+      {
+        "name": "file1143",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "e52a6d31-64bc-43b0-ad1b-197fb50191ce@e8ca8"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "e52a6d31-64bc-43b0-ad1b-197fb50191ce@05daf",
+    "assetFinder": {
+      "meshes": [
+        "e52a6d31-64bc-43b0-ad1b-197fb50191ce@7a486",
+        "e52a6d31-64bc-43b0-ad1b-197fb50191ce@d2f74",
+        "e52a6d31-64bc-43b0-ad1b-197fb50191ce@26f83",
+        "e52a6d31-64bc-43b0-ad1b-197fb50191ce@c3267",
+        "e52a6d31-64bc-43b0-ad1b-197fb50191ce@28c45"
+      ],
+      "skeletons": [],
+      "textures": [
+        "e52a6d31-64bc-43b0-ad1b-197fb50191ce@988dc",
+        "e52a6d31-64bc-43b0-ad1b-197fb50191ce@1988e"
+      ],
+      "materials": [
+        "e52a6d31-64bc-43b0-ad1b-197fb50191ce@8d883",
+        "e52a6d31-64bc-43b0-ad1b-197fb50191ce@2092e"
+      ],
+      "scenes": [
+        "e52a6d31-64bc-43b0-ad1b-197fb50191ce@05daf"
+      ]
+    }
+  }
+}

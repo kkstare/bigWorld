@@ -1,0 +1,146 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c54a4d10-97fb-4a20-b4ee-fcfeed43d737",
+  "files": [],
+  "subMetas": {
+    "a2ab5": {
+      "importer": "gltf-mesh",
+      "uuid": "c54a4d10-97fb-4a20-b4ee-fcfeed43d737@a2ab5",
+      "displayName": "",
+      "id": "a2ab5",
+      "name": "SM_Wep_WoodAxe_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bbdb6": {
+      "importer": "gltf-mesh",
+      "uuid": "c54a4d10-97fb-4a20-b4ee-fcfeed43d737@bbdb6",
+      "displayName": "",
+      "id": "bbdb6",
+      "name": "SM_Wep_WoodAxe_Guard_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e43a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c54a4d10-97fb-4a20-b4ee-fcfeed43d737@1e43a",
+      "displayName": "",
+      "id": "1e43a",
+      "name": "file1198.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "05eac": {
+      "importer": "texture",
+      "uuid": "c54a4d10-97fb-4a20-b4ee-fcfeed43d737@05eac",
+      "displayName": "",
+      "id": "05eac",
+      "name": "file1198.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5bd2": {
+      "importer": "gltf-material",
+      "uuid": "c54a4d10-97fb-4a20-b4ee-fcfeed43d737@a5bd2",
+      "displayName": "",
+      "id": "a5bd2",
+      "name": "lambert.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e6bdf": {
+      "importer": "gltf-scene",
+      "uuid": "c54a4d10-97fb-4a20-b4ee-fcfeed43d737@e6bdf",
+      "displayName": "",
+      "id": "e6bdf",
+      "name": "SM_Wep_WoodAxe_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1198",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "c54a4d10-97fb-4a20-b4ee-fcfeed43d737@1e43a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "c54a4d10-97fb-4a20-b4ee-fcfeed43d737@e6bdf",
+    "assetFinder": {
+      "meshes": [
+        "c54a4d10-97fb-4a20-b4ee-fcfeed43d737@a2ab5",
+        "c54a4d10-97fb-4a20-b4ee-fcfeed43d737@bbdb6"
+      ],
+      "skeletons": [],
+      "textures": [
+        "c54a4d10-97fb-4a20-b4ee-fcfeed43d737@05eac"
+      ],
+      "materials": [
+        "c54a4d10-97fb-4a20-b4ee-fcfeed43d737@a5bd2"
+      ],
+      "scenes": [
+        "c54a4d10-97fb-4a20-b4ee-fcfeed43d737@e6bdf"
+      ]
+    }
+  }
+}

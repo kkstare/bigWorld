@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "17d0b69c-c7b7-4ab5-a553-8c92dea6aab2",
+  "files": [],
+  "subMetas": {
+    "2ff7b": {
+      "importer": "gltf-mesh",
+      "uuid": "17d0b69c-c7b7-4ab5-a553-8c92dea6aab2@2ff7b",
+      "displayName": "",
+      "id": "2ff7b",
+      "name": "SM_Chr_Attach_RiotCop_Male_Hair_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c64fb": {
+      "importer": "gltf-material",
+      "uuid": "17d0b69c-c7b7-4ab5-a553-8c92dea6aab2@c64fb",
+      "displayName": "",
+      "id": "c64fb",
+      "name": "BloodDecal30.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5dd09": {
+      "importer": "gltf-scene",
+      "uuid": "17d0b69c-c7b7-4ab5-a553-8c92dea6aab2@5dd09",
+      "displayName": "",
+      "id": "5dd09",
+      "name": "SM_Chr_Attach_RiotCop_Male_Hair_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "17d0b69c-c7b7-4ab5-a553-8c92dea6aab2@5dd09",
+    "assetFinder": {
+      "meshes": [
+        "17d0b69c-c7b7-4ab5-a553-8c92dea6aab2@2ff7b"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "17d0b69c-c7b7-4ab5-a553-8c92dea6aab2@c64fb"
+      ],
+      "scenes": [
+        "17d0b69c-c7b7-4ab5-a553-8c92dea6aab2@5dd09"
+      ]
+    }
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e1d47b2b-9ce7-47ac-a6c4-84dc1f9af935",
+  "files": [],
+  "subMetas": {
+    "8d1dd": {
+      "importer": "gltf-mesh",
+      "uuid": "e1d47b2b-9ce7-47ac-a6c4-84dc1f9af935@8d1dd",
+      "displayName": "",
+      "id": "8d1dd",
+      "name": "SM_Prop_WheelChair_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "085aa": {
+      "importer": "gltf-mesh",
+      "uuid": "e1d47b2b-9ce7-47ac-a6c4-84dc1f9af935@085aa",
+      "displayName": "",
+      "id": "085aa",
+      "name": "SM_Prop_WheelChair_Wheel_rl.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0a2ef": {
+      "importer": "gltf-mesh",
+      "uuid": "e1d47b2b-9ce7-47ac-a6c4-84dc1f9af935@0a2ef",
+      "displayName": "",
+      "id": "0a2ef",
+      "name": "SM_Prop_WheelChair_Wheel_fr.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3aecb": {
+      "importer": "gltf-mesh",
+      "uuid": "e1d47b2b-9ce7-47ac-a6c4-84dc1f9af935@3aecb",
+      "displayName": "",
+      "id": "3aecb",
+      "name": "SM_Prop_WheelChair_Wheel_fl.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0a22f": {
+      "importer": "gltf-mesh",
+      "uuid": "e1d47b2b-9ce7-47ac-a6c4-84dc1f9af935@0a22f",
+      "displayName": "",
+      "id": "0a22f",
+      "name": "SM_Prop_WheelChair_Wheel_rr.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "e1d47b2b-9ce7-47ac-a6c4-84dc1f9af935@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "e1d47b2b-9ce7-47ac-a6c4-84dc1f9af935@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "e1d47b2b-9ce7-47ac-a6c4-84dc1f9af935@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e9a3d": {
+      "importer": "gltf-scene",
+      "uuid": "e1d47b2b-9ce7-47ac-a6c4-84dc1f9af935@e9a3d",
+      "displayName": "",
+      "id": "e9a3d",
+      "name": "SM_Prop_WheelChair_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "e1d47b2b-9ce7-47ac-a6c4-84dc1f9af935@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "e1d47b2b-9ce7-47ac-a6c4-84dc1f9af935@e9a3d",
+    "assetFinder": {
+      "meshes": [
+        "e1d47b2b-9ce7-47ac-a6c4-84dc1f9af935@8d1dd",
+        "e1d47b2b-9ce7-47ac-a6c4-84dc1f9af935@085aa",
+        "e1d47b2b-9ce7-47ac-a6c4-84dc1f9af935@0a2ef",
+        "e1d47b2b-9ce7-47ac-a6c4-84dc1f9af935@3aecb",
+        "e1d47b2b-9ce7-47ac-a6c4-84dc1f9af935@0a22f"
+      ],
+      "skeletons": [],
+      "textures": [
+        "e1d47b2b-9ce7-47ac-a6c4-84dc1f9af935@988dc"
+      ],
+      "materials": [
+        "e1d47b2b-9ce7-47ac-a6c4-84dc1f9af935@8d883"
+      ],
+      "scenes": [
+        "e1d47b2b-9ce7-47ac-a6c4-84dc1f9af935@e9a3d"
+      ]
+    }
+  }
+}

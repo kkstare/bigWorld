@@ -1,0 +1,163 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "31beb7ca-9cfc-447d-a845-228a137536d6",
+  "files": [],
+  "subMetas": {
+    "56886": {
+      "importer": "gltf-mesh",
+      "uuid": "31beb7ca-9cfc-447d-a845-228a137536d6@56886",
+      "displayName": "",
+      "id": "56886",
+      "name": "SM_Prop_Medical_Container_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e3007": {
+      "importer": "gltf-mesh",
+      "uuid": "31beb7ca-9cfc-447d-a845-228a137536d6@e3007",
+      "displayName": "",
+      "id": "e3007",
+      "name": "SM_Prop_Medical_Container_Handle_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e4db4": {
+      "importer": "gltf-mesh",
+      "uuid": "31beb7ca-9cfc-447d-a845-228a137536d6@e4db4",
+      "displayName": "",
+      "id": "e4db4",
+      "name": "SM_Prop_Medical_Container_Lid_01.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e942": {
+      "importer": "gltf-embeded-image",
+      "uuid": "31beb7ca-9cfc-447d-a845-228a137536d6@1e942",
+      "displayName": "",
+      "id": "1e942",
+      "name": "Copter:file112.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "585d0": {
+      "importer": "texture",
+      "uuid": "31beb7ca-9cfc-447d-a845-228a137536d6@585d0",
+      "displayName": "",
+      "id": "585d0",
+      "name": "Copter:file112.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "31beb7ca-9cfc-447d-a845-228a137536d6@1e942"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a3ca": {
+      "importer": "gltf-material",
+      "uuid": "31beb7ca-9cfc-447d-a845-228a137536d6@7a3ca",
+      "displayName": "",
+      "id": "7a3ca",
+      "name": "lambert2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1a27a": {
+      "importer": "gltf-scene",
+      "uuid": "31beb7ca-9cfc-447d-a845-228a137536d6@1a27a",
+      "displayName": "",
+      "id": "1a27a",
+      "name": "SM_Prop_Medical_Container_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Copter:file112",
+        "uri": "31beb7ca-9cfc-447d-a845-228a137536d6@1e942"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "31beb7ca-9cfc-447d-a845-228a137536d6@1a27a",
+    "assetFinder": {
+      "meshes": [
+        "31beb7ca-9cfc-447d-a845-228a137536d6@56886",
+        "31beb7ca-9cfc-447d-a845-228a137536d6@e3007",
+        "31beb7ca-9cfc-447d-a845-228a137536d6@e4db4"
+      ],
+      "skeletons": [],
+      "textures": [
+        "31beb7ca-9cfc-447d-a845-228a137536d6@585d0"
+      ],
+      "materials": [
+        "31beb7ca-9cfc-447d-a845-228a137536d6@7a3ca"
+      ],
+      "scenes": [
+        "31beb7ca-9cfc-447d-a845-228a137536d6@1a27a"
+      ]
+    }
+  }
+}

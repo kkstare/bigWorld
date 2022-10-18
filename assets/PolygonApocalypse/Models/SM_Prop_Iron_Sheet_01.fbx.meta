@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f4f2eada-0024-4b21-a91f-f9a0854c8b47",
+  "files": [],
+  "subMetas": {
+    "58408": {
+      "importer": "gltf-mesh",
+      "uuid": "f4f2eada-0024-4b21-a91f-f9a0854c8b47@58408",
+      "displayName": "",
+      "id": "58408",
+      "name": "SM_Prop_Iron_Sheet_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "f4f2eada-0024-4b21-a91f-f9a0854c8b47@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "f4f2eada-0024-4b21-a91f-f9a0854c8b47@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "f4f2eada-0024-4b21-a91f-f9a0854c8b47@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f2b2a": {
+      "importer": "gltf-scene",
+      "uuid": "f4f2eada-0024-4b21-a91f-f9a0854c8b47@f2b2a",
+      "displayName": "",
+      "id": "f2b2a",
+      "name": "SM_Prop_Iron_Sheet_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "f4f2eada-0024-4b21-a91f-f9a0854c8b47@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "f4f2eada-0024-4b21-a91f-f9a0854c8b47@f2b2a",
+    "assetFinder": {
+      "meshes": [
+        "f4f2eada-0024-4b21-a91f-f9a0854c8b47@58408"
+      ],
+      "skeletons": [],
+      "textures": [
+        "f4f2eada-0024-4b21-a91f-f9a0854c8b47@988dc"
+      ],
+      "materials": [
+        "f4f2eada-0024-4b21-a91f-f9a0854c8b47@8d883"
+      ],
+      "scenes": [
+        "f4f2eada-0024-4b21-a91f-f9a0854c8b47@f2b2a"
+      ]
+    }
+  }
+}

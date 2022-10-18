@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c3bff714-4aa5-4987-ae20-1525f652956b",
+  "files": [],
+  "subMetas": {
+    "23215": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c3bff714-4aa5-4987-ae20-1525f652956b@23215",
+      "displayName": "",
+      "id": "23215",
+      "name": "file1031.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "15b2e": {
+      "importer": "gltf-mesh",
+      "uuid": "c3bff714-4aa5-4987-ae20-1525f652956b@15b2e",
+      "displayName": "",
+      "id": "15b2e",
+      "name": "SM_Prop_Grill_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5691d": {
+      "importer": "texture",
+      "uuid": "c3bff714-4aa5-4987-ae20-1525f652956b@5691d",
+      "displayName": "",
+      "id": "5691d",
+      "name": "file1031.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c3bff714-4aa5-4987-ae20-1525f652956b@23215"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "38a38": {
+      "importer": "gltf-material",
+      "uuid": "c3bff714-4aa5-4987-ae20-1525f652956b@38a38",
+      "displayName": "",
+      "id": "38a38",
+      "name": "lambert886.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5f64d": {
+      "importer": "gltf-scene",
+      "uuid": "c3bff714-4aa5-4987-ae20-1525f652956b@5f64d",
+      "displayName": "",
+      "id": "5f64d",
+      "name": "SM_Prop_Grill_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1031",
+        "uri": "c3bff714-4aa5-4987-ae20-1525f652956b@23215"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "c3bff714-4aa5-4987-ae20-1525f652956b@5f64d",
+    "assetFinder": {
+      "meshes": [
+        "c3bff714-4aa5-4987-ae20-1525f652956b@15b2e"
+      ],
+      "skeletons": [],
+      "textures": [
+        "c3bff714-4aa5-4987-ae20-1525f652956b@5691d"
+      ],
+      "materials": [
+        "c3bff714-4aa5-4987-ae20-1525f652956b@38a38"
+      ],
+      "scenes": [
+        "c3bff714-4aa5-4987-ae20-1525f652956b@5f64d"
+      ]
+    }
+  }
+}

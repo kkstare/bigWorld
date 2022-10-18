@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a875ad29-dc32-44ae-80cc-807cd5f4118d",
+  "files": [],
+  "subMetas": {
+    "7f632": {
+      "importer": "gltf-mesh",
+      "uuid": "a875ad29-dc32-44ae-80cc-807cd5f4118d@7f632",
+      "displayName": "",
+      "id": "7f632",
+      "name": "SM_Prop_Barrier_Concrete_Broken_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0d44d": {
+      "importer": "gltf-embeded-image",
+      "uuid": "a875ad29-dc32-44ae-80cc-807cd5f4118d@0d44d",
+      "displayName": "",
+      "id": "0d44d",
+      "name": "file411.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "0c5a9": {
+      "importer": "texture",
+      "uuid": "a875ad29-dc32-44ae-80cc-807cd5f4118d@0c5a9",
+      "displayName": "",
+      "id": "0c5a9",
+      "name": "file411.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "a875ad29-dc32-44ae-80cc-807cd5f4118d@0d44d"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9cec5": {
+      "importer": "gltf-material",
+      "uuid": "a875ad29-dc32-44ae-80cc-807cd5f4118d@9cec5",
+      "displayName": "",
+      "id": "9cec5",
+      "name": "lambert148.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a4402": {
+      "importer": "gltf-scene",
+      "uuid": "a875ad29-dc32-44ae-80cc-807cd5f4118d@a4402",
+      "displayName": "",
+      "id": "a4402",
+      "name": "SM_Prop_Barrier_Concrete_Broken_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file411",
+        "uri": "a875ad29-dc32-44ae-80cc-807cd5f4118d@0d44d"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "a875ad29-dc32-44ae-80cc-807cd5f4118d@a4402",
+    "assetFinder": {
+      "meshes": [
+        "a875ad29-dc32-44ae-80cc-807cd5f4118d@7f632"
+      ],
+      "skeletons": [],
+      "textures": [
+        "a875ad29-dc32-44ae-80cc-807cd5f4118d@0c5a9"
+      ],
+      "materials": [
+        "a875ad29-dc32-44ae-80cc-807cd5f4118d@9cec5"
+      ],
+      "scenes": [
+        "a875ad29-dc32-44ae-80cc-807cd5f4118d@a4402"
+      ]
+    }
+  }
+}

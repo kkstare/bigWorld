@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "721c48b8-69e0-4e70-a6fa-36e5dba78742",
+  "files": [],
+  "subMetas": {
+    "bd1bf": {
+      "importer": "gltf-mesh",
+      "uuid": "721c48b8-69e0-4e70-a6fa-36e5dba78742@bd1bf",
+      "displayName": "",
+      "id": "bd1bf",
+      "name": "SM_Prop_Toilet_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "38a38": {
+      "importer": "gltf-material",
+      "uuid": "721c48b8-69e0-4e70-a6fa-36e5dba78742@38a38",
+      "displayName": "",
+      "id": "38a38",
+      "name": "lambert886.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a70e6": {
+      "importer": "gltf-scene",
+      "uuid": "721c48b8-69e0-4e70-a6fa-36e5dba78742@a70e6",
+      "displayName": "",
+      "id": "a70e6",
+      "name": "SM_Prop_Toilet_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "721c48b8-69e0-4e70-a6fa-36e5dba78742@a70e6",
+    "assetFinder": {
+      "meshes": [
+        "721c48b8-69e0-4e70-a6fa-36e5dba78742@bd1bf"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "721c48b8-69e0-4e70-a6fa-36e5dba78742@38a38"
+      ],
+      "scenes": [
+        "721c48b8-69e0-4e70-a6fa-36e5dba78742@a70e6"
+      ]
+    }
+  }
+}

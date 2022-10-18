@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "47eb2b44-d994-43d1-be92-81828d86b505",
+  "files": [],
+  "subMetas": {
+    "98901": {
+      "importer": "gltf-mesh",
+      "uuid": "47eb2b44-d994-43d1-be92-81828d86b505@98901",
+      "displayName": "",
+      "id": "98901",
+      "name": "SM_Item_BeerCup_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "43c71": {
+      "importer": "gltf-embeded-image",
+      "uuid": "47eb2b44-d994-43d1-be92-81828d86b505@43c71",
+      "displayName": "",
+      "id": "43c71",
+      "name": "file1.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "d20e9": {
+      "importer": "texture",
+      "uuid": "47eb2b44-d994-43d1-be92-81828d86b505@d20e9",
+      "displayName": "",
+      "id": "d20e9",
+      "name": "file1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "47eb2b44-d994-43d1-be92-81828d86b505@43c71"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9dc7d": {
+      "importer": "gltf-material",
+      "uuid": "47eb2b44-d994-43d1-be92-81828d86b505@9dc7d",
+      "displayName": "",
+      "id": "9dc7d",
+      "name": "lambert890.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3e9fd": {
+      "importer": "gltf-scene",
+      "uuid": "47eb2b44-d994-43d1-be92-81828d86b505@3e9fd",
+      "displayName": "",
+      "id": "3e9fd",
+      "name": "SM_Item_BeerCup_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1",
+        "uri": "47eb2b44-d994-43d1-be92-81828d86b505@43c71"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "47eb2b44-d994-43d1-be92-81828d86b505@3e9fd",
+    "assetFinder": {
+      "meshes": [
+        "47eb2b44-d994-43d1-be92-81828d86b505@98901"
+      ],
+      "skeletons": [],
+      "textures": [
+        "47eb2b44-d994-43d1-be92-81828d86b505@d20e9"
+      ],
+      "materials": [
+        "47eb2b44-d994-43d1-be92-81828d86b505@9dc7d"
+      ],
+      "scenes": [
+        "47eb2b44-d994-43d1-be92-81828d86b505@3e9fd"
+      ]
+    }
+  }
+}

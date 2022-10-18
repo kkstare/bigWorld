@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "3f9a868f-2cdc-43ef-8929-f11f34e30042",
+  "files": [],
+  "subMetas": {
+    "a1dbc": {
+      "importer": "gltf-mesh",
+      "uuid": "3f9a868f-2cdc-43ef-8929-f11f34e30042@a1dbc",
+      "displayName": "",
+      "id": "a1dbc",
+      "name": "SM_Bld_Motel_Sign_03.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "3f9a868f-2cdc-43ef-8929-f11f34e30042@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "3f9a868f-2cdc-43ef-8929-f11f34e30042@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "3f9a868f-2cdc-43ef-8929-f11f34e30042@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "926dc": {
+      "importer": "gltf-scene",
+      "uuid": "3f9a868f-2cdc-43ef-8929-f11f34e30042@926dc",
+      "displayName": "",
+      "id": "926dc",
+      "name": "SM_Bld_Motel_Sign_03.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "3f9a868f-2cdc-43ef-8929-f11f34e30042@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "3f9a868f-2cdc-43ef-8929-f11f34e30042@926dc",
+    "assetFinder": {
+      "meshes": [
+        "3f9a868f-2cdc-43ef-8929-f11f34e30042@a1dbc"
+      ],
+      "skeletons": [],
+      "textures": [
+        "3f9a868f-2cdc-43ef-8929-f11f34e30042@988dc"
+      ],
+      "materials": [
+        "3f9a868f-2cdc-43ef-8929-f11f34e30042@8d883"
+      ],
+      "scenes": [
+        "3f9a868f-2cdc-43ef-8929-f11f34e30042@926dc"
+      ]
+    }
+  }
+}

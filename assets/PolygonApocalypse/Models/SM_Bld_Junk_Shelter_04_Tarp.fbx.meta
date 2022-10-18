@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "9ad3255e-1ede-41b3-9a12-7a0039e625a1",
+  "files": [],
+  "subMetas": {
+    "79114": {
+      "importer": "gltf-mesh",
+      "uuid": "9ad3255e-1ede-41b3-9a12-7a0039e625a1@79114",
+      "displayName": "",
+      "id": "79114",
+      "name": "SM_Bld_Junk_Shelter_04_Tarp.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3bf1b": {
+      "importer": "gltf-embeded-image",
+      "uuid": "9ad3255e-1ede-41b3-9a12-7a0039e625a1@3bf1b",
+      "displayName": "",
+      "id": "3bf1b",
+      "name": "file1137.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "a09cd": {
+      "importer": "texture",
+      "uuid": "9ad3255e-1ede-41b3-9a12-7a0039e625a1@a09cd",
+      "displayName": "",
+      "id": "a09cd",
+      "name": "file1137.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "9ad3255e-1ede-41b3-9a12-7a0039e625a1@3bf1b"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b7df8": {
+      "importer": "gltf-material",
+      "uuid": "9ad3255e-1ede-41b3-9a12-7a0039e625a1@b7df8",
+      "displayName": "",
+      "id": "b7df8",
+      "name": "lambert435.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "78ba4": {
+      "importer": "gltf-scene",
+      "uuid": "9ad3255e-1ede-41b3-9a12-7a0039e625a1@78ba4",
+      "displayName": "",
+      "id": "78ba4",
+      "name": "SM_Bld_Junk_Shelter_04_Tarp.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1137",
+        "uri": "9ad3255e-1ede-41b3-9a12-7a0039e625a1@3bf1b"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "9ad3255e-1ede-41b3-9a12-7a0039e625a1@78ba4",
+    "assetFinder": {
+      "meshes": [
+        "9ad3255e-1ede-41b3-9a12-7a0039e625a1@79114"
+      ],
+      "skeletons": [],
+      "textures": [
+        "9ad3255e-1ede-41b3-9a12-7a0039e625a1@a09cd"
+      ],
+      "materials": [
+        "9ad3255e-1ede-41b3-9a12-7a0039e625a1@b7df8"
+      ],
+      "scenes": [
+        "9ad3255e-1ede-41b3-9a12-7a0039e625a1@78ba4"
+      ]
+    }
+  }
+}

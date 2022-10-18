@@ -1,0 +1,163 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "dc02b1cf-88d0-4fea-9688-c754cdfe550f",
+  "files": [],
+  "subMetas": {
+    "8f485": {
+      "importer": "gltf-mesh",
+      "uuid": "dc02b1cf-88d0-4fea-9688-c754cdfe550f@8f485",
+      "displayName": "",
+      "id": "8f485",
+      "name": "SM_Item_Compass_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9cbae": {
+      "importer": "gltf-mesh",
+      "uuid": "dc02b1cf-88d0-4fea-9688-c754cdfe550f@9cbae",
+      "displayName": "",
+      "id": "9cbae",
+      "name": "SM_Item_Compass_Lid_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "73cbc": {
+      "importer": "gltf-mesh",
+      "uuid": "dc02b1cf-88d0-4fea-9688-c754cdfe550f@73cbc",
+      "displayName": "",
+      "id": "73cbc",
+      "name": "SM_Item_Compass_Needle_01.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e942": {
+      "importer": "gltf-embeded-image",
+      "uuid": "dc02b1cf-88d0-4fea-9688-c754cdfe550f@1e942",
+      "displayName": "",
+      "id": "1e942",
+      "name": "Copter:file112.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "585d0": {
+      "importer": "texture",
+      "uuid": "dc02b1cf-88d0-4fea-9688-c754cdfe550f@585d0",
+      "displayName": "",
+      "id": "585d0",
+      "name": "Copter:file112.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "dc02b1cf-88d0-4fea-9688-c754cdfe550f@1e942"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a3ca": {
+      "importer": "gltf-material",
+      "uuid": "dc02b1cf-88d0-4fea-9688-c754cdfe550f@7a3ca",
+      "displayName": "",
+      "id": "7a3ca",
+      "name": "lambert2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c7a0c": {
+      "importer": "gltf-scene",
+      "uuid": "dc02b1cf-88d0-4fea-9688-c754cdfe550f@c7a0c",
+      "displayName": "",
+      "id": "c7a0c",
+      "name": "SM_Item_Compass_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Copter:file112",
+        "uri": "dc02b1cf-88d0-4fea-9688-c754cdfe550f@1e942"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "dc02b1cf-88d0-4fea-9688-c754cdfe550f@c7a0c",
+    "assetFinder": {
+      "meshes": [
+        "dc02b1cf-88d0-4fea-9688-c754cdfe550f@8f485",
+        "dc02b1cf-88d0-4fea-9688-c754cdfe550f@9cbae",
+        "dc02b1cf-88d0-4fea-9688-c754cdfe550f@73cbc"
+      ],
+      "skeletons": [],
+      "textures": [
+        "dc02b1cf-88d0-4fea-9688-c754cdfe550f@585d0"
+      ],
+      "materials": [
+        "dc02b1cf-88d0-4fea-9688-c754cdfe550f@7a3ca"
+      ],
+      "scenes": [
+        "dc02b1cf-88d0-4fea-9688-c754cdfe550f@c7a0c"
+      ]
+    }
+  }
+}

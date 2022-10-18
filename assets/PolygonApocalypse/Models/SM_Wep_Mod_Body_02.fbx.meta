@@ -1,0 +1,152 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "371b33cf-3426-426a-aefc-7ac59f3dfe8f",
+  "files": [],
+  "subMetas": {
+    "583c9": {
+      "importer": "gltf-mesh",
+      "uuid": "371b33cf-3426-426a-aefc-7ac59f3dfe8f@583c9",
+      "displayName": "",
+      "id": "583c9",
+      "name": "SM_Wep_Mod_Body_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c3ff0": {
+      "importer": "gltf-mesh",
+      "uuid": "371b33cf-3426-426a-aefc-7ac59f3dfe8f@c3ff0",
+      "displayName": "",
+      "id": "c3ff0",
+      "name": "SM_Wep_Mod_Body_02_Trigger.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1950e": {
+      "importer": "gltf-mesh",
+      "uuid": "371b33cf-3426-426a-aefc-7ac59f3dfe8f@1950e",
+      "displayName": "",
+      "id": "1950e",
+      "name": "SM_Wep_Mod_Body_02_Slide.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bd3b8": {
+      "importer": "gltf-mesh",
+      "uuid": "371b33cf-3426-426a-aefc-7ac59f3dfe8f@bd3b8",
+      "displayName": "",
+      "id": "bd3b8",
+      "name": "SM_Wep_Mod_Body_02_Charge.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2b4e8": {
+      "importer": "gltf-mesh",
+      "uuid": "371b33cf-3426-426a-aefc-7ac59f3dfe8f@2b4e8",
+      "displayName": "",
+      "id": "2b4e8",
+      "name": "SM_Wep_Mod_Body_02_Magazine.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "371b33cf-3426-426a-aefc-7ac59f3dfe8f@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1cc01": {
+      "importer": "gltf-scene",
+      "uuid": "371b33cf-3426-426a-aefc-7ac59f3dfe8f@1cc01",
+      "displayName": "",
+      "id": "1cc01",
+      "name": "SM_Wep_Mod_Body_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "371b33cf-3426-426a-aefc-7ac59f3dfe8f@1cc01",
+    "assetFinder": {
+      "meshes": [
+        "371b33cf-3426-426a-aefc-7ac59f3dfe8f@583c9",
+        "371b33cf-3426-426a-aefc-7ac59f3dfe8f@c3ff0",
+        "371b33cf-3426-426a-aefc-7ac59f3dfe8f@1950e",
+        "371b33cf-3426-426a-aefc-7ac59f3dfe8f@bd3b8",
+        "371b33cf-3426-426a-aefc-7ac59f3dfe8f@2b4e8"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "371b33cf-3426-426a-aefc-7ac59f3dfe8f@8d883"
+      ],
+      "scenes": [
+        "371b33cf-3426-426a-aefc-7ac59f3dfe8f@1cc01"
+      ]
+    }
+  }
+}

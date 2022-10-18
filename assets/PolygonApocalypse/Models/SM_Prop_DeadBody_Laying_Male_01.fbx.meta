@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "4f5aebfe-8fc1-4d6d-bd2d-9cf9c0c2cc61",
+  "files": [],
+  "subMetas": {
+    "15962": {
+      "importer": "gltf-material",
+      "uuid": "4f5aebfe-8fc1-4d6d-bd2d-9cf9c0c2cc61@15962",
+      "displayName": "",
+      "id": "15962",
+      "name": "db:New_Characters_Rigging_29:BloodDecal.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ebff7": {
+      "importer": "gltf-mesh",
+      "uuid": "4f5aebfe-8fc1-4d6d-bd2d-9cf9c0c2cc61@ebff7",
+      "displayName": "",
+      "id": "ebff7",
+      "name": "SM_Prop_DeadBody_Laying_Male_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "234b9": {
+      "importer": "gltf-scene",
+      "uuid": "4f5aebfe-8fc1-4d6d-bd2d-9cf9c0c2cc61@234b9",
+      "displayName": "",
+      "id": "234b9",
+      "name": "SM_Prop_DeadBody_Laying_Male_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "4f5aebfe-8fc1-4d6d-bd2d-9cf9c0c2cc61@234b9",
+    "assetFinder": {
+      "meshes": [
+        "4f5aebfe-8fc1-4d6d-bd2d-9cf9c0c2cc61@ebff7"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "4f5aebfe-8fc1-4d6d-bd2d-9cf9c0c2cc61@15962"
+      ],
+      "scenes": [
+        "4f5aebfe-8fc1-4d6d-bd2d-9cf9c0c2cc61@234b9"
+      ]
+    }
+  }
+}

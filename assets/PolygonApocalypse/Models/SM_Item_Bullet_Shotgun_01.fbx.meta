@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "95ff54ed-a9cc-4707-b078-da34e4e076b8",
+  "files": [],
+  "subMetas": {
+    "2ee0c": {
+      "importer": "gltf-mesh",
+      "uuid": "95ff54ed-a9cc-4707-b078-da34e4e076b8@2ee0c",
+      "displayName": "",
+      "id": "2ee0c",
+      "name": "SM_Item_Bullet_Shotgun_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e43a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "95ff54ed-a9cc-4707-b078-da34e4e076b8@1e43a",
+      "displayName": "",
+      "id": "1e43a",
+      "name": "file1198.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "05eac": {
+      "importer": "texture",
+      "uuid": "95ff54ed-a9cc-4707-b078-da34e4e076b8@05eac",
+      "displayName": "",
+      "id": "05eac",
+      "name": "file1198.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5bd2": {
+      "importer": "gltf-material",
+      "uuid": "95ff54ed-a9cc-4707-b078-da34e4e076b8@a5bd2",
+      "displayName": "",
+      "id": "a5bd2",
+      "name": "lambert.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a7f4c": {
+      "importer": "gltf-scene",
+      "uuid": "95ff54ed-a9cc-4707-b078-da34e4e076b8@a7f4c",
+      "displayName": "",
+      "id": "a7f4c",
+      "name": "SM_Item_Bullet_Shotgun_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1198",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "95ff54ed-a9cc-4707-b078-da34e4e076b8@1e43a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "95ff54ed-a9cc-4707-b078-da34e4e076b8@a7f4c",
+    "assetFinder": {
+      "meshes": [
+        "95ff54ed-a9cc-4707-b078-da34e4e076b8@2ee0c"
+      ],
+      "skeletons": [],
+      "textures": [
+        "95ff54ed-a9cc-4707-b078-da34e4e076b8@05eac"
+      ],
+      "materials": [
+        "95ff54ed-a9cc-4707-b078-da34e4e076b8@a5bd2"
+      ],
+      "scenes": [
+        "95ff54ed-a9cc-4707-b078-da34e4e076b8@a7f4c"
+      ]
+    }
+  }
+}

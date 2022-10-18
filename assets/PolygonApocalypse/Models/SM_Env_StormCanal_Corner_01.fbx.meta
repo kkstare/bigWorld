@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "12c83ec3-d0a3-469a-b9bf-3777a2b7a8db",
+  "files": [],
+  "subMetas": {
+    "c4b0e": {
+      "importer": "gltf-mesh",
+      "uuid": "12c83ec3-d0a3-469a-b9bf-3777a2b7a8db@c4b0e",
+      "displayName": "",
+      "id": "c4b0e",
+      "name": "SM_Env_StormCanal_Corner_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b225a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "12c83ec3-d0a3-469a-b9bf-3777a2b7a8db@b225a",
+      "displayName": "",
+      "id": "b225a",
+      "name": "file996.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "f0e3c": {
+      "importer": "texture",
+      "uuid": "12c83ec3-d0a3-469a-b9bf-3777a2b7a8db@f0e3c",
+      "displayName": "",
+      "id": "f0e3c",
+      "name": "file996.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "12c83ec3-d0a3-469a-b9bf-3777a2b7a8db@b225a"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a1e29": {
+      "importer": "gltf-material",
+      "uuid": "12c83ec3-d0a3-469a-b9bf-3777a2b7a8db@a1e29",
+      "displayName": "",
+      "id": "a1e29",
+      "name": "Base_Maya_Scene:pasted__MiniColour44.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "73c11": {
+      "importer": "gltf-scene",
+      "uuid": "12c83ec3-d0a3-469a-b9bf-3777a2b7a8db@73c11",
+      "displayName": "",
+      "id": "73c11",
+      "name": "SM_Env_StormCanal_Corner_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file996",
+        "uri": "12c83ec3-d0a3-469a-b9bf-3777a2b7a8db@b225a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "12c83ec3-d0a3-469a-b9bf-3777a2b7a8db@73c11",
+    "assetFinder": {
+      "meshes": [
+        "12c83ec3-d0a3-469a-b9bf-3777a2b7a8db@c4b0e"
+      ],
+      "skeletons": [],
+      "textures": [
+        "12c83ec3-d0a3-469a-b9bf-3777a2b7a8db@f0e3c"
+      ],
+      "materials": [
+        "12c83ec3-d0a3-469a-b9bf-3777a2b7a8db@a1e29"
+      ],
+      "scenes": [
+        "12c83ec3-d0a3-469a-b9bf-3777a2b7a8db@73c11"
+      ]
+    }
+  }
+}

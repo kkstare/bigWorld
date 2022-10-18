@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "fc23883c-6d18-4f83-af49-9ac73770a2e2",
+  "files": [],
+  "subMetas": {
+    "ba4d9": {
+      "importer": "gltf-mesh",
+      "uuid": "fc23883c-6d18-4f83-af49-9ac73770a2e2@ba4d9",
+      "displayName": "",
+      "id": "ba4d9",
+      "name": "SM_Env_Motorway_Ramp_Middle_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d29ca": {
+      "importer": "gltf-embeded-image",
+      "uuid": "fc23883c-6d18-4f83-af49-9ac73770a2e2@d29ca",
+      "displayName": "",
+      "id": "d29ca",
+      "name": "file1001.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "fd9f9": {
+      "importer": "texture",
+      "uuid": "fc23883c-6d18-4f83-af49-9ac73770a2e2@fd9f9",
+      "displayName": "",
+      "id": "fd9f9",
+      "name": "file1001.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f5222": {
+      "importer": "gltf-material",
+      "uuid": "fc23883c-6d18-4f83-af49-9ac73770a2e2@f5222",
+      "displayName": "",
+      "id": "f5222",
+      "name": "lambert34.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "80bac": {
+      "importer": "gltf-scene",
+      "uuid": "fc23883c-6d18-4f83-af49-9ac73770a2e2@80bac",
+      "displayName": "",
+      "id": "80bac",
+      "name": "SM_Env_Motorway_Ramp_Middle_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1001",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "fc23883c-6d18-4f83-af49-9ac73770a2e2@d29ca"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "fc23883c-6d18-4f83-af49-9ac73770a2e2@80bac",
+    "assetFinder": {
+      "meshes": [
+        "fc23883c-6d18-4f83-af49-9ac73770a2e2@ba4d9"
+      ],
+      "skeletons": [],
+      "textures": [
+        "fc23883c-6d18-4f83-af49-9ac73770a2e2@fd9f9"
+      ],
+      "materials": [
+        "fc23883c-6d18-4f83-af49-9ac73770a2e2@f5222"
+      ],
+      "scenes": [
+        "fc23883c-6d18-4f83-af49-9ac73770a2e2@80bac"
+      ]
+    }
+  }
+}

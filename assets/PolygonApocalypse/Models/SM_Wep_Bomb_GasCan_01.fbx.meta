@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ff510b67-be0b-44f5-a38c-84c77f5d8b6c",
+  "files": [],
+  "subMetas": {
+    "fa4aa": {
+      "importer": "gltf-mesh",
+      "uuid": "ff510b67-be0b-44f5-a38c-84c77f5d8b6c@fa4aa",
+      "displayName": "",
+      "id": "fa4aa",
+      "name": "SM_Wep_Bomb_GasCan_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e43a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "ff510b67-be0b-44f5-a38c-84c77f5d8b6c@1e43a",
+      "displayName": "",
+      "id": "1e43a",
+      "name": "file1198.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "05eac": {
+      "importer": "texture",
+      "uuid": "ff510b67-be0b-44f5-a38c-84c77f5d8b6c@05eac",
+      "displayName": "",
+      "id": "05eac",
+      "name": "file1198.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5bd2": {
+      "importer": "gltf-material",
+      "uuid": "ff510b67-be0b-44f5-a38c-84c77f5d8b6c@a5bd2",
+      "displayName": "",
+      "id": "a5bd2",
+      "name": "lambert.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3fc03": {
+      "importer": "gltf-scene",
+      "uuid": "ff510b67-be0b-44f5-a38c-84c77f5d8b6c@3fc03",
+      "displayName": "",
+      "id": "3fc03",
+      "name": "SM_Wep_Bomb_GasCan_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1198",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "ff510b67-be0b-44f5-a38c-84c77f5d8b6c@1e43a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "ff510b67-be0b-44f5-a38c-84c77f5d8b6c@3fc03",
+    "assetFinder": {
+      "meshes": [
+        "ff510b67-be0b-44f5-a38c-84c77f5d8b6c@fa4aa"
+      ],
+      "skeletons": [],
+      "textures": [
+        "ff510b67-be0b-44f5-a38c-84c77f5d8b6c@05eac"
+      ],
+      "materials": [
+        "ff510b67-be0b-44f5-a38c-84c77f5d8b6c@a5bd2"
+      ],
+      "scenes": [
+        "ff510b67-be0b-44f5-a38c-84c77f5d8b6c@3fc03"
+      ]
+    }
+  }
+}

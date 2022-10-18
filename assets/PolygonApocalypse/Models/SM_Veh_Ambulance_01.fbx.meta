@@ -1,0 +1,397 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "3f6b348b-8a00-419f-b90f-550053d4fd16",
+  "files": [],
+  "subMetas": {
+    "b4c6d": {
+      "importer": "gltf-mesh",
+      "uuid": "3f6b348b-8a00-419f-b90f-550053d4fd16@b4c6d",
+      "displayName": "",
+      "id": "b4c6d",
+      "name": "SM_Veh_Ambulance_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fe9d5": {
+      "importer": "gltf-mesh",
+      "uuid": "3f6b348b-8a00-419f-b90f-550053d4fd16@fe9d5",
+      "displayName": "",
+      "id": "fe9d5",
+      "name": "SM_Veh_Ambulance_Wheel_rr.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1dc87": {
+      "importer": "gltf-mesh",
+      "uuid": "3f6b348b-8a00-419f-b90f-550053d4fd16@1dc87",
+      "displayName": "",
+      "id": "1dc87",
+      "name": "SM_Veh_Ambulance_Door_01.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e6704": {
+      "importer": "gltf-mesh",
+      "uuid": "3f6b348b-8a00-419f-b90f-550053d4fd16@e6704",
+      "displayName": "",
+      "id": "e6704",
+      "name": "SM_Veh_Ambulance_Door_01_Glass.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0e706": {
+      "importer": "gltf-mesh",
+      "uuid": "3f6b348b-8a00-419f-b90f-550053d4fd16@0e706",
+      "displayName": "",
+      "id": "0e706",
+      "name": "SM_Veh_Ambulance_SteeringW.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "28f8f": {
+      "importer": "gltf-mesh",
+      "uuid": "3f6b348b-8a00-419f-b90f-550053d4fd16@28f8f",
+      "displayName": "",
+      "id": "28f8f",
+      "name": "SM_Veh_Ambulance_Door_02.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a8d54": {
+      "importer": "gltf-mesh",
+      "uuid": "3f6b348b-8a00-419f-b90f-550053d4fd16@a8d54",
+      "displayName": "",
+      "id": "a8d54",
+      "name": "SM_Veh_Ambulance_Door_02_Glass.mesh",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "297c9": {
+      "importer": "gltf-mesh",
+      "uuid": "3f6b348b-8a00-419f-b90f-550053d4fd16@297c9",
+      "displayName": "",
+      "id": "297c9",
+      "name": "SM_Veh_Ambulance_Wheel_fr.mesh",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8504f": {
+      "importer": "gltf-mesh",
+      "uuid": "3f6b348b-8a00-419f-b90f-550053d4fd16@8504f",
+      "displayName": "",
+      "id": "8504f",
+      "name": "SM_Veh_Ambulance_Wheel_fl.mesh",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "333d9": {
+      "importer": "gltf-mesh",
+      "uuid": "3f6b348b-8a00-419f-b90f-550053d4fd16@333d9",
+      "displayName": "",
+      "id": "333d9",
+      "name": "SM_Veh_Ambulance_Interior_01.mesh",
+      "userData": {
+        "gltfIndex": 9
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "560ab": {
+      "importer": "gltf-mesh",
+      "uuid": "3f6b348b-8a00-419f-b90f-550053d4fd16@560ab",
+      "displayName": "",
+      "id": "560ab",
+      "name": "SM_Veh_Ambulance_Door_03.mesh",
+      "userData": {
+        "gltfIndex": 10
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0780b": {
+      "importer": "gltf-mesh",
+      "uuid": "3f6b348b-8a00-419f-b90f-550053d4fd16@0780b",
+      "displayName": "",
+      "id": "0780b",
+      "name": "SM_Veh_Ambulance_Door_03_Glass.mesh",
+      "userData": {
+        "gltfIndex": 11
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bc374": {
+      "importer": "gltf-mesh",
+      "uuid": "3f6b348b-8a00-419f-b90f-550053d4fd16@bc374",
+      "displayName": "",
+      "id": "bc374",
+      "name": "SM_Veh_Ambulance_Wheel_rl.mesh",
+      "userData": {
+        "gltfIndex": 12
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "04994": {
+      "importer": "gltf-mesh",
+      "uuid": "3f6b348b-8a00-419f-b90f-550053d4fd16@04994",
+      "displayName": "",
+      "id": "04994",
+      "name": "SM_Veh_Ambulance_Glass_Armour_01.mesh",
+      "userData": {
+        "gltfIndex": 13
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "83a22": {
+      "importer": "gltf-mesh",
+      "uuid": "3f6b348b-8a00-419f-b90f-550053d4fd16@83a22",
+      "displayName": "",
+      "id": "83a22",
+      "name": "SM_Veh_Ambulance_Armour_01.mesh",
+      "userData": {
+        "gltfIndex": 14
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7914f": {
+      "importer": "gltf-mesh",
+      "uuid": "3f6b348b-8a00-419f-b90f-550053d4fd16@7914f",
+      "displayName": "",
+      "id": "7914f",
+      "name": "SM_Veh_Ambulance_Glass_01.mesh",
+      "userData": {
+        "gltfIndex": 15
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "008d7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "3f6b348b-8a00-419f-b90f-550053d4fd16@008d7",
+      "displayName": "",
+      "id": "008d7",
+      "name": "__PolygonZombie_Texture_A_2.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "76a36": {
+      "importer": "texture",
+      "uuid": "3f6b348b-8a00-419f-b90f-550053d4fd16@76a36",
+      "displayName": "",
+      "id": "76a36",
+      "name": "__PolygonZombie_Texture_A_2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3f6b348b-8a00-419f-b90f-550053d4fd16@008d7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e18d5": {
+      "importer": "gltf-material",
+      "uuid": "3f6b348b-8a00-419f-b90f-550053d4fd16@e18d5",
+      "displayName": "",
+      "id": "e18d5",
+      "name": "lambert32.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3ff18": {
+      "importer": "gltf-scene",
+      "uuid": "3f6b348b-8a00-419f-b90f-550053d4fd16@3ff18",
+      "displayName": "",
+      "id": "3ff18",
+      "name": "SM_Veh_Ambulance_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "__PolygonZombie_Texture_A_2",
+        "uri": "3f6b348b-8a00-419f-b90f-550053d4fd16@008d7"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "3f6b348b-8a00-419f-b90f-550053d4fd16@3ff18",
+    "assetFinder": {
+      "meshes": [
+        "3f6b348b-8a00-419f-b90f-550053d4fd16@b4c6d",
+        "3f6b348b-8a00-419f-b90f-550053d4fd16@fe9d5",
+        "3f6b348b-8a00-419f-b90f-550053d4fd16@1dc87",
+        "3f6b348b-8a00-419f-b90f-550053d4fd16@e6704",
+        "3f6b348b-8a00-419f-b90f-550053d4fd16@0e706",
+        "3f6b348b-8a00-419f-b90f-550053d4fd16@28f8f",
+        "3f6b348b-8a00-419f-b90f-550053d4fd16@a8d54",
+        "3f6b348b-8a00-419f-b90f-550053d4fd16@297c9",
+        "3f6b348b-8a00-419f-b90f-550053d4fd16@8504f",
+        "3f6b348b-8a00-419f-b90f-550053d4fd16@333d9",
+        "3f6b348b-8a00-419f-b90f-550053d4fd16@560ab",
+        "3f6b348b-8a00-419f-b90f-550053d4fd16@0780b",
+        "3f6b348b-8a00-419f-b90f-550053d4fd16@bc374",
+        "3f6b348b-8a00-419f-b90f-550053d4fd16@04994",
+        "3f6b348b-8a00-419f-b90f-550053d4fd16@83a22",
+        "3f6b348b-8a00-419f-b90f-550053d4fd16@7914f"
+      ],
+      "skeletons": [],
+      "textures": [
+        "3f6b348b-8a00-419f-b90f-550053d4fd16@76a36"
+      ],
+      "materials": [
+        "3f6b348b-8a00-419f-b90f-550053d4fd16@e18d5"
+      ],
+      "scenes": [
+        "3f6b348b-8a00-419f-b90f-550053d4fd16@3ff18"
+      ]
+    }
+  }
+}

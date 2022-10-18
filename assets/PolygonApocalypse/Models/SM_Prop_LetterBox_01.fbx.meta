@@ -1,0 +1,163 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "bfef5387-fffc-4c17-bd4b-1aaa8c5abc34",
+  "files": [],
+  "subMetas": {
+    "23215": {
+      "importer": "gltf-embeded-image",
+      "uuid": "bfef5387-fffc-4c17-bd4b-1aaa8c5abc34@23215",
+      "displayName": "",
+      "id": "23215",
+      "name": "file1031.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "770cd": {
+      "importer": "gltf-mesh",
+      "uuid": "bfef5387-fffc-4c17-bd4b-1aaa8c5abc34@770cd",
+      "displayName": "",
+      "id": "770cd",
+      "name": "SM_Prop_LetterBox_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5c7d5": {
+      "importer": "gltf-mesh",
+      "uuid": "bfef5387-fffc-4c17-bd4b-1aaa8c5abc34@5c7d5",
+      "displayName": "",
+      "id": "5c7d5",
+      "name": "SM_Prop_LetterBox_01_Door_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "eab9f": {
+      "importer": "gltf-mesh",
+      "uuid": "bfef5387-fffc-4c17-bd4b-1aaa8c5abc34@eab9f",
+      "displayName": "",
+      "id": "eab9f",
+      "name": "SM_Prop_LetterBox_01_Flag.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5691d": {
+      "importer": "texture",
+      "uuid": "bfef5387-fffc-4c17-bd4b-1aaa8c5abc34@5691d",
+      "displayName": "",
+      "id": "5691d",
+      "name": "file1031.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "bfef5387-fffc-4c17-bd4b-1aaa8c5abc34@23215"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "38a38": {
+      "importer": "gltf-material",
+      "uuid": "bfef5387-fffc-4c17-bd4b-1aaa8c5abc34@38a38",
+      "displayName": "",
+      "id": "38a38",
+      "name": "lambert886.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b78": {
+      "importer": "gltf-scene",
+      "uuid": "bfef5387-fffc-4c17-bd4b-1aaa8c5abc34@48b78",
+      "displayName": "",
+      "id": "48b78",
+      "name": "SM_Prop_LetterBox_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1031",
+        "uri": "bfef5387-fffc-4c17-bd4b-1aaa8c5abc34@23215"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "bfef5387-fffc-4c17-bd4b-1aaa8c5abc34@48b78",
+    "assetFinder": {
+      "meshes": [
+        "bfef5387-fffc-4c17-bd4b-1aaa8c5abc34@770cd",
+        "bfef5387-fffc-4c17-bd4b-1aaa8c5abc34@5c7d5",
+        "bfef5387-fffc-4c17-bd4b-1aaa8c5abc34@eab9f"
+      ],
+      "skeletons": [],
+      "textures": [
+        "bfef5387-fffc-4c17-bd4b-1aaa8c5abc34@5691d"
+      ],
+      "materials": [
+        "bfef5387-fffc-4c17-bd4b-1aaa8c5abc34@38a38"
+      ],
+      "scenes": [
+        "bfef5387-fffc-4c17-bd4b-1aaa8c5abc34@48b78"
+      ]
+    }
+  }
+}

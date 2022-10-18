@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "1f68af2f-0d2f-43a2-8855-aecd61a7de54",
+  "files": [],
+  "subMetas": {
+    "23215": {
+      "importer": "gltf-embeded-image",
+      "uuid": "1f68af2f-0d2f-43a2-8855-aecd61a7de54@23215",
+      "displayName": "",
+      "id": "23215",
+      "name": "file1031.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "f3857": {
+      "importer": "gltf-mesh",
+      "uuid": "1f68af2f-0d2f-43a2-8855-aecd61a7de54@f3857",
+      "displayName": "",
+      "id": "f3857",
+      "name": "SM_Prop_Stereo_Speaker_Large_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5691d": {
+      "importer": "texture",
+      "uuid": "1f68af2f-0d2f-43a2-8855-aecd61a7de54@5691d",
+      "displayName": "",
+      "id": "5691d",
+      "name": "file1031.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "1f68af2f-0d2f-43a2-8855-aecd61a7de54@23215"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "38a38": {
+      "importer": "gltf-material",
+      "uuid": "1f68af2f-0d2f-43a2-8855-aecd61a7de54@38a38",
+      "displayName": "",
+      "id": "38a38",
+      "name": "lambert886.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8b8f5": {
+      "importer": "gltf-scene",
+      "uuid": "1f68af2f-0d2f-43a2-8855-aecd61a7de54@8b8f5",
+      "displayName": "",
+      "id": "8b8f5",
+      "name": "SM_Prop_Stereo_Speaker_Large_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1031",
+        "uri": "1f68af2f-0d2f-43a2-8855-aecd61a7de54@23215"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "1f68af2f-0d2f-43a2-8855-aecd61a7de54@8b8f5",
+    "assetFinder": {
+      "meshes": [
+        "1f68af2f-0d2f-43a2-8855-aecd61a7de54@f3857"
+      ],
+      "skeletons": [],
+      "textures": [
+        "1f68af2f-0d2f-43a2-8855-aecd61a7de54@5691d"
+      ],
+      "materials": [
+        "1f68af2f-0d2f-43a2-8855-aecd61a7de54@38a38"
+      ],
+      "scenes": [
+        "1f68af2f-0d2f-43a2-8855-aecd61a7de54@8b8f5"
+      ]
+    }
+  }
+}

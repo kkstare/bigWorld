@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "04143436-f4a2-494b-ae97-45678e5f7c5e",
+  "files": [],
+  "subMetas": {
+    "ddcfe": {
+      "importer": "gltf-mesh",
+      "uuid": "04143436-f4a2-494b-ae97-45678e5f7c5e@ddcfe",
+      "displayName": "",
+      "id": "ddcfe",
+      "name": "SM_Bld_Pylon_Broken_Base_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "04143436-f4a2-494b-ae97-45678e5f7c5e@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dc36d": {
+      "importer": "gltf-scene",
+      "uuid": "04143436-f4a2-494b-ae97-45678e5f7c5e@dc36d",
+      "displayName": "",
+      "id": "dc36d",
+      "name": "SM_Bld_Pylon_Broken_Base_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "04143436-f4a2-494b-ae97-45678e5f7c5e@dc36d",
+    "assetFinder": {
+      "meshes": [
+        "04143436-f4a2-494b-ae97-45678e5f7c5e@ddcfe"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "04143436-f4a2-494b-ae97-45678e5f7c5e@8d883"
+      ],
+      "scenes": [
+        "04143436-f4a2-494b-ae97-45678e5f7c5e@dc36d"
+      ]
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "807326e0-21a3-4cc6-9f93-0f2383a1c8a8",
+  "files": [],
+  "subMetas": {
+    "b8042": {
+      "importer": "gltf-mesh",
+      "uuid": "807326e0-21a3-4cc6-9f93-0f2383a1c8a8@b8042",
+      "displayName": "",
+      "id": "b8042",
+      "name": "SM_Prop_Backetball_Hoop_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "807326e0-21a3-4cc6-9f93-0f2383a1c8a8@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "102e3": {
+      "importer": "gltf-scene",
+      "uuid": "807326e0-21a3-4cc6-9f93-0f2383a1c8a8@102e3",
+      "displayName": "",
+      "id": "102e3",
+      "name": "SM_Prop_Backetball_Hoop_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "807326e0-21a3-4cc6-9f93-0f2383a1c8a8@102e3",
+    "assetFinder": {
+      "meshes": [
+        "807326e0-21a3-4cc6-9f93-0f2383a1c8a8@b8042"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "807326e0-21a3-4cc6-9f93-0f2383a1c8a8@8d883"
+      ],
+      "scenes": [
+        "807326e0-21a3-4cc6-9f93-0f2383a1c8a8@102e3"
+      ]
+    }
+  }
+}

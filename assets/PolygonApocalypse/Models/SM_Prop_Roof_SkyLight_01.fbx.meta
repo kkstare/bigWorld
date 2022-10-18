@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c73d99e4-b871-4e7c-9fc2-7a9460df5cd5",
+  "files": [],
+  "subMetas": {
+    "820c7": {
+      "importer": "gltf-mesh",
+      "uuid": "c73d99e4-b871-4e7c-9fc2-7a9460df5cd5@820c7",
+      "displayName": "",
+      "id": "820c7",
+      "name": "SM_Prop_Roof_SkyLight_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c73d99e4-b871-4e7c-9fc2-7a9460df5cd5@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "c73d99e4-b871-4e7c-9fc2-7a9460df5cd5@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "c73d99e4-b871-4e7c-9fc2-7a9460df5cd5@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2ccd1": {
+      "importer": "gltf-scene",
+      "uuid": "c73d99e4-b871-4e7c-9fc2-7a9460df5cd5@2ccd1",
+      "displayName": "",
+      "id": "2ccd1",
+      "name": "SM_Prop_Roof_SkyLight_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "c73d99e4-b871-4e7c-9fc2-7a9460df5cd5@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "c73d99e4-b871-4e7c-9fc2-7a9460df5cd5@2ccd1",
+    "assetFinder": {
+      "meshes": [
+        "c73d99e4-b871-4e7c-9fc2-7a9460df5cd5@820c7"
+      ],
+      "skeletons": [],
+      "textures": [
+        "c73d99e4-b871-4e7c-9fc2-7a9460df5cd5@988dc"
+      ],
+      "materials": [
+        "c73d99e4-b871-4e7c-9fc2-7a9460df5cd5@8d883"
+      ],
+      "scenes": [
+        "c73d99e4-b871-4e7c-9fc2-7a9460df5cd5@2ccd1"
+      ]
+    }
+  }
+}

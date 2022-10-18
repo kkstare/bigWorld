@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "55435de0-07c2-4363-9041-378f09d52a4d",
+  "files": [],
+  "subMetas": {
+    "a1e12": {
+      "importer": "gltf-mesh",
+      "uuid": "55435de0-07c2-4363-9041-378f09d52a4d@a1e12",
+      "displayName": "",
+      "id": "a1e12",
+      "name": "SM_Bld_Diner_Table_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "43c71": {
+      "importer": "gltf-embeded-image",
+      "uuid": "55435de0-07c2-4363-9041-378f09d52a4d@43c71",
+      "displayName": "",
+      "id": "43c71",
+      "name": "file1.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "d20e9": {
+      "importer": "texture",
+      "uuid": "55435de0-07c2-4363-9041-378f09d52a4d@d20e9",
+      "displayName": "",
+      "id": "d20e9",
+      "name": "file1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "55435de0-07c2-4363-9041-378f09d52a4d@43c71"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fdb30": {
+      "importer": "gltf-material",
+      "uuid": "55435de0-07c2-4363-9041-378f09d52a4d@fdb30",
+      "displayName": "",
+      "id": "fdb30",
+      "name": "lambert23.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ca9f4": {
+      "importer": "gltf-scene",
+      "uuid": "55435de0-07c2-4363-9041-378f09d52a4d@ca9f4",
+      "displayName": "",
+      "id": "ca9f4",
+      "name": "SM_Bld_Diner_Table_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1",
+        "uri": "55435de0-07c2-4363-9041-378f09d52a4d@43c71"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "55435de0-07c2-4363-9041-378f09d52a4d@ca9f4",
+    "assetFinder": {
+      "meshes": [
+        "55435de0-07c2-4363-9041-378f09d52a4d@a1e12"
+      ],
+      "skeletons": [],
+      "textures": [
+        "55435de0-07c2-4363-9041-378f09d52a4d@d20e9"
+      ],
+      "materials": [
+        "55435de0-07c2-4363-9041-378f09d52a4d@fdb30"
+      ],
+      "scenes": [
+        "55435de0-07c2-4363-9041-378f09d52a4d@ca9f4"
+      ]
+    }
+  }
+}

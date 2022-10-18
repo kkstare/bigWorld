@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "6b20f409-5d5d-4bb7-99b0-b221cc513e6c",
+  "files": [],
+  "subMetas": {
+    "05afd": {
+      "importer": "gltf-mesh",
+      "uuid": "6b20f409-5d5d-4bb7-99b0-b221cc513e6c@05afd",
+      "displayName": "",
+      "id": "05afd",
+      "name": "SM_Prop_Ammo_Box_Belt_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "26fdd": {
+      "importer": "gltf-material",
+      "uuid": "6b20f409-5d5d-4bb7-99b0-b221cc513e6c@26fdd",
+      "displayName": "",
+      "id": "26fdd",
+      "name": "lambert36.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d4926": {
+      "importer": "gltf-scene",
+      "uuid": "6b20f409-5d5d-4bb7-99b0-b221cc513e6c@d4926",
+      "displayName": "",
+      "id": "d4926",
+      "name": "SM_Prop_Ammo_Box_Belt_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "6b20f409-5d5d-4bb7-99b0-b221cc513e6c@d4926",
+    "assetFinder": {
+      "meshes": [
+        "6b20f409-5d5d-4bb7-99b0-b221cc513e6c@05afd"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "6b20f409-5d5d-4bb7-99b0-b221cc513e6c@26fdd"
+      ],
+      "scenes": [
+        "6b20f409-5d5d-4bb7-99b0-b221cc513e6c@d4926"
+      ]
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e62cbda4-cc6b-45a2-82a7-169b3424802e",
+  "files": [],
+  "subMetas": {
+    "bb173": {
+      "importer": "gltf-mesh",
+      "uuid": "e62cbda4-cc6b-45a2-82a7-169b3424802e@bb173",
+      "displayName": "",
+      "id": "bb173",
+      "name": "SM_Env_Motorway_Tunnel_Middle_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d29ca": {
+      "importer": "gltf-embeded-image",
+      "uuid": "e62cbda4-cc6b-45a2-82a7-169b3424802e@d29ca",
+      "displayName": "",
+      "id": "d29ca",
+      "name": "file1001.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "fd9f9": {
+      "importer": "texture",
+      "uuid": "e62cbda4-cc6b-45a2-82a7-169b3424802e@fd9f9",
+      "displayName": "",
+      "id": "fd9f9",
+      "name": "file1001.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f5222": {
+      "importer": "gltf-material",
+      "uuid": "e62cbda4-cc6b-45a2-82a7-169b3424802e@f5222",
+      "displayName": "",
+      "id": "f5222",
+      "name": "lambert34.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ea0a1": {
+      "importer": "gltf-scene",
+      "uuid": "e62cbda4-cc6b-45a2-82a7-169b3424802e@ea0a1",
+      "displayName": "",
+      "id": "ea0a1",
+      "name": "SM_Env_Motorway_Tunnel_Middle_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1001",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "e62cbda4-cc6b-45a2-82a7-169b3424802e@d29ca"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "e62cbda4-cc6b-45a2-82a7-169b3424802e@ea0a1",
+    "assetFinder": {
+      "meshes": [
+        "e62cbda4-cc6b-45a2-82a7-169b3424802e@bb173"
+      ],
+      "skeletons": [],
+      "textures": [
+        "e62cbda4-cc6b-45a2-82a7-169b3424802e@fd9f9"
+      ],
+      "materials": [
+        "e62cbda4-cc6b-45a2-82a7-169b3424802e@f5222"
+      ],
+      "scenes": [
+        "e62cbda4-cc6b-45a2-82a7-169b3424802e@ea0a1"
+      ]
+    }
+  }
+}

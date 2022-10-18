@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "7cfba600-38a9-433e-bdbe-a06234994edc",
+  "files": [],
+  "subMetas": {
+    "c14e1": {
+      "importer": "gltf-mesh",
+      "uuid": "7cfba600-38a9-433e-bdbe-a06234994edc@c14e1",
+      "displayName": "",
+      "id": "c14e1",
+      "name": "SM_Veh_Attach_SteeringW_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ed320": {
+      "importer": "gltf-material",
+      "uuid": "7cfba600-38a9-433e-bdbe-a06234994edc@ed320",
+      "displayName": "",
+      "id": "ed320",
+      "name": "lambert33.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d0e2f": {
+      "importer": "gltf-scene",
+      "uuid": "7cfba600-38a9-433e-bdbe-a06234994edc@d0e2f",
+      "displayName": "",
+      "id": "d0e2f",
+      "name": "SM_Veh_Attach_SteeringW_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "7cfba600-38a9-433e-bdbe-a06234994edc@d0e2f",
+    "assetFinder": {
+      "meshes": [
+        "7cfba600-38a9-433e-bdbe-a06234994edc@c14e1"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "7cfba600-38a9-433e-bdbe-a06234994edc@ed320"
+      ],
+      "scenes": [
+        "7cfba600-38a9-433e-bdbe-a06234994edc@d0e2f"
+      ]
+    }
+  }
+}

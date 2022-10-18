@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a5bb60ba-e392-4590-9816-11e8bc313422",
+  "files": [],
+  "subMetas": {
+    "c55e8": {
+      "importer": "gltf-mesh",
+      "uuid": "a5bb60ba-e392-4590-9816-11e8bc313422@c55e8",
+      "displayName": "",
+      "id": "c55e8",
+      "name": "SM_Prop_Barrier_Concrete_Half_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0d44d": {
+      "importer": "gltf-embeded-image",
+      "uuid": "a5bb60ba-e392-4590-9816-11e8bc313422@0d44d",
+      "displayName": "",
+      "id": "0d44d",
+      "name": "file411.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "0c5a9": {
+      "importer": "texture",
+      "uuid": "a5bb60ba-e392-4590-9816-11e8bc313422@0c5a9",
+      "displayName": "",
+      "id": "0c5a9",
+      "name": "file411.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "a5bb60ba-e392-4590-9816-11e8bc313422@0d44d"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9cec5": {
+      "importer": "gltf-material",
+      "uuid": "a5bb60ba-e392-4590-9816-11e8bc313422@9cec5",
+      "displayName": "",
+      "id": "9cec5",
+      "name": "lambert148.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e1507": {
+      "importer": "gltf-scene",
+      "uuid": "a5bb60ba-e392-4590-9816-11e8bc313422@e1507",
+      "displayName": "",
+      "id": "e1507",
+      "name": "SM_Prop_Barrier_Concrete_Half_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file411",
+        "uri": "a5bb60ba-e392-4590-9816-11e8bc313422@0d44d"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "a5bb60ba-e392-4590-9816-11e8bc313422@e1507",
+    "assetFinder": {
+      "meshes": [
+        "a5bb60ba-e392-4590-9816-11e8bc313422@c55e8"
+      ],
+      "skeletons": [],
+      "textures": [
+        "a5bb60ba-e392-4590-9816-11e8bc313422@0c5a9"
+      ],
+      "materials": [
+        "a5bb60ba-e392-4590-9816-11e8bc313422@9cec5"
+      ],
+      "scenes": [
+        "a5bb60ba-e392-4590-9816-11e8bc313422@e1507"
+      ]
+    }
+  }
+}

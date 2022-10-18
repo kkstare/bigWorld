@@ -1,0 +1,217 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "2cea5ccc-f34b-41ed-a969-6a3307a473dc",
+  "files": [],
+  "subMetas": {
+    "32401": {
+      "importer": "gltf-mesh",
+      "uuid": "2cea5ccc-f34b-41ed-a969-6a3307a473dc@32401",
+      "displayName": "",
+      "id": "32401",
+      "name": "SM_Veh_BigRig_Trailer_Wheel_rr.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "daea7": {
+      "importer": "gltf-mesh",
+      "uuid": "2cea5ccc-f34b-41ed-a969-6a3307a473dc@daea7",
+      "displayName": "",
+      "id": "daea7",
+      "name": "SM_Veh_BigRig_Trailer_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6d691": {
+      "importer": "gltf-mesh",
+      "uuid": "2cea5ccc-f34b-41ed-a969-6a3307a473dc@6d691",
+      "displayName": "",
+      "id": "6d691",
+      "name": "SM_Veh_BigRig_Trailer_Wheel_fl.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4bc57": {
+      "importer": "gltf-mesh",
+      "uuid": "2cea5ccc-f34b-41ed-a969-6a3307a473dc@4bc57",
+      "displayName": "",
+      "id": "4bc57",
+      "name": "SM_Veh_BigRig_Trailer_Supports_01.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f6245": {
+      "importer": "gltf-mesh",
+      "uuid": "2cea5ccc-f34b-41ed-a969-6a3307a473dc@f6245",
+      "displayName": "",
+      "id": "f6245",
+      "name": "SM_Veh_BigRig_Trailer_Wheel_fr.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a345a": {
+      "importer": "gltf-mesh",
+      "uuid": "2cea5ccc-f34b-41ed-a969-6a3307a473dc@a345a",
+      "displayName": "",
+      "id": "a345a",
+      "name": "SM_Veh_BigRig_Trailer_Wheel_rl.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "008d7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "2cea5ccc-f34b-41ed-a969-6a3307a473dc@008d7",
+      "displayName": "",
+      "id": "008d7",
+      "name": "__PolygonZombie_Texture_A_2.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "76a36": {
+      "importer": "texture",
+      "uuid": "2cea5ccc-f34b-41ed-a969-6a3307a473dc@76a36",
+      "displayName": "",
+      "id": "76a36",
+      "name": "__PolygonZombie_Texture_A_2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "2cea5ccc-f34b-41ed-a969-6a3307a473dc@008d7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e18d5": {
+      "importer": "gltf-material",
+      "uuid": "2cea5ccc-f34b-41ed-a969-6a3307a473dc@e18d5",
+      "displayName": "",
+      "id": "e18d5",
+      "name": "lambert32.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e3ac1": {
+      "importer": "gltf-scene",
+      "uuid": "2cea5ccc-f34b-41ed-a969-6a3307a473dc@e3ac1",
+      "displayName": "",
+      "id": "e3ac1",
+      "name": "SM_Veh_BigRig_Trailer_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "__PolygonZombie_Texture_A_2",
+        "uri": "2cea5ccc-f34b-41ed-a969-6a3307a473dc@008d7"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "2cea5ccc-f34b-41ed-a969-6a3307a473dc@e3ac1",
+    "assetFinder": {
+      "meshes": [
+        "2cea5ccc-f34b-41ed-a969-6a3307a473dc@daea7",
+        "2cea5ccc-f34b-41ed-a969-6a3307a473dc@32401",
+        "2cea5ccc-f34b-41ed-a969-6a3307a473dc@6d691",
+        "2cea5ccc-f34b-41ed-a969-6a3307a473dc@4bc57",
+        "2cea5ccc-f34b-41ed-a969-6a3307a473dc@f6245",
+        "2cea5ccc-f34b-41ed-a969-6a3307a473dc@a345a"
+      ],
+      "skeletons": [],
+      "textures": [
+        "2cea5ccc-f34b-41ed-a969-6a3307a473dc@76a36"
+      ],
+      "materials": [
+        "2cea5ccc-f34b-41ed-a969-6a3307a473dc@e18d5"
+      ],
+      "scenes": [
+        "2cea5ccc-f34b-41ed-a969-6a3307a473dc@e3ac1"
+      ]
+    }
+  }
+}

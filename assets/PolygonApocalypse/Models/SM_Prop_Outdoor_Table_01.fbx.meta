@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "eb4aa7c4-7dfe-4f89-935e-05359b540659",
+  "files": [],
+  "subMetas": {
+    "23215": {
+      "importer": "gltf-embeded-image",
+      "uuid": "eb4aa7c4-7dfe-4f89-935e-05359b540659@23215",
+      "displayName": "",
+      "id": "23215",
+      "name": "file1031.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "72bbf": {
+      "importer": "gltf-mesh",
+      "uuid": "eb4aa7c4-7dfe-4f89-935e-05359b540659@72bbf",
+      "displayName": "",
+      "id": "72bbf",
+      "name": "SM_Prop_Outdoor_Table_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5691d": {
+      "importer": "texture",
+      "uuid": "eb4aa7c4-7dfe-4f89-935e-05359b540659@5691d",
+      "displayName": "",
+      "id": "5691d",
+      "name": "file1031.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "eb4aa7c4-7dfe-4f89-935e-05359b540659@23215"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "38a38": {
+      "importer": "gltf-material",
+      "uuid": "eb4aa7c4-7dfe-4f89-935e-05359b540659@38a38",
+      "displayName": "",
+      "id": "38a38",
+      "name": "lambert886.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f6bd6": {
+      "importer": "gltf-scene",
+      "uuid": "eb4aa7c4-7dfe-4f89-935e-05359b540659@f6bd6",
+      "displayName": "",
+      "id": "f6bd6",
+      "name": "SM_Prop_Outdoor_Table_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1031",
+        "uri": "eb4aa7c4-7dfe-4f89-935e-05359b540659@23215"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "eb4aa7c4-7dfe-4f89-935e-05359b540659@f6bd6",
+    "assetFinder": {
+      "meshes": [
+        "eb4aa7c4-7dfe-4f89-935e-05359b540659@72bbf"
+      ],
+      "skeletons": [],
+      "textures": [
+        "eb4aa7c4-7dfe-4f89-935e-05359b540659@5691d"
+      ],
+      "materials": [
+        "eb4aa7c4-7dfe-4f89-935e-05359b540659@38a38"
+      ],
+      "scenes": [
+        "eb4aa7c4-7dfe-4f89-935e-05359b540659@f6bd6"
+      ]
+    }
+  }
+}

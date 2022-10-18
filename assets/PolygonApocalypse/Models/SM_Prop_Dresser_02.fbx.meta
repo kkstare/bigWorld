@@ -1,0 +1,188 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "9f9dd27f-99f1-41d3-80f5-5f1a94be7d6b",
+  "files": [],
+  "subMetas": {
+    "ebe50": {
+      "importer": "gltf-mesh",
+      "uuid": "9f9dd27f-99f1-41d3-80f5-5f1a94be7d6b@ebe50",
+      "displayName": "",
+      "id": "ebe50",
+      "name": "SM_Prop_Dresser_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "288ea": {
+      "importer": "gltf-mesh",
+      "uuid": "9f9dd27f-99f1-41d3-80f5-5f1a94be7d6b@288ea",
+      "displayName": "",
+      "id": "288ea",
+      "name": "SM_Prop_Dresser_02_Drawer_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a2e7d": {
+      "importer": "gltf-mesh",
+      "uuid": "9f9dd27f-99f1-41d3-80f5-5f1a94be7d6b@a2e7d",
+      "displayName": "",
+      "id": "a2e7d",
+      "name": "SM_Prop_Dresser_02_Drawer_02.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9f1f7": {
+      "importer": "gltf-mesh",
+      "uuid": "9f9dd27f-99f1-41d3-80f5-5f1a94be7d6b@9f1f7",
+      "displayName": "",
+      "id": "9f1f7",
+      "name": "SM_Prop_Dresser_02_Drawer_03.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6b7e3": {
+      "importer": "gltf-mesh",
+      "uuid": "9f9dd27f-99f1-41d3-80f5-5f1a94be7d6b@6b7e3",
+      "displayName": "",
+      "id": "6b7e3",
+      "name": "SM_Prop_Dresser_02_Drawer_04.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "33ac3": {
+      "importer": "gltf-mesh",
+      "uuid": "9f9dd27f-99f1-41d3-80f5-5f1a94be7d6b@33ac3",
+      "displayName": "",
+      "id": "33ac3",
+      "name": "SM_Prop_Dresser_02_Clothes_01.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7e44e": {
+      "importer": "gltf-mesh",
+      "uuid": "9f9dd27f-99f1-41d3-80f5-5f1a94be7d6b@7e44e",
+      "displayName": "",
+      "id": "7e44e",
+      "name": "SM_Prop_Dresser_02_Drawer_05.mesh",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "38a38": {
+      "importer": "gltf-material",
+      "uuid": "9f9dd27f-99f1-41d3-80f5-5f1a94be7d6b@38a38",
+      "displayName": "",
+      "id": "38a38",
+      "name": "lambert886.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a7221": {
+      "importer": "gltf-scene",
+      "uuid": "9f9dd27f-99f1-41d3-80f5-5f1a94be7d6b@a7221",
+      "displayName": "",
+      "id": "a7221",
+      "name": "SM_Prop_Dresser_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "9f9dd27f-99f1-41d3-80f5-5f1a94be7d6b@a7221",
+    "assetFinder": {
+      "meshes": [
+        "9f9dd27f-99f1-41d3-80f5-5f1a94be7d6b@ebe50",
+        "9f9dd27f-99f1-41d3-80f5-5f1a94be7d6b@288ea",
+        "9f9dd27f-99f1-41d3-80f5-5f1a94be7d6b@a2e7d",
+        "9f9dd27f-99f1-41d3-80f5-5f1a94be7d6b@9f1f7",
+        "9f9dd27f-99f1-41d3-80f5-5f1a94be7d6b@6b7e3",
+        "9f9dd27f-99f1-41d3-80f5-5f1a94be7d6b@33ac3",
+        "9f9dd27f-99f1-41d3-80f5-5f1a94be7d6b@7e44e"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "9f9dd27f-99f1-41d3-80f5-5f1a94be7d6b@38a38"
+      ],
+      "scenes": [
+        "9f9dd27f-99f1-41d3-80f5-5f1a94be7d6b@a7221"
+      ]
+    }
+  }
+}

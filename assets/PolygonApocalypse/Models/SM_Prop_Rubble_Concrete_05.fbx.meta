@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "2520d72c-d60f-407c-a047-37e59ef107c2",
+  "files": [],
+  "subMetas": {
+    "31006": {
+      "importer": "gltf-mesh",
+      "uuid": "2520d72c-d60f-407c-a047-37e59ef107c2@31006",
+      "displayName": "",
+      "id": "31006",
+      "name": "SM_Prop_Rubble_Concrete_05.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "43c71": {
+      "importer": "gltf-embeded-image",
+      "uuid": "2520d72c-d60f-407c-a047-37e59ef107c2@43c71",
+      "displayName": "",
+      "id": "43c71",
+      "name": "file1.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "d20e9": {
+      "importer": "texture",
+      "uuid": "2520d72c-d60f-407c-a047-37e59ef107c2@d20e9",
+      "displayName": "",
+      "id": "d20e9",
+      "name": "file1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "2520d72c-d60f-407c-a047-37e59ef107c2@43c71"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a3ca": {
+      "importer": "gltf-material",
+      "uuid": "2520d72c-d60f-407c-a047-37e59ef107c2@7a3ca",
+      "displayName": "",
+      "id": "7a3ca",
+      "name": "lambert2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9a36b": {
+      "importer": "gltf-scene",
+      "uuid": "2520d72c-d60f-407c-a047-37e59ef107c2@9a36b",
+      "displayName": "",
+      "id": "9a36b",
+      "name": "SM_Prop_Rubble_Concrete_05.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1",
+        "uri": "2520d72c-d60f-407c-a047-37e59ef107c2@43c71"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "2520d72c-d60f-407c-a047-37e59ef107c2@9a36b",
+    "assetFinder": {
+      "meshes": [
+        "2520d72c-d60f-407c-a047-37e59ef107c2@31006"
+      ],
+      "skeletons": [],
+      "textures": [
+        "2520d72c-d60f-407c-a047-37e59ef107c2@d20e9"
+      ],
+      "materials": [
+        "2520d72c-d60f-407c-a047-37e59ef107c2@7a3ca"
+      ],
+      "scenes": [
+        "2520d72c-d60f-407c-a047-37e59ef107c2@9a36b"
+      ]
+    }
+  }
+}

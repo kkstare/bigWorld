@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "cfd1029c-8eed-469f-a610-2c273b21f54f",
+  "files": [],
+  "subMetas": {
+    "1591a": {
+      "importer": "gltf-mesh",
+      "uuid": "cfd1029c-8eed-469f-a610-2c273b21f54f@1591a",
+      "displayName": "",
+      "id": "1591a",
+      "name": "SM_Env_Bushes_03.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "cfd1029c-8eed-469f-a610-2c273b21f54f@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "cfd1029c-8eed-469f-a610-2c273b21f54f@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "cfd1029c-8eed-469f-a610-2c273b21f54f@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "84a7a": {
+      "importer": "gltf-scene",
+      "uuid": "cfd1029c-8eed-469f-a610-2c273b21f54f@84a7a",
+      "displayName": "",
+      "id": "84a7a",
+      "name": "SM_Env_Bushes_03.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "cfd1029c-8eed-469f-a610-2c273b21f54f@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "cfd1029c-8eed-469f-a610-2c273b21f54f@84a7a",
+    "assetFinder": {
+      "meshes": [
+        "cfd1029c-8eed-469f-a610-2c273b21f54f@1591a"
+      ],
+      "skeletons": [],
+      "textures": [
+        "cfd1029c-8eed-469f-a610-2c273b21f54f@988dc"
+      ],
+      "materials": [
+        "cfd1029c-8eed-469f-a610-2c273b21f54f@8d883"
+      ],
+      "scenes": [
+        "cfd1029c-8eed-469f-a610-2c273b21f54f@84a7a"
+      ]
+    }
+  }
+}

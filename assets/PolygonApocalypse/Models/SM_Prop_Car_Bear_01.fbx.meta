@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "810c050d-e7e9-412f-848f-c2c0b12506c8",
+  "files": [],
+  "subMetas": {
+    "19219": {
+      "importer": "texture",
+      "uuid": "810c050d-e7e9-412f-848f-c2c0b12506c8@19219",
+      "displayName": "",
+      "id": "19219",
+      "name": "file114.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "810c050d-e7e9-412f-848f-c2c0b12506c8@e513d"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "593ea": {
+      "importer": "gltf-mesh",
+      "uuid": "810c050d-e7e9-412f-848f-c2c0b12506c8@593ea",
+      "displayName": "",
+      "id": "593ea",
+      "name": "SM_Prop_Car_Bear_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e513d": {
+      "importer": "gltf-embeded-image",
+      "uuid": "810c050d-e7e9-412f-848f-c2c0b12506c8@e513d",
+      "displayName": "",
+      "id": "e513d",
+      "name": "file114.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "c0b62": {
+      "importer": "gltf-material",
+      "uuid": "810c050d-e7e9-412f-848f-c2c0b12506c8@c0b62",
+      "displayName": "",
+      "id": "c0b62",
+      "name": "lambert25.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cec04": {
+      "importer": "gltf-scene",
+      "uuid": "810c050d-e7e9-412f-848f-c2c0b12506c8@cec04",
+      "displayName": "",
+      "id": "cec04",
+      "name": "SM_Prop_Car_Bear_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file114",
+        "uri": "810c050d-e7e9-412f-848f-c2c0b12506c8@e513d"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "810c050d-e7e9-412f-848f-c2c0b12506c8@cec04",
+    "assetFinder": {
+      "meshes": [
+        "810c050d-e7e9-412f-848f-c2c0b12506c8@593ea"
+      ],
+      "skeletons": [],
+      "textures": [
+        "810c050d-e7e9-412f-848f-c2c0b12506c8@19219"
+      ],
+      "materials": [
+        "810c050d-e7e9-412f-848f-c2c0b12506c8@c0b62"
+      ],
+      "scenes": [
+        "810c050d-e7e9-412f-848f-c2c0b12506c8@cec04"
+      ]
+    }
+  }
+}

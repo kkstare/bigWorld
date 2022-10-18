@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "545a6b1a-8e8d-495c-b8a4-84c290d45ce8",
+  "files": [],
+  "subMetas": {
+    "89034": {
+      "importer": "gltf-material",
+      "uuid": "545a6b1a-8e8d-495c-b8a4-84c290d45ce8@89034",
+      "displayName": "",
+      "id": "89034",
+      "name": "BloodDecal41.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d5c94": {
+      "importer": "gltf-mesh",
+      "uuid": "545a6b1a-8e8d-495c-b8a4-84c290d45ce8@d5c94",
+      "displayName": "",
+      "id": "d5c94",
+      "name": "SM_Chr_Attach_Teen_Male_Hat_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d2d35": {
+      "importer": "gltf-scene",
+      "uuid": "545a6b1a-8e8d-495c-b8a4-84c290d45ce8@d2d35",
+      "displayName": "",
+      "id": "d2d35",
+      "name": "SM_Chr_Attach_Teen_Male_Hat_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "545a6b1a-8e8d-495c-b8a4-84c290d45ce8@d2d35",
+    "assetFinder": {
+      "meshes": [
+        "545a6b1a-8e8d-495c-b8a4-84c290d45ce8@d5c94"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "545a6b1a-8e8d-495c-b8a4-84c290d45ce8@89034"
+      ],
+      "scenes": [
+        "545a6b1a-8e8d-495c-b8a4-84c290d45ce8@d2d35"
+      ]
+    }
+  }
+}

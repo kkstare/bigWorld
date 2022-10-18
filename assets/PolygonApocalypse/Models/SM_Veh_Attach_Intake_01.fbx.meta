@@ -1,0 +1,116 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "bd3b51ec-ab66-4108-a208-868937f7e5bb",
+  "files": [],
+  "subMetas": {
+    "8a955": {
+      "importer": "gltf-mesh",
+      "uuid": "bd3b51ec-ab66-4108-a208-868937f7e5bb@8a955",
+      "displayName": "",
+      "id": "8a955",
+      "name": "SM_Veh_Attach_Intake_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5b915": {
+      "importer": "gltf-mesh",
+      "uuid": "bd3b51ec-ab66-4108-a208-868937f7e5bb@5b915",
+      "displayName": "",
+      "id": "5b915",
+      "name": "SM_Veh_Attach_Intake_Valve_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "13dd1": {
+      "importer": "gltf-mesh",
+      "uuid": "bd3b51ec-ab66-4108-a208-868937f7e5bb@13dd1",
+      "displayName": "",
+      "id": "13dd1",
+      "name": "SM_Veh_Attach_Intake_Plug_01.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5a410": {
+      "importer": "gltf-material",
+      "uuid": "bd3b51ec-ab66-4108-a208-868937f7e5bb@5a410",
+      "displayName": "",
+      "id": "5a410",
+      "name": "__BloodDecal1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "97a68": {
+      "importer": "gltf-scene",
+      "uuid": "bd3b51ec-ab66-4108-a208-868937f7e5bb@97a68",
+      "displayName": "",
+      "id": "97a68",
+      "name": "SM_Veh_Attach_Intake_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "bd3b51ec-ab66-4108-a208-868937f7e5bb@97a68",
+    "assetFinder": {
+      "meshes": [
+        "bd3b51ec-ab66-4108-a208-868937f7e5bb@8a955",
+        "bd3b51ec-ab66-4108-a208-868937f7e5bb@5b915",
+        "bd3b51ec-ab66-4108-a208-868937f7e5bb@13dd1"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "bd3b51ec-ab66-4108-a208-868937f7e5bb@5a410"
+      ],
+      "scenes": [
+        "bd3b51ec-ab66-4108-a208-868937f7e5bb@97a68"
+      ]
+    }
+  }
+}

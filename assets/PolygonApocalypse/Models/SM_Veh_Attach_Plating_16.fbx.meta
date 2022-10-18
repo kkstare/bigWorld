@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "9fc01163-fc8b-4a8c-b53e-41d63fd530af",
+  "files": [],
+  "subMetas": {
+    "f6cf7": {
+      "importer": "gltf-mesh",
+      "uuid": "9fc01163-fc8b-4a8c-b53e-41d63fd530af@f6cf7",
+      "displayName": "",
+      "id": "f6cf7",
+      "name": "SM_Veh_Attach_Plating_16.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "53c5b": {
+      "importer": "gltf-embeded-image",
+      "uuid": "9fc01163-fc8b-4a8c-b53e-41d63fd530af@53c5b",
+      "displayName": "",
+      "id": "53c5b",
+      "name": "_file113.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "4e269": {
+      "importer": "texture",
+      "uuid": "9fc01163-fc8b-4a8c-b53e-41d63fd530af@4e269",
+      "displayName": "",
+      "id": "4e269",
+      "name": "_file113.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "9fc01163-fc8b-4a8c-b53e-41d63fd530af@53c5b"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8f2cc": {
+      "importer": "gltf-material",
+      "uuid": "9fc01163-fc8b-4a8c-b53e-41d63fd530af@8f2cc",
+      "displayName": "",
+      "id": "8f2cc",
+      "name": "_Apoc_Car.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e9d16": {
+      "importer": "gltf-scene",
+      "uuid": "9fc01163-fc8b-4a8c-b53e-41d63fd530af@e9d16",
+      "displayName": "",
+      "id": "e9d16",
+      "name": "SM_Veh_Attach_Plating_16.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "_file113",
+        "uri": "9fc01163-fc8b-4a8c-b53e-41d63fd530af@53c5b"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "9fc01163-fc8b-4a8c-b53e-41d63fd530af@e9d16",
+    "assetFinder": {
+      "meshes": [
+        "9fc01163-fc8b-4a8c-b53e-41d63fd530af@f6cf7"
+      ],
+      "skeletons": [],
+      "textures": [
+        "9fc01163-fc8b-4a8c-b53e-41d63fd530af@4e269"
+      ],
+      "materials": [
+        "9fc01163-fc8b-4a8c-b53e-41d63fd530af@8f2cc"
+      ],
+      "scenes": [
+        "9fc01163-fc8b-4a8c-b53e-41d63fd530af@e9d16"
+      ]
+    }
+  }
+}

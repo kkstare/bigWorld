@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b97278d1-c502-4736-b7ba-d6d7d846f9f7",
+  "files": [],
+  "subMetas": {
+    "23215": {
+      "importer": "gltf-embeded-image",
+      "uuid": "b97278d1-c502-4736-b7ba-d6d7d846f9f7@23215",
+      "displayName": "",
+      "id": "23215",
+      "name": "file1031.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "93927": {
+      "importer": "gltf-scene",
+      "uuid": "b97278d1-c502-4736-b7ba-d6d7d846f9f7@93927",
+      "displayName": "",
+      "id": "93927",
+      "name": "SM_Prop_DiningChair_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d2da5": {
+      "importer": "gltf-mesh",
+      "uuid": "b97278d1-c502-4736-b7ba-d6d7d846f9f7@d2da5",
+      "displayName": "",
+      "id": "d2da5",
+      "name": "SM_Prop_DiningChair_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5691d": {
+      "importer": "texture",
+      "uuid": "b97278d1-c502-4736-b7ba-d6d7d846f9f7@5691d",
+      "displayName": "",
+      "id": "5691d",
+      "name": "file1031.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b97278d1-c502-4736-b7ba-d6d7d846f9f7@23215"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "38a38": {
+      "importer": "gltf-material",
+      "uuid": "b97278d1-c502-4736-b7ba-d6d7d846f9f7@38a38",
+      "displayName": "",
+      "id": "38a38",
+      "name": "lambert886.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1031",
+        "uri": "b97278d1-c502-4736-b7ba-d6d7d846f9f7@23215"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "b97278d1-c502-4736-b7ba-d6d7d846f9f7@93927",
+    "assetFinder": {
+      "meshes": [
+        "b97278d1-c502-4736-b7ba-d6d7d846f9f7@d2da5"
+      ],
+      "skeletons": [],
+      "textures": [
+        "b97278d1-c502-4736-b7ba-d6d7d846f9f7@5691d"
+      ],
+      "materials": [
+        "b97278d1-c502-4736-b7ba-d6d7d846f9f7@38a38"
+      ],
+      "scenes": [
+        "b97278d1-c502-4736-b7ba-d6d7d846f9f7@93927"
+      ]
+    }
+  }
+}

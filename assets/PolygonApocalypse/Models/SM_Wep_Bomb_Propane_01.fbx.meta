@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "3a6e4072-1dd0-4e75-a907-f44045ffadb4",
+  "files": [],
+  "subMetas": {
+    "03543": {
+      "importer": "gltf-mesh",
+      "uuid": "3a6e4072-1dd0-4e75-a907-f44045ffadb4@03543",
+      "displayName": "",
+      "id": "03543",
+      "name": "SM_Wep_Bomb_Propane_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e43a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "3a6e4072-1dd0-4e75-a907-f44045ffadb4@1e43a",
+      "displayName": "",
+      "id": "1e43a",
+      "name": "file1198.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "05eac": {
+      "importer": "texture",
+      "uuid": "3a6e4072-1dd0-4e75-a907-f44045ffadb4@05eac",
+      "displayName": "",
+      "id": "05eac",
+      "name": "file1198.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5bd2": {
+      "importer": "gltf-material",
+      "uuid": "3a6e4072-1dd0-4e75-a907-f44045ffadb4@a5bd2",
+      "displayName": "",
+      "id": "a5bd2",
+      "name": "lambert.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0ed6d": {
+      "importer": "gltf-scene",
+      "uuid": "3a6e4072-1dd0-4e75-a907-f44045ffadb4@0ed6d",
+      "displayName": "",
+      "id": "0ed6d",
+      "name": "SM_Wep_Bomb_Propane_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1198",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "3a6e4072-1dd0-4e75-a907-f44045ffadb4@1e43a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "3a6e4072-1dd0-4e75-a907-f44045ffadb4@0ed6d",
+    "assetFinder": {
+      "meshes": [
+        "3a6e4072-1dd0-4e75-a907-f44045ffadb4@03543"
+      ],
+      "skeletons": [],
+      "textures": [
+        "3a6e4072-1dd0-4e75-a907-f44045ffadb4@05eac"
+      ],
+      "materials": [
+        "3a6e4072-1dd0-4e75-a907-f44045ffadb4@a5bd2"
+      ],
+      "scenes": [
+        "3a6e4072-1dd0-4e75-a907-f44045ffadb4@0ed6d"
+      ]
+    }
+  }
+}

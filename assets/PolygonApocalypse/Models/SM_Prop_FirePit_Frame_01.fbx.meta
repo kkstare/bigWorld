@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "2036bf84-6068-45b3-aa9a-f0c5f614c442",
+  "files": [],
+  "subMetas": {
+    "62834": {
+      "importer": "gltf-mesh",
+      "uuid": "2036bf84-6068-45b3-aa9a-f0c5f614c442@62834",
+      "displayName": "",
+      "id": "62834",
+      "name": "SM_Prop_FirePit_Frame_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "2036bf84-6068-45b3-aa9a-f0c5f614c442@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "2036bf84-6068-45b3-aa9a-f0c5f614c442@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "2036bf84-6068-45b3-aa9a-f0c5f614c442@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cf44d": {
+      "importer": "gltf-material",
+      "uuid": "2036bf84-6068-45b3-aa9a-f0c5f614c442@cf44d",
+      "displayName": "",
+      "id": "cf44d",
+      "name": "lambert20.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0d026": {
+      "importer": "gltf-scene",
+      "uuid": "2036bf84-6068-45b3-aa9a-f0c5f614c442@0d026",
+      "displayName": "",
+      "id": "0d026",
+      "name": "SM_Prop_FirePit_Frame_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "2036bf84-6068-45b3-aa9a-f0c5f614c442@d63f7"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "2036bf84-6068-45b3-aa9a-f0c5f614c442@0d026",
+    "assetFinder": {
+      "meshes": [
+        "2036bf84-6068-45b3-aa9a-f0c5f614c442@62834"
+      ],
+      "skeletons": [],
+      "textures": [
+        "2036bf84-6068-45b3-aa9a-f0c5f614c442@ae3ea"
+      ],
+      "materials": [
+        "2036bf84-6068-45b3-aa9a-f0c5f614c442@cf44d"
+      ],
+      "scenes": [
+        "2036bf84-6068-45b3-aa9a-f0c5f614c442@0d026"
+      ]
+    }
+  }
+}

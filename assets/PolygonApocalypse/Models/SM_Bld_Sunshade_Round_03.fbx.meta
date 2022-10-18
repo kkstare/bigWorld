@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "6e0139a1-e3f0-47cf-90b0-e94d58c61bc0",
+  "files": [],
+  "subMetas": {
+    "90541": {
+      "importer": "gltf-mesh",
+      "uuid": "6e0139a1-e3f0-47cf-90b0-e94d58c61bc0@90541",
+      "displayName": "",
+      "id": "90541",
+      "name": "SM_Bld_Sunshade_Round_03.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "43c71": {
+      "importer": "gltf-embeded-image",
+      "uuid": "6e0139a1-e3f0-47cf-90b0-e94d58c61bc0@43c71",
+      "displayName": "",
+      "id": "43c71",
+      "name": "file1.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "d20e9": {
+      "importer": "texture",
+      "uuid": "6e0139a1-e3f0-47cf-90b0-e94d58c61bc0@d20e9",
+      "displayName": "",
+      "id": "d20e9",
+      "name": "file1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "6e0139a1-e3f0-47cf-90b0-e94d58c61bc0@43c71"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fdb30": {
+      "importer": "gltf-material",
+      "uuid": "6e0139a1-e3f0-47cf-90b0-e94d58c61bc0@fdb30",
+      "displayName": "",
+      "id": "fdb30",
+      "name": "lambert23.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1ca25": {
+      "importer": "gltf-scene",
+      "uuid": "6e0139a1-e3f0-47cf-90b0-e94d58c61bc0@1ca25",
+      "displayName": "",
+      "id": "1ca25",
+      "name": "SM_Bld_Sunshade_Round_03.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1",
+        "uri": "6e0139a1-e3f0-47cf-90b0-e94d58c61bc0@43c71"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "6e0139a1-e3f0-47cf-90b0-e94d58c61bc0@1ca25",
+    "assetFinder": {
+      "meshes": [
+        "6e0139a1-e3f0-47cf-90b0-e94d58c61bc0@90541"
+      ],
+      "skeletons": [],
+      "textures": [
+        "6e0139a1-e3f0-47cf-90b0-e94d58c61bc0@d20e9"
+      ],
+      "materials": [
+        "6e0139a1-e3f0-47cf-90b0-e94d58c61bc0@fdb30"
+      ],
+      "scenes": [
+        "6e0139a1-e3f0-47cf-90b0-e94d58c61bc0@1ca25"
+      ]
+    }
+  }
+}

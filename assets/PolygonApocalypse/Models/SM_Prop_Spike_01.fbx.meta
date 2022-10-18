@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "fa5c2df0-1d57-4263-acc6-eaa3b900210d",
+  "files": [],
+  "subMetas": {
+    "15962": {
+      "importer": "gltf-material",
+      "uuid": "fa5c2df0-1d57-4263-acc6-eaa3b900210d@15962",
+      "displayName": "",
+      "id": "15962",
+      "name": "db:New_Characters_Rigging_29:BloodDecal.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9ed80": {
+      "importer": "gltf-mesh",
+      "uuid": "fa5c2df0-1d57-4263-acc6-eaa3b900210d@9ed80",
+      "displayName": "",
+      "id": "9ed80",
+      "name": "SM_Prop_Spike_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "abad7": {
+      "importer": "gltf-scene",
+      "uuid": "fa5c2df0-1d57-4263-acc6-eaa3b900210d@abad7",
+      "displayName": "",
+      "id": "abad7",
+      "name": "SM_Prop_Spike_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "fa5c2df0-1d57-4263-acc6-eaa3b900210d@abad7",
+    "assetFinder": {
+      "meshes": [
+        "fa5c2df0-1d57-4263-acc6-eaa3b900210d@9ed80"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "fa5c2df0-1d57-4263-acc6-eaa3b900210d@15962"
+      ],
+      "scenes": [
+        "fa5c2df0-1d57-4263-acc6-eaa3b900210d@abad7"
+      ]
+    }
+  }
+}

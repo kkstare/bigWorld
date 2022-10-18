@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "426b1c3d-c37d-4176-b901-07ea168c7afb",
+  "files": [],
+  "subMetas": {
+    "a26e9": {
+      "importer": "gltf-mesh",
+      "uuid": "426b1c3d-c37d-4176-b901-07ea168c7afb@a26e9",
+      "displayName": "",
+      "id": "a26e9",
+      "name": "SM_Prop_Roof_Chimney.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e43a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "426b1c3d-c37d-4176-b901-07ea168c7afb@1e43a",
+      "displayName": "",
+      "id": "1e43a",
+      "name": "file1198.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "05eac": {
+      "importer": "texture",
+      "uuid": "426b1c3d-c37d-4176-b901-07ea168c7afb@05eac",
+      "displayName": "",
+      "id": "05eac",
+      "name": "file1198.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5bd2": {
+      "importer": "gltf-material",
+      "uuid": "426b1c3d-c37d-4176-b901-07ea168c7afb@a5bd2",
+      "displayName": "",
+      "id": "a5bd2",
+      "name": "lambert.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6b647": {
+      "importer": "gltf-scene",
+      "uuid": "426b1c3d-c37d-4176-b901-07ea168c7afb@6b647",
+      "displayName": "",
+      "id": "6b647",
+      "name": "SM_Prop_Roof_Chimney.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1198",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "426b1c3d-c37d-4176-b901-07ea168c7afb@1e43a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "426b1c3d-c37d-4176-b901-07ea168c7afb@6b647",
+    "assetFinder": {
+      "meshes": [
+        "426b1c3d-c37d-4176-b901-07ea168c7afb@a26e9"
+      ],
+      "skeletons": [],
+      "textures": [
+        "426b1c3d-c37d-4176-b901-07ea168c7afb@05eac"
+      ],
+      "materials": [
+        "426b1c3d-c37d-4176-b901-07ea168c7afb@a5bd2"
+      ],
+      "scenes": [
+        "426b1c3d-c37d-4176-b901-07ea168c7afb@6b647"
+      ]
+    }
+  }
+}

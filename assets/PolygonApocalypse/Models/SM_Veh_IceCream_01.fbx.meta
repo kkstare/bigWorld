@@ -1,0 +1,242 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "4cafabbb-5c6f-4aac-a102-d6e59dbababb",
+  "files": [],
+  "subMetas": {
+    "88885": {
+      "importer": "gltf-scene",
+      "uuid": "4cafabbb-5c6f-4aac-a102-d6e59dbababb@88885",
+      "displayName": "",
+      "id": "88885",
+      "name": "SM_Veh_IceCream_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3fb28": {
+      "importer": "gltf-mesh",
+      "uuid": "4cafabbb-5c6f-4aac-a102-d6e59dbababb@3fb28",
+      "displayName": "",
+      "id": "3fb28",
+      "name": "SM_Veh_IceCream_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "36d19": {
+      "importer": "gltf-mesh",
+      "uuid": "4cafabbb-5c6f-4aac-a102-d6e59dbababb@36d19",
+      "displayName": "",
+      "id": "36d19",
+      "name": "SM_Veh_IceCream_Armour_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "06747": {
+      "importer": "gltf-mesh",
+      "uuid": "4cafabbb-5c6f-4aac-a102-d6e59dbababb@06747",
+      "displayName": "",
+      "id": "06747",
+      "name": "SM_Veh_IceCream_Glass_Armour_01.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a1620": {
+      "importer": "gltf-mesh",
+      "uuid": "4cafabbb-5c6f-4aac-a102-d6e59dbababb@a1620",
+      "displayName": "",
+      "id": "a1620",
+      "name": "SM_Veh_IceCream_Wheel_fl.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6dd82": {
+      "importer": "gltf-mesh",
+      "uuid": "4cafabbb-5c6f-4aac-a102-d6e59dbababb@6dd82",
+      "displayName": "",
+      "id": "6dd82",
+      "name": "SM_Veh_IceCream_Glass_01.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4b700": {
+      "importer": "gltf-mesh",
+      "uuid": "4cafabbb-5c6f-4aac-a102-d6e59dbababb@4b700",
+      "displayName": "",
+      "id": "4b700",
+      "name": "SM_Veh_IceCream_Top_01.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9327a": {
+      "importer": "gltf-mesh",
+      "uuid": "4cafabbb-5c6f-4aac-a102-d6e59dbababb@9327a",
+      "displayName": "",
+      "id": "9327a",
+      "name": "SM_Veh_IceCream_Wheel_fr.mesh",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c1d38": {
+      "importer": "gltf-mesh",
+      "uuid": "4cafabbb-5c6f-4aac-a102-d6e59dbababb@c1d38",
+      "displayName": "",
+      "id": "c1d38",
+      "name": "SM_Veh_IceCream_Wheel_rl.mesh",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a7664": {
+      "importer": "gltf-mesh",
+      "uuid": "4cafabbb-5c6f-4aac-a102-d6e59dbababb@a7664",
+      "displayName": "",
+      "id": "a7664",
+      "name": "SM_Veh_IceCream_Wheel_rr.mesh",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "336c3": {
+      "importer": "gltf-mesh",
+      "uuid": "4cafabbb-5c6f-4aac-a102-d6e59dbababb@336c3",
+      "displayName": "",
+      "id": "336c3",
+      "name": "SM_Veh_IceCream_SteeringW.mesh",
+      "userData": {
+        "gltfIndex": 9
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5c002": {
+      "importer": "gltf-material",
+      "uuid": "4cafabbb-5c6f-4aac-a102-d6e59dbababb@5c002",
+      "displayName": "",
+      "id": "5c002",
+      "name": "lambert35.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "4cafabbb-5c6f-4aac-a102-d6e59dbababb@88885",
+    "assetFinder": {
+      "meshes": [
+        "4cafabbb-5c6f-4aac-a102-d6e59dbababb@3fb28",
+        "4cafabbb-5c6f-4aac-a102-d6e59dbababb@36d19",
+        "4cafabbb-5c6f-4aac-a102-d6e59dbababb@06747",
+        "4cafabbb-5c6f-4aac-a102-d6e59dbababb@a1620",
+        "4cafabbb-5c6f-4aac-a102-d6e59dbababb@6dd82",
+        "4cafabbb-5c6f-4aac-a102-d6e59dbababb@4b700",
+        "4cafabbb-5c6f-4aac-a102-d6e59dbababb@9327a",
+        "4cafabbb-5c6f-4aac-a102-d6e59dbababb@c1d38",
+        "4cafabbb-5c6f-4aac-a102-d6e59dbababb@a7664",
+        "4cafabbb-5c6f-4aac-a102-d6e59dbababb@336c3"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "4cafabbb-5c6f-4aac-a102-d6e59dbababb@5c002"
+      ],
+      "scenes": [
+        "4cafabbb-5c6f-4aac-a102-d6e59dbababb@88885"
+      ]
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "287269c3-cd69-4fb8-b08f-e9e2d755673c",
+  "files": [],
+  "subMetas": {
+    "d7d95": {
+      "importer": "gltf-mesh",
+      "uuid": "287269c3-cd69-4fb8-b08f-e9e2d755673c@d7d95",
+      "displayName": "",
+      "id": "d7d95",
+      "name": "SM_Prop_Barricade_07.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "287269c3-cd69-4fb8-b08f-e9e2d755673c@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "287269c3-cd69-4fb8-b08f-e9e2d755673c@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "287269c3-cd69-4fb8-b08f-e9e2d755673c@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "64e9d": {
+      "importer": "gltf-scene",
+      "uuid": "287269c3-cd69-4fb8-b08f-e9e2d755673c@64e9d",
+      "displayName": "",
+      "id": "64e9d",
+      "name": "SM_Prop_Barricade_07.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "287269c3-cd69-4fb8-b08f-e9e2d755673c@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "287269c3-cd69-4fb8-b08f-e9e2d755673c@64e9d",
+    "assetFinder": {
+      "meshes": [
+        "287269c3-cd69-4fb8-b08f-e9e2d755673c@d7d95"
+      ],
+      "skeletons": [],
+      "textures": [
+        "287269c3-cd69-4fb8-b08f-e9e2d755673c@988dc"
+      ],
+      "materials": [
+        "287269c3-cd69-4fb8-b08f-e9e2d755673c@8d883"
+      ],
+      "scenes": [
+        "287269c3-cd69-4fb8-b08f-e9e2d755673c@64e9d"
+      ]
+    }
+  }
+}

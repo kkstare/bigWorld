@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "da0f3cb2-526a-435a-959e-3d49a0185564",
+  "files": [],
+  "subMetas": {
+    "cbe9c": {
+      "importer": "gltf-mesh",
+      "uuid": "da0f3cb2-526a-435a-959e-3d49a0185564@cbe9c",
+      "displayName": "",
+      "id": "cbe9c",
+      "name": "SM_Prop_Manhole_Hole_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3b923": {
+      "importer": "gltf-embeded-image",
+      "uuid": "da0f3cb2-526a-435a-959e-3d49a0185564@3b923",
+      "displayName": "",
+      "id": "3b923",
+      "name": "file507.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "b67ed": {
+      "importer": "texture",
+      "uuid": "da0f3cb2-526a-435a-959e-3d49a0185564@b67ed",
+      "displayName": "",
+      "id": "b67ed",
+      "name": "file507.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "da0f3cb2-526a-435a-959e-3d49a0185564@3b923"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c0c4e": {
+      "importer": "gltf-material",
+      "uuid": "da0f3cb2-526a-435a-959e-3d49a0185564@c0c4e",
+      "displayName": "",
+      "id": "c0c4e",
+      "name": "lambert275.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "babdf": {
+      "importer": "gltf-scene",
+      "uuid": "da0f3cb2-526a-435a-959e-3d49a0185564@babdf",
+      "displayName": "",
+      "id": "babdf",
+      "name": "SM_Prop_Manhole_Hole_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file507",
+        "uri": "da0f3cb2-526a-435a-959e-3d49a0185564@3b923"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "da0f3cb2-526a-435a-959e-3d49a0185564@babdf",
+    "assetFinder": {
+      "meshes": [
+        "da0f3cb2-526a-435a-959e-3d49a0185564@cbe9c"
+      ],
+      "skeletons": [],
+      "textures": [
+        "da0f3cb2-526a-435a-959e-3d49a0185564@b67ed"
+      ],
+      "materials": [
+        "da0f3cb2-526a-435a-959e-3d49a0185564@c0c4e"
+      ],
+      "scenes": [
+        "da0f3cb2-526a-435a-959e-3d49a0185564@babdf"
+      ]
+    }
+  }
+}

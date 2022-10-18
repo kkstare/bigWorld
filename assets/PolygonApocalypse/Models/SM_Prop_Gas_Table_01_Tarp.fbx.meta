@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "034a3ae7-ab5a-4ca5-a8f7-b3242a4d59bd",
+  "files": [],
+  "subMetas": {
+    "75260": {
+      "importer": "gltf-mesh",
+      "uuid": "034a3ae7-ab5a-4ca5-a8f7-b3242a4d59bd@75260",
+      "displayName": "",
+      "id": "75260",
+      "name": "SM_Prop_Gas_Table_01_Tarp.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "034a3ae7-ab5a-4ca5-a8f7-b3242a4d59bd@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "034a3ae7-ab5a-4ca5-a8f7-b3242a4d59bd@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "86f3e": {
+      "importer": "gltf-material",
+      "uuid": "034a3ae7-ab5a-4ca5-a8f7-b3242a4d59bd@86f3e",
+      "displayName": "",
+      "id": "86f3e",
+      "name": "lambert431.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5be18": {
+      "importer": "gltf-scene",
+      "uuid": "034a3ae7-ab5a-4ca5-a8f7-b3242a4d59bd@5be18",
+      "displayName": "",
+      "id": "5be18",
+      "name": "SM_Prop_Gas_Table_01_Tarp.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "034a3ae7-ab5a-4ca5-a8f7-b3242a4d59bd@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "034a3ae7-ab5a-4ca5-a8f7-b3242a4d59bd@5be18",
+    "assetFinder": {
+      "meshes": [
+        "034a3ae7-ab5a-4ca5-a8f7-b3242a4d59bd@75260"
+      ],
+      "skeletons": [],
+      "textures": [
+        "034a3ae7-ab5a-4ca5-a8f7-b3242a4d59bd@988dc"
+      ],
+      "materials": [
+        "034a3ae7-ab5a-4ca5-a8f7-b3242a4d59bd@86f3e"
+      ],
+      "scenes": [
+        "034a3ae7-ab5a-4ca5-a8f7-b3242a4d59bd@5be18"
+      ]
+    }
+  }
+}

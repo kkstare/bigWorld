@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e8234b06-efa5-45a6-bf89-385fcd5be5f4",
+  "files": [],
+  "subMetas": {
+    "ec75e": {
+      "importer": "gltf-mesh",
+      "uuid": "e8234b06-efa5-45a6-bf89-385fcd5be5f4@ec75e",
+      "displayName": "",
+      "id": "ec75e",
+      "name": "SM_Item_Ammo_12G_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "26fdd": {
+      "importer": "gltf-material",
+      "uuid": "e8234b06-efa5-45a6-bf89-385fcd5be5f4@26fdd",
+      "displayName": "",
+      "id": "26fdd",
+      "name": "lambert36.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "946fd": {
+      "importer": "gltf-scene",
+      "uuid": "e8234b06-efa5-45a6-bf89-385fcd5be5f4@946fd",
+      "displayName": "",
+      "id": "946fd",
+      "name": "SM_Item_Ammo_12G_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "e8234b06-efa5-45a6-bf89-385fcd5be5f4@946fd",
+    "assetFinder": {
+      "meshes": [
+        "e8234b06-efa5-45a6-bf89-385fcd5be5f4@ec75e"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "e8234b06-efa5-45a6-bf89-385fcd5be5f4@26fdd"
+      ],
+      "scenes": [
+        "e8234b06-efa5-45a6-bf89-385fcd5be5f4@946fd"
+      ]
+    }
+  }
+}

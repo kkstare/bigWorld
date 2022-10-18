@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "adbd2477-de69-41ed-86d6-7c9e5cb1ee7a",
+  "files": [],
+  "subMetas": {
+    "60b1d": {
+      "importer": "gltf-mesh",
+      "uuid": "adbd2477-de69-41ed-86d6-7c9e5cb1ee7a@60b1d",
+      "displayName": "",
+      "id": "60b1d",
+      "name": "SM_Env_Overgrowth_Wall_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e8ca8": {
+      "importer": "gltf-embeded-image",
+      "uuid": "adbd2477-de69-41ed-86d6-7c9e5cb1ee7a@e8ca8",
+      "displayName": "",
+      "id": "e8ca8",
+      "name": "file1143.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "1988e": {
+      "importer": "texture",
+      "uuid": "adbd2477-de69-41ed-86d6-7c9e5cb1ee7a@1988e",
+      "displayName": "",
+      "id": "1988e",
+      "name": "file1143.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2092e": {
+      "importer": "gltf-material",
+      "uuid": "adbd2477-de69-41ed-86d6-7c9e5cb1ee7a@2092e",
+      "displayName": "",
+      "id": "2092e",
+      "name": "GrassTest.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dc0a9": {
+      "importer": "gltf-scene",
+      "uuid": "adbd2477-de69-41ed-86d6-7c9e5cb1ee7a@dc0a9",
+      "displayName": "",
+      "id": "dc0a9",
+      "name": "SM_Env_Overgrowth_Wall_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1143",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "adbd2477-de69-41ed-86d6-7c9e5cb1ee7a@e8ca8"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "adbd2477-de69-41ed-86d6-7c9e5cb1ee7a@dc0a9",
+    "assetFinder": {
+      "meshes": [
+        "adbd2477-de69-41ed-86d6-7c9e5cb1ee7a@60b1d"
+      ],
+      "skeletons": [],
+      "textures": [
+        "adbd2477-de69-41ed-86d6-7c9e5cb1ee7a@1988e"
+      ],
+      "materials": [
+        "adbd2477-de69-41ed-86d6-7c9e5cb1ee7a@2092e"
+      ],
+      "scenes": [
+        "adbd2477-de69-41ed-86d6-7c9e5cb1ee7a@dc0a9"
+      ]
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "466448aa-ba0b-4c47-a18b-3199ce274462",
+  "files": [],
+  "subMetas": {
+    "99592": {
+      "importer": "gltf-material",
+      "uuid": "466448aa-ba0b-4c47-a18b-3199ce274462@99592",
+      "displayName": "",
+      "id": "99592",
+      "name": "BloodDecal39.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f6c0b": {
+      "importer": "gltf-mesh",
+      "uuid": "466448aa-ba0b-4c47-a18b-3199ce274462@f6c0b",
+      "displayName": "",
+      "id": "f6c0b",
+      "name": "SM_Chr_Attach_Teen_Female_Glasses_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b0573": {
+      "importer": "gltf-scene",
+      "uuid": "466448aa-ba0b-4c47-a18b-3199ce274462@b0573",
+      "displayName": "",
+      "id": "b0573",
+      "name": "SM_Chr_Attach_Teen_Female_Glasses_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "466448aa-ba0b-4c47-a18b-3199ce274462@b0573",
+    "assetFinder": {
+      "meshes": [
+        "466448aa-ba0b-4c47-a18b-3199ce274462@f6c0b"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "466448aa-ba0b-4c47-a18b-3199ce274462@99592"
+      ],
+      "scenes": [
+        "466448aa-ba0b-4c47-a18b-3199ce274462@b0573"
+      ]
+    }
+  }
+}

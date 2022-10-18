@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "22705676-f27a-482f-bd72-e31bfc112a0f",
+  "files": [],
+  "subMetas": {
+    "3c133": {
+      "importer": "gltf-mesh",
+      "uuid": "22705676-f27a-482f-bd72-e31bfc112a0f@3c133",
+      "displayName": "",
+      "id": "3c133",
+      "name": "SM_Prop_Skull_Silver_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "26fdd": {
+      "importer": "gltf-material",
+      "uuid": "22705676-f27a-482f-bd72-e31bfc112a0f@26fdd",
+      "displayName": "",
+      "id": "26fdd",
+      "name": "lambert36.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0f655": {
+      "importer": "gltf-scene",
+      "uuid": "22705676-f27a-482f-bd72-e31bfc112a0f@0f655",
+      "displayName": "",
+      "id": "0f655",
+      "name": "SM_Prop_Skull_Silver_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "22705676-f27a-482f-bd72-e31bfc112a0f@0f655",
+    "assetFinder": {
+      "meshes": [
+        "22705676-f27a-482f-bd72-e31bfc112a0f@3c133"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "22705676-f27a-482f-bd72-e31bfc112a0f@26fdd"
+      ],
+      "scenes": [
+        "22705676-f27a-482f-bd72-e31bfc112a0f@0f655"
+      ]
+    }
+  }
+}

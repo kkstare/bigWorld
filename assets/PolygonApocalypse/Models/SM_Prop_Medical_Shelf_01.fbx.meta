@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "3c2ec4c9-9dc4-4a30-8ffd-2737cb24beda",
+  "files": [],
+  "subMetas": {
+    "62b6a": {
+      "importer": "gltf-mesh",
+      "uuid": "3c2ec4c9-9dc4-4a30-8ffd-2737cb24beda@62b6a",
+      "displayName": "",
+      "id": "62b6a",
+      "name": "SM_Prop_Medical_Shelf_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "3c2ec4c9-9dc4-4a30-8ffd-2737cb24beda@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "3c2ec4c9-9dc4-4a30-8ffd-2737cb24beda@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "3c2ec4c9-9dc4-4a30-8ffd-2737cb24beda@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ae453": {
+      "importer": "gltf-scene",
+      "uuid": "3c2ec4c9-9dc4-4a30-8ffd-2737cb24beda@ae453",
+      "displayName": "",
+      "id": "ae453",
+      "name": "SM_Prop_Medical_Shelf_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "3c2ec4c9-9dc4-4a30-8ffd-2737cb24beda@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "3c2ec4c9-9dc4-4a30-8ffd-2737cb24beda@ae453",
+    "assetFinder": {
+      "meshes": [
+        "3c2ec4c9-9dc4-4a30-8ffd-2737cb24beda@62b6a"
+      ],
+      "skeletons": [],
+      "textures": [
+        "3c2ec4c9-9dc4-4a30-8ffd-2737cb24beda@988dc"
+      ],
+      "materials": [
+        "3c2ec4c9-9dc4-4a30-8ffd-2737cb24beda@8d883"
+      ],
+      "scenes": [
+        "3c2ec4c9-9dc4-4a30-8ffd-2737cb24beda@ae453"
+      ]
+    }
+  }
+}

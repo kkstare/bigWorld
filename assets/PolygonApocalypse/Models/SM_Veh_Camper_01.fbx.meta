@@ -1,0 +1,314 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "0c5e9667-e40f-4742-a842-22caf91a5ea0",
+  "files": [],
+  "subMetas": {
+    "87545": {
+      "importer": "gltf-mesh",
+      "uuid": "0c5e9667-e40f-4742-a842-22caf91a5ea0@87545",
+      "displayName": "",
+      "id": "87545",
+      "name": "SM_Veh_Camper_Wheel_fr.mesh",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ed9b3": {
+      "importer": "gltf-mesh",
+      "uuid": "0c5e9667-e40f-4742-a842-22caf91a5ea0@ed9b3",
+      "displayName": "",
+      "id": "ed9b3",
+      "name": "SM_Veh_Camper_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1ffdf": {
+      "importer": "gltf-mesh",
+      "uuid": "0c5e9667-e40f-4742-a842-22caf91a5ea0@1ffdf",
+      "displayName": "",
+      "id": "1ffdf",
+      "name": "SM_Veh_Camper_Wheel_rl.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0bafb": {
+      "importer": "gltf-mesh",
+      "uuid": "0c5e9667-e40f-4742-a842-22caf91a5ea0@0bafb",
+      "displayName": "",
+      "id": "0bafb",
+      "name": "SM_Veh_Camper_Wheel_rr.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "95b37": {
+      "importer": "gltf-mesh",
+      "uuid": "0c5e9667-e40f-4742-a842-22caf91a5ea0@95b37",
+      "displayName": "",
+      "id": "95b37",
+      "name": "SM_Veh_Camper_Door_01.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0e6ed": {
+      "importer": "gltf-mesh",
+      "uuid": "0c5e9667-e40f-4742-a842-22caf91a5ea0@0e6ed",
+      "displayName": "",
+      "id": "0e6ed",
+      "name": "SM_Veh_Camper_Door_01_Glass.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e7df6": {
+      "importer": "gltf-mesh",
+      "uuid": "0c5e9667-e40f-4742-a842-22caf91a5ea0@e7df6",
+      "displayName": "",
+      "id": "e7df6",
+      "name": "SM_Veh_Camper_Interior_01.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bb8fc": {
+      "importer": "gltf-mesh",
+      "uuid": "0c5e9667-e40f-4742-a842-22caf91a5ea0@bb8fc",
+      "displayName": "",
+      "id": "bb8fc",
+      "name": "SM_Veh_Camper_Wheel_fl.mesh",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "96fad": {
+      "importer": "gltf-mesh",
+      "uuid": "0c5e9667-e40f-4742-a842-22caf91a5ea0@96fad",
+      "displayName": "",
+      "id": "96fad",
+      "name": "SM_Veh_Camper_Glass_01.mesh",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "56d76": {
+      "importer": "gltf-mesh",
+      "uuid": "0c5e9667-e40f-4742-a842-22caf91a5ea0@56d76",
+      "displayName": "",
+      "id": "56d76",
+      "name": "SM_Veh_Camper_SteeringW.mesh",
+      "userData": {
+        "gltfIndex": 9
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2f9e3": {
+      "importer": "gltf-mesh",
+      "uuid": "0c5e9667-e40f-4742-a842-22caf91a5ea0@2f9e3",
+      "displayName": "",
+      "id": "2f9e3",
+      "name": "SM_Veh_Camper_Amour_01.mesh",
+      "userData": {
+        "gltfIndex": 10
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "41ba4": {
+      "importer": "gltf-mesh",
+      "uuid": "0c5e9667-e40f-4742-a842-22caf91a5ea0@41ba4",
+      "displayName": "",
+      "id": "41ba4",
+      "name": "SM_Veh_Camper_Chair_01.mesh",
+      "userData": {
+        "gltfIndex": 11
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "aad88": {
+      "importer": "gltf-mesh",
+      "uuid": "0c5e9667-e40f-4742-a842-22caf91a5ea0@aad88",
+      "displayName": "",
+      "id": "aad88",
+      "name": "SM_Veh_Camper_WireMesh_01.mesh",
+      "userData": {
+        "gltfIndex": 12
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "aef4c": {
+      "importer": "gltf-mesh",
+      "uuid": "0c5e9667-e40f-4742-a842-22caf91a5ea0@aef4c",
+      "displayName": "",
+      "id": "aef4c",
+      "name": "SM_Veh_Camper_Glass_Amour_01.mesh",
+      "userData": {
+        "gltfIndex": 13
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ed320": {
+      "importer": "gltf-material",
+      "uuid": "0c5e9667-e40f-4742-a842-22caf91a5ea0@ed320",
+      "displayName": "",
+      "id": "ed320",
+      "name": "lambert33.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a552c": {
+      "importer": "gltf-scene",
+      "uuid": "0c5e9667-e40f-4742-a842-22caf91a5ea0@a552c",
+      "displayName": "",
+      "id": "a552c",
+      "name": "SM_Veh_Camper_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "0c5e9667-e40f-4742-a842-22caf91a5ea0@a552c",
+    "assetFinder": {
+      "meshes": [
+        "0c5e9667-e40f-4742-a842-22caf91a5ea0@ed9b3",
+        "0c5e9667-e40f-4742-a842-22caf91a5ea0@1ffdf",
+        "0c5e9667-e40f-4742-a842-22caf91a5ea0@0bafb",
+        "0c5e9667-e40f-4742-a842-22caf91a5ea0@95b37",
+        "0c5e9667-e40f-4742-a842-22caf91a5ea0@0e6ed",
+        "0c5e9667-e40f-4742-a842-22caf91a5ea0@e7df6",
+        "0c5e9667-e40f-4742-a842-22caf91a5ea0@bb8fc",
+        "0c5e9667-e40f-4742-a842-22caf91a5ea0@87545",
+        "0c5e9667-e40f-4742-a842-22caf91a5ea0@96fad",
+        "0c5e9667-e40f-4742-a842-22caf91a5ea0@56d76",
+        "0c5e9667-e40f-4742-a842-22caf91a5ea0@2f9e3",
+        "0c5e9667-e40f-4742-a842-22caf91a5ea0@41ba4",
+        "0c5e9667-e40f-4742-a842-22caf91a5ea0@aad88",
+        "0c5e9667-e40f-4742-a842-22caf91a5ea0@aef4c"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "0c5e9667-e40f-4742-a842-22caf91a5ea0@ed320"
+      ],
+      "scenes": [
+        "0c5e9667-e40f-4742-a842-22caf91a5ea0@a552c"
+      ]
+    }
+  }
+}

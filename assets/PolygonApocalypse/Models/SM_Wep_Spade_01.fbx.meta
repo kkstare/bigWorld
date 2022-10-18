@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "2c337714-5ec3-4b64-8fd1-0b3eae8a1c7b",
+  "files": [],
+  "subMetas": {
+    "ff39f": {
+      "importer": "gltf-mesh",
+      "uuid": "2c337714-5ec3-4b64-8fd1-0b3eae8a1c7b@ff39f",
+      "displayName": "",
+      "id": "ff39f",
+      "name": "SM_Wep_Spade_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e43a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "2c337714-5ec3-4b64-8fd1-0b3eae8a1c7b@1e43a",
+      "displayName": "",
+      "id": "1e43a",
+      "name": "file1198.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "05eac": {
+      "importer": "texture",
+      "uuid": "2c337714-5ec3-4b64-8fd1-0b3eae8a1c7b@05eac",
+      "displayName": "",
+      "id": "05eac",
+      "name": "file1198.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5bd2": {
+      "importer": "gltf-material",
+      "uuid": "2c337714-5ec3-4b64-8fd1-0b3eae8a1c7b@a5bd2",
+      "displayName": "",
+      "id": "a5bd2",
+      "name": "lambert.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "952f7": {
+      "importer": "gltf-scene",
+      "uuid": "2c337714-5ec3-4b64-8fd1-0b3eae8a1c7b@952f7",
+      "displayName": "",
+      "id": "952f7",
+      "name": "SM_Wep_Spade_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1198",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "2c337714-5ec3-4b64-8fd1-0b3eae8a1c7b@1e43a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "2c337714-5ec3-4b64-8fd1-0b3eae8a1c7b@952f7",
+    "assetFinder": {
+      "meshes": [
+        "2c337714-5ec3-4b64-8fd1-0b3eae8a1c7b@ff39f"
+      ],
+      "skeletons": [],
+      "textures": [
+        "2c337714-5ec3-4b64-8fd1-0b3eae8a1c7b@05eac"
+      ],
+      "materials": [
+        "2c337714-5ec3-4b64-8fd1-0b3eae8a1c7b@a5bd2"
+      ],
+      "scenes": [
+        "2c337714-5ec3-4b64-8fd1-0b3eae8a1c7b@952f7"
+      ]
+    }
+  }
+}

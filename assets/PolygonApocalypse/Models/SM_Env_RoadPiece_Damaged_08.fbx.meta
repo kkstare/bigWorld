@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "5843947e-ea7b-43d2-beed-473a9e77f094",
+  "files": [],
+  "subMetas": {
+    "c9816": {
+      "importer": "gltf-mesh",
+      "uuid": "5843947e-ea7b-43d2-beed-473a9e77f094@c9816",
+      "displayName": "",
+      "id": "c9816",
+      "name": "SM_Env_RoadPiece_Damaged_08.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8b24b": {
+      "importer": "gltf-embeded-image",
+      "uuid": "5843947e-ea7b-43d2-beed-473a9e77f094@8b24b",
+      "displayName": "",
+      "id": "8b24b",
+      "name": "pasted__file996.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "4280d": {
+      "importer": "texture",
+      "uuid": "5843947e-ea7b-43d2-beed-473a9e77f094@4280d",
+      "displayName": "",
+      "id": "4280d",
+      "name": "pasted__file996.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "5843947e-ea7b-43d2-beed-473a9e77f094@8b24b"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "633e5": {
+      "importer": "gltf-material",
+      "uuid": "5843947e-ea7b-43d2-beed-473a9e77f094@633e5",
+      "displayName": "",
+      "id": "633e5",
+      "name": "Base_Maya_Scene1:pasted__MiniColour44.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a01f0": {
+      "importer": "gltf-scene",
+      "uuid": "5843947e-ea7b-43d2-beed-473a9e77f094@a01f0",
+      "displayName": "",
+      "id": "a01f0",
+      "name": "SM_Env_RoadPiece_Damaged_08.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "pasted__file996",
+        "uri": "5843947e-ea7b-43d2-beed-473a9e77f094@8b24b"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "5843947e-ea7b-43d2-beed-473a9e77f094@a01f0",
+    "assetFinder": {
+      "meshes": [
+        "5843947e-ea7b-43d2-beed-473a9e77f094@c9816"
+      ],
+      "skeletons": [],
+      "textures": [
+        "5843947e-ea7b-43d2-beed-473a9e77f094@4280d"
+      ],
+      "materials": [
+        "5843947e-ea7b-43d2-beed-473a9e77f094@633e5"
+      ],
+      "scenes": [
+        "5843947e-ea7b-43d2-beed-473a9e77f094@a01f0"
+      ]
+    }
+  }
+}

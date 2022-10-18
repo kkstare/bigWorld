@@ -1,0 +1,145 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "8c47db88-9af0-4570-9eb5-97001bb54e93",
+  "files": [],
+  "subMetas": {
+    "d9f19": {
+      "importer": "gltf-mesh",
+      "uuid": "8c47db88-9af0-4570-9eb5-97001bb54e93@d9f19",
+      "displayName": "",
+      "id": "d9f19",
+      "name": "SM_Item_Fishing_Rod_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dffa5": {
+      "importer": "gltf-mesh",
+      "uuid": "8c47db88-9af0-4570-9eb5-97001bb54e93@dffa5",
+      "displayName": "",
+      "id": "dffa5",
+      "name": "SM_Item_Fishing_Rod_Reel_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e942": {
+      "importer": "gltf-embeded-image",
+      "uuid": "8c47db88-9af0-4570-9eb5-97001bb54e93@1e942",
+      "displayName": "",
+      "id": "1e942",
+      "name": "Copter:file112.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "585d0": {
+      "importer": "texture",
+      "uuid": "8c47db88-9af0-4570-9eb5-97001bb54e93@585d0",
+      "displayName": "",
+      "id": "585d0",
+      "name": "Copter:file112.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "8c47db88-9af0-4570-9eb5-97001bb54e93@1e942"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a3ca": {
+      "importer": "gltf-material",
+      "uuid": "8c47db88-9af0-4570-9eb5-97001bb54e93@7a3ca",
+      "displayName": "",
+      "id": "7a3ca",
+      "name": "lambert2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "692c7": {
+      "importer": "gltf-scene",
+      "uuid": "8c47db88-9af0-4570-9eb5-97001bb54e93@692c7",
+      "displayName": "",
+      "id": "692c7",
+      "name": "SM_Item_Fishing_Rod_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Copter:file112",
+        "uri": "8c47db88-9af0-4570-9eb5-97001bb54e93@1e942"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "8c47db88-9af0-4570-9eb5-97001bb54e93@692c7",
+    "assetFinder": {
+      "meshes": [
+        "8c47db88-9af0-4570-9eb5-97001bb54e93@d9f19",
+        "8c47db88-9af0-4570-9eb5-97001bb54e93@dffa5"
+      ],
+      "skeletons": [],
+      "textures": [
+        "8c47db88-9af0-4570-9eb5-97001bb54e93@585d0"
+      ],
+      "materials": [
+        "8c47db88-9af0-4570-9eb5-97001bb54e93@7a3ca"
+      ],
+      "scenes": [
+        "8c47db88-9af0-4570-9eb5-97001bb54e93@692c7"
+      ]
+    }
+  }
+}

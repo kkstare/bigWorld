@@ -1,0 +1,199 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "5516b932-69dc-489e-8daa-0f771e3e9d44",
+  "files": [],
+  "subMetas": {
+    "23215": {
+      "importer": "gltf-embeded-image",
+      "uuid": "5516b932-69dc-489e-8daa-0f771e3e9d44@23215",
+      "displayName": "",
+      "id": "23215",
+      "name": "file1031.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "33942": {
+      "importer": "gltf-mesh",
+      "uuid": "5516b932-69dc-489e-8daa-0f771e3e9d44@33942",
+      "displayName": "",
+      "id": "33942",
+      "name": "SM_Prop_Freezer_Door_01_Glass.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48351": {
+      "importer": "gltf-mesh",
+      "uuid": "5516b932-69dc-489e-8daa-0f771e3e9d44@48351",
+      "displayName": "",
+      "id": "48351",
+      "name": "SM_Prop_Freezer_Door_02_Glass.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4fbe7": {
+      "importer": "gltf-mesh",
+      "uuid": "5516b932-69dc-489e-8daa-0f771e3e9d44@4fbe7",
+      "displayName": "",
+      "id": "4fbe7",
+      "name": "SM_Prop_Freezer_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bbe36": {
+      "importer": "gltf-mesh",
+      "uuid": "5516b932-69dc-489e-8daa-0f771e3e9d44@bbe36",
+      "displayName": "",
+      "id": "bbe36",
+      "name": "SM_Prop_Freezer_Door_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9d16d": {
+      "importer": "gltf-mesh",
+      "uuid": "5516b932-69dc-489e-8daa-0f771e3e9d44@9d16d",
+      "displayName": "",
+      "id": "9d16d",
+      "name": "SM_Prop_Freezer_Door_02.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5691d": {
+      "importer": "texture",
+      "uuid": "5516b932-69dc-489e-8daa-0f771e3e9d44@5691d",
+      "displayName": "",
+      "id": "5691d",
+      "name": "file1031.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "5516b932-69dc-489e-8daa-0f771e3e9d44@23215"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "38a38": {
+      "importer": "gltf-material",
+      "uuid": "5516b932-69dc-489e-8daa-0f771e3e9d44@38a38",
+      "displayName": "",
+      "id": "38a38",
+      "name": "lambert886.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3837c": {
+      "importer": "gltf-scene",
+      "uuid": "5516b932-69dc-489e-8daa-0f771e3e9d44@3837c",
+      "displayName": "",
+      "id": "3837c",
+      "name": "SM_Prop_Freezer_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1031",
+        "uri": "5516b932-69dc-489e-8daa-0f771e3e9d44@23215"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "5516b932-69dc-489e-8daa-0f771e3e9d44@3837c",
+    "assetFinder": {
+      "meshes": [
+        "5516b932-69dc-489e-8daa-0f771e3e9d44@4fbe7",
+        "5516b932-69dc-489e-8daa-0f771e3e9d44@bbe36",
+        "5516b932-69dc-489e-8daa-0f771e3e9d44@33942",
+        "5516b932-69dc-489e-8daa-0f771e3e9d44@9d16d",
+        "5516b932-69dc-489e-8daa-0f771e3e9d44@48351"
+      ],
+      "skeletons": [],
+      "textures": [
+        "5516b932-69dc-489e-8daa-0f771e3e9d44@5691d"
+      ],
+      "materials": [
+        "5516b932-69dc-489e-8daa-0f771e3e9d44@38a38"
+      ],
+      "scenes": [
+        "5516b932-69dc-489e-8daa-0f771e3e9d44@3837c"
+      ]
+    }
+  }
+}

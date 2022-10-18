@@ -1,0 +1,146 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ebccac66-07d6-406e-a35b-395e01583458",
+  "files": [],
+  "subMetas": {
+    "c44a3": {
+      "importer": "gltf-mesh",
+      "uuid": "ebccac66-07d6-406e-a35b-395e01583458@c44a3",
+      "displayName": "",
+      "id": "c44a3",
+      "name": "SM_Prop_Gaspump_Cover_Burnt_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "62a8b": {
+      "importer": "gltf-mesh",
+      "uuid": "ebccac66-07d6-406e-a35b-395e01583458@62a8b",
+      "displayName": "",
+      "id": "62a8b",
+      "name": "SM_Prop_Gaspump_Cover_Burnt_Rubble_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "ebccac66-07d6-406e-a35b-395e01583458@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "ebccac66-07d6-406e-a35b-395e01583458@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "ebccac66-07d6-406e-a35b-395e01583458@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a9d6": {
+      "importer": "gltf-scene",
+      "uuid": "ebccac66-07d6-406e-a35b-395e01583458@7a9d6",
+      "displayName": "",
+      "id": "7a9d6",
+      "name": "SM_Prop_Gaspump_Cover_Burnt_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "ebccac66-07d6-406e-a35b-395e01583458@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "ebccac66-07d6-406e-a35b-395e01583458@7a9d6",
+    "assetFinder": {
+      "meshes": [
+        "ebccac66-07d6-406e-a35b-395e01583458@c44a3",
+        "ebccac66-07d6-406e-a35b-395e01583458@62a8b"
+      ],
+      "skeletons": [],
+      "textures": [
+        "ebccac66-07d6-406e-a35b-395e01583458@988dc"
+      ],
+      "materials": [
+        "ebccac66-07d6-406e-a35b-395e01583458@8d883"
+      ],
+      "scenes": [
+        "ebccac66-07d6-406e-a35b-395e01583458@7a9d6"
+      ]
+    }
+  }
+}

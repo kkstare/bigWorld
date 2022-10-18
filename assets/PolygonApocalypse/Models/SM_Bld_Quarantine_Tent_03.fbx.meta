@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "0d5d2d54-11b3-4f06-8240-70fe500ff493",
+  "files": [],
+  "subMetas": {
+    "d3d55": {
+      "importer": "gltf-mesh",
+      "uuid": "0d5d2d54-11b3-4f06-8240-70fe500ff493@d3d55",
+      "displayName": "",
+      "id": "d3d55",
+      "name": "SM_Bld_Quarantine_Tent_03.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "43c71": {
+      "importer": "gltf-embeded-image",
+      "uuid": "0d5d2d54-11b3-4f06-8240-70fe500ff493@43c71",
+      "displayName": "",
+      "id": "43c71",
+      "name": "file1.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "d20e9": {
+      "importer": "texture",
+      "uuid": "0d5d2d54-11b3-4f06-8240-70fe500ff493@d20e9",
+      "displayName": "",
+      "id": "d20e9",
+      "name": "file1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0d5d2d54-11b3-4f06-8240-70fe500ff493@43c71"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fdb30": {
+      "importer": "gltf-material",
+      "uuid": "0d5d2d54-11b3-4f06-8240-70fe500ff493@fdb30",
+      "displayName": "",
+      "id": "fdb30",
+      "name": "lambert23.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d8e1a": {
+      "importer": "gltf-scene",
+      "uuid": "0d5d2d54-11b3-4f06-8240-70fe500ff493@d8e1a",
+      "displayName": "",
+      "id": "d8e1a",
+      "name": "SM_Bld_Quarantine_Tent_03.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1",
+        "uri": "0d5d2d54-11b3-4f06-8240-70fe500ff493@43c71"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "0d5d2d54-11b3-4f06-8240-70fe500ff493@d8e1a",
+    "assetFinder": {
+      "meshes": [
+        "0d5d2d54-11b3-4f06-8240-70fe500ff493@d3d55"
+      ],
+      "skeletons": [],
+      "textures": [
+        "0d5d2d54-11b3-4f06-8240-70fe500ff493@d20e9"
+      ],
+      "materials": [
+        "0d5d2d54-11b3-4f06-8240-70fe500ff493@fdb30"
+      ],
+      "scenes": [
+        "0d5d2d54-11b3-4f06-8240-70fe500ff493@d8e1a"
+      ]
+    }
+  }
+}

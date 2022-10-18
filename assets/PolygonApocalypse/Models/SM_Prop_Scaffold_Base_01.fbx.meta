@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "42444a90-edbc-4176-bbb3-cd1a3eeae07d",
+  "files": [],
+  "subMetas": {
+    "4c36e": {
+      "importer": "gltf-mesh",
+      "uuid": "42444a90-edbc-4176-bbb3-cd1a3eeae07d@4c36e",
+      "displayName": "",
+      "id": "4c36e",
+      "name": "SM_Prop_Scaffold_Base_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ed320": {
+      "importer": "gltf-material",
+      "uuid": "42444a90-edbc-4176-bbb3-cd1a3eeae07d@ed320",
+      "displayName": "",
+      "id": "ed320",
+      "name": "lambert33.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6e226": {
+      "importer": "gltf-scene",
+      "uuid": "42444a90-edbc-4176-bbb3-cd1a3eeae07d@6e226",
+      "displayName": "",
+      "id": "6e226",
+      "name": "SM_Prop_Scaffold_Base_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "42444a90-edbc-4176-bbb3-cd1a3eeae07d@6e226",
+    "assetFinder": {
+      "meshes": [
+        "42444a90-edbc-4176-bbb3-cd1a3eeae07d@4c36e"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "42444a90-edbc-4176-bbb3-cd1a3eeae07d@ed320"
+      ],
+      "scenes": [
+        "42444a90-edbc-4176-bbb3-cd1a3eeae07d@6e226"
+      ]
+    }
+  }
+}

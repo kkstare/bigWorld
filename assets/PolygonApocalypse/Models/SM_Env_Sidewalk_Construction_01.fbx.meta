@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f47b4a6f-5f2c-4dc2-8c8c-7b8d72da4e4b",
+  "files": [],
+  "subMetas": {
+    "24bd3": {
+      "importer": "gltf-mesh",
+      "uuid": "f47b4a6f-5f2c-4dc2-8c8c-7b8d72da4e4b@24bd3",
+      "displayName": "",
+      "id": "24bd3",
+      "name": "SM_Env_Sidewalk_Construction_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bf8ac": {
+      "importer": "gltf-embeded-image",
+      "uuid": "f47b4a6f-5f2c-4dc2-8c8c-7b8d72da4e4b@bf8ac",
+      "displayName": "",
+      "id": "bf8ac",
+      "name": "file999.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "e4df9": {
+      "importer": "texture",
+      "uuid": "f47b4a6f-5f2c-4dc2-8c8c-7b8d72da4e4b@e4df9",
+      "displayName": "",
+      "id": "e4df9",
+      "name": "file999.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "f47b4a6f-5f2c-4dc2-8c8c-7b8d72da4e4b@bf8ac"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "f47b4a6f-5f2c-4dc2-8c8c-7b8d72da4e4b@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0be5b": {
+      "importer": "gltf-scene",
+      "uuid": "f47b4a6f-5f2c-4dc2-8c8c-7b8d72da4e4b@0be5b",
+      "displayName": "",
+      "id": "0be5b",
+      "name": "SM_Env_Sidewalk_Construction_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file999",
+        "uri": "f47b4a6f-5f2c-4dc2-8c8c-7b8d72da4e4b@bf8ac"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "f47b4a6f-5f2c-4dc2-8c8c-7b8d72da4e4b@0be5b",
+    "assetFinder": {
+      "meshes": [
+        "f47b4a6f-5f2c-4dc2-8c8c-7b8d72da4e4b@24bd3"
+      ],
+      "skeletons": [],
+      "textures": [
+        "f47b4a6f-5f2c-4dc2-8c8c-7b8d72da4e4b@e4df9"
+      ],
+      "materials": [
+        "f47b4a6f-5f2c-4dc2-8c8c-7b8d72da4e4b@8d883"
+      ],
+      "scenes": [
+        "f47b4a6f-5f2c-4dc2-8c8c-7b8d72da4e4b@0be5b"
+      ]
+    }
+  }
+}

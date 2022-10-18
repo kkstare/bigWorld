@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "7471b032-e0a2-4ae2-8b56-86fe84726bc1",
+  "files": [],
+  "subMetas": {
+    "2eeae": {
+      "importer": "gltf-mesh",
+      "uuid": "7471b032-e0a2-4ae2-8b56-86fe84726bc1@2eeae",
+      "displayName": "",
+      "id": "2eeae",
+      "name": "SM_Prop_TrafficLight_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "adacb": {
+      "importer": "gltf-embeded-image",
+      "uuid": "7471b032-e0a2-4ae2-8b56-86fe84726bc1@adacb",
+      "displayName": "",
+      "id": "adacb",
+      "name": "file2.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "e873a": {
+      "importer": "texture",
+      "uuid": "7471b032-e0a2-4ae2-8b56-86fe84726bc1@e873a",
+      "displayName": "",
+      "id": "e873a",
+      "name": "file2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "7471b032-e0a2-4ae2-8b56-86fe84726bc1@adacb"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "55b43": {
+      "importer": "gltf-material",
+      "uuid": "7471b032-e0a2-4ae2-8b56-86fe84726bc1@55b43",
+      "displayName": "",
+      "id": "55b43",
+      "name": "lambert3.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bb88c": {
+      "importer": "gltf-scene",
+      "uuid": "7471b032-e0a2-4ae2-8b56-86fe84726bc1@bb88c",
+      "displayName": "",
+      "id": "bb88c",
+      "name": "SM_Prop_TrafficLight_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file2",
+        "uri": "7471b032-e0a2-4ae2-8b56-86fe84726bc1@adacb"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "7471b032-e0a2-4ae2-8b56-86fe84726bc1@bb88c",
+    "assetFinder": {
+      "meshes": [
+        "7471b032-e0a2-4ae2-8b56-86fe84726bc1@2eeae"
+      ],
+      "skeletons": [],
+      "textures": [
+        "7471b032-e0a2-4ae2-8b56-86fe84726bc1@e873a"
+      ],
+      "materials": [
+        "7471b032-e0a2-4ae2-8b56-86fe84726bc1@55b43"
+      ],
+      "scenes": [
+        "7471b032-e0a2-4ae2-8b56-86fe84726bc1@bb88c"
+      ]
+    }
+  }
+}

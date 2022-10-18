@@ -1,0 +1,129 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e4a4ed1b-db67-4164-bd4b-0c754a90239f",
+  "files": [],
+  "subMetas": {
+    "7e636": {
+      "importer": "gltf-mesh",
+      "uuid": "e4a4ed1b-db67-4164-bd4b-0c754a90239f@7e636",
+      "displayName": "",
+      "id": "7e636",
+      "name": "SM_Prop_Wall_Junk_Car_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "e4a4ed1b-db67-4164-bd4b-0c754a90239f@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "e4a4ed1b-db67-4164-bd4b-0c754a90239f@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/Misc/Billboard.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "e4a4ed1b-db67-4164-bd4b-0c754a90239f@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "86d7a": {
+      "importer": "gltf-scene",
+      "uuid": "e4a4ed1b-db67-4164-bd4b-0c754a90239f@86d7a",
+      "displayName": "",
+      "id": "86d7a",
+      "name": "SM_Prop_Wall_Junk_Car_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "remap": "db://assets/PolygonApocalypse/Textures/Misc/Billboard.png",
+        "uri": "e4a4ed1b-db67-4164-bd4b-0c754a90239f@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "e4a4ed1b-db67-4164-bd4b-0c754a90239f@86d7a",
+    "assetFinder": {
+      "meshes": [
+        "e4a4ed1b-db67-4164-bd4b-0c754a90239f@7e636"
+      ],
+      "skeletons": [],
+      "textures": [
+        "e4a4ed1b-db67-4164-bd4b-0c754a90239f@988dc"
+      ],
+      "materials": [
+        "e4a4ed1b-db67-4164-bd4b-0c754a90239f@8d883"
+      ],
+      "scenes": [
+        "e4a4ed1b-db67-4164-bd4b-0c754a90239f@86d7a"
+      ]
+    }
+  }
+}

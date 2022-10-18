@@ -1,0 +1,98 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "003d3ad1-2e46-4514-98a3-74c42b94072c",
+  "files": [],
+  "subMetas": {
+    "15962": {
+      "importer": "gltf-material",
+      "uuid": "003d3ad1-2e46-4514-98a3-74c42b94072c@15962",
+      "displayName": "",
+      "id": "15962",
+      "name": "db:New_Characters_Rigging_29:BloodDecal.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ff4fd": {
+      "importer": "gltf-mesh",
+      "uuid": "003d3ad1-2e46-4514-98a3-74c42b94072c@ff4fd",
+      "displayName": "",
+      "id": "ff4fd",
+      "name": "SM_Prop_DeadBody_Hanging_Male_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4c4a2": {
+      "importer": "gltf-mesh",
+      "uuid": "003d3ad1-2e46-4514-98a3-74c42b94072c@4c4a2",
+      "displayName": "",
+      "id": "4c4a2",
+      "name": "SM_Prop_HangingRope_Male_02.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "80ff8": {
+      "importer": "gltf-scene",
+      "uuid": "003d3ad1-2e46-4514-98a3-74c42b94072c@80ff8",
+      "displayName": "",
+      "id": "80ff8",
+      "name": "SM_Prop_DeadBody_Hanging_Male_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "003d3ad1-2e46-4514-98a3-74c42b94072c@80ff8",
+    "assetFinder": {
+      "meshes": [
+        "003d3ad1-2e46-4514-98a3-74c42b94072c@ff4fd",
+        "003d3ad1-2e46-4514-98a3-74c42b94072c@4c4a2"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "003d3ad1-2e46-4514-98a3-74c42b94072c@15962"
+      ],
+      "scenes": [
+        "003d3ad1-2e46-4514-98a3-74c42b94072c@80ff8"
+      ]
+    }
+  }
+}

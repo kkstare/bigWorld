@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "bc7b11a2-9e36-430e-aa05-364990fbdbda",
+  "files": [],
+  "subMetas": {
+    "b31c8": {
+      "importer": "gltf-mesh",
+      "uuid": "bc7b11a2-9e36-430e-aa05-364990fbdbda@b31c8",
+      "displayName": "",
+      "id": "b31c8",
+      "name": "SM_Item_Air_Horn_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e942": {
+      "importer": "gltf-embeded-image",
+      "uuid": "bc7b11a2-9e36-430e-aa05-364990fbdbda@1e942",
+      "displayName": "",
+      "id": "1e942",
+      "name": "Copter:file112.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "585d0": {
+      "importer": "texture",
+      "uuid": "bc7b11a2-9e36-430e-aa05-364990fbdbda@585d0",
+      "displayName": "",
+      "id": "585d0",
+      "name": "Copter:file112.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "bc7b11a2-9e36-430e-aa05-364990fbdbda@1e942"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a3ca": {
+      "importer": "gltf-material",
+      "uuid": "bc7b11a2-9e36-430e-aa05-364990fbdbda@7a3ca",
+      "displayName": "",
+      "id": "7a3ca",
+      "name": "lambert2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4ffd7": {
+      "importer": "gltf-scene",
+      "uuid": "bc7b11a2-9e36-430e-aa05-364990fbdbda@4ffd7",
+      "displayName": "",
+      "id": "4ffd7",
+      "name": "SM_Item_Air_Horn_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Copter:file112",
+        "uri": "bc7b11a2-9e36-430e-aa05-364990fbdbda@1e942"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "bc7b11a2-9e36-430e-aa05-364990fbdbda@4ffd7",
+    "assetFinder": {
+      "meshes": [
+        "bc7b11a2-9e36-430e-aa05-364990fbdbda@b31c8"
+      ],
+      "skeletons": [],
+      "textures": [
+        "bc7b11a2-9e36-430e-aa05-364990fbdbda@585d0"
+      ],
+      "materials": [
+        "bc7b11a2-9e36-430e-aa05-364990fbdbda@7a3ca"
+      ],
+      "scenes": [
+        "bc7b11a2-9e36-430e-aa05-364990fbdbda@4ffd7"
+      ]
+    }
+  }
+}

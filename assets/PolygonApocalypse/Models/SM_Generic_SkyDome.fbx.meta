@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b4096608-8b31-4fb5-8879-eefa2c29943e",
+  "files": [],
+  "subMetas": {
+    "46208": {
+      "importer": "gltf-material",
+      "uuid": "b4096608-8b31-4fb5-8879-eefa2c29943e@46208",
+      "displayName": "",
+      "id": "46208",
+      "name": "lambert849.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c4913": {
+      "importer": "gltf-mesh",
+      "uuid": "b4096608-8b31-4fb5-8879-eefa2c29943e@c4913",
+      "displayName": "",
+      "id": "c4913",
+      "name": "SM_Generic_SkyDome_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1ab37": {
+      "importer": "gltf-embeded-image",
+      "uuid": "b4096608-8b31-4fb5-8879-eefa2c29943e@1ab37",
+      "displayName": "",
+      "id": "1ab37",
+      "name": "file973.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "f53c5": {
+      "importer": "texture",
+      "uuid": "b4096608-8b31-4fb5-8879-eefa2c29943e@f53c5",
+      "displayName": "",
+      "id": "f53c5",
+      "name": "file973.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b4096608-8b31-4fb5-8879-eefa2c29943e@1ab37"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2ce8c": {
+      "importer": "gltf-scene",
+      "uuid": "b4096608-8b31-4fb5-8879-eefa2c29943e@2ce8c",
+      "displayName": "",
+      "id": "2ce8c",
+      "name": "SM_Generic_SkyDome.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file973",
+        "uri": "b4096608-8b31-4fb5-8879-eefa2c29943e@1ab37"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "b4096608-8b31-4fb5-8879-eefa2c29943e@2ce8c",
+    "assetFinder": {
+      "meshes": [
+        "b4096608-8b31-4fb5-8879-eefa2c29943e@c4913"
+      ],
+      "skeletons": [],
+      "textures": [
+        "b4096608-8b31-4fb5-8879-eefa2c29943e@f53c5"
+      ],
+      "materials": [
+        "b4096608-8b31-4fb5-8879-eefa2c29943e@46208"
+      ],
+      "scenes": [
+        "b4096608-8b31-4fb5-8879-eefa2c29943e@2ce8c"
+      ]
+    }
+  }
+}

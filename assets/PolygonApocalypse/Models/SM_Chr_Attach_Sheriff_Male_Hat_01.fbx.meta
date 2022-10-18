@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "7745f5aa-7b95-4d56-8a69-a6aaedc8e0d7",
+  "files": [],
+  "subMetas": {
+    "c6f1d": {
+      "importer": "gltf-mesh",
+      "uuid": "7745f5aa-7b95-4d56-8a69-a6aaedc8e0d7@c6f1d",
+      "displayName": "",
+      "id": "c6f1d",
+      "name": "SM_Chr_Attach_Sheriff_Male_Hat_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "50fa0": {
+      "importer": "gltf-material",
+      "uuid": "7745f5aa-7b95-4d56-8a69-a6aaedc8e0d7@50fa0",
+      "displayName": "",
+      "id": "50fa0",
+      "name": "BloodDecal36.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ea825": {
+      "importer": "gltf-scene",
+      "uuid": "7745f5aa-7b95-4d56-8a69-a6aaedc8e0d7@ea825",
+      "displayName": "",
+      "id": "ea825",
+      "name": "SM_Chr_Attach_Sheriff_Male_Hat_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "7745f5aa-7b95-4d56-8a69-a6aaedc8e0d7@ea825",
+    "assetFinder": {
+      "meshes": [
+        "7745f5aa-7b95-4d56-8a69-a6aaedc8e0d7@c6f1d"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "7745f5aa-7b95-4d56-8a69-a6aaedc8e0d7@50fa0"
+      ],
+      "scenes": [
+        "7745f5aa-7b95-4d56-8a69-a6aaedc8e0d7@ea825"
+      ]
+    }
+  }
+}

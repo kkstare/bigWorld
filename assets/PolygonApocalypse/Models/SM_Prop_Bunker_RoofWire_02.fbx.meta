@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "78963adf-557f-4f76-964b-3b5bdc5ef413",
+  "files": [],
+  "subMetas": {
+    "d09c1": {
+      "importer": "gltf-mesh",
+      "uuid": "78963adf-557f-4f76-964b-3b5bdc5ef413@d09c1",
+      "displayName": "",
+      "id": "d09c1",
+      "name": "SM_Prop_Bunker_RoofWire_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "78963adf-557f-4f76-964b-3b5bdc5ef413@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "78963adf-557f-4f76-964b-3b5bdc5ef413@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "78963adf-557f-4f76-964b-3b5bdc5ef413@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a7e02": {
+      "importer": "gltf-scene",
+      "uuid": "78963adf-557f-4f76-964b-3b5bdc5ef413@a7e02",
+      "displayName": "",
+      "id": "a7e02",
+      "name": "SM_Prop_Bunker_RoofWire_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "78963adf-557f-4f76-964b-3b5bdc5ef413@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "78963adf-557f-4f76-964b-3b5bdc5ef413@a7e02",
+    "assetFinder": {
+      "meshes": [
+        "78963adf-557f-4f76-964b-3b5bdc5ef413@d09c1"
+      ],
+      "skeletons": [],
+      "textures": [
+        "78963adf-557f-4f76-964b-3b5bdc5ef413@988dc"
+      ],
+      "materials": [
+        "78963adf-557f-4f76-964b-3b5bdc5ef413@8d883"
+      ],
+      "scenes": [
+        "78963adf-557f-4f76-964b-3b5bdc5ef413@a7e02"
+      ]
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d0cfc3ce-1551-4465-98d7-b5c43f8cba5a",
+  "files": [],
+  "subMetas": {
+    "41d11": {
+      "importer": "gltf-mesh",
+      "uuid": "d0cfc3ce-1551-4465-98d7-b5c43f8cba5a@41d11",
+      "displayName": "",
+      "id": "41d11",
+      "name": "SM_Chr_Attach_Soldier_Male_Glass_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "361f5": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d0cfc3ce-1551-4465-98d7-b5c43f8cba5a@361f5",
+      "displayName": "",
+      "id": "361f5",
+      "name": "file1210.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "20e5b": {
+      "importer": "texture",
+      "uuid": "d0cfc3ce-1551-4465-98d7-b5c43f8cba5a@20e5b",
+      "displayName": "",
+      "id": "20e5b",
+      "name": "file1210.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d0cfc3ce-1551-4465-98d7-b5c43f8cba5a@361f5"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c5726": {
+      "importer": "gltf-material",
+      "uuid": "d0cfc3ce-1551-4465-98d7-b5c43f8cba5a@c5726",
+      "displayName": "",
+      "id": "c5726",
+      "name": "Glass3.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c1fc5": {
+      "importer": "gltf-scene",
+      "uuid": "d0cfc3ce-1551-4465-98d7-b5c43f8cba5a@c1fc5",
+      "displayName": "",
+      "id": "c1fc5",
+      "name": "SM_Chr_Attach_Soldier_Male_Glass_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1210",
+        "uri": "d0cfc3ce-1551-4465-98d7-b5c43f8cba5a@361f5"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "d0cfc3ce-1551-4465-98d7-b5c43f8cba5a@c1fc5",
+    "assetFinder": {
+      "meshes": [
+        "d0cfc3ce-1551-4465-98d7-b5c43f8cba5a@41d11"
+      ],
+      "skeletons": [],
+      "textures": [
+        "d0cfc3ce-1551-4465-98d7-b5c43f8cba5a@20e5b"
+      ],
+      "materials": [
+        "d0cfc3ce-1551-4465-98d7-b5c43f8cba5a@c5726"
+      ],
+      "scenes": [
+        "d0cfc3ce-1551-4465-98d7-b5c43f8cba5a@c1fc5"
+      ]
+    }
+  }
+}

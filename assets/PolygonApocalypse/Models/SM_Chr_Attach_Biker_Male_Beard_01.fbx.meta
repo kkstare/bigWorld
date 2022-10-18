@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "083fa9d7-c6aa-4d1f-9c83-1859e9532994",
+  "files": [],
+  "subMetas": {
+    "7844f": {
+      "importer": "gltf-mesh",
+      "uuid": "083fa9d7-c6aa-4d1f-9c83-1859e9532994@7844f",
+      "displayName": "",
+      "id": "7844f",
+      "name": "SM_Chr_Attach_Biker_Male_Beard_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3ea9d": {
+      "importer": "gltf-material",
+      "uuid": "083fa9d7-c6aa-4d1f-9c83-1859e9532994@3ea9d",
+      "displayName": "",
+      "id": "3ea9d",
+      "name": "BloodDecal6.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "80ae3": {
+      "importer": "gltf-scene",
+      "uuid": "083fa9d7-c6aa-4d1f-9c83-1859e9532994@80ae3",
+      "displayName": "",
+      "id": "80ae3",
+      "name": "SM_Chr_Attach_Biker_Male_Beard_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "083fa9d7-c6aa-4d1f-9c83-1859e9532994@80ae3",
+    "assetFinder": {
+      "meshes": [
+        "083fa9d7-c6aa-4d1f-9c83-1859e9532994@7844f"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "083fa9d7-c6aa-4d1f-9c83-1859e9532994@3ea9d"
+      ],
+      "scenes": [
+        "083fa9d7-c6aa-4d1f-9c83-1859e9532994@80ae3"
+      ]
+    }
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "648d1317-d1f6-4102-986b-03ab267fbe5d",
+  "files": [],
+  "subMetas": {
+    "fed13": {
+      "importer": "gltf-mesh",
+      "uuid": "648d1317-d1f6-4102-986b-03ab267fbe5d@fed13",
+      "displayName": "",
+      "id": "fed13",
+      "name": "SM_Wep_HuntingRifle_Clean_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ffa4b": {
+      "importer": "gltf-mesh",
+      "uuid": "648d1317-d1f6-4102-986b-03ab267fbe5d@ffa4b",
+      "displayName": "",
+      "id": "ffa4b",
+      "name": "SM_Wep_HuntingRifle_Clean_01_Scope_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7cfaa": {
+      "importer": "gltf-mesh",
+      "uuid": "648d1317-d1f6-4102-986b-03ab267fbe5d@7cfaa",
+      "displayName": "",
+      "id": "7cfaa",
+      "name": "SM_Wep_HuntingRifle_Clean_01_Bolt_01.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a7dbc": {
+      "importer": "gltf-mesh",
+      "uuid": "648d1317-d1f6-4102-986b-03ab267fbe5d@a7dbc",
+      "displayName": "",
+      "id": "a7dbc",
+      "name": "SM_Wep_HuntingRifle_Clean_01_Trigger_01.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e43a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "648d1317-d1f6-4102-986b-03ab267fbe5d@1e43a",
+      "displayName": "",
+      "id": "1e43a",
+      "name": "file1198.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "05eac": {
+      "importer": "texture",
+      "uuid": "648d1317-d1f6-4102-986b-03ab267fbe5d@05eac",
+      "displayName": "",
+      "id": "05eac",
+      "name": "file1198.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5bd2": {
+      "importer": "gltf-material",
+      "uuid": "648d1317-d1f6-4102-986b-03ab267fbe5d@a5bd2",
+      "displayName": "",
+      "id": "a5bd2",
+      "name": "lambert.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dc83d": {
+      "importer": "gltf-scene",
+      "uuid": "648d1317-d1f6-4102-986b-03ab267fbe5d@dc83d",
+      "displayName": "",
+      "id": "dc83d",
+      "name": "SM_Wep_HuntingRifle_Clean_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1198",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "648d1317-d1f6-4102-986b-03ab267fbe5d@1e43a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "648d1317-d1f6-4102-986b-03ab267fbe5d@dc83d",
+    "assetFinder": {
+      "meshes": [
+        "648d1317-d1f6-4102-986b-03ab267fbe5d@fed13",
+        "648d1317-d1f6-4102-986b-03ab267fbe5d@ffa4b",
+        "648d1317-d1f6-4102-986b-03ab267fbe5d@7cfaa",
+        "648d1317-d1f6-4102-986b-03ab267fbe5d@a7dbc"
+      ],
+      "skeletons": [],
+      "textures": [
+        "648d1317-d1f6-4102-986b-03ab267fbe5d@05eac"
+      ],
+      "materials": [
+        "648d1317-d1f6-4102-986b-03ab267fbe5d@a5bd2"
+      ],
+      "scenes": [
+        "648d1317-d1f6-4102-986b-03ab267fbe5d@dc83d"
+      ]
+    }
+  }
+}

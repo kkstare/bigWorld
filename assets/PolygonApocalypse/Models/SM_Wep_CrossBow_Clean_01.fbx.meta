@@ -1,0 +1,272 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "6563caa3-7779-4086-a569-3cf15177d9e4",
+  "files": [],
+  "subMetas": {
+    "37144": {
+      "importer": "gltf-mesh",
+      "uuid": "6563caa3-7779-4086-a569-3cf15177d9e4@37144",
+      "displayName": "",
+      "id": "37144",
+      "name": "SM_Wep_CrossBow_Clean_01_Quiver_Arrow_02.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "abd3d": {
+      "importer": "gltf-mesh",
+      "uuid": "6563caa3-7779-4086-a569-3cf15177d9e4@abd3d",
+      "displayName": "",
+      "id": "abd3d",
+      "name": "SM_Wep_CrossBow_Clean_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "74ba9": {
+      "importer": "gltf-mesh",
+      "uuid": "6563caa3-7779-4086-a569-3cf15177d9e4@74ba9",
+      "displayName": "",
+      "id": "74ba9",
+      "name": "SM_Wep_CrossBow_Clean_01_Quiver_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a588c": {
+      "importer": "gltf-mesh",
+      "uuid": "6563caa3-7779-4086-a569-3cf15177d9e4@a588c",
+      "displayName": "",
+      "id": "a588c",
+      "name": "SM_Wep_CrossBow_Clean_01_Quiver_Arrow_01.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2fa37": {
+      "importer": "gltf-mesh",
+      "uuid": "6563caa3-7779-4086-a569-3cf15177d9e4@2fa37",
+      "displayName": "",
+      "id": "2fa37",
+      "name": "SM_Wep_CrossBow_Clean_01_Quiver_Arrow_03.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9a35": {
+      "importer": "gltf-mesh",
+      "uuid": "6563caa3-7779-4086-a569-3cf15177d9e4@f9a35",
+      "displayName": "",
+      "id": "f9a35",
+      "name": "SM_Wep_CrossBow_Clean_01_Sights_01.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "57c56": {
+      "importer": "gltf-mesh",
+      "uuid": "6563caa3-7779-4086-a569-3cf15177d9e4@57c56",
+      "displayName": "",
+      "id": "57c56",
+      "name": "SM_Wep_CrossBow_Clean_01_Trigger_01.mesh",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "02d4b": {
+      "importer": "gltf-mesh",
+      "uuid": "6563caa3-7779-4086-a569-3cf15177d9e4@02d4b",
+      "displayName": "",
+      "id": "02d4b",
+      "name": "SM_Wep_CrossBow_Clean_01_Arrow_01.mesh",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3c233": {
+      "importer": "gltf-mesh",
+      "uuid": "6563caa3-7779-4086-a569-3cf15177d9e4@3c233",
+      "displayName": "",
+      "id": "3c233",
+      "name": "SM_Wep_CrossBow_Clean_01_String_01.mesh",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e43a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "6563caa3-7779-4086-a569-3cf15177d9e4@1e43a",
+      "displayName": "",
+      "id": "1e43a",
+      "name": "file1198.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "05eac": {
+      "importer": "texture",
+      "uuid": "6563caa3-7779-4086-a569-3cf15177d9e4@05eac",
+      "displayName": "",
+      "id": "05eac",
+      "name": "file1198.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5bd2": {
+      "importer": "gltf-material",
+      "uuid": "6563caa3-7779-4086-a569-3cf15177d9e4@a5bd2",
+      "displayName": "",
+      "id": "a5bd2",
+      "name": "lambert.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9bf1f": {
+      "importer": "gltf-scene",
+      "uuid": "6563caa3-7779-4086-a569-3cf15177d9e4@9bf1f",
+      "displayName": "",
+      "id": "9bf1f",
+      "name": "SM_Wep_CrossBow_Clean_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1198",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "6563caa3-7779-4086-a569-3cf15177d9e4@1e43a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "6563caa3-7779-4086-a569-3cf15177d9e4@9bf1f",
+    "assetFinder": {
+      "meshes": [
+        "6563caa3-7779-4086-a569-3cf15177d9e4@abd3d",
+        "6563caa3-7779-4086-a569-3cf15177d9e4@74ba9",
+        "6563caa3-7779-4086-a569-3cf15177d9e4@a588c",
+        "6563caa3-7779-4086-a569-3cf15177d9e4@2fa37",
+        "6563caa3-7779-4086-a569-3cf15177d9e4@37144",
+        "6563caa3-7779-4086-a569-3cf15177d9e4@f9a35",
+        "6563caa3-7779-4086-a569-3cf15177d9e4@57c56",
+        "6563caa3-7779-4086-a569-3cf15177d9e4@02d4b",
+        "6563caa3-7779-4086-a569-3cf15177d9e4@3c233"
+      ],
+      "skeletons": [],
+      "textures": [
+        "6563caa3-7779-4086-a569-3cf15177d9e4@05eac"
+      ],
+      "materials": [
+        "6563caa3-7779-4086-a569-3cf15177d9e4@a5bd2"
+      ],
+      "scenes": [
+        "6563caa3-7779-4086-a569-3cf15177d9e4@9bf1f"
+      ]
+    }
+  }
+}

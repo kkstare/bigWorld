@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "90b5f7b4-0298-441e-b7de-fa6f74bf60b8",
+  "files": [],
+  "subMetas": {
+    "15962": {
+      "importer": "gltf-material",
+      "uuid": "90b5f7b4-0298-441e-b7de-fa6f74bf60b8@15962",
+      "displayName": "",
+      "id": "15962",
+      "name": "db:New_Characters_Rigging_29:BloodDecal.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "71560": {
+      "importer": "gltf-scene",
+      "uuid": "90b5f7b4-0298-441e-b7de-fa6f74bf60b8@71560",
+      "displayName": "",
+      "id": "71560",
+      "name": "SM_Prop_DeadBody_Spiked_Female_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "99b37": {
+      "importer": "gltf-mesh",
+      "uuid": "90b5f7b4-0298-441e-b7de-fa6f74bf60b8@99b37",
+      "displayName": "",
+      "id": "99b37",
+      "name": "SM_Prop_DeadBody_Spiked_Female_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "90b5f7b4-0298-441e-b7de-fa6f74bf60b8@71560",
+    "assetFinder": {
+      "meshes": [
+        "90b5f7b4-0298-441e-b7de-fa6f74bf60b8@99b37"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "90b5f7b4-0298-441e-b7de-fa6f74bf60b8@15962"
+      ],
+      "scenes": [
+        "90b5f7b4-0298-441e-b7de-fa6f74bf60b8@71560"
+      ]
+    }
+  }
+}

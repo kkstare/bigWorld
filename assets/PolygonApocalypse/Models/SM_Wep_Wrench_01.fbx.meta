@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "409cd3f9-c4ad-4f33-bb2f-63b3372d2917",
+  "files": [],
+  "subMetas": {
+    "3a9d8": {
+      "importer": "gltf-mesh",
+      "uuid": "409cd3f9-c4ad-4f33-bb2f-63b3372d2917@3a9d8",
+      "displayName": "",
+      "id": "3a9d8",
+      "name": "SM_Wep_Wrench_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e43a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "409cd3f9-c4ad-4f33-bb2f-63b3372d2917@1e43a",
+      "displayName": "",
+      "id": "1e43a",
+      "name": "file1198.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "05eac": {
+      "importer": "texture",
+      "uuid": "409cd3f9-c4ad-4f33-bb2f-63b3372d2917@05eac",
+      "displayName": "",
+      "id": "05eac",
+      "name": "file1198.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5bd2": {
+      "importer": "gltf-material",
+      "uuid": "409cd3f9-c4ad-4f33-bb2f-63b3372d2917@a5bd2",
+      "displayName": "",
+      "id": "a5bd2",
+      "name": "lambert.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8dd59": {
+      "importer": "gltf-scene",
+      "uuid": "409cd3f9-c4ad-4f33-bb2f-63b3372d2917@8dd59",
+      "displayName": "",
+      "id": "8dd59",
+      "name": "SM_Wep_Wrench_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1198",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "409cd3f9-c4ad-4f33-bb2f-63b3372d2917@1e43a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "409cd3f9-c4ad-4f33-bb2f-63b3372d2917@8dd59",
+    "assetFinder": {
+      "meshes": [
+        "409cd3f9-c4ad-4f33-bb2f-63b3372d2917@3a9d8"
+      ],
+      "skeletons": [],
+      "textures": [
+        "409cd3f9-c4ad-4f33-bb2f-63b3372d2917@05eac"
+      ],
+      "materials": [
+        "409cd3f9-c4ad-4f33-bb2f-63b3372d2917@a5bd2"
+      ],
+      "scenes": [
+        "409cd3f9-c4ad-4f33-bb2f-63b3372d2917@8dd59"
+      ]
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "44b1d1b5-2900-4413-861d-c4bd5093366b",
+  "files": [],
+  "subMetas": {
+    "2de99": {
+      "importer": "gltf-mesh",
+      "uuid": "44b1d1b5-2900-4413-861d-c4bd5093366b@2de99",
+      "displayName": "",
+      "id": "2de99",
+      "name": "SM_Gerneric_Grass_Patch_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "44b1d1b5-2900-4413-861d-c4bd5093366b@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "44b1d1b5-2900-4413-861d-c4bd5093366b@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "44b1d1b5-2900-4413-861d-c4bd5093366b@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ad5ee": {
+      "importer": "gltf-scene",
+      "uuid": "44b1d1b5-2900-4413-861d-c4bd5093366b@ad5ee",
+      "displayName": "",
+      "id": "ad5ee",
+      "name": "SM_Gerneric_Grass_Patch_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "44b1d1b5-2900-4413-861d-c4bd5093366b@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "44b1d1b5-2900-4413-861d-c4bd5093366b@ad5ee",
+    "assetFinder": {
+      "meshes": [
+        "44b1d1b5-2900-4413-861d-c4bd5093366b@2de99"
+      ],
+      "skeletons": [],
+      "textures": [
+        "44b1d1b5-2900-4413-861d-c4bd5093366b@988dc"
+      ],
+      "materials": [
+        "44b1d1b5-2900-4413-861d-c4bd5093366b@8d883"
+      ],
+      "scenes": [
+        "44b1d1b5-2900-4413-861d-c4bd5093366b@ad5ee"
+      ]
+    }
+  }
+}

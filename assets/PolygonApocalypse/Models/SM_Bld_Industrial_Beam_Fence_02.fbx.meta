@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "8a3622d4-a85a-4d00-95f9-538618c16572",
+  "files": [],
+  "subMetas": {
+    "7bfba": {
+      "importer": "gltf-mesh",
+      "uuid": "8a3622d4-a85a-4d00-95f9-538618c16572@7bfba",
+      "displayName": "",
+      "id": "7bfba",
+      "name": "SM_Bld_Industrial_Beam_Fence_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "8a3622d4-a85a-4d00-95f9-538618c16572@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "8a3622d4-a85a-4d00-95f9-538618c16572@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "8a3622d4-a85a-4d00-95f9-538618c16572@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d229d": {
+      "importer": "gltf-scene",
+      "uuid": "8a3622d4-a85a-4d00-95f9-538618c16572@d229d",
+      "displayName": "",
+      "id": "d229d",
+      "name": "SM_Bld_Industrial_Beam_Fence_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "8a3622d4-a85a-4d00-95f9-538618c16572@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "8a3622d4-a85a-4d00-95f9-538618c16572@d229d",
+    "assetFinder": {
+      "meshes": [
+        "8a3622d4-a85a-4d00-95f9-538618c16572@7bfba"
+      ],
+      "skeletons": [],
+      "textures": [
+        "8a3622d4-a85a-4d00-95f9-538618c16572@988dc"
+      ],
+      "materials": [
+        "8a3622d4-a85a-4d00-95f9-538618c16572@8d883"
+      ],
+      "scenes": [
+        "8a3622d4-a85a-4d00-95f9-538618c16572@d229d"
+      ]
+    }
+  }
+}

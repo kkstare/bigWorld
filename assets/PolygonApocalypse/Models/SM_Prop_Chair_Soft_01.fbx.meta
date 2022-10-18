@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ab0bf80a-3dfa-4f12-8e7d-e4e217979749",
+  "files": [],
+  "subMetas": {
+    "0ccb5": {
+      "importer": "gltf-mesh",
+      "uuid": "ab0bf80a-3dfa-4f12-8e7d-e4e217979749@0ccb5",
+      "displayName": "",
+      "id": "0ccb5",
+      "name": "SM_Prop_Chair_Soft_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "ab0bf80a-3dfa-4f12-8e7d-e4e217979749@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "ab0bf80a-3dfa-4f12-8e7d-e4e217979749@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "ab0bf80a-3dfa-4f12-8e7d-e4e217979749@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5a97b": {
+      "importer": "gltf-scene",
+      "uuid": "ab0bf80a-3dfa-4f12-8e7d-e4e217979749@5a97b",
+      "displayName": "",
+      "id": "5a97b",
+      "name": "SM_Prop_Chair_Soft_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "ab0bf80a-3dfa-4f12-8e7d-e4e217979749@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "ab0bf80a-3dfa-4f12-8e7d-e4e217979749@5a97b",
+    "assetFinder": {
+      "meshes": [
+        "ab0bf80a-3dfa-4f12-8e7d-e4e217979749@0ccb5"
+      ],
+      "skeletons": [],
+      "textures": [
+        "ab0bf80a-3dfa-4f12-8e7d-e4e217979749@988dc"
+      ],
+      "materials": [
+        "ab0bf80a-3dfa-4f12-8e7d-e4e217979749@8d883"
+      ],
+      "scenes": [
+        "ab0bf80a-3dfa-4f12-8e7d-e4e217979749@5a97b"
+      ]
+    }
+  }
+}

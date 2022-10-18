@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f1162b1a-7aa8-4d34-b425-69a6bcb591da",
+  "files": [],
+  "subMetas": {
+    "508a7": {
+      "importer": "gltf-mesh",
+      "uuid": "f1162b1a-7aa8-4d34-b425-69a6bcb591da@508a7",
+      "displayName": "",
+      "id": "508a7",
+      "name": "SM_Env_Motorway_Edge_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d29ca": {
+      "importer": "gltf-embeded-image",
+      "uuid": "f1162b1a-7aa8-4d34-b425-69a6bcb591da@d29ca",
+      "displayName": "",
+      "id": "d29ca",
+      "name": "file1001.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "fd9f9": {
+      "importer": "texture",
+      "uuid": "f1162b1a-7aa8-4d34-b425-69a6bcb591da@fd9f9",
+      "displayName": "",
+      "id": "fd9f9",
+      "name": "file1001.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f5222": {
+      "importer": "gltf-material",
+      "uuid": "f1162b1a-7aa8-4d34-b425-69a6bcb591da@f5222",
+      "displayName": "",
+      "id": "f5222",
+      "name": "lambert34.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4cb4d": {
+      "importer": "gltf-scene",
+      "uuid": "f1162b1a-7aa8-4d34-b425-69a6bcb591da@4cb4d",
+      "displayName": "",
+      "id": "4cb4d",
+      "name": "SM_Env_Motorway_Edge_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1001",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "f1162b1a-7aa8-4d34-b425-69a6bcb591da@d29ca"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "f1162b1a-7aa8-4d34-b425-69a6bcb591da@4cb4d",
+    "assetFinder": {
+      "meshes": [
+        "f1162b1a-7aa8-4d34-b425-69a6bcb591da@508a7"
+      ],
+      "skeletons": [],
+      "textures": [
+        "f1162b1a-7aa8-4d34-b425-69a6bcb591da@fd9f9"
+      ],
+      "materials": [
+        "f1162b1a-7aa8-4d34-b425-69a6bcb591da@f5222"
+      ],
+      "scenes": [
+        "f1162b1a-7aa8-4d34-b425-69a6bcb591da@4cb4d"
+      ]
+    }
+  }
+}

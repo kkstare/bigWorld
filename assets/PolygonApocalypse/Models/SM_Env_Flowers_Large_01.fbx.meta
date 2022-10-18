@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b351d7da-6c67-4e83-9176-c71de021f366",
+  "files": [],
+  "subMetas": {
+    "0037b": {
+      "importer": "gltf-mesh",
+      "uuid": "b351d7da-6c67-4e83-9176-c71de021f366@0037b",
+      "displayName": "",
+      "id": "0037b",
+      "name": "SM_Env_Flowers_Large_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "b351d7da-6c67-4e83-9176-c71de021f366@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "b351d7da-6c67-4e83-9176-c71de021f366@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e18d5": {
+      "importer": "gltf-material",
+      "uuid": "b351d7da-6c67-4e83-9176-c71de021f366@e18d5",
+      "displayName": "",
+      "id": "e18d5",
+      "name": "lambert32.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "35c8a": {
+      "importer": "gltf-scene",
+      "uuid": "b351d7da-6c67-4e83-9176-c71de021f366@35c8a",
+      "displayName": "",
+      "id": "35c8a",
+      "name": "SM_Env_Flowers_Large_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "b351d7da-6c67-4e83-9176-c71de021f366@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "b351d7da-6c67-4e83-9176-c71de021f366@35c8a",
+    "assetFinder": {
+      "meshes": [
+        "b351d7da-6c67-4e83-9176-c71de021f366@0037b"
+      ],
+      "skeletons": [],
+      "textures": [
+        "b351d7da-6c67-4e83-9176-c71de021f366@988dc"
+      ],
+      "materials": [
+        "b351d7da-6c67-4e83-9176-c71de021f366@e18d5"
+      ],
+      "scenes": [
+        "b351d7da-6c67-4e83-9176-c71de021f366@35c8a"
+      ]
+    }
+  }
+}

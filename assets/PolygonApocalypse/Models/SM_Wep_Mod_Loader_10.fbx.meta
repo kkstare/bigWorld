@@ -1,0 +1,98 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "16d55c44-df1a-425c-b392-546c3d0edb1b",
+  "files": [],
+  "subMetas": {
+    "9ed0c": {
+      "importer": "gltf-mesh",
+      "uuid": "16d55c44-df1a-425c-b392-546c3d0edb1b@9ed0c",
+      "displayName": "",
+      "id": "9ed0c",
+      "name": "SM_Wep_Mod_Loader_10.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "71cf2": {
+      "importer": "gltf-mesh",
+      "uuid": "16d55c44-df1a-425c-b392-546c3d0edb1b@71cf2",
+      "displayName": "",
+      "id": "71cf2",
+      "name": "SM_Wep_Mod_Loader_10_Magazine.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "16d55c44-df1a-425c-b392-546c3d0edb1b@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "174f5": {
+      "importer": "gltf-scene",
+      "uuid": "16d55c44-df1a-425c-b392-546c3d0edb1b@174f5",
+      "displayName": "",
+      "id": "174f5",
+      "name": "SM_Wep_Mod_Loader_10.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "16d55c44-df1a-425c-b392-546c3d0edb1b@174f5",
+    "assetFinder": {
+      "meshes": [
+        "16d55c44-df1a-425c-b392-546c3d0edb1b@9ed0c",
+        "16d55c44-df1a-425c-b392-546c3d0edb1b@71cf2"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "16d55c44-df1a-425c-b392-546c3d0edb1b@8d883"
+      ],
+      "scenes": [
+        "16d55c44-df1a-425c-b392-546c3d0edb1b@174f5"
+      ]
+    }
+  }
+}

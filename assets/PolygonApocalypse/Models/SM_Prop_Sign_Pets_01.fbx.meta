@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "82c276ea-8c9c-4f70-af26-43137dd74c89",
+  "files": [],
+  "subMetas": {
+    "34ada": {
+      "importer": "gltf-mesh",
+      "uuid": "82c276ea-8c9c-4f70-af26-43137dd74c89@34ada",
+      "displayName": "",
+      "id": "34ada",
+      "name": "SM_Prop_Sign_Pets_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "82c276ea-8c9c-4f70-af26-43137dd74c89@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "82c276ea-8c9c-4f70-af26-43137dd74c89@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "82c276ea-8c9c-4f70-af26-43137dd74c89@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0fcb3": {
+      "importer": "gltf-scene",
+      "uuid": "82c276ea-8c9c-4f70-af26-43137dd74c89@0fcb3",
+      "displayName": "",
+      "id": "0fcb3",
+      "name": "SM_Prop_Sign_Pets_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "82c276ea-8c9c-4f70-af26-43137dd74c89@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "82c276ea-8c9c-4f70-af26-43137dd74c89@0fcb3",
+    "assetFinder": {
+      "meshes": [
+        "82c276ea-8c9c-4f70-af26-43137dd74c89@34ada"
+      ],
+      "skeletons": [],
+      "textures": [
+        "82c276ea-8c9c-4f70-af26-43137dd74c89@988dc"
+      ],
+      "materials": [
+        "82c276ea-8c9c-4f70-af26-43137dd74c89@8d883"
+      ],
+      "scenes": [
+        "82c276ea-8c9c-4f70-af26-43137dd74c89@0fcb3"
+      ]
+    }
+  }
+}

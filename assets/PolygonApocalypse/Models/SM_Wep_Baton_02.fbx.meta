@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "70281f5a-5847-4284-ad4b-7d7edfb6b431",
+  "files": [],
+  "subMetas": {
+    "cd5ce": {
+      "importer": "gltf-mesh",
+      "uuid": "70281f5a-5847-4284-ad4b-7d7edfb6b431@cd5ce",
+      "displayName": "",
+      "id": "cd5ce",
+      "name": "SM_Wep_Baton_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "70281f5a-5847-4284-ad4b-7d7edfb6b431@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e3f27": {
+      "importer": "gltf-scene",
+      "uuid": "70281f5a-5847-4284-ad4b-7d7edfb6b431@e3f27",
+      "displayName": "",
+      "id": "e3f27",
+      "name": "SM_Wep_Baton_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "70281f5a-5847-4284-ad4b-7d7edfb6b431@e3f27",
+    "assetFinder": {
+      "meshes": [
+        "70281f5a-5847-4284-ad4b-7d7edfb6b431@cd5ce"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "70281f5a-5847-4284-ad4b-7d7edfb6b431@8d883"
+      ],
+      "scenes": [
+        "70281f5a-5847-4284-ad4b-7d7edfb6b431@e3f27"
+      ]
+    }
+  }
+}

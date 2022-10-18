@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "3e49930f-dab2-4c2a-9cf6-e852a5993773",
+  "files": [],
+  "subMetas": {
+    "16151": {
+      "importer": "gltf-mesh",
+      "uuid": "3e49930f-dab2-4c2a-9cf6-e852a5993773@16151",
+      "displayName": "",
+      "id": "16151",
+      "name": "SM_Chr_Attach_Cool_Female_Hair_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b0c99": {
+      "importer": "gltf-material",
+      "uuid": "3e49930f-dab2-4c2a-9cf6-e852a5993773@b0c99",
+      "displayName": "",
+      "id": "b0c99",
+      "name": "BloodDecal8.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "799a8": {
+      "importer": "gltf-scene",
+      "uuid": "3e49930f-dab2-4c2a-9cf6-e852a5993773@799a8",
+      "displayName": "",
+      "id": "799a8",
+      "name": "SM_Chr_Attach_Cool_Female_Hair_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "3e49930f-dab2-4c2a-9cf6-e852a5993773@799a8",
+    "assetFinder": {
+      "meshes": [
+        "3e49930f-dab2-4c2a-9cf6-e852a5993773@16151"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "3e49930f-dab2-4c2a-9cf6-e852a5993773@b0c99"
+      ],
+      "scenes": [
+        "3e49930f-dab2-4c2a-9cf6-e852a5993773@799a8"
+      ]
+    }
+  }
+}

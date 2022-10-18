@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "dfe92ad2-345f-4872-b5c7-f9fbf839c447",
+  "files": [],
+  "subMetas": {
+    "54096": {
+      "importer": "gltf-mesh",
+      "uuid": "dfe92ad2-345f-4872-b5c7-f9fbf839c447@54096",
+      "displayName": "",
+      "id": "54096",
+      "name": "SM_Veh_BigRig_Trailer_Tanker_Damaged_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "26fdd": {
+      "importer": "gltf-material",
+      "uuid": "dfe92ad2-345f-4872-b5c7-f9fbf839c447@26fdd",
+      "displayName": "",
+      "id": "26fdd",
+      "name": "lambert36.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f109d": {
+      "importer": "gltf-scene",
+      "uuid": "dfe92ad2-345f-4872-b5c7-f9fbf839c447@f109d",
+      "displayName": "",
+      "id": "f109d",
+      "name": "SM_Veh_BigRig_Trailer_Tanker_Damaged_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "dfe92ad2-345f-4872-b5c7-f9fbf839c447@f109d",
+    "assetFinder": {
+      "meshes": [
+        "dfe92ad2-345f-4872-b5c7-f9fbf839c447@54096"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "dfe92ad2-345f-4872-b5c7-f9fbf839c447@26fdd"
+      ],
+      "scenes": [
+        "dfe92ad2-345f-4872-b5c7-f9fbf839c447@f109d"
+      ]
+    }
+  }
+}

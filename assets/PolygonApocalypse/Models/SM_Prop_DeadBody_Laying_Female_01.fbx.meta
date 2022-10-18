@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "db18ed56-18c1-4a9c-8174-207a467bfb1d",
+  "files": [],
+  "subMetas": {
+    "15962": {
+      "importer": "gltf-material",
+      "uuid": "db18ed56-18c1-4a9c-8174-207a467bfb1d@15962",
+      "displayName": "",
+      "id": "15962",
+      "name": "db:New_Characters_Rigging_29:BloodDecal.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "759fe": {
+      "importer": "gltf-mesh",
+      "uuid": "db18ed56-18c1-4a9c-8174-207a467bfb1d@759fe",
+      "displayName": "",
+      "id": "759fe",
+      "name": "SM_Prop_DeadBody_Laying_Female_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d1c51": {
+      "importer": "gltf-scene",
+      "uuid": "db18ed56-18c1-4a9c-8174-207a467bfb1d@d1c51",
+      "displayName": "",
+      "id": "d1c51",
+      "name": "SM_Prop_DeadBody_Laying_Female_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "db18ed56-18c1-4a9c-8174-207a467bfb1d@d1c51",
+    "assetFinder": {
+      "meshes": [
+        "db18ed56-18c1-4a9c-8174-207a467bfb1d@759fe"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "db18ed56-18c1-4a9c-8174-207a467bfb1d@15962"
+      ],
+      "scenes": [
+        "db18ed56-18c1-4a9c-8174-207a467bfb1d@d1c51"
+      ]
+    }
+  }
+}

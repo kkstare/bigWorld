@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "0c03a73c-9beb-4457-8df9-6695843fa696",
+  "files": [],
+  "subMetas": {
+    "5b310": {
+      "importer": "gltf-mesh",
+      "uuid": "0c03a73c-9beb-4457-8df9-6695843fa696@5b310",
+      "displayName": "",
+      "id": "5b310",
+      "name": "SM_Veh_Attach_Intake_03.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5a410": {
+      "importer": "gltf-material",
+      "uuid": "0c03a73c-9beb-4457-8df9-6695843fa696@5a410",
+      "displayName": "",
+      "id": "5a410",
+      "name": "__BloodDecal1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "13caf": {
+      "importer": "gltf-scene",
+      "uuid": "0c03a73c-9beb-4457-8df9-6695843fa696@13caf",
+      "displayName": "",
+      "id": "13caf",
+      "name": "SM_Veh_Attach_Intake_03.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "0c03a73c-9beb-4457-8df9-6695843fa696@13caf",
+    "assetFinder": {
+      "meshes": [
+        "0c03a73c-9beb-4457-8df9-6695843fa696@5b310"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "0c03a73c-9beb-4457-8df9-6695843fa696@5a410"
+      ],
+      "scenes": [
+        "0c03a73c-9beb-4457-8df9-6695843fa696@13caf"
+      ]
+    }
+  }
+}

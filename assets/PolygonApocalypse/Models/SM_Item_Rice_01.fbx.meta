@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "39f5640f-51c8-4ea0-857a-ed463ff46bfc",
+  "files": [],
+  "subMetas": {
+    "15898": {
+      "importer": "gltf-mesh",
+      "uuid": "39f5640f-51c8-4ea0-857a-ed463ff46bfc@15898",
+      "displayName": "",
+      "id": "15898",
+      "name": "SM_Item_Rice_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "57021": {
+      "importer": "gltf-scene",
+      "uuid": "39f5640f-51c8-4ea0-857a-ed463ff46bfc@57021",
+      "displayName": "",
+      "id": "57021",
+      "name": "SM_Item_Rice_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e942": {
+      "importer": "gltf-embeded-image",
+      "uuid": "39f5640f-51c8-4ea0-857a-ed463ff46bfc@1e942",
+      "displayName": "",
+      "id": "1e942",
+      "name": "Copter:file112.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "585d0": {
+      "importer": "texture",
+      "uuid": "39f5640f-51c8-4ea0-857a-ed463ff46bfc@585d0",
+      "displayName": "",
+      "id": "585d0",
+      "name": "Copter:file112.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "39f5640f-51c8-4ea0-857a-ed463ff46bfc@1e942"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a3ca": {
+      "importer": "gltf-material",
+      "uuid": "39f5640f-51c8-4ea0-857a-ed463ff46bfc@7a3ca",
+      "displayName": "",
+      "id": "7a3ca",
+      "name": "lambert2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Copter:file112",
+        "uri": "39f5640f-51c8-4ea0-857a-ed463ff46bfc@1e942"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "39f5640f-51c8-4ea0-857a-ed463ff46bfc@57021",
+    "assetFinder": {
+      "meshes": [
+        "39f5640f-51c8-4ea0-857a-ed463ff46bfc@15898"
+      ],
+      "skeletons": [],
+      "textures": [
+        "39f5640f-51c8-4ea0-857a-ed463ff46bfc@585d0"
+      ],
+      "materials": [
+        "39f5640f-51c8-4ea0-857a-ed463ff46bfc@7a3ca"
+      ],
+      "scenes": [
+        "39f5640f-51c8-4ea0-857a-ed463ff46bfc@57021"
+      ]
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d095a91b-5b73-44a0-8cb3-7c64e41da079",
+  "files": [],
+  "subMetas": {
+    "49058": {
+      "importer": "texture",
+      "uuid": "d095a91b-5b73-44a0-8cb3-7c64e41da079@49058",
+      "displayName": "",
+      "id": "49058",
+      "name": "file484.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d095a91b-5b73-44a0-8cb3-7c64e41da079@b5497"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "70372": {
+      "importer": "gltf-mesh",
+      "uuid": "d095a91b-5b73-44a0-8cb3-7c64e41da079@70372",
+      "displayName": "",
+      "id": "70372",
+      "name": "SM_DeadBody_Pile_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b5497": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d095a91b-5b73-44a0-8cb3-7c64e41da079@b5497",
+      "displayName": "",
+      "id": "b5497",
+      "name": "file484.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "0c9cb": {
+      "importer": "gltf-material",
+      "uuid": "d095a91b-5b73-44a0-8cb3-7c64e41da079@0c9cb",
+      "displayName": "",
+      "id": "0c9cb",
+      "name": "Base.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e93a4": {
+      "importer": "gltf-scene",
+      "uuid": "d095a91b-5b73-44a0-8cb3-7c64e41da079@e93a4",
+      "displayName": "",
+      "id": "e93a4",
+      "name": "SM_DeadBody_Pile_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file484",
+        "uri": "d095a91b-5b73-44a0-8cb3-7c64e41da079@b5497"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "d095a91b-5b73-44a0-8cb3-7c64e41da079@e93a4",
+    "assetFinder": {
+      "meshes": [
+        "d095a91b-5b73-44a0-8cb3-7c64e41da079@70372"
+      ],
+      "skeletons": [],
+      "textures": [
+        "d095a91b-5b73-44a0-8cb3-7c64e41da079@49058"
+      ],
+      "materials": [
+        "d095a91b-5b73-44a0-8cb3-7c64e41da079@0c9cb"
+      ],
+      "scenes": [
+        "d095a91b-5b73-44a0-8cb3-7c64e41da079@e93a4"
+      ]
+    }
+  }
+}

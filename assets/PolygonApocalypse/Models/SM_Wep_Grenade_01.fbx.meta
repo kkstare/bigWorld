@@ -1,0 +1,164 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "33cdae2d-0ec8-456e-9b84-406f49d3eab4",
+  "files": [],
+  "subMetas": {
+    "02f8c": {
+      "importer": "gltf-mesh",
+      "uuid": "33cdae2d-0ec8-456e-9b84-406f49d3eab4@02f8c",
+      "displayName": "",
+      "id": "02f8c",
+      "name": "SM_Wep_Grenade_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b544f": {
+      "importer": "gltf-mesh",
+      "uuid": "33cdae2d-0ec8-456e-9b84-406f49d3eab4@b544f",
+      "displayName": "",
+      "id": "b544f",
+      "name": "SM_Wep_Grenade_Pin_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cbb9c": {
+      "importer": "gltf-mesh",
+      "uuid": "33cdae2d-0ec8-456e-9b84-406f49d3eab4@cbb9c",
+      "displayName": "",
+      "id": "cbb9c",
+      "name": "SM_Wep_Grenade_Clip_01.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e43a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "33cdae2d-0ec8-456e-9b84-406f49d3eab4@1e43a",
+      "displayName": "",
+      "id": "1e43a",
+      "name": "file1198.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "05eac": {
+      "importer": "texture",
+      "uuid": "33cdae2d-0ec8-456e-9b84-406f49d3eab4@05eac",
+      "displayName": "",
+      "id": "05eac",
+      "name": "file1198.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5bd2": {
+      "importer": "gltf-material",
+      "uuid": "33cdae2d-0ec8-456e-9b84-406f49d3eab4@a5bd2",
+      "displayName": "",
+      "id": "a5bd2",
+      "name": "lambert.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7cf8d": {
+      "importer": "gltf-scene",
+      "uuid": "33cdae2d-0ec8-456e-9b84-406f49d3eab4@7cf8d",
+      "displayName": "",
+      "id": "7cf8d",
+      "name": "SM_Wep_Grenade_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1198",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "33cdae2d-0ec8-456e-9b84-406f49d3eab4@1e43a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "33cdae2d-0ec8-456e-9b84-406f49d3eab4@7cf8d",
+    "assetFinder": {
+      "meshes": [
+        "33cdae2d-0ec8-456e-9b84-406f49d3eab4@02f8c",
+        "33cdae2d-0ec8-456e-9b84-406f49d3eab4@b544f",
+        "33cdae2d-0ec8-456e-9b84-406f49d3eab4@cbb9c"
+      ],
+      "skeletons": [],
+      "textures": [
+        "33cdae2d-0ec8-456e-9b84-406f49d3eab4@05eac"
+      ],
+      "materials": [
+        "33cdae2d-0ec8-456e-9b84-406f49d3eab4@a5bd2"
+      ],
+      "scenes": [
+        "33cdae2d-0ec8-456e-9b84-406f49d3eab4@7cf8d"
+      ]
+    }
+  }
+}

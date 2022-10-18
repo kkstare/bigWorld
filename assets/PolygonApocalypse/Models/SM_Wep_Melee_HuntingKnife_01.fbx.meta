@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c1e8f862-7f17-4495-a966-2b2acc621a3b",
+  "files": [],
+  "subMetas": {
+    "af98a": {
+      "importer": "gltf-mesh",
+      "uuid": "c1e8f862-7f17-4495-a966-2b2acc621a3b@af98a",
+      "displayName": "",
+      "id": "af98a",
+      "name": "SM_Wep_Melee_HuntingKnife_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e43a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c1e8f862-7f17-4495-a966-2b2acc621a3b@1e43a",
+      "displayName": "",
+      "id": "1e43a",
+      "name": "file1198.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "05eac": {
+      "importer": "texture",
+      "uuid": "c1e8f862-7f17-4495-a966-2b2acc621a3b@05eac",
+      "displayName": "",
+      "id": "05eac",
+      "name": "file1198.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5bd2": {
+      "importer": "gltf-material",
+      "uuid": "c1e8f862-7f17-4495-a966-2b2acc621a3b@a5bd2",
+      "displayName": "",
+      "id": "a5bd2",
+      "name": "lambert.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "edf7c": {
+      "importer": "gltf-scene",
+      "uuid": "c1e8f862-7f17-4495-a966-2b2acc621a3b@edf7c",
+      "displayName": "",
+      "id": "edf7c",
+      "name": "SM_Wep_Melee_HuntingKnife_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1198",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "c1e8f862-7f17-4495-a966-2b2acc621a3b@1e43a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "c1e8f862-7f17-4495-a966-2b2acc621a3b@edf7c",
+    "assetFinder": {
+      "meshes": [
+        "c1e8f862-7f17-4495-a966-2b2acc621a3b@af98a"
+      ],
+      "skeletons": [],
+      "textures": [
+        "c1e8f862-7f17-4495-a966-2b2acc621a3b@05eac"
+      ],
+      "materials": [
+        "c1e8f862-7f17-4495-a966-2b2acc621a3b@a5bd2"
+      ],
+      "scenes": [
+        "c1e8f862-7f17-4495-a966-2b2acc621a3b@edf7c"
+      ]
+    }
+  }
+}

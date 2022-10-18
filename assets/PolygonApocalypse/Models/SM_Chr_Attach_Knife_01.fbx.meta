@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "6c8794b5-ac93-476e-b273-d8250fb05c87",
+  "files": [],
+  "subMetas": {
+    "fecee": {
+      "importer": "gltf-mesh",
+      "uuid": "6c8794b5-ac93-476e-b273-d8250fb05c87@fecee",
+      "displayName": "",
+      "id": "fecee",
+      "name": "SM_Chr_Attach_Knife_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fde88": {
+      "importer": "gltf-embeded-image",
+      "uuid": "6c8794b5-ac93-476e-b273-d8250fb05c87@fde88",
+      "displayName": "",
+      "id": "fde88",
+      "name": "file1200.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "a24c0": {
+      "importer": "texture",
+      "uuid": "6c8794b5-ac93-476e-b273-d8250fb05c87@a24c0",
+      "displayName": "",
+      "id": "a24c0",
+      "name": "file1200.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "6c8794b5-ac93-476e-b273-d8250fb05c87@fde88"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "773a0": {
+      "importer": "gltf-material",
+      "uuid": "6c8794b5-ac93-476e-b273-d8250fb05c87@773a0",
+      "displayName": "",
+      "id": "773a0",
+      "name": "lambert282.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "97d08": {
+      "importer": "gltf-scene",
+      "uuid": "6c8794b5-ac93-476e-b273-d8250fb05c87@97d08",
+      "displayName": "",
+      "id": "97d08",
+      "name": "SM_Chr_Attach_Knife_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1200",
+        "uri": "6c8794b5-ac93-476e-b273-d8250fb05c87@fde88"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "6c8794b5-ac93-476e-b273-d8250fb05c87@97d08",
+    "assetFinder": {
+      "meshes": [
+        "6c8794b5-ac93-476e-b273-d8250fb05c87@fecee"
+      ],
+      "skeletons": [],
+      "textures": [
+        "6c8794b5-ac93-476e-b273-d8250fb05c87@a24c0"
+      ],
+      "materials": [
+        "6c8794b5-ac93-476e-b273-d8250fb05c87@773a0"
+      ],
+      "scenes": [
+        "6c8794b5-ac93-476e-b273-d8250fb05c87@97d08"
+      ]
+    }
+  }
+}

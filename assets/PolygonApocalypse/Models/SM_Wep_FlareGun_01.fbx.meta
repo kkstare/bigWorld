@@ -1,0 +1,200 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "9c074c66-25e6-4384-84a1-9845b9aad087",
+  "files": [],
+  "subMetas": {
+    "2ae8a": {
+      "importer": "gltf-mesh",
+      "uuid": "9c074c66-25e6-4384-84a1-9845b9aad087@2ae8a",
+      "displayName": "",
+      "id": "2ae8a",
+      "name": "SM_Wep_FlareGun_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "46f91": {
+      "importer": "gltf-mesh",
+      "uuid": "9c074c66-25e6-4384-84a1-9845b9aad087@46f91",
+      "displayName": "",
+      "id": "46f91",
+      "name": "SM_Wep_FlareGun_01_Hammer_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "554c3": {
+      "importer": "gltf-mesh",
+      "uuid": "9c074c66-25e6-4384-84a1-9845b9aad087@554c3",
+      "displayName": "",
+      "id": "554c3",
+      "name": "SM_Wep_FlareGun_01_Trigger_01.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b968b": {
+      "importer": "gltf-mesh",
+      "uuid": "9c074c66-25e6-4384-84a1-9845b9aad087@b968b",
+      "displayName": "",
+      "id": "b968b",
+      "name": "SM_Wep_FlareGun_01_Barrel_01.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "02592": {
+      "importer": "gltf-mesh",
+      "uuid": "9c074c66-25e6-4384-84a1-9845b9aad087@02592",
+      "displayName": "",
+      "id": "02592",
+      "name": "SM_Wep_FlareGun_01_Bullet_01.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e43a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "9c074c66-25e6-4384-84a1-9845b9aad087@1e43a",
+      "displayName": "",
+      "id": "1e43a",
+      "name": "file1198.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "05eac": {
+      "importer": "texture",
+      "uuid": "9c074c66-25e6-4384-84a1-9845b9aad087@05eac",
+      "displayName": "",
+      "id": "05eac",
+      "name": "file1198.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5bd2": {
+      "importer": "gltf-material",
+      "uuid": "9c074c66-25e6-4384-84a1-9845b9aad087@a5bd2",
+      "displayName": "",
+      "id": "a5bd2",
+      "name": "lambert.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6105f": {
+      "importer": "gltf-scene",
+      "uuid": "9c074c66-25e6-4384-84a1-9845b9aad087@6105f",
+      "displayName": "",
+      "id": "6105f",
+      "name": "SM_Wep_FlareGun_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1198",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "9c074c66-25e6-4384-84a1-9845b9aad087@1e43a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "9c074c66-25e6-4384-84a1-9845b9aad087@6105f",
+    "assetFinder": {
+      "meshes": [
+        "9c074c66-25e6-4384-84a1-9845b9aad087@2ae8a",
+        "9c074c66-25e6-4384-84a1-9845b9aad087@46f91",
+        "9c074c66-25e6-4384-84a1-9845b9aad087@554c3",
+        "9c074c66-25e6-4384-84a1-9845b9aad087@b968b",
+        "9c074c66-25e6-4384-84a1-9845b9aad087@02592"
+      ],
+      "skeletons": [],
+      "textures": [
+        "9c074c66-25e6-4384-84a1-9845b9aad087@05eac"
+      ],
+      "materials": [
+        "9c074c66-25e6-4384-84a1-9845b9aad087@a5bd2"
+      ],
+      "scenes": [
+        "9c074c66-25e6-4384-84a1-9845b9aad087@6105f"
+      ]
+    }
+  }
+}

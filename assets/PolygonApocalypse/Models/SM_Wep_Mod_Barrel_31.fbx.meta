@@ -1,0 +1,188 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e3629123-da9c-488a-8e75-5661cd4eacc8",
+  "files": [],
+  "subMetas": {
+    "debf4": {
+      "importer": "gltf-mesh",
+      "uuid": "e3629123-da9c-488a-8e75-5661cd4eacc8@debf4",
+      "displayName": "",
+      "id": "debf4",
+      "name": "SM_Wep_Mod_Barrel_31.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "faf19": {
+      "importer": "gltf-mesh",
+      "uuid": "e3629123-da9c-488a-8e75-5661cd4eacc8@faf19",
+      "displayName": "",
+      "id": "faf19",
+      "name": "SM_Wep_Mod_Barrel_31_Quiver.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3a2dd": {
+      "importer": "gltf-mesh",
+      "uuid": "e3629123-da9c-488a-8e75-5661cd4eacc8@3a2dd",
+      "displayName": "",
+      "id": "3a2dd",
+      "name": "SM_Wep_Mod_Barrel_31_Quiver_Arrow_01.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "88bb1": {
+      "importer": "gltf-mesh",
+      "uuid": "e3629123-da9c-488a-8e75-5661cd4eacc8@88bb1",
+      "displayName": "",
+      "id": "88bb1",
+      "name": "SM_Wep_Mod_Barrel_31_Quiver_Arrow_02.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "948a8": {
+      "importer": "gltf-mesh",
+      "uuid": "e3629123-da9c-488a-8e75-5661cd4eacc8@948a8",
+      "displayName": "",
+      "id": "948a8",
+      "name": "SM_Wep_Mod_Barrel_31_Quiver_Arrow_03.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dd4c4": {
+      "importer": "gltf-mesh",
+      "uuid": "e3629123-da9c-488a-8e75-5661cd4eacc8@dd4c4",
+      "displayName": "",
+      "id": "dd4c4",
+      "name": "SM_Wep_Mod_Barrel_31_String.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a6b90": {
+      "importer": "gltf-mesh",
+      "uuid": "e3629123-da9c-488a-8e75-5661cd4eacc8@a6b90",
+      "displayName": "",
+      "id": "a6b90",
+      "name": "SM_Wep_Mod_Barrel_31_Arrow.mesh",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "e3629123-da9c-488a-8e75-5661cd4eacc8@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c716a": {
+      "importer": "gltf-scene",
+      "uuid": "e3629123-da9c-488a-8e75-5661cd4eacc8@c716a",
+      "displayName": "",
+      "id": "c716a",
+      "name": "SM_Wep_Mod_Barrel_31.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "e3629123-da9c-488a-8e75-5661cd4eacc8@c716a",
+    "assetFinder": {
+      "meshes": [
+        "e3629123-da9c-488a-8e75-5661cd4eacc8@debf4",
+        "e3629123-da9c-488a-8e75-5661cd4eacc8@faf19",
+        "e3629123-da9c-488a-8e75-5661cd4eacc8@3a2dd",
+        "e3629123-da9c-488a-8e75-5661cd4eacc8@88bb1",
+        "e3629123-da9c-488a-8e75-5661cd4eacc8@948a8",
+        "e3629123-da9c-488a-8e75-5661cd4eacc8@dd4c4",
+        "e3629123-da9c-488a-8e75-5661cd4eacc8@a6b90"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "e3629123-da9c-488a-8e75-5661cd4eacc8@8d883"
+      ],
+      "scenes": [
+        "e3629123-da9c-488a-8e75-5661cd4eacc8@c716a"
+      ]
+    }
+  }
+}

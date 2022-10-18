@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b0ebab34-2022-4017-b3a1-d37f594037f6",
+  "files": [],
+  "subMetas": {
+    "6dce2": {
+      "importer": "gltf-mesh",
+      "uuid": "b0ebab34-2022-4017-b3a1-d37f594037f6@6dce2",
+      "displayName": "",
+      "id": "6dce2",
+      "name": "SM_Env_StormCanal_Straight_Dipped_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b225a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "b0ebab34-2022-4017-b3a1-d37f594037f6@b225a",
+      "displayName": "",
+      "id": "b225a",
+      "name": "file996.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "f0e3c": {
+      "importer": "texture",
+      "uuid": "b0ebab34-2022-4017-b3a1-d37f594037f6@f0e3c",
+      "displayName": "",
+      "id": "f0e3c",
+      "name": "file996.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b0ebab34-2022-4017-b3a1-d37f594037f6@b225a"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a1e29": {
+      "importer": "gltf-material",
+      "uuid": "b0ebab34-2022-4017-b3a1-d37f594037f6@a1e29",
+      "displayName": "",
+      "id": "a1e29",
+      "name": "Base_Maya_Scene:pasted__MiniColour44.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8c1a2": {
+      "importer": "gltf-scene",
+      "uuid": "b0ebab34-2022-4017-b3a1-d37f594037f6@8c1a2",
+      "displayName": "",
+      "id": "8c1a2",
+      "name": "SM_Env_StormCanal_Straight_Dipped_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file996",
+        "uri": "b0ebab34-2022-4017-b3a1-d37f594037f6@b225a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "b0ebab34-2022-4017-b3a1-d37f594037f6@8c1a2",
+    "assetFinder": {
+      "meshes": [
+        "b0ebab34-2022-4017-b3a1-d37f594037f6@6dce2"
+      ],
+      "skeletons": [],
+      "textures": [
+        "b0ebab34-2022-4017-b3a1-d37f594037f6@f0e3c"
+      ],
+      "materials": [
+        "b0ebab34-2022-4017-b3a1-d37f594037f6@a1e29"
+      ],
+      "scenes": [
+        "b0ebab34-2022-4017-b3a1-d37f594037f6@8c1a2"
+      ]
+    }
+  }
+}

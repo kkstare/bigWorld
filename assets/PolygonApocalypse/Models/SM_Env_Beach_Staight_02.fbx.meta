@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "26158260-2ae1-4513-9b6e-443d06f085f0",
+  "files": [],
+  "subMetas": {
+    "b20fe": {
+      "importer": "gltf-mesh",
+      "uuid": "26158260-2ae1-4513-9b6e-443d06f085f0@b20fe",
+      "displayName": "",
+      "id": "b20fe",
+      "name": "SM_Env_Beach_Staight_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e43a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "26158260-2ae1-4513-9b6e-443d06f085f0@1e43a",
+      "displayName": "",
+      "id": "1e43a",
+      "name": "file1198.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "05eac": {
+      "importer": "texture",
+      "uuid": "26158260-2ae1-4513-9b6e-443d06f085f0@05eac",
+      "displayName": "",
+      "id": "05eac",
+      "name": "file1198.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5bd2": {
+      "importer": "gltf-material",
+      "uuid": "26158260-2ae1-4513-9b6e-443d06f085f0@a5bd2",
+      "displayName": "",
+      "id": "a5bd2",
+      "name": "lambert.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "19e30": {
+      "importer": "gltf-scene",
+      "uuid": "26158260-2ae1-4513-9b6e-443d06f085f0@19e30",
+      "displayName": "",
+      "id": "19e30",
+      "name": "SM_Env_Beach_Staight_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1198",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "26158260-2ae1-4513-9b6e-443d06f085f0@1e43a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "26158260-2ae1-4513-9b6e-443d06f085f0@19e30",
+    "assetFinder": {
+      "meshes": [
+        "26158260-2ae1-4513-9b6e-443d06f085f0@b20fe"
+      ],
+      "skeletons": [],
+      "textures": [
+        "26158260-2ae1-4513-9b6e-443d06f085f0@05eac"
+      ],
+      "materials": [
+        "26158260-2ae1-4513-9b6e-443d06f085f0@a5bd2"
+      ],
+      "scenes": [
+        "26158260-2ae1-4513-9b6e-443d06f085f0@19e30"
+      ]
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "3026aaa6-768d-4f45-a680-708c43d49da7",
+  "files": [],
+  "subMetas": {
+    "23215": {
+      "importer": "gltf-embeded-image",
+      "uuid": "3026aaa6-768d-4f45-a680-708c43d49da7@23215",
+      "displayName": "",
+      "id": "23215",
+      "name": "file1031.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "84117": {
+      "importer": "gltf-mesh",
+      "uuid": "3026aaa6-768d-4f45-a680-708c43d49da7@84117",
+      "displayName": "",
+      "id": "84117",
+      "name": "SM_Prop_Playground_Roundabout_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5691d": {
+      "importer": "texture",
+      "uuid": "3026aaa6-768d-4f45-a680-708c43d49da7@5691d",
+      "displayName": "",
+      "id": "5691d",
+      "name": "file1031.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3026aaa6-768d-4f45-a680-708c43d49da7@23215"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "38a38": {
+      "importer": "gltf-material",
+      "uuid": "3026aaa6-768d-4f45-a680-708c43d49da7@38a38",
+      "displayName": "",
+      "id": "38a38",
+      "name": "lambert886.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "aac41": {
+      "importer": "gltf-scene",
+      "uuid": "3026aaa6-768d-4f45-a680-708c43d49da7@aac41",
+      "displayName": "",
+      "id": "aac41",
+      "name": "SM_Prop_Playground_Roundabout_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1031",
+        "uri": "3026aaa6-768d-4f45-a680-708c43d49da7@23215"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "3026aaa6-768d-4f45-a680-708c43d49da7@aac41",
+    "assetFinder": {
+      "meshes": [
+        "3026aaa6-768d-4f45-a680-708c43d49da7@84117"
+      ],
+      "skeletons": [],
+      "textures": [
+        "3026aaa6-768d-4f45-a680-708c43d49da7@5691d"
+      ],
+      "materials": [
+        "3026aaa6-768d-4f45-a680-708c43d49da7@38a38"
+      ],
+      "scenes": [
+        "3026aaa6-768d-4f45-a680-708c43d49da7@aac41"
+      ]
+    }
+  }
+}

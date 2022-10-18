@@ -1,0 +1,164 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "0dc8403f-b33b-4039-ae89-3eba4deaa45d",
+  "files": [],
+  "subMetas": {
+    "1bb01": {
+      "importer": "gltf-mesh",
+      "uuid": "0dc8403f-b33b-4039-ae89-3eba4deaa45d@1bb01",
+      "displayName": "",
+      "id": "1bb01",
+      "name": "SM_Wep_FlameThrower_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6a16c": {
+      "importer": "gltf-mesh",
+      "uuid": "0dc8403f-b33b-4039-ae89-3eba4deaa45d@6a16c",
+      "displayName": "",
+      "id": "6a16c",
+      "name": "SM_Wep_FlameThrower_01_Trigger_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d9c51": {
+      "importer": "gltf-mesh",
+      "uuid": "0dc8403f-b33b-4039-ae89-3eba4deaa45d@d9c51",
+      "displayName": "",
+      "id": "d9c51",
+      "name": "SM_Wep_FlameThrower_01_Handle_01.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e43a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "0dc8403f-b33b-4039-ae89-3eba4deaa45d@1e43a",
+      "displayName": "",
+      "id": "1e43a",
+      "name": "file1198.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "05eac": {
+      "importer": "texture",
+      "uuid": "0dc8403f-b33b-4039-ae89-3eba4deaa45d@05eac",
+      "displayName": "",
+      "id": "05eac",
+      "name": "file1198.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5bd2": {
+      "importer": "gltf-material",
+      "uuid": "0dc8403f-b33b-4039-ae89-3eba4deaa45d@a5bd2",
+      "displayName": "",
+      "id": "a5bd2",
+      "name": "lambert.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d7902": {
+      "importer": "gltf-scene",
+      "uuid": "0dc8403f-b33b-4039-ae89-3eba4deaa45d@d7902",
+      "displayName": "",
+      "id": "d7902",
+      "name": "SM_Wep_FlameThrower_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1198",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "0dc8403f-b33b-4039-ae89-3eba4deaa45d@1e43a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "0dc8403f-b33b-4039-ae89-3eba4deaa45d@d7902",
+    "assetFinder": {
+      "meshes": [
+        "0dc8403f-b33b-4039-ae89-3eba4deaa45d@1bb01",
+        "0dc8403f-b33b-4039-ae89-3eba4deaa45d@6a16c",
+        "0dc8403f-b33b-4039-ae89-3eba4deaa45d@d9c51"
+      ],
+      "skeletons": [],
+      "textures": [
+        "0dc8403f-b33b-4039-ae89-3eba4deaa45d@05eac"
+      ],
+      "materials": [
+        "0dc8403f-b33b-4039-ae89-3eba4deaa45d@a5bd2"
+      ],
+      "scenes": [
+        "0dc8403f-b33b-4039-ae89-3eba4deaa45d@d7902"
+      ]
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "76753e75-85b6-4b49-aaa2-4cf3fa44ed69",
+  "files": [],
+  "subMetas": {
+    "4cad2": {
+      "importer": "gltf-mesh",
+      "uuid": "76753e75-85b6-4b49-aaa2-4cf3fa44ed69@4cad2",
+      "displayName": "",
+      "id": "4cad2",
+      "name": "SM_Wep_Mod_Attach_Trigger_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "76753e75-85b6-4b49-aaa2-4cf3fa44ed69@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b33cc": {
+      "importer": "gltf-scene",
+      "uuid": "76753e75-85b6-4b49-aaa2-4cf3fa44ed69@b33cc",
+      "displayName": "",
+      "id": "b33cc",
+      "name": "SM_Wep_Mod_Attach_Trigger_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "76753e75-85b6-4b49-aaa2-4cf3fa44ed69@b33cc",
+    "assetFinder": {
+      "meshes": [
+        "76753e75-85b6-4b49-aaa2-4cf3fa44ed69@4cad2"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "76753e75-85b6-4b49-aaa2-4cf3fa44ed69@8d883"
+      ],
+      "scenes": [
+        "76753e75-85b6-4b49-aaa2-4cf3fa44ed69@b33cc"
+      ]
+    }
+  }
+}

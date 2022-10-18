@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "9bae4267-169a-45c5-bbf8-a14843cd46a3",
+  "files": [],
+  "subMetas": {
+    "9b64e": {
+      "importer": "gltf-mesh",
+      "uuid": "9bae4267-169a-45c5-bbf8-a14843cd46a3@9b64e",
+      "displayName": "",
+      "id": "9b64e",
+      "name": "SM_Item_Binoculars_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e43a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "9bae4267-169a-45c5-bbf8-a14843cd46a3@1e43a",
+      "displayName": "",
+      "id": "1e43a",
+      "name": "file1198.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "05eac": {
+      "importer": "texture",
+      "uuid": "9bae4267-169a-45c5-bbf8-a14843cd46a3@05eac",
+      "displayName": "",
+      "id": "05eac",
+      "name": "file1198.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5bd2": {
+      "importer": "gltf-material",
+      "uuid": "9bae4267-169a-45c5-bbf8-a14843cd46a3@a5bd2",
+      "displayName": "",
+      "id": "a5bd2",
+      "name": "lambert.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "82d4f": {
+      "importer": "gltf-scene",
+      "uuid": "9bae4267-169a-45c5-bbf8-a14843cd46a3@82d4f",
+      "displayName": "",
+      "id": "82d4f",
+      "name": "SM_Item_Binoculars_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1198",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "9bae4267-169a-45c5-bbf8-a14843cd46a3@1e43a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "9bae4267-169a-45c5-bbf8-a14843cd46a3@82d4f",
+    "assetFinder": {
+      "meshes": [
+        "9bae4267-169a-45c5-bbf8-a14843cd46a3@9b64e"
+      ],
+      "skeletons": [],
+      "textures": [
+        "9bae4267-169a-45c5-bbf8-a14843cd46a3@05eac"
+      ],
+      "materials": [
+        "9bae4267-169a-45c5-bbf8-a14843cd46a3@a5bd2"
+      ],
+      "scenes": [
+        "9bae4267-169a-45c5-bbf8-a14843cd46a3@82d4f"
+      ]
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "7694f744-7911-4166-a56f-9dcf7286b12f",
+  "files": [],
+  "subMetas": {
+    "08885": {
+      "importer": "gltf-mesh",
+      "uuid": "7694f744-7911-4166-a56f-9dcf7286b12f@08885",
+      "displayName": "",
+      "id": "08885",
+      "name": "SM_Chr_Attach_Canteen_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c6c74": {
+      "importer": "gltf-embeded-image",
+      "uuid": "7694f744-7911-4166-a56f-9dcf7286b12f@c6c74",
+      "displayName": "",
+      "id": "c6c74",
+      "name": "file511.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "2bddf": {
+      "importer": "texture",
+      "uuid": "7694f744-7911-4166-a56f-9dcf7286b12f@2bddf",
+      "displayName": "",
+      "id": "2bddf",
+      "name": "file511.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "7694f744-7911-4166-a56f-9dcf7286b12f@c6c74"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d5d83": {
+      "importer": "gltf-material",
+      "uuid": "7694f744-7911-4166-a56f-9dcf7286b12f@d5d83",
+      "displayName": "",
+      "id": "d5d83",
+      "name": "lambert279.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "85fbf": {
+      "importer": "gltf-scene",
+      "uuid": "7694f744-7911-4166-a56f-9dcf7286b12f@85fbf",
+      "displayName": "",
+      "id": "85fbf",
+      "name": "SM_Chr_Attach_Canteen_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file511",
+        "uri": "7694f744-7911-4166-a56f-9dcf7286b12f@c6c74"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "7694f744-7911-4166-a56f-9dcf7286b12f@85fbf",
+    "assetFinder": {
+      "meshes": [
+        "7694f744-7911-4166-a56f-9dcf7286b12f@08885"
+      ],
+      "skeletons": [],
+      "textures": [
+        "7694f744-7911-4166-a56f-9dcf7286b12f@2bddf"
+      ],
+      "materials": [
+        "7694f744-7911-4166-a56f-9dcf7286b12f@d5d83"
+      ],
+      "scenes": [
+        "7694f744-7911-4166-a56f-9dcf7286b12f@85fbf"
+      ]
+    }
+  }
+}

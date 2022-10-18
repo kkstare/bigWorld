@@ -1,0 +1,217 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ca4e8801-c947-451e-9cac-602913966e1c",
+  "files": [],
+  "subMetas": {
+    "c4fb8": {
+      "importer": "gltf-mesh",
+      "uuid": "ca4e8801-c947-451e-9cac-602913966e1c@c4fb8",
+      "displayName": "",
+      "id": "c4fb8",
+      "name": "SM_Veh_Motorbike_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "657a3": {
+      "importer": "gltf-mesh",
+      "uuid": "ca4e8801-c947-451e-9cac-602913966e1c@657a3",
+      "displayName": "",
+      "id": "657a3",
+      "name": "SM_Veh_Motorbike_Rear_Shock_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b9599": {
+      "importer": "gltf-mesh",
+      "uuid": "ca4e8801-c947-451e-9cac-602913966e1c@b9599",
+      "displayName": "",
+      "id": "b9599",
+      "name": "SM_Veh_Motorbike_Rear_Wheel_01.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "50bf1": {
+      "importer": "gltf-mesh",
+      "uuid": "ca4e8801-c947-451e-9cac-602913966e1c@50bf1",
+      "displayName": "",
+      "id": "50bf1",
+      "name": "SM_Veh_Motorbike_HandleBars_01.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "203b8": {
+      "importer": "gltf-mesh",
+      "uuid": "ca4e8801-c947-451e-9cac-602913966e1c@203b8",
+      "displayName": "",
+      "id": "203b8",
+      "name": "SM_Veh_Motorbike_Front_Shock_01.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "70c05": {
+      "importer": "gltf-mesh",
+      "uuid": "ca4e8801-c947-451e-9cac-602913966e1c@70c05",
+      "displayName": "",
+      "id": "70c05",
+      "name": "SM_Veh_Motorbike_Front_Wheel_01.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "008d7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "ca4e8801-c947-451e-9cac-602913966e1c@008d7",
+      "displayName": "",
+      "id": "008d7",
+      "name": "__PolygonZombie_Texture_A_2.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "76a36": {
+      "importer": "texture",
+      "uuid": "ca4e8801-c947-451e-9cac-602913966e1c@76a36",
+      "displayName": "",
+      "id": "76a36",
+      "name": "__PolygonZombie_Texture_A_2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "ca4e8801-c947-451e-9cac-602913966e1c@008d7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e18d5": {
+      "importer": "gltf-material",
+      "uuid": "ca4e8801-c947-451e-9cac-602913966e1c@e18d5",
+      "displayName": "",
+      "id": "e18d5",
+      "name": "lambert32.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dd239": {
+      "importer": "gltf-scene",
+      "uuid": "ca4e8801-c947-451e-9cac-602913966e1c@dd239",
+      "displayName": "",
+      "id": "dd239",
+      "name": "SM_Veh_Motorbike_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "__PolygonZombie_Texture_A_2",
+        "uri": "ca4e8801-c947-451e-9cac-602913966e1c@008d7"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "ca4e8801-c947-451e-9cac-602913966e1c@dd239",
+    "assetFinder": {
+      "meshes": [
+        "ca4e8801-c947-451e-9cac-602913966e1c@c4fb8",
+        "ca4e8801-c947-451e-9cac-602913966e1c@657a3",
+        "ca4e8801-c947-451e-9cac-602913966e1c@b9599",
+        "ca4e8801-c947-451e-9cac-602913966e1c@50bf1",
+        "ca4e8801-c947-451e-9cac-602913966e1c@203b8",
+        "ca4e8801-c947-451e-9cac-602913966e1c@70c05"
+      ],
+      "skeletons": [],
+      "textures": [
+        "ca4e8801-c947-451e-9cac-602913966e1c@76a36"
+      ],
+      "materials": [
+        "ca4e8801-c947-451e-9cac-602913966e1c@e18d5"
+      ],
+      "scenes": [
+        "ca4e8801-c947-451e-9cac-602913966e1c@dd239"
+      ]
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "90d14ca7-93d1-4b31-98ad-7eabf3927e89",
+  "files": [],
+  "subMetas": {
+    "26eb4": {
+      "importer": "gltf-mesh",
+      "uuid": "90d14ca7-93d1-4b31-98ad-7eabf3927e89@26eb4",
+      "displayName": "",
+      "id": "26eb4",
+      "name": "SM_Bld_Diner_Stool_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "43c71": {
+      "importer": "gltf-embeded-image",
+      "uuid": "90d14ca7-93d1-4b31-98ad-7eabf3927e89@43c71",
+      "displayName": "",
+      "id": "43c71",
+      "name": "file1.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "d20e9": {
+      "importer": "texture",
+      "uuid": "90d14ca7-93d1-4b31-98ad-7eabf3927e89@d20e9",
+      "displayName": "",
+      "id": "d20e9",
+      "name": "file1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "90d14ca7-93d1-4b31-98ad-7eabf3927e89@43c71"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fdb30": {
+      "importer": "gltf-material",
+      "uuid": "90d14ca7-93d1-4b31-98ad-7eabf3927e89@fdb30",
+      "displayName": "",
+      "id": "fdb30",
+      "name": "lambert23.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8cab2": {
+      "importer": "gltf-scene",
+      "uuid": "90d14ca7-93d1-4b31-98ad-7eabf3927e89@8cab2",
+      "displayName": "",
+      "id": "8cab2",
+      "name": "SM_Bld_Diner_Stool_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1",
+        "uri": "90d14ca7-93d1-4b31-98ad-7eabf3927e89@43c71"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "90d14ca7-93d1-4b31-98ad-7eabf3927e89@8cab2",
+    "assetFinder": {
+      "meshes": [
+        "90d14ca7-93d1-4b31-98ad-7eabf3927e89@26eb4"
+      ],
+      "skeletons": [],
+      "textures": [
+        "90d14ca7-93d1-4b31-98ad-7eabf3927e89@d20e9"
+      ],
+      "materials": [
+        "90d14ca7-93d1-4b31-98ad-7eabf3927e89@fdb30"
+      ],
+      "scenes": [
+        "90d14ca7-93d1-4b31-98ad-7eabf3927e89@8cab2"
+      ]
+    }
+  }
+}

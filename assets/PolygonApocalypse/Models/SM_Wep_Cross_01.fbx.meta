@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "2f4527f1-30ea-45db-a586-357c1f5589e0",
+  "files": [],
+  "subMetas": {
+    "f99c6": {
+      "importer": "gltf-mesh",
+      "uuid": "2f4527f1-30ea-45db-a586-357c1f5589e0@f99c6",
+      "displayName": "",
+      "id": "f99c6",
+      "name": "SM_Wep_Cross_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "2f4527f1-30ea-45db-a586-357c1f5589e0@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "2f4527f1-30ea-45db-a586-357c1f5589e0@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "2f4527f1-30ea-45db-a586-357c1f5589e0@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5e76f": {
+      "importer": "gltf-scene",
+      "uuid": "2f4527f1-30ea-45db-a586-357c1f5589e0@5e76f",
+      "displayName": "",
+      "id": "5e76f",
+      "name": "SM_Wep_Cross_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "2f4527f1-30ea-45db-a586-357c1f5589e0@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "2f4527f1-30ea-45db-a586-357c1f5589e0@5e76f",
+    "assetFinder": {
+      "meshes": [
+        "2f4527f1-30ea-45db-a586-357c1f5589e0@f99c6"
+      ],
+      "skeletons": [],
+      "textures": [
+        "2f4527f1-30ea-45db-a586-357c1f5589e0@988dc"
+      ],
+      "materials": [
+        "2f4527f1-30ea-45db-a586-357c1f5589e0@8d883"
+      ],
+      "scenes": [
+        "2f4527f1-30ea-45db-a586-357c1f5589e0@5e76f"
+      ]
+    }
+  }
+}

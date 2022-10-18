@@ -1,0 +1,146 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a3de9602-5f3e-4d3d-8643-2aadf0999263",
+  "files": [],
+  "subMetas": {
+    "21ebf": {
+      "importer": "gltf-mesh",
+      "uuid": "a3de9602-5f3e-4d3d-8643-2aadf0999263@21ebf",
+      "displayName": "",
+      "id": "21ebf",
+      "name": "SM_Prop_Car_Wrecked_Van_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e97c": {
+      "importer": "gltf-mesh",
+      "uuid": "a3de9602-5f3e-4d3d-8643-2aadf0999263@1e97c",
+      "displayName": "",
+      "id": "1e97c",
+      "name": "SM_Prop_Car_Wrecked_Van_01_Overgrowth.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "a3de9602-5f3e-4d3d-8643-2aadf0999263@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "a3de9602-5f3e-4d3d-8643-2aadf0999263@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "a3de9602-5f3e-4d3d-8643-2aadf0999263@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "414fb": {
+      "importer": "gltf-scene",
+      "uuid": "a3de9602-5f3e-4d3d-8643-2aadf0999263@414fb",
+      "displayName": "",
+      "id": "414fb",
+      "name": "SM_Prop_Car_Wrecked_Van_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "a3de9602-5f3e-4d3d-8643-2aadf0999263@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "a3de9602-5f3e-4d3d-8643-2aadf0999263@414fb",
+    "assetFinder": {
+      "meshes": [
+        "a3de9602-5f3e-4d3d-8643-2aadf0999263@21ebf",
+        "a3de9602-5f3e-4d3d-8643-2aadf0999263@1e97c"
+      ],
+      "skeletons": [],
+      "textures": [
+        "a3de9602-5f3e-4d3d-8643-2aadf0999263@988dc"
+      ],
+      "materials": [
+        "a3de9602-5f3e-4d3d-8643-2aadf0999263@8d883"
+      ],
+      "scenes": [
+        "a3de9602-5f3e-4d3d-8643-2aadf0999263@414fb"
+      ]
+    }
+  }
+}

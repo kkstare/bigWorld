@@ -1,0 +1,167 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "625744a7-3543-42da-a5e3-eec02611db97",
+  "files": [],
+  "subMetas": {
+    "71245": {
+      "importer": "gltf-material",
+      "uuid": "625744a7-3543-42da-a5e3-eec02611db97@71245",
+      "displayName": "",
+      "id": "71245",
+      "name": "lambert921.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a9e24": {
+      "importer": "gltf-mesh",
+      "uuid": "625744a7-3543-42da-a5e3-eec02611db97@a9e24",
+      "displayName": "",
+      "id": "a9e24",
+      "name": "SM_Prop_TrashPile_08.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "55c24": {
+      "importer": "gltf-mesh",
+      "uuid": "625744a7-3543-42da-a5e3-eec02611db97@55c24",
+      "displayName": "",
+      "id": "55c24",
+      "name": "SM_Prop_Grass_08.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "192c3": {
+      "importer": "gltf-mesh",
+      "uuid": "625744a7-3543-42da-a5e3-eec02611db97@192c3",
+      "displayName": "",
+      "id": "192c3",
+      "name": "SM_Prop_Trash_08_Material0.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "14a3c": {
+      "importer": "gltf-material",
+      "uuid": "625744a7-3543-42da-a5e3-eec02611db97@14a3c",
+      "displayName": "",
+      "id": "14a3c",
+      "name": "pasted__lambert2.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ce220": {
+      "importer": "gltf-material",
+      "uuid": "625744a7-3543-42da-a5e3-eec02611db97@ce220",
+      "displayName": "",
+      "id": "ce220",
+      "name": "lambert922.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "96f02": {
+      "importer": "gltf-material",
+      "uuid": "625744a7-3543-42da-a5e3-eec02611db97@96f02",
+      "displayName": "",
+      "id": "96f02",
+      "name": "lambert661.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ed211": {
+      "importer": "gltf-scene",
+      "uuid": "625744a7-3543-42da-a5e3-eec02611db97@ed211",
+      "displayName": "",
+      "id": "ed211",
+      "name": "SM_Prop_TrashPile_08.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "625744a7-3543-42da-a5e3-eec02611db97@ed211",
+    "assetFinder": {
+      "meshes": [
+        "625744a7-3543-42da-a5e3-eec02611db97@a9e24",
+        "625744a7-3543-42da-a5e3-eec02611db97@55c24",
+        "625744a7-3543-42da-a5e3-eec02611db97@192c3"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "625744a7-3543-42da-a5e3-eec02611db97@71245",
+        "625744a7-3543-42da-a5e3-eec02611db97@14a3c",
+        "625744a7-3543-42da-a5e3-eec02611db97@ce220",
+        "625744a7-3543-42da-a5e3-eec02611db97@96f02"
+      ],
+      "scenes": [
+        "625744a7-3543-42da-a5e3-eec02611db97@ed211"
+      ]
+    }
+  }
+}

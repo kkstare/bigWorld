@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ec4ef311-f3a8-45dc-9a0d-501366f4122e",
+  "files": [],
+  "subMetas": {
+    "19219": {
+      "importer": "texture",
+      "uuid": "ec4ef311-f3a8-45dc-9a0d-501366f4122e@19219",
+      "displayName": "",
+      "id": "19219",
+      "name": "file114.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "ec4ef311-f3a8-45dc-9a0d-501366f4122e@e513d"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "49e36": {
+      "importer": "gltf-mesh",
+      "uuid": "ec4ef311-f3a8-45dc-9a0d-501366f4122e@49e36",
+      "displayName": "",
+      "id": "49e36",
+      "name": "SM_Prop_Log_Big_Shards_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e513d": {
+      "importer": "gltf-embeded-image",
+      "uuid": "ec4ef311-f3a8-45dc-9a0d-501366f4122e@e513d",
+      "displayName": "",
+      "id": "e513d",
+      "name": "file114.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "c0b62": {
+      "importer": "gltf-material",
+      "uuid": "ec4ef311-f3a8-45dc-9a0d-501366f4122e@c0b62",
+      "displayName": "",
+      "id": "c0b62",
+      "name": "lambert25.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "da8b9": {
+      "importer": "gltf-scene",
+      "uuid": "ec4ef311-f3a8-45dc-9a0d-501366f4122e@da8b9",
+      "displayName": "",
+      "id": "da8b9",
+      "name": "SM_Prop_Log_Big_Shards_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file114",
+        "uri": "ec4ef311-f3a8-45dc-9a0d-501366f4122e@e513d"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "ec4ef311-f3a8-45dc-9a0d-501366f4122e@da8b9",
+    "assetFinder": {
+      "meshes": [
+        "ec4ef311-f3a8-45dc-9a0d-501366f4122e@49e36"
+      ],
+      "skeletons": [],
+      "textures": [
+        "ec4ef311-f3a8-45dc-9a0d-501366f4122e@19219"
+      ],
+      "materials": [
+        "ec4ef311-f3a8-45dc-9a0d-501366f4122e@c0b62"
+      ],
+      "scenes": [
+        "ec4ef311-f3a8-45dc-9a0d-501366f4122e@da8b9"
+      ]
+    }
+  }
+}

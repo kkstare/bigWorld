@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "66453e77-62e9-44fe-a12e-d551e96c12e0",
+  "files": [],
+  "subMetas": {
+    "91607": {
+      "importer": "gltf-mesh",
+      "uuid": "66453e77-62e9-44fe-a12e-d551e96c12e0@91607",
+      "displayName": "",
+      "id": "91607",
+      "name": "SM_Chr_Attach_FootballHelmet_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2c114": {
+      "importer": "gltf-embeded-image",
+      "uuid": "66453e77-62e9-44fe-a12e-d551e96c12e0@2c114",
+      "displayName": "",
+      "id": "2c114",
+      "name": "file512.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "485d5": {
+      "importer": "texture",
+      "uuid": "66453e77-62e9-44fe-a12e-d551e96c12e0@485d5",
+      "displayName": "",
+      "id": "485d5",
+      "name": "file512.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "66453e77-62e9-44fe-a12e-d551e96c12e0@2c114"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "744ab": {
+      "importer": "gltf-material",
+      "uuid": "66453e77-62e9-44fe-a12e-d551e96c12e0@744ab",
+      "displayName": "",
+      "id": "744ab",
+      "name": "lambert280.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9e8c9": {
+      "importer": "gltf-scene",
+      "uuid": "66453e77-62e9-44fe-a12e-d551e96c12e0@9e8c9",
+      "displayName": "",
+      "id": "9e8c9",
+      "name": "SM_Chr_Attach_FootballHelmet_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file512",
+        "uri": "66453e77-62e9-44fe-a12e-d551e96c12e0@2c114"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "66453e77-62e9-44fe-a12e-d551e96c12e0@9e8c9",
+    "assetFinder": {
+      "meshes": [
+        "66453e77-62e9-44fe-a12e-d551e96c12e0@91607"
+      ],
+      "skeletons": [],
+      "textures": [
+        "66453e77-62e9-44fe-a12e-d551e96c12e0@485d5"
+      ],
+      "materials": [
+        "66453e77-62e9-44fe-a12e-d551e96c12e0@744ab"
+      ],
+      "scenes": [
+        "66453e77-62e9-44fe-a12e-d551e96c12e0@9e8c9"
+      ]
+    }
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "0a4850b4-59b8-4306-9b89-1fd2aa8b6893",
+  "files": [],
+  "subMetas": {
+    "ab7b4": {
+      "importer": "gltf-mesh",
+      "uuid": "0a4850b4-59b8-4306-9b89-1fd2aa8b6893@ab7b4",
+      "displayName": "",
+      "id": "ab7b4",
+      "name": "SM_Wep_Hybrid_03.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e01c9": {
+      "importer": "gltf-mesh",
+      "uuid": "0a4850b4-59b8-4306-9b89-1fd2aa8b6893@e01c9",
+      "displayName": "",
+      "id": "e01c9",
+      "name": "SM_Wep_Hybrid_03_Trigger_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d041a": {
+      "importer": "gltf-mesh",
+      "uuid": "0a4850b4-59b8-4306-9b89-1fd2aa8b6893@d041a",
+      "displayName": "",
+      "id": "d041a",
+      "name": "SM_Wep_Hybrid_03_Hammer_01.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ad996": {
+      "importer": "gltf-mesh",
+      "uuid": "0a4850b4-59b8-4306-9b89-1fd2aa8b6893@ad996",
+      "displayName": "",
+      "id": "ad996",
+      "name": "SM_Wep_Hybrid_03_Cylinder_01.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a135c": {
+      "importer": "gltf-mesh",
+      "uuid": "0a4850b4-59b8-4306-9b89-1fd2aa8b6893@a135c",
+      "displayName": "",
+      "id": "a135c",
+      "name": "SM_Wep_Hybrid_03_Cylinder_Spin_01.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a43f5": {
+      "importer": "gltf-mesh",
+      "uuid": "0a4850b4-59b8-4306-9b89-1fd2aa8b6893@a43f5",
+      "displayName": "",
+      "id": "a43f5",
+      "name": "SM_Wep_Hybrid_03_Cylinder_Bullet_01.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "accfd": {
+      "importer": "gltf-mesh",
+      "uuid": "0a4850b4-59b8-4306-9b89-1fd2aa8b6893@accfd",
+      "displayName": "",
+      "id": "accfd",
+      "name": "SM_Wep_Hybrid_03_Cylinder_Bullet_02.mesh",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7467f": {
+      "importer": "gltf-mesh",
+      "uuid": "0a4850b4-59b8-4306-9b89-1fd2aa8b6893@7467f",
+      "displayName": "",
+      "id": "7467f",
+      "name": "SM_Wep_Hybrid_03_Cylinder_Bullet_04.mesh",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b49c6": {
+      "importer": "gltf-mesh",
+      "uuid": "0a4850b4-59b8-4306-9b89-1fd2aa8b6893@b49c6",
+      "displayName": "",
+      "id": "b49c6",
+      "name": "SM_Wep_Hybrid_03_Cylinder_Bullet_03.mesh",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2a5db": {
+      "importer": "gltf-mesh",
+      "uuid": "0a4850b4-59b8-4306-9b89-1fd2aa8b6893@2a5db",
+      "displayName": "",
+      "id": "2a5db",
+      "name": "SM_Wep_Hybrid_03_Cylinder_Bullet_06.mesh",
+      "userData": {
+        "gltfIndex": 9
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dea63": {
+      "importer": "gltf-mesh",
+      "uuid": "0a4850b4-59b8-4306-9b89-1fd2aa8b6893@dea63",
+      "displayName": "",
+      "id": "dea63",
+      "name": "SM_Wep_Hybrid_03_Cylinder_Bullet_05.mesh",
+      "userData": {
+        "gltfIndex": 10
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e43a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "0a4850b4-59b8-4306-9b89-1fd2aa8b6893@1e43a",
+      "displayName": "",
+      "id": "1e43a",
+      "name": "file1198.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "05eac": {
+      "importer": "texture",
+      "uuid": "0a4850b4-59b8-4306-9b89-1fd2aa8b6893@05eac",
+      "displayName": "",
+      "id": "05eac",
+      "name": "file1198.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5bd2": {
+      "importer": "gltf-material",
+      "uuid": "0a4850b4-59b8-4306-9b89-1fd2aa8b6893@a5bd2",
+      "displayName": "",
+      "id": "a5bd2",
+      "name": "lambert.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "17ce2": {
+      "importer": "gltf-scene",
+      "uuid": "0a4850b4-59b8-4306-9b89-1fd2aa8b6893@17ce2",
+      "displayName": "",
+      "id": "17ce2",
+      "name": "SM_Wep_Hybrid_03.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1198",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "0a4850b4-59b8-4306-9b89-1fd2aa8b6893@1e43a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "0a4850b4-59b8-4306-9b89-1fd2aa8b6893@17ce2",
+    "assetFinder": {
+      "meshes": [
+        "0a4850b4-59b8-4306-9b89-1fd2aa8b6893@ab7b4",
+        "0a4850b4-59b8-4306-9b89-1fd2aa8b6893@e01c9",
+        "0a4850b4-59b8-4306-9b89-1fd2aa8b6893@d041a",
+        "0a4850b4-59b8-4306-9b89-1fd2aa8b6893@ad996",
+        "0a4850b4-59b8-4306-9b89-1fd2aa8b6893@a135c",
+        "0a4850b4-59b8-4306-9b89-1fd2aa8b6893@a43f5",
+        "0a4850b4-59b8-4306-9b89-1fd2aa8b6893@accfd",
+        "0a4850b4-59b8-4306-9b89-1fd2aa8b6893@7467f",
+        "0a4850b4-59b8-4306-9b89-1fd2aa8b6893@b49c6",
+        "0a4850b4-59b8-4306-9b89-1fd2aa8b6893@2a5db",
+        "0a4850b4-59b8-4306-9b89-1fd2aa8b6893@dea63"
+      ],
+      "skeletons": [],
+      "textures": [
+        "0a4850b4-59b8-4306-9b89-1fd2aa8b6893@05eac"
+      ],
+      "materials": [
+        "0a4850b4-59b8-4306-9b89-1fd2aa8b6893@a5bd2"
+      ],
+      "scenes": [
+        "0a4850b4-59b8-4306-9b89-1fd2aa8b6893@17ce2"
+      ]
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e42e1f87-75ce-4c03-ae7f-7c94018b2705",
+  "files": [],
+  "subMetas": {
+    "15962": {
+      "importer": "gltf-material",
+      "uuid": "e42e1f87-75ce-4c03-ae7f-7c94018b2705@15962",
+      "displayName": "",
+      "id": "15962",
+      "name": "db:New_Characters_Rigging_29:BloodDecal.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4a47e": {
+      "importer": "gltf-mesh",
+      "uuid": "e42e1f87-75ce-4c03-ae7f-7c94018b2705@4a47e",
+      "displayName": "",
+      "id": "4a47e",
+      "name": "SM_Prop_DeadBody_Hanging_Female_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c04ed": {
+      "importer": "gltf-mesh",
+      "uuid": "e42e1f87-75ce-4c03-ae7f-7c94018b2705@c04ed",
+      "displayName": "",
+      "id": "c04ed",
+      "name": "SM_Prop_HangingRope_Female_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6ad49": {
+      "importer": "gltf-scene",
+      "uuid": "e42e1f87-75ce-4c03-ae7f-7c94018b2705@6ad49",
+      "displayName": "",
+      "id": "6ad49",
+      "name": "SM_Prop_DeadBody_Hanging_Female_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "e42e1f87-75ce-4c03-ae7f-7c94018b2705@6ad49",
+    "assetFinder": {
+      "meshes": [
+        "e42e1f87-75ce-4c03-ae7f-7c94018b2705@4a47e",
+        "e42e1f87-75ce-4c03-ae7f-7c94018b2705@c04ed"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "e42e1f87-75ce-4c03-ae7f-7c94018b2705@15962"
+      ],
+      "scenes": [
+        "e42e1f87-75ce-4c03-ae7f-7c94018b2705@6ad49"
+      ]
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "406bc7f8-5671-43a1-96e4-7db4d16e3409",
+  "files": [],
+  "subMetas": {
+    "28b5c": {
+      "importer": "gltf-mesh",
+      "uuid": "406bc7f8-5671-43a1-96e4-7db4d16e3409@28b5c",
+      "displayName": "",
+      "id": "28b5c",
+      "name": "SM_Wep_Mod_Attach_Bayonet_03.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "406bc7f8-5671-43a1-96e4-7db4d16e3409@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ed5fa": {
+      "importer": "gltf-scene",
+      "uuid": "406bc7f8-5671-43a1-96e4-7db4d16e3409@ed5fa",
+      "displayName": "",
+      "id": "ed5fa",
+      "name": "SM_Wep_Mod_Attach_Bayonet_03.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "406bc7f8-5671-43a1-96e4-7db4d16e3409@ed5fa",
+    "assetFinder": {
+      "meshes": [
+        "406bc7f8-5671-43a1-96e4-7db4d16e3409@28b5c"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "406bc7f8-5671-43a1-96e4-7db4d16e3409@8d883"
+      ],
+      "scenes": [
+        "406bc7f8-5671-43a1-96e4-7db4d16e3409@ed5fa"
+      ]
+    }
+  }
+}

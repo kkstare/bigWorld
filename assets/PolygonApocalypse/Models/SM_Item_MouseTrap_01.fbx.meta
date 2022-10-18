@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "2fca3e88-56db-44f2-8642-d5b90ece5d28",
+  "files": [],
+  "subMetas": {
+    "0e3ee": {
+      "importer": "gltf-mesh",
+      "uuid": "2fca3e88-56db-44f2-8642-d5b90ece5d28@0e3ee",
+      "displayName": "",
+      "id": "0e3ee",
+      "name": "SM_Item_MouseTrap_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e942": {
+      "importer": "gltf-embeded-image",
+      "uuid": "2fca3e88-56db-44f2-8642-d5b90ece5d28@1e942",
+      "displayName": "",
+      "id": "1e942",
+      "name": "Copter:file112.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "585d0": {
+      "importer": "texture",
+      "uuid": "2fca3e88-56db-44f2-8642-d5b90ece5d28@585d0",
+      "displayName": "",
+      "id": "585d0",
+      "name": "Copter:file112.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "2fca3e88-56db-44f2-8642-d5b90ece5d28@1e942"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a3ca": {
+      "importer": "gltf-material",
+      "uuid": "2fca3e88-56db-44f2-8642-d5b90ece5d28@7a3ca",
+      "displayName": "",
+      "id": "7a3ca",
+      "name": "lambert2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "63e53": {
+      "importer": "gltf-scene",
+      "uuid": "2fca3e88-56db-44f2-8642-d5b90ece5d28@63e53",
+      "displayName": "",
+      "id": "63e53",
+      "name": "SM_Item_MouseTrap_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Copter:file112",
+        "uri": "2fca3e88-56db-44f2-8642-d5b90ece5d28@1e942"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "2fca3e88-56db-44f2-8642-d5b90ece5d28@63e53",
+    "assetFinder": {
+      "meshes": [
+        "2fca3e88-56db-44f2-8642-d5b90ece5d28@0e3ee"
+      ],
+      "skeletons": [],
+      "textures": [
+        "2fca3e88-56db-44f2-8642-d5b90ece5d28@585d0"
+      ],
+      "materials": [
+        "2fca3e88-56db-44f2-8642-d5b90ece5d28@7a3ca"
+      ],
+      "scenes": [
+        "2fca3e88-56db-44f2-8642-d5b90ece5d28@63e53"
+      ]
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "476ed287-bfa6-40e9-9d39-0a02b43bc3a0",
+  "files": [],
+  "subMetas": {
+    "17a43": {
+      "importer": "gltf-mesh",
+      "uuid": "476ed287-bfa6-40e9-9d39-0a02b43bc3a0@17a43",
+      "displayName": "",
+      "id": "17a43",
+      "name": "SM_Prop_Barricade_DiamondPlate_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "476ed287-bfa6-40e9-9d39-0a02b43bc3a0@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "476ed287-bfa6-40e9-9d39-0a02b43bc3a0@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "476ed287-bfa6-40e9-9d39-0a02b43bc3a0@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8f5d2": {
+      "importer": "gltf-scene",
+      "uuid": "476ed287-bfa6-40e9-9d39-0a02b43bc3a0@8f5d2",
+      "displayName": "",
+      "id": "8f5d2",
+      "name": "SM_Prop_Barricade_DiamondPlate_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "476ed287-bfa6-40e9-9d39-0a02b43bc3a0@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "476ed287-bfa6-40e9-9d39-0a02b43bc3a0@8f5d2",
+    "assetFinder": {
+      "meshes": [
+        "476ed287-bfa6-40e9-9d39-0a02b43bc3a0@17a43"
+      ],
+      "skeletons": [],
+      "textures": [
+        "476ed287-bfa6-40e9-9d39-0a02b43bc3a0@988dc"
+      ],
+      "materials": [
+        "476ed287-bfa6-40e9-9d39-0a02b43bc3a0@8d883"
+      ],
+      "scenes": [
+        "476ed287-bfa6-40e9-9d39-0a02b43bc3a0@8f5d2"
+      ]
+    }
+  }
+}

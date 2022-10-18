@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d6a1186b-aacd-45ba-aae7-90badef268c1",
+  "files": [],
+  "subMetas": {
+    "0fe5c": {
+      "importer": "gltf-mesh",
+      "uuid": "d6a1186b-aacd-45ba-aae7-90badef268c1@0fe5c",
+      "displayName": "",
+      "id": "0fe5c",
+      "name": "SM_Chr_Attach_Criminal_Male_Beard_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "90b3e": {
+      "importer": "gltf-material",
+      "uuid": "d6a1186b-aacd-45ba-aae7-90badef268c1@90b3e",
+      "displayName": "",
+      "id": "90b3e",
+      "name": "BloodDecal10.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9fc10": {
+      "importer": "gltf-scene",
+      "uuid": "d6a1186b-aacd-45ba-aae7-90badef268c1@9fc10",
+      "displayName": "",
+      "id": "9fc10",
+      "name": "SM_Chr_Attach_Criminal_Male_Beard_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "d6a1186b-aacd-45ba-aae7-90badef268c1@9fc10",
+    "assetFinder": {
+      "meshes": [
+        "d6a1186b-aacd-45ba-aae7-90badef268c1@0fe5c"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "d6a1186b-aacd-45ba-aae7-90badef268c1@90b3e"
+      ],
+      "scenes": [
+        "d6a1186b-aacd-45ba-aae7-90badef268c1@9fc10"
+      ]
+    }
+  }
+}

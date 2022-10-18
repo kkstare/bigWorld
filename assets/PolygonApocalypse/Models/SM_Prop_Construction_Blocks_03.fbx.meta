@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "1ad51de0-6710-4e1e-8097-451403e3da33",
+  "files": [],
+  "subMetas": {
+    "23dc5": {
+      "importer": "gltf-mesh",
+      "uuid": "1ad51de0-6710-4e1e-8097-451403e3da33@23dc5",
+      "displayName": "",
+      "id": "23dc5",
+      "name": "SM_Prop_Construction_Blocks_03.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e942": {
+      "importer": "gltf-embeded-image",
+      "uuid": "1ad51de0-6710-4e1e-8097-451403e3da33@1e942",
+      "displayName": "",
+      "id": "1e942",
+      "name": "Copter:file112.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "585d0": {
+      "importer": "texture",
+      "uuid": "1ad51de0-6710-4e1e-8097-451403e3da33@585d0",
+      "displayName": "",
+      "id": "585d0",
+      "name": "Copter:file112.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "1ad51de0-6710-4e1e-8097-451403e3da33@1e942"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a3ca": {
+      "importer": "gltf-material",
+      "uuid": "1ad51de0-6710-4e1e-8097-451403e3da33@7a3ca",
+      "displayName": "",
+      "id": "7a3ca",
+      "name": "lambert2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3221e": {
+      "importer": "gltf-scene",
+      "uuid": "1ad51de0-6710-4e1e-8097-451403e3da33@3221e",
+      "displayName": "",
+      "id": "3221e",
+      "name": "SM_Prop_Construction_Blocks_03.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Copter:file112",
+        "uri": "1ad51de0-6710-4e1e-8097-451403e3da33@1e942"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "1ad51de0-6710-4e1e-8097-451403e3da33@3221e",
+    "assetFinder": {
+      "meshes": [
+        "1ad51de0-6710-4e1e-8097-451403e3da33@23dc5"
+      ],
+      "skeletons": [],
+      "textures": [
+        "1ad51de0-6710-4e1e-8097-451403e3da33@585d0"
+      ],
+      "materials": [
+        "1ad51de0-6710-4e1e-8097-451403e3da33@7a3ca"
+      ],
+      "scenes": [
+        "1ad51de0-6710-4e1e-8097-451403e3da33@3221e"
+      ]
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "6685d4d2-09f7-428c-b555-5393e539d430",
+  "files": [],
+  "subMetas": {
+    "b01ce": {
+      "importer": "gltf-mesh",
+      "uuid": "6685d4d2-09f7-428c-b555-5393e539d430@b01ce",
+      "displayName": "",
+      "id": "b01ce",
+      "name": "SM_Wep_Veh_MachineGun_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d9bf0": {
+      "importer": "gltf-material",
+      "uuid": "6685d4d2-09f7-428c-b555-5393e539d430@d9bf0",
+      "displayName": "",
+      "id": "d9bf0",
+      "name": "pasted__lambert95.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a66a1": {
+      "importer": "gltf-scene",
+      "uuid": "6685d4d2-09f7-428c-b555-5393e539d430@a66a1",
+      "displayName": "",
+      "id": "a66a1",
+      "name": "SM_Wep_Veh_MachineGun_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "6685d4d2-09f7-428c-b555-5393e539d430@a66a1",
+    "assetFinder": {
+      "meshes": [
+        "6685d4d2-09f7-428c-b555-5393e539d430@b01ce"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "6685d4d2-09f7-428c-b555-5393e539d430@d9bf0"
+      ],
+      "scenes": [
+        "6685d4d2-09f7-428c-b555-5393e539d430@a66a1"
+      ]
+    }
+  }
+}

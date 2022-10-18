@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "878dc978-8bfa-491c-9a20-96f7598d5de5",
+  "files": [],
+  "subMetas": {
+    "19219": {
+      "importer": "texture",
+      "uuid": "878dc978-8bfa-491c-9a20-96f7598d5de5@19219",
+      "displayName": "",
+      "id": "19219",
+      "name": "file114.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "878dc978-8bfa-491c-9a20-96f7598d5de5@e513d"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "80dcd": {
+      "importer": "gltf-mesh",
+      "uuid": "878dc978-8bfa-491c-9a20-96f7598d5de5@80dcd",
+      "displayName": "",
+      "id": "80dcd",
+      "name": "SM_Prop_Car_Ornament_05.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e513d": {
+      "importer": "gltf-embeded-image",
+      "uuid": "878dc978-8bfa-491c-9a20-96f7598d5de5@e513d",
+      "displayName": "",
+      "id": "e513d",
+      "name": "file114.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "c0b62": {
+      "importer": "gltf-material",
+      "uuid": "878dc978-8bfa-491c-9a20-96f7598d5de5@c0b62",
+      "displayName": "",
+      "id": "c0b62",
+      "name": "lambert25.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3a5a0": {
+      "importer": "gltf-scene",
+      "uuid": "878dc978-8bfa-491c-9a20-96f7598d5de5@3a5a0",
+      "displayName": "",
+      "id": "3a5a0",
+      "name": "SM_Prop_Car_Ornament_05.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file114",
+        "uri": "878dc978-8bfa-491c-9a20-96f7598d5de5@e513d"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "878dc978-8bfa-491c-9a20-96f7598d5de5@3a5a0",
+    "assetFinder": {
+      "meshes": [
+        "878dc978-8bfa-491c-9a20-96f7598d5de5@80dcd"
+      ],
+      "skeletons": [],
+      "textures": [
+        "878dc978-8bfa-491c-9a20-96f7598d5de5@19219"
+      ],
+      "materials": [
+        "878dc978-8bfa-491c-9a20-96f7598d5de5@c0b62"
+      ],
+      "scenes": [
+        "878dc978-8bfa-491c-9a20-96f7598d5de5@3a5a0"
+      ]
+    }
+  }
+}

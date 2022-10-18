@@ -1,0 +1,164 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "784b7cb7-fbdb-4500-b4fc-3a30a9672fb3",
+  "files": [],
+  "subMetas": {
+    "0b1ab": {
+      "importer": "gltf-mesh",
+      "uuid": "784b7cb7-fbdb-4500-b4fc-3a30a9672fb3@0b1ab",
+      "displayName": "",
+      "id": "0b1ab",
+      "name": "SM_Wep_Shotgun_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d29f4": {
+      "importer": "gltf-mesh",
+      "uuid": "784b7cb7-fbdb-4500-b4fc-3a30a9672fb3@d29f4",
+      "displayName": "",
+      "id": "d29f4",
+      "name": "SM_Wep_Shotgun_01_Trigger_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ffa4c": {
+      "importer": "gltf-mesh",
+      "uuid": "784b7cb7-fbdb-4500-b4fc-3a30a9672fb3@ffa4c",
+      "displayName": "",
+      "id": "ffa4c",
+      "name": "SM_Wep_Shotgun_01_Handle_01.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e43a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "784b7cb7-fbdb-4500-b4fc-3a30a9672fb3@1e43a",
+      "displayName": "",
+      "id": "1e43a",
+      "name": "file1198.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "05eac": {
+      "importer": "texture",
+      "uuid": "784b7cb7-fbdb-4500-b4fc-3a30a9672fb3@05eac",
+      "displayName": "",
+      "id": "05eac",
+      "name": "file1198.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5bd2": {
+      "importer": "gltf-material",
+      "uuid": "784b7cb7-fbdb-4500-b4fc-3a30a9672fb3@a5bd2",
+      "displayName": "",
+      "id": "a5bd2",
+      "name": "lambert.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0a8ac": {
+      "importer": "gltf-scene",
+      "uuid": "784b7cb7-fbdb-4500-b4fc-3a30a9672fb3@0a8ac",
+      "displayName": "",
+      "id": "0a8ac",
+      "name": "SM_Wep_Shotgun_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1198",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "784b7cb7-fbdb-4500-b4fc-3a30a9672fb3@1e43a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "784b7cb7-fbdb-4500-b4fc-3a30a9672fb3@0a8ac",
+    "assetFinder": {
+      "meshes": [
+        "784b7cb7-fbdb-4500-b4fc-3a30a9672fb3@0b1ab",
+        "784b7cb7-fbdb-4500-b4fc-3a30a9672fb3@d29f4",
+        "784b7cb7-fbdb-4500-b4fc-3a30a9672fb3@ffa4c"
+      ],
+      "skeletons": [],
+      "textures": [
+        "784b7cb7-fbdb-4500-b4fc-3a30a9672fb3@05eac"
+      ],
+      "materials": [
+        "784b7cb7-fbdb-4500-b4fc-3a30a9672fb3@a5bd2"
+      ],
+      "scenes": [
+        "784b7cb7-fbdb-4500-b4fc-3a30a9672fb3@0a8ac"
+      ]
+    }
+  }
+}

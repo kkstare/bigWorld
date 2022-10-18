@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "68a7e326-d76b-4e87-9337-2a7d28515f9f",
+  "files": [],
+  "subMetas": {
+    "55891": {
+      "importer": "gltf-embeded-image",
+      "uuid": "68a7e326-d76b-4e87-9337-2a7d28515f9f@55891",
+      "displayName": "",
+      "id": "55891",
+      "name": "file1205.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "62f85": {
+      "importer": "gltf-mesh",
+      "uuid": "68a7e326-d76b-4e87-9337-2a7d28515f9f@62f85",
+      "displayName": "",
+      "id": "62f85",
+      "name": "SM_Prop_Crate_Large_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "24f74": {
+      "importer": "texture",
+      "uuid": "68a7e326-d76b-4e87-9337-2a7d28515f9f@24f74",
+      "displayName": "",
+      "id": "24f74",
+      "name": "file1205.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "68a7e326-d76b-4e87-9337-2a7d28515f9f@55891"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5bd2": {
+      "importer": "gltf-material",
+      "uuid": "68a7e326-d76b-4e87-9337-2a7d28515f9f@a5bd2",
+      "displayName": "",
+      "id": "a5bd2",
+      "name": "lambert.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e7e80": {
+      "importer": "gltf-scene",
+      "uuid": "68a7e326-d76b-4e87-9337-2a7d28515f9f@e7e80",
+      "displayName": "",
+      "id": "e7e80",
+      "name": "SM_Prop_Crate_Large_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1205",
+        "uri": "68a7e326-d76b-4e87-9337-2a7d28515f9f@55891"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "68a7e326-d76b-4e87-9337-2a7d28515f9f@e7e80",
+    "assetFinder": {
+      "meshes": [
+        "68a7e326-d76b-4e87-9337-2a7d28515f9f@62f85"
+      ],
+      "skeletons": [],
+      "textures": [
+        "68a7e326-d76b-4e87-9337-2a7d28515f9f@24f74"
+      ],
+      "materials": [
+        "68a7e326-d76b-4e87-9337-2a7d28515f9f@a5bd2"
+      ],
+      "scenes": [
+        "68a7e326-d76b-4e87-9337-2a7d28515f9f@e7e80"
+      ]
+    }
+  }
+}

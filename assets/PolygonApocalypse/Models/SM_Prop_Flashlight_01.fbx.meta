@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "cb72b83d-cdf4-4358-aba6-c26fdc238a07",
+  "files": [],
+  "subMetas": {
+    "0bb8e": {
+      "importer": "gltf-mesh",
+      "uuid": "cb72b83d-cdf4-4358-aba6-c26fdc238a07@0bb8e",
+      "displayName": "",
+      "id": "0bb8e",
+      "name": "SM_Prop_Flashlight_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "45f24": {
+      "importer": "gltf-embeded-image",
+      "uuid": "cb72b83d-cdf4-4358-aba6-c26fdc238a07@45f24",
+      "displayName": "",
+      "id": "45f24",
+      "name": "PolygonApocalypse_Texture_01_4k_1.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "beb21": {
+      "importer": "texture",
+      "uuid": "cb72b83d-cdf4-4358-aba6-c26fdc238a07@beb21",
+      "displayName": "",
+      "id": "beb21",
+      "name": "PolygonApocalypse_Texture_01_4k_1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "cb72b83d-cdf4-4358-aba6-c26fdc238a07@45f24"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a3ca": {
+      "importer": "gltf-material",
+      "uuid": "cb72b83d-cdf4-4358-aba6-c26fdc238a07@7a3ca",
+      "displayName": "",
+      "id": "7a3ca",
+      "name": "lambert2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "be964": {
+      "importer": "gltf-scene",
+      "uuid": "cb72b83d-cdf4-4358-aba6-c26fdc238a07@be964",
+      "displayName": "",
+      "id": "be964",
+      "name": "SM_Prop_Flashlight_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "PolygonApocalypse_Texture_01_4k_1",
+        "uri": "cb72b83d-cdf4-4358-aba6-c26fdc238a07@45f24"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "cb72b83d-cdf4-4358-aba6-c26fdc238a07@be964",
+    "assetFinder": {
+      "meshes": [
+        "cb72b83d-cdf4-4358-aba6-c26fdc238a07@0bb8e"
+      ],
+      "skeletons": [],
+      "textures": [
+        "cb72b83d-cdf4-4358-aba6-c26fdc238a07@beb21"
+      ],
+      "materials": [
+        "cb72b83d-cdf4-4358-aba6-c26fdc238a07@7a3ca"
+      ],
+      "scenes": [
+        "cb72b83d-cdf4-4358-aba6-c26fdc238a07@be964"
+      ]
+    }
+  }
+}

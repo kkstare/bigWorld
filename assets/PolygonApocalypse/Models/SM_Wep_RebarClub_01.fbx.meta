@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b9fe8dcd-f889-46f9-aa80-68828792d674",
+  "files": [],
+  "subMetas": {
+    "8b7cb": {
+      "importer": "gltf-mesh",
+      "uuid": "b9fe8dcd-f889-46f9-aa80-68828792d674@8b7cb",
+      "displayName": "",
+      "id": "8b7cb",
+      "name": "SM_Wep_RebarClub_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e43a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "b9fe8dcd-f889-46f9-aa80-68828792d674@1e43a",
+      "displayName": "",
+      "id": "1e43a",
+      "name": "file1198.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "05eac": {
+      "importer": "texture",
+      "uuid": "b9fe8dcd-f889-46f9-aa80-68828792d674@05eac",
+      "displayName": "",
+      "id": "05eac",
+      "name": "file1198.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5bd2": {
+      "importer": "gltf-material",
+      "uuid": "b9fe8dcd-f889-46f9-aa80-68828792d674@a5bd2",
+      "displayName": "",
+      "id": "a5bd2",
+      "name": "lambert.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0a00f": {
+      "importer": "gltf-scene",
+      "uuid": "b9fe8dcd-f889-46f9-aa80-68828792d674@0a00f",
+      "displayName": "",
+      "id": "0a00f",
+      "name": "SM_Wep_RebarClub_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1198",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "b9fe8dcd-f889-46f9-aa80-68828792d674@1e43a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "b9fe8dcd-f889-46f9-aa80-68828792d674@0a00f",
+    "assetFinder": {
+      "meshes": [
+        "b9fe8dcd-f889-46f9-aa80-68828792d674@8b7cb"
+      ],
+      "skeletons": [],
+      "textures": [
+        "b9fe8dcd-f889-46f9-aa80-68828792d674@05eac"
+      ],
+      "materials": [
+        "b9fe8dcd-f889-46f9-aa80-68828792d674@a5bd2"
+      ],
+      "scenes": [
+        "b9fe8dcd-f889-46f9-aa80-68828792d674@0a00f"
+      ]
+    }
+  }
+}

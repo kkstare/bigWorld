@@ -1,0 +1,146 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "bc23101d-af05-4160-8843-33d53face630",
+  "files": [],
+  "subMetas": {
+    "10719": {
+      "importer": "gltf-mesh",
+      "uuid": "bc23101d-af05-4160-8843-33d53face630@10719",
+      "displayName": "",
+      "id": "10719",
+      "name": "SM_Bld_House_02_Glass_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e35fd": {
+      "importer": "gltf-mesh",
+      "uuid": "bc23101d-af05-4160-8843-33d53face630@e35fd",
+      "displayName": "",
+      "id": "e35fd",
+      "name": "SM_Bld_House_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "bc23101d-af05-4160-8843-33d53face630@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "bc23101d-af05-4160-8843-33d53face630@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a3ca": {
+      "importer": "gltf-material",
+      "uuid": "bc23101d-af05-4160-8843-33d53face630@7a3ca",
+      "displayName": "",
+      "id": "7a3ca",
+      "name": "lambert2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "232f5": {
+      "importer": "gltf-scene",
+      "uuid": "bc23101d-af05-4160-8843-33d53face630@232f5",
+      "displayName": "",
+      "id": "232f5",
+      "name": "SM_Bld_House_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "bc23101d-af05-4160-8843-33d53face630@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "bc23101d-af05-4160-8843-33d53face630@232f5",
+    "assetFinder": {
+      "meshes": [
+        "bc23101d-af05-4160-8843-33d53face630@e35fd",
+        "bc23101d-af05-4160-8843-33d53face630@10719"
+      ],
+      "skeletons": [],
+      "textures": [
+        "bc23101d-af05-4160-8843-33d53face630@988dc"
+      ],
+      "materials": [
+        "bc23101d-af05-4160-8843-33d53face630@7a3ca"
+      ],
+      "scenes": [
+        "bc23101d-af05-4160-8843-33d53face630@232f5"
+      ]
+    }
+  }
+}

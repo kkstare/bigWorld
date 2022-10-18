@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f00d1919-1bfb-4a93-b1d8-f5177dce579a",
+  "files": [],
+  "subMetas": {
+    "40227": {
+      "importer": "gltf-mesh",
+      "uuid": "f00d1919-1bfb-4a93-b1d8-f5177dce579a@40227",
+      "displayName": "",
+      "id": "40227",
+      "name": "SM_Env_Sidewalk_Overgrown_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bf8ac": {
+      "importer": "gltf-embeded-image",
+      "uuid": "f00d1919-1bfb-4a93-b1d8-f5177dce579a@bf8ac",
+      "displayName": "",
+      "id": "bf8ac",
+      "name": "file999.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "e4df9": {
+      "importer": "texture",
+      "uuid": "f00d1919-1bfb-4a93-b1d8-f5177dce579a@e4df9",
+      "displayName": "",
+      "id": "e4df9",
+      "name": "file999.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "f00d1919-1bfb-4a93-b1d8-f5177dce579a@bf8ac"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a3ca": {
+      "importer": "gltf-material",
+      "uuid": "f00d1919-1bfb-4a93-b1d8-f5177dce579a@7a3ca",
+      "displayName": "",
+      "id": "7a3ca",
+      "name": "lambert2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f5a90": {
+      "importer": "gltf-scene",
+      "uuid": "f00d1919-1bfb-4a93-b1d8-f5177dce579a@f5a90",
+      "displayName": "",
+      "id": "f5a90",
+      "name": "SM_Env_Sidewalk_Overgrown_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file999",
+        "uri": "f00d1919-1bfb-4a93-b1d8-f5177dce579a@bf8ac"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "f00d1919-1bfb-4a93-b1d8-f5177dce579a@f5a90",
+    "assetFinder": {
+      "meshes": [
+        "f00d1919-1bfb-4a93-b1d8-f5177dce579a@40227"
+      ],
+      "skeletons": [],
+      "textures": [
+        "f00d1919-1bfb-4a93-b1d8-f5177dce579a@e4df9"
+      ],
+      "materials": [
+        "f00d1919-1bfb-4a93-b1d8-f5177dce579a@7a3ca"
+      ],
+      "scenes": [
+        "f00d1919-1bfb-4a93-b1d8-f5177dce579a@f5a90"
+      ]
+    }
+  }
+}

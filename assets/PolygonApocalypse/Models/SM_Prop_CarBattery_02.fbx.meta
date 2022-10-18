@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "54121598-8e7f-44c1-9a8c-29df1f7a9687",
+  "files": [],
+  "subMetas": {
+    "e10d8": {
+      "importer": "gltf-mesh",
+      "uuid": "54121598-8e7f-44c1-9a8c-29df1f7a9687@e10d8",
+      "displayName": "",
+      "id": "e10d8",
+      "name": "SM_Prop_CarBattery_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "54121598-8e7f-44c1-9a8c-29df1f7a9687@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "54121598-8e7f-44c1-9a8c-29df1f7a9687@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "54121598-8e7f-44c1-9a8c-29df1f7a9687@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3ee1e": {
+      "importer": "gltf-scene",
+      "uuid": "54121598-8e7f-44c1-9a8c-29df1f7a9687@3ee1e",
+      "displayName": "",
+      "id": "3ee1e",
+      "name": "SM_Prop_CarBattery_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "54121598-8e7f-44c1-9a8c-29df1f7a9687@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "54121598-8e7f-44c1-9a8c-29df1f7a9687@3ee1e",
+    "assetFinder": {
+      "meshes": [
+        "54121598-8e7f-44c1-9a8c-29df1f7a9687@e10d8"
+      ],
+      "skeletons": [],
+      "textures": [
+        "54121598-8e7f-44c1-9a8c-29df1f7a9687@988dc"
+      ],
+      "materials": [
+        "54121598-8e7f-44c1-9a8c-29df1f7a9687@8d883"
+      ],
+      "scenes": [
+        "54121598-8e7f-44c1-9a8c-29df1f7a9687@3ee1e"
+      ]
+    }
+  }
+}

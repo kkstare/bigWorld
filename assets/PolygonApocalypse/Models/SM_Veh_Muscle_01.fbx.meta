@@ -1,0 +1,296 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "7302d6fd-c677-49a2-b795-8478e86d3698",
+  "files": [],
+  "subMetas": {
+    "b3eb4": {
+      "importer": "gltf-mesh",
+      "uuid": "7302d6fd-c677-49a2-b795-8478e86d3698@b3eb4",
+      "displayName": "",
+      "id": "b3eb4",
+      "name": "SM_Veh_Muscle_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5b00c": {
+      "importer": "gltf-mesh",
+      "uuid": "7302d6fd-c677-49a2-b795-8478e86d3698@5b00c",
+      "displayName": "",
+      "id": "5b00c",
+      "name": "SM_Veh_Muscle_Suspention_F.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "11cf8": {
+      "importer": "gltf-mesh",
+      "uuid": "7302d6fd-c677-49a2-b795-8478e86d3698@11cf8",
+      "displayName": "",
+      "id": "11cf8",
+      "name": "SM_Veh_Muscle_Wheel_fl.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2ac6b": {
+      "importer": "gltf-mesh",
+      "uuid": "7302d6fd-c677-49a2-b795-8478e86d3698@2ac6b",
+      "displayName": "",
+      "id": "2ac6b",
+      "name": "SM_Veh_Muscle_Wheel_fr.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1ea4e": {
+      "importer": "gltf-mesh",
+      "uuid": "7302d6fd-c677-49a2-b795-8478e86d3698@1ea4e",
+      "displayName": "",
+      "id": "1ea4e",
+      "name": "SM_Veh_Muscle_Block_01.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "529e9": {
+      "importer": "gltf-mesh",
+      "uuid": "7302d6fd-c677-49a2-b795-8478e86d3698@529e9",
+      "displayName": "",
+      "id": "529e9",
+      "name": "SM_Veh_Muscle_Glass_Armour_01.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3e0ff": {
+      "importer": "gltf-mesh",
+      "uuid": "7302d6fd-c677-49a2-b795-8478e86d3698@3e0ff",
+      "displayName": "",
+      "id": "3e0ff",
+      "name": "SM_Veh_Muscle_Suspention_R.mesh",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "06f9e": {
+      "importer": "gltf-mesh",
+      "uuid": "7302d6fd-c677-49a2-b795-8478e86d3698@06f9e",
+      "displayName": "",
+      "id": "06f9e",
+      "name": "SM_Veh_Muscle_Wheel_rl.mesh",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "819a0": {
+      "importer": "gltf-mesh",
+      "uuid": "7302d6fd-c677-49a2-b795-8478e86d3698@819a0",
+      "displayName": "",
+      "id": "819a0",
+      "name": "SM_Veh_Muscle_Wheel_rr.mesh",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f3d36": {
+      "importer": "gltf-mesh",
+      "uuid": "7302d6fd-c677-49a2-b795-8478e86d3698@f3d36",
+      "displayName": "",
+      "id": "f3d36",
+      "name": "SM_Veh_Muscle_SteeringW.mesh",
+      "userData": {
+        "gltfIndex": 9
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e8f70": {
+      "importer": "gltf-mesh",
+      "uuid": "7302d6fd-c677-49a2-b795-8478e86d3698@e8f70",
+      "displayName": "",
+      "id": "e8f70",
+      "name": "SM_Veh_Muscle_Glass_01.mesh",
+      "userData": {
+        "gltfIndex": 10
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2ddb5": {
+      "importer": "gltf-mesh",
+      "uuid": "7302d6fd-c677-49a2-b795-8478e86d3698@2ddb5",
+      "displayName": "",
+      "id": "2ddb5",
+      "name": "SM_Veh_Muscle_Roof_Props_01.mesh",
+      "userData": {
+        "gltfIndex": 11
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fa3b0": {
+      "importer": "gltf-mesh",
+      "uuid": "7302d6fd-c677-49a2-b795-8478e86d3698@fa3b0",
+      "displayName": "",
+      "id": "fa3b0",
+      "name": "SM_Veh_Muscle_Armour_01.mesh",
+      "userData": {
+        "gltfIndex": 12
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ac6aa": {
+      "importer": "gltf-material",
+      "uuid": "7302d6fd-c677-49a2-b795-8478e86d3698@ac6aa",
+      "displayName": "",
+      "id": "ac6aa",
+      "name": "lambert37.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ff873": {
+      "importer": "gltf-scene",
+      "uuid": "7302d6fd-c677-49a2-b795-8478e86d3698@ff873",
+      "displayName": "",
+      "id": "ff873",
+      "name": "SM_Veh_Muscle_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "7302d6fd-c677-49a2-b795-8478e86d3698@ff873",
+    "assetFinder": {
+      "meshes": [
+        "7302d6fd-c677-49a2-b795-8478e86d3698@b3eb4",
+        "7302d6fd-c677-49a2-b795-8478e86d3698@5b00c",
+        "7302d6fd-c677-49a2-b795-8478e86d3698@11cf8",
+        "7302d6fd-c677-49a2-b795-8478e86d3698@2ac6b",
+        "7302d6fd-c677-49a2-b795-8478e86d3698@1ea4e",
+        "7302d6fd-c677-49a2-b795-8478e86d3698@529e9",
+        "7302d6fd-c677-49a2-b795-8478e86d3698@3e0ff",
+        "7302d6fd-c677-49a2-b795-8478e86d3698@06f9e",
+        "7302d6fd-c677-49a2-b795-8478e86d3698@819a0",
+        "7302d6fd-c677-49a2-b795-8478e86d3698@f3d36",
+        "7302d6fd-c677-49a2-b795-8478e86d3698@e8f70",
+        "7302d6fd-c677-49a2-b795-8478e86d3698@2ddb5",
+        "7302d6fd-c677-49a2-b795-8478e86d3698@fa3b0"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "7302d6fd-c677-49a2-b795-8478e86d3698@ac6aa"
+      ],
+      "scenes": [
+        "7302d6fd-c677-49a2-b795-8478e86d3698@ff873"
+      ]
+    }
+  }
+}

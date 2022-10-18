@@ -1,0 +1,110 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "42add0a9-7ddc-49e0-89ab-2611f78d7d2b",
+  "files": [],
+  "subMetas": {
+    "92379": {
+      "importer": "texture",
+      "uuid": "42add0a9-7ddc-49e0-89ab-2611f78d7d2b@92379",
+      "displayName": "",
+      "id": "92379",
+      "name": "file1033.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_03_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d5c5e": {
+      "importer": "gltf-mesh",
+      "uuid": "42add0a9-7ddc-49e0-89ab-2611f78d7d2b@d5c5e",
+      "displayName": "",
+      "id": "d5c5e",
+      "name": "SM_Prop_Bandit_Skull_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2b56c": {
+      "importer": "gltf-material",
+      "uuid": "42add0a9-7ddc-49e0-89ab-2611f78d7d2b@2b56c",
+      "displayName": "",
+      "id": "2b56c",
+      "name": "lambert168.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4eda4": {
+      "importer": "gltf-scene",
+      "uuid": "42add0a9-7ddc-49e0-89ab-2611f78d7d2b@4eda4",
+      "displayName": "",
+      "id": "4eda4",
+      "name": "SM_Prop_Bandit_Skull_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1033",
+        "uri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_03_A.png"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "42add0a9-7ddc-49e0-89ab-2611f78d7d2b@4eda4",
+    "assetFinder": {
+      "meshes": [
+        "42add0a9-7ddc-49e0-89ab-2611f78d7d2b@d5c5e"
+      ],
+      "skeletons": [],
+      "textures": [
+        "42add0a9-7ddc-49e0-89ab-2611f78d7d2b@92379"
+      ],
+      "materials": [
+        "42add0a9-7ddc-49e0-89ab-2611f78d7d2b@2b56c"
+      ],
+      "scenes": [
+        "42add0a9-7ddc-49e0-89ab-2611f78d7d2b@4eda4"
+      ]
+    }
+  }
+}

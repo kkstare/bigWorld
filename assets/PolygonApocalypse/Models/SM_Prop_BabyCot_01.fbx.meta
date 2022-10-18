@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "01dcb82e-7377-4c38-895f-59349fb0b7b3",
+  "files": [],
+  "subMetas": {
+    "23215": {
+      "importer": "gltf-embeded-image",
+      "uuid": "01dcb82e-7377-4c38-895f-59349fb0b7b3@23215",
+      "displayName": "",
+      "id": "23215",
+      "name": "file1031.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "2fe71": {
+      "importer": "gltf-mesh",
+      "uuid": "01dcb82e-7377-4c38-895f-59349fb0b7b3@2fe71",
+      "displayName": "",
+      "id": "2fe71",
+      "name": "SM_Prop_BabyCot_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5691d": {
+      "importer": "texture",
+      "uuid": "01dcb82e-7377-4c38-895f-59349fb0b7b3@5691d",
+      "displayName": "",
+      "id": "5691d",
+      "name": "file1031.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "01dcb82e-7377-4c38-895f-59349fb0b7b3@23215"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "38a38": {
+      "importer": "gltf-material",
+      "uuid": "01dcb82e-7377-4c38-895f-59349fb0b7b3@38a38",
+      "displayName": "",
+      "id": "38a38",
+      "name": "lambert886.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9c7b2": {
+      "importer": "gltf-scene",
+      "uuid": "01dcb82e-7377-4c38-895f-59349fb0b7b3@9c7b2",
+      "displayName": "",
+      "id": "9c7b2",
+      "name": "SM_Prop_BabyCot_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1031",
+        "uri": "01dcb82e-7377-4c38-895f-59349fb0b7b3@23215"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "01dcb82e-7377-4c38-895f-59349fb0b7b3@9c7b2",
+    "assetFinder": {
+      "meshes": [
+        "01dcb82e-7377-4c38-895f-59349fb0b7b3@2fe71"
+      ],
+      "skeletons": [],
+      "textures": [
+        "01dcb82e-7377-4c38-895f-59349fb0b7b3@5691d"
+      ],
+      "materials": [
+        "01dcb82e-7377-4c38-895f-59349fb0b7b3@38a38"
+      ],
+      "scenes": [
+        "01dcb82e-7377-4c38-895f-59349fb0b7b3@9c7b2"
+      ]
+    }
+  }
+}

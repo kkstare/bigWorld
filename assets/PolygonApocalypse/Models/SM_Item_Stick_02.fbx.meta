@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "3ab3ecb1-5292-4d84-af17-fe4c3c582008",
+  "files": [],
+  "subMetas": {
+    "c2861": {
+      "importer": "gltf-mesh",
+      "uuid": "3ab3ecb1-5292-4d84-af17-fe4c3c582008@c2861",
+      "displayName": "",
+      "id": "c2861",
+      "name": "SM_Item_Stick_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e942": {
+      "importer": "gltf-embeded-image",
+      "uuid": "3ab3ecb1-5292-4d84-af17-fe4c3c582008@1e942",
+      "displayName": "",
+      "id": "1e942",
+      "name": "Copter:file112.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "585d0": {
+      "importer": "texture",
+      "uuid": "3ab3ecb1-5292-4d84-af17-fe4c3c582008@585d0",
+      "displayName": "",
+      "id": "585d0",
+      "name": "Copter:file112.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3ab3ecb1-5292-4d84-af17-fe4c3c582008@1e942"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a3ca": {
+      "importer": "gltf-material",
+      "uuid": "3ab3ecb1-5292-4d84-af17-fe4c3c582008@7a3ca",
+      "displayName": "",
+      "id": "7a3ca",
+      "name": "lambert2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cb780": {
+      "importer": "gltf-scene",
+      "uuid": "3ab3ecb1-5292-4d84-af17-fe4c3c582008@cb780",
+      "displayName": "",
+      "id": "cb780",
+      "name": "SM_Item_Stick_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Copter:file112",
+        "uri": "3ab3ecb1-5292-4d84-af17-fe4c3c582008@1e942"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "3ab3ecb1-5292-4d84-af17-fe4c3c582008@cb780",
+    "assetFinder": {
+      "meshes": [
+        "3ab3ecb1-5292-4d84-af17-fe4c3c582008@c2861"
+      ],
+      "skeletons": [],
+      "textures": [
+        "3ab3ecb1-5292-4d84-af17-fe4c3c582008@585d0"
+      ],
+      "materials": [
+        "3ab3ecb1-5292-4d84-af17-fe4c3c582008@7a3ca"
+      ],
+      "scenes": [
+        "3ab3ecb1-5292-4d84-af17-fe4c3c582008@cb780"
+      ]
+    }
+  }
+}

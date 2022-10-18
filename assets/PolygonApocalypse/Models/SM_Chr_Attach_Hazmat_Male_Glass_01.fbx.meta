@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "82e826c6-f1ce-4414-a8a7-535dd179b674",
+  "files": [],
+  "subMetas": {
+    "a7225": {
+      "importer": "gltf-mesh",
+      "uuid": "82e826c6-f1ce-4414-a8a7-535dd179b674@a7225",
+      "displayName": "",
+      "id": "a7225",
+      "name": "SM_Chr_Attach_Hazmat_Male_Glass_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f282b": {
+      "importer": "gltf-embeded-image",
+      "uuid": "82e826c6-f1ce-4414-a8a7-535dd179b674@f282b",
+      "displayName": "",
+      "id": "f282b",
+      "name": "file1202.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "a5a34": {
+      "importer": "texture",
+      "uuid": "82e826c6-f1ce-4414-a8a7-535dd179b674@a5a34",
+      "displayName": "",
+      "id": "a5a34",
+      "name": "file1202.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "82e826c6-f1ce-4414-a8a7-535dd179b674@f282b"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "50b1b": {
+      "importer": "gltf-material",
+      "uuid": "82e826c6-f1ce-4414-a8a7-535dd179b674@50b1b",
+      "displayName": "",
+      "id": "50b1b",
+      "name": "Glass1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "07999": {
+      "importer": "gltf-scene",
+      "uuid": "82e826c6-f1ce-4414-a8a7-535dd179b674@07999",
+      "displayName": "",
+      "id": "07999",
+      "name": "SM_Chr_Attach_Hazmat_Male_Glass_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1202",
+        "uri": "82e826c6-f1ce-4414-a8a7-535dd179b674@f282b"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "82e826c6-f1ce-4414-a8a7-535dd179b674@07999",
+    "assetFinder": {
+      "meshes": [
+        "82e826c6-f1ce-4414-a8a7-535dd179b674@a7225"
+      ],
+      "skeletons": [],
+      "textures": [
+        "82e826c6-f1ce-4414-a8a7-535dd179b674@a5a34"
+      ],
+      "materials": [
+        "82e826c6-f1ce-4414-a8a7-535dd179b674@50b1b"
+      ],
+      "scenes": [
+        "82e826c6-f1ce-4414-a8a7-535dd179b674@07999"
+      ]
+    }
+  }
+}

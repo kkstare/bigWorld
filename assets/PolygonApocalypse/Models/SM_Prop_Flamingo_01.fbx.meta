@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d3f16c81-9622-4d15-8a20-f63712848b0c",
+  "files": [],
+  "subMetas": {
+    "aac24": {
+      "importer": "gltf-mesh",
+      "uuid": "d3f16c81-9622-4d15-8a20-f63712848b0c@aac24",
+      "displayName": "",
+      "id": "aac24",
+      "name": "SM_Prop_Flamingo_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2deab": {
+      "importer": "gltf-material",
+      "uuid": "d3f16c81-9622-4d15-8a20-f63712848b0c@2deab",
+      "displayName": "",
+      "id": "2deab",
+      "name": "Default_Material.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b0d64": {
+      "importer": "gltf-scene",
+      "uuid": "d3f16c81-9622-4d15-8a20-f63712848b0c@b0d64",
+      "displayName": "",
+      "id": "b0d64",
+      "name": "SM_Prop_Flamingo_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "d3f16c81-9622-4d15-8a20-f63712848b0c@b0d64",
+    "assetFinder": {
+      "meshes": [
+        "d3f16c81-9622-4d15-8a20-f63712848b0c@aac24"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "d3f16c81-9622-4d15-8a20-f63712848b0c@2deab"
+      ],
+      "scenes": [
+        "d3f16c81-9622-4d15-8a20-f63712848b0c@b0d64"
+      ]
+    }
+  }
+}

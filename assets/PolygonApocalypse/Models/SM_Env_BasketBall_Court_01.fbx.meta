@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "5ae6028f-00c3-4aae-9dc1-730852895c00",
+  "files": [],
+  "subMetas": {
+    "c36d5": {
+      "importer": "gltf-mesh",
+      "uuid": "5ae6028f-00c3-4aae-9dc1-730852895c00@c36d5",
+      "displayName": "",
+      "id": "c36d5",
+      "name": "SM_Env_BasketBall_Court_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b225a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "5ae6028f-00c3-4aae-9dc1-730852895c00@b225a",
+      "displayName": "",
+      "id": "b225a",
+      "name": "file996.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "f0e3c": {
+      "importer": "texture",
+      "uuid": "5ae6028f-00c3-4aae-9dc1-730852895c00@f0e3c",
+      "displayName": "",
+      "id": "f0e3c",
+      "name": "file996.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "5ae6028f-00c3-4aae-9dc1-730852895c00@b225a"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a1e29": {
+      "importer": "gltf-material",
+      "uuid": "5ae6028f-00c3-4aae-9dc1-730852895c00@a1e29",
+      "displayName": "",
+      "id": "a1e29",
+      "name": "Base_Maya_Scene:pasted__MiniColour44.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8295e": {
+      "importer": "gltf-scene",
+      "uuid": "5ae6028f-00c3-4aae-9dc1-730852895c00@8295e",
+      "displayName": "",
+      "id": "8295e",
+      "name": "SM_Env_BasketBall_Court_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file996",
+        "uri": "5ae6028f-00c3-4aae-9dc1-730852895c00@b225a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "5ae6028f-00c3-4aae-9dc1-730852895c00@8295e",
+    "assetFinder": {
+      "meshes": [
+        "5ae6028f-00c3-4aae-9dc1-730852895c00@c36d5"
+      ],
+      "skeletons": [],
+      "textures": [
+        "5ae6028f-00c3-4aae-9dc1-730852895c00@f0e3c"
+      ],
+      "materials": [
+        "5ae6028f-00c3-4aae-9dc1-730852895c00@a1e29"
+      ],
+      "scenes": [
+        "5ae6028f-00c3-4aae-9dc1-730852895c00@8295e"
+      ]
+    }
+  }
+}

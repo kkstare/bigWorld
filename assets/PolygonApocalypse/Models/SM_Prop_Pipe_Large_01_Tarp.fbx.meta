@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "03421c58-942b-4776-931e-9a4247a13f8b",
+  "files": [],
+  "subMetas": {
+    "0571e": {
+      "importer": "gltf-mesh",
+      "uuid": "03421c58-942b-4776-931e-9a4247a13f8b@0571e",
+      "displayName": "",
+      "id": "0571e",
+      "name": "SM_Prop_Pipe_Large_01_Tarp.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1dfbc": {
+      "importer": "gltf-embeded-image",
+      "uuid": "03421c58-942b-4776-931e-9a4247a13f8b@1dfbc",
+      "displayName": "",
+      "id": "1dfbc",
+      "name": "file285.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "8a370": {
+      "importer": "texture",
+      "uuid": "03421c58-942b-4776-931e-9a4247a13f8b@8a370",
+      "displayName": "",
+      "id": "8a370",
+      "name": "file285.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "03421c58-942b-4776-931e-9a4247a13f8b@1dfbc"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "86f3e": {
+      "importer": "gltf-material",
+      "uuid": "03421c58-942b-4776-931e-9a4247a13f8b@86f3e",
+      "displayName": "",
+      "id": "86f3e",
+      "name": "lambert431.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5730d": {
+      "importer": "gltf-scene",
+      "uuid": "03421c58-942b-4776-931e-9a4247a13f8b@5730d",
+      "displayName": "",
+      "id": "5730d",
+      "name": "SM_Prop_Pipe_Large_01_Tarp.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file285",
+        "uri": "03421c58-942b-4776-931e-9a4247a13f8b@1dfbc"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "03421c58-942b-4776-931e-9a4247a13f8b@5730d",
+    "assetFinder": {
+      "meshes": [
+        "03421c58-942b-4776-931e-9a4247a13f8b@0571e"
+      ],
+      "skeletons": [],
+      "textures": [
+        "03421c58-942b-4776-931e-9a4247a13f8b@8a370"
+      ],
+      "materials": [
+        "03421c58-942b-4776-931e-9a4247a13f8b@86f3e"
+      ],
+      "scenes": [
+        "03421c58-942b-4776-931e-9a4247a13f8b@5730d"
+      ]
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "9b93d875-1335-4b6c-b6a0-8c09fe43ad4c",
+  "files": [],
+  "subMetas": {
+    "23215": {
+      "importer": "gltf-embeded-image",
+      "uuid": "9b93d875-1335-4b6c-b6a0-8c09fe43ad4c@23215",
+      "displayName": "",
+      "id": "23215",
+      "name": "file1031.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "9c393": {
+      "importer": "gltf-mesh",
+      "uuid": "9b93d875-1335-4b6c-b6a0-8c09fe43ad4c@9c393",
+      "displayName": "",
+      "id": "9c393",
+      "name": "SM_Item_Alcohol_Broken_03.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5691d": {
+      "importer": "texture",
+      "uuid": "9b93d875-1335-4b6c-b6a0-8c09fe43ad4c@5691d",
+      "displayName": "",
+      "id": "5691d",
+      "name": "file1031.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "9b93d875-1335-4b6c-b6a0-8c09fe43ad4c@23215"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d2930": {
+      "importer": "gltf-material",
+      "uuid": "9b93d875-1335-4b6c-b6a0-8c09fe43ad4c@d2930",
+      "displayName": "",
+      "id": "d2930",
+      "name": "lambert889.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "76bdb": {
+      "importer": "gltf-scene",
+      "uuid": "9b93d875-1335-4b6c-b6a0-8c09fe43ad4c@76bdb",
+      "displayName": "",
+      "id": "76bdb",
+      "name": "SM_Item_Alcohol_Broken_03.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1031",
+        "uri": "9b93d875-1335-4b6c-b6a0-8c09fe43ad4c@23215"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "9b93d875-1335-4b6c-b6a0-8c09fe43ad4c@76bdb",
+    "assetFinder": {
+      "meshes": [
+        "9b93d875-1335-4b6c-b6a0-8c09fe43ad4c@9c393"
+      ],
+      "skeletons": [],
+      "textures": [
+        "9b93d875-1335-4b6c-b6a0-8c09fe43ad4c@5691d"
+      ],
+      "materials": [
+        "9b93d875-1335-4b6c-b6a0-8c09fe43ad4c@d2930"
+      ],
+      "scenes": [
+        "9b93d875-1335-4b6c-b6a0-8c09fe43ad4c@76bdb"
+      ]
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "140f7978-18cd-48e1-8271-bd53422a8c51",
+  "files": [],
+  "subMetas": {
+    "23215": {
+      "importer": "gltf-embeded-image",
+      "uuid": "140f7978-18cd-48e1-8271-bd53422a8c51@23215",
+      "displayName": "",
+      "id": "23215",
+      "name": "file1031.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "25218": {
+      "importer": "gltf-mesh",
+      "uuid": "140f7978-18cd-48e1-8271-bd53422a8c51@25218",
+      "displayName": "",
+      "id": "25218",
+      "name": "SM_Prop_Laundry_WasherTop_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5691d": {
+      "importer": "texture",
+      "uuid": "140f7978-18cd-48e1-8271-bd53422a8c51@5691d",
+      "displayName": "",
+      "id": "5691d",
+      "name": "file1031.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "140f7978-18cd-48e1-8271-bd53422a8c51@23215"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "38a38": {
+      "importer": "gltf-material",
+      "uuid": "140f7978-18cd-48e1-8271-bd53422a8c51@38a38",
+      "displayName": "",
+      "id": "38a38",
+      "name": "lambert886.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bbaac": {
+      "importer": "gltf-scene",
+      "uuid": "140f7978-18cd-48e1-8271-bd53422a8c51@bbaac",
+      "displayName": "",
+      "id": "bbaac",
+      "name": "SM_Prop_Laundry_WasherTop_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1031",
+        "uri": "140f7978-18cd-48e1-8271-bd53422a8c51@23215"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "140f7978-18cd-48e1-8271-bd53422a8c51@bbaac",
+    "assetFinder": {
+      "meshes": [
+        "140f7978-18cd-48e1-8271-bd53422a8c51@25218"
+      ],
+      "skeletons": [],
+      "textures": [
+        "140f7978-18cd-48e1-8271-bd53422a8c51@5691d"
+      ],
+      "materials": [
+        "140f7978-18cd-48e1-8271-bd53422a8c51@38a38"
+      ],
+      "scenes": [
+        "140f7978-18cd-48e1-8271-bd53422a8c51@bbaac"
+      ]
+    }
+  }
+}

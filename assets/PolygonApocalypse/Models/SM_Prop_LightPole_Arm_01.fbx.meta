@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ad006881-8253-4fb1-9fd8-f85fe9ff0b90",
+  "files": [],
+  "subMetas": {
+    "23215": {
+      "importer": "gltf-embeded-image",
+      "uuid": "ad006881-8253-4fb1-9fd8-f85fe9ff0b90@23215",
+      "displayName": "",
+      "id": "23215",
+      "name": "file1031.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "14f8d": {
+      "importer": "gltf-mesh",
+      "uuid": "ad006881-8253-4fb1-9fd8-f85fe9ff0b90@14f8d",
+      "displayName": "",
+      "id": "14f8d",
+      "name": "SM_Prop_LightPole_Arm_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5691d": {
+      "importer": "texture",
+      "uuid": "ad006881-8253-4fb1-9fd8-f85fe9ff0b90@5691d",
+      "displayName": "",
+      "id": "5691d",
+      "name": "file1031.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "ad006881-8253-4fb1-9fd8-f85fe9ff0b90@23215"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "38a38": {
+      "importer": "gltf-material",
+      "uuid": "ad006881-8253-4fb1-9fd8-f85fe9ff0b90@38a38",
+      "displayName": "",
+      "id": "38a38",
+      "name": "lambert886.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6f044": {
+      "importer": "gltf-scene",
+      "uuid": "ad006881-8253-4fb1-9fd8-f85fe9ff0b90@6f044",
+      "displayName": "",
+      "id": "6f044",
+      "name": "SM_Prop_LightPole_Arm_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1031",
+        "uri": "ad006881-8253-4fb1-9fd8-f85fe9ff0b90@23215"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "ad006881-8253-4fb1-9fd8-f85fe9ff0b90@6f044",
+    "assetFinder": {
+      "meshes": [
+        "ad006881-8253-4fb1-9fd8-f85fe9ff0b90@14f8d"
+      ],
+      "skeletons": [],
+      "textures": [
+        "ad006881-8253-4fb1-9fd8-f85fe9ff0b90@5691d"
+      ],
+      "materials": [
+        "ad006881-8253-4fb1-9fd8-f85fe9ff0b90@38a38"
+      ],
+      "scenes": [
+        "ad006881-8253-4fb1-9fd8-f85fe9ff0b90@6f044"
+      ]
+    }
+  }
+}

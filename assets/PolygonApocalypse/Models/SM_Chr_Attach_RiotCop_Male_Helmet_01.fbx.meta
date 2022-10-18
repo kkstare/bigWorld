@@ -1,0 +1,144 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "81671be0-bbc6-4f1f-91fd-d1db562c06b4",
+  "files": [],
+  "subMetas": {
+    "45520": {
+      "importer": "gltf-embeded-image",
+      "uuid": "81671be0-bbc6-4f1f-91fd-d1db562c06b4@45520",
+      "displayName": "",
+      "id": "45520",
+      "name": "file1209.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "55bd4": {
+      "importer": "gltf-mesh",
+      "uuid": "81671be0-bbc6-4f1f-91fd-d1db562c06b4@55bd4",
+      "displayName": "",
+      "id": "55bd4",
+      "name": "SM_Chr_Attach_RiotCop_Male_Helmet_01_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1cfdc": {
+      "importer": "texture",
+      "uuid": "81671be0-bbc6-4f1f-91fd-d1db562c06b4@1cfdc",
+      "displayName": "",
+      "id": "1cfdc",
+      "name": "file1209.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "81671be0-bbc6-4f1f-91fd-d1db562c06b4@45520"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e7adc": {
+      "importer": "gltf-material",
+      "uuid": "81671be0-bbc6-4f1f-91fd-d1db562c06b4@e7adc",
+      "displayName": "",
+      "id": "e7adc",
+      "name": "Glass2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "60fac": {
+      "importer": "gltf-material",
+      "uuid": "81671be0-bbc6-4f1f-91fd-d1db562c06b4@60fac",
+      "displayName": "",
+      "id": "60fac",
+      "name": "BloodDecal31.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c0174": {
+      "importer": "gltf-scene",
+      "uuid": "81671be0-bbc6-4f1f-91fd-d1db562c06b4@c0174",
+      "displayName": "",
+      "id": "c0174",
+      "name": "SM_Chr_Attach_RiotCop_Male_Helmet_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1209",
+        "uri": "81671be0-bbc6-4f1f-91fd-d1db562c06b4@45520"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "81671be0-bbc6-4f1f-91fd-d1db562c06b4@c0174",
+    "assetFinder": {
+      "meshes": [
+        "81671be0-bbc6-4f1f-91fd-d1db562c06b4@55bd4"
+      ],
+      "skeletons": [],
+      "textures": [
+        "81671be0-bbc6-4f1f-91fd-d1db562c06b4@1cfdc"
+      ],
+      "materials": [
+        "81671be0-bbc6-4f1f-91fd-d1db562c06b4@e7adc",
+        "81671be0-bbc6-4f1f-91fd-d1db562c06b4@60fac"
+      ],
+      "scenes": [
+        "81671be0-bbc6-4f1f-91fd-d1db562c06b4@c0174"
+      ]
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c28788f3-d0f9-4f15-af10-889ba7da84e8",
+  "files": [],
+  "subMetas": {
+    "027fc": {
+      "importer": "gltf-mesh",
+      "uuid": "c28788f3-d0f9-4f15-af10-889ba7da84e8@027fc",
+      "displayName": "",
+      "id": "027fc",
+      "name": "SM_Wep_Sign_Shield_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0ed4a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c28788f3-d0f9-4f15-af10-889ba7da84e8@0ed4a",
+      "displayName": "",
+      "id": "0ed4a",
+      "name": "file1214.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "adcb0": {
+      "importer": "texture",
+      "uuid": "c28788f3-d0f9-4f15-af10-889ba7da84e8@adcb0",
+      "displayName": "",
+      "id": "adcb0",
+      "name": "file1214.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c28788f3-d0f9-4f15-af10-889ba7da84e8@0ed4a"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ee5e8": {
+      "importer": "gltf-material",
+      "uuid": "c28788f3-d0f9-4f15-af10-889ba7da84e8@ee5e8",
+      "displayName": "",
+      "id": "ee5e8",
+      "name": "lambert293.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9fa0b": {
+      "importer": "gltf-scene",
+      "uuid": "c28788f3-d0f9-4f15-af10-889ba7da84e8@9fa0b",
+      "displayName": "",
+      "id": "9fa0b",
+      "name": "SM_Wep_Sign_Shield_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1214",
+        "uri": "c28788f3-d0f9-4f15-af10-889ba7da84e8@0ed4a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "c28788f3-d0f9-4f15-af10-889ba7da84e8@9fa0b",
+    "assetFinder": {
+      "meshes": [
+        "c28788f3-d0f9-4f15-af10-889ba7da84e8@027fc"
+      ],
+      "skeletons": [],
+      "textures": [
+        "c28788f3-d0f9-4f15-af10-889ba7da84e8@adcb0"
+      ],
+      "materials": [
+        "c28788f3-d0f9-4f15-af10-889ba7da84e8@ee5e8"
+      ],
+      "scenes": [
+        "c28788f3-d0f9-4f15-af10-889ba7da84e8@9fa0b"
+      ]
+    }
+  }
+}

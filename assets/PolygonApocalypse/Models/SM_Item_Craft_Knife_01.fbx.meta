@@ -1,0 +1,145 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "433a1e81-aeda-41de-a58e-6a95c4160eee",
+  "files": [],
+  "subMetas": {
+    "676a3": {
+      "importer": "gltf-mesh",
+      "uuid": "433a1e81-aeda-41de-a58e-6a95c4160eee@676a3",
+      "displayName": "",
+      "id": "676a3",
+      "name": "SM_Item_Craft_Knife_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "61af7": {
+      "importer": "gltf-mesh",
+      "uuid": "433a1e81-aeda-41de-a58e-6a95c4160eee@61af7",
+      "displayName": "",
+      "id": "61af7",
+      "name": "SM_Item_Craft_Knife_Blade_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e942": {
+      "importer": "gltf-embeded-image",
+      "uuid": "433a1e81-aeda-41de-a58e-6a95c4160eee@1e942",
+      "displayName": "",
+      "id": "1e942",
+      "name": "Copter:file112.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "585d0": {
+      "importer": "texture",
+      "uuid": "433a1e81-aeda-41de-a58e-6a95c4160eee@585d0",
+      "displayName": "",
+      "id": "585d0",
+      "name": "Copter:file112.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "433a1e81-aeda-41de-a58e-6a95c4160eee@1e942"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a3ca": {
+      "importer": "gltf-material",
+      "uuid": "433a1e81-aeda-41de-a58e-6a95c4160eee@7a3ca",
+      "displayName": "",
+      "id": "7a3ca",
+      "name": "lambert2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "31da0": {
+      "importer": "gltf-scene",
+      "uuid": "433a1e81-aeda-41de-a58e-6a95c4160eee@31da0",
+      "displayName": "",
+      "id": "31da0",
+      "name": "SM_Item_Craft_Knife_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Copter:file112",
+        "uri": "433a1e81-aeda-41de-a58e-6a95c4160eee@1e942"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "433a1e81-aeda-41de-a58e-6a95c4160eee@31da0",
+    "assetFinder": {
+      "meshes": [
+        "433a1e81-aeda-41de-a58e-6a95c4160eee@676a3",
+        "433a1e81-aeda-41de-a58e-6a95c4160eee@61af7"
+      ],
+      "skeletons": [],
+      "textures": [
+        "433a1e81-aeda-41de-a58e-6a95c4160eee@585d0"
+      ],
+      "materials": [
+        "433a1e81-aeda-41de-a58e-6a95c4160eee@7a3ca"
+      ],
+      "scenes": [
+        "433a1e81-aeda-41de-a58e-6a95c4160eee@31da0"
+      ]
+    }
+  }
+}

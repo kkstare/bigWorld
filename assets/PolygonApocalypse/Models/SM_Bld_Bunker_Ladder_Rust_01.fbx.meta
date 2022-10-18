@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d145f915-af73-49c5-9090-f592aef932eb",
+  "files": [],
+  "subMetas": {
+    "51ebb": {
+      "importer": "gltf-mesh",
+      "uuid": "d145f915-af73-49c5-9090-f592aef932eb@51ebb",
+      "displayName": "",
+      "id": "51ebb",
+      "name": "SM_Bld_Bunker_Ladder_Rust_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d145f915-af73-49c5-9090-f592aef932eb@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "d145f915-af73-49c5-9090-f592aef932eb@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "d145f915-af73-49c5-9090-f592aef932eb@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fb550": {
+      "importer": "gltf-scene",
+      "uuid": "d145f915-af73-49c5-9090-f592aef932eb@fb550",
+      "displayName": "",
+      "id": "fb550",
+      "name": "SM_Bld_Bunker_Ladder_Rust_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "d145f915-af73-49c5-9090-f592aef932eb@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "d145f915-af73-49c5-9090-f592aef932eb@fb550",
+    "assetFinder": {
+      "meshes": [
+        "d145f915-af73-49c5-9090-f592aef932eb@51ebb"
+      ],
+      "skeletons": [],
+      "textures": [
+        "d145f915-af73-49c5-9090-f592aef932eb@988dc"
+      ],
+      "materials": [
+        "d145f915-af73-49c5-9090-f592aef932eb@8d883"
+      ],
+      "scenes": [
+        "d145f915-af73-49c5-9090-f592aef932eb@fb550"
+      ]
+    }
+  }
+}

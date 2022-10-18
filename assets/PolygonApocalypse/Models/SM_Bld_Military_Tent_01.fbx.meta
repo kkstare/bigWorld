@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "bd69370c-aeb2-43ef-a94a-2723a645dc5b",
+  "files": [],
+  "subMetas": {
+    "aa9e4": {
+      "importer": "gltf-mesh",
+      "uuid": "bd69370c-aeb2-43ef-a94a-2723a645dc5b@aa9e4",
+      "displayName": "",
+      "id": "aa9e4",
+      "name": "SM_Bld_Military_Tent_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "bd69370c-aeb2-43ef-a94a-2723a645dc5b@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "bd69370c-aeb2-43ef-a94a-2723a645dc5b@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "bd69370c-aeb2-43ef-a94a-2723a645dc5b@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9282a": {
+      "importer": "gltf-scene",
+      "uuid": "bd69370c-aeb2-43ef-a94a-2723a645dc5b@9282a",
+      "displayName": "",
+      "id": "9282a",
+      "name": "SM_Bld_Military_Tent_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "bd69370c-aeb2-43ef-a94a-2723a645dc5b@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "bd69370c-aeb2-43ef-a94a-2723a645dc5b@9282a",
+    "assetFinder": {
+      "meshes": [
+        "bd69370c-aeb2-43ef-a94a-2723a645dc5b@aa9e4"
+      ],
+      "skeletons": [],
+      "textures": [
+        "bd69370c-aeb2-43ef-a94a-2723a645dc5b@988dc"
+      ],
+      "materials": [
+        "bd69370c-aeb2-43ef-a94a-2723a645dc5b@8d883"
+      ],
+      "scenes": [
+        "bd69370c-aeb2-43ef-a94a-2723a645dc5b@9282a"
+      ]
+    }
+  }
+}

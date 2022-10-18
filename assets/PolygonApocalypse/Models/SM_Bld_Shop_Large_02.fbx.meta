@@ -1,0 +1,146 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "6546c893-f306-4699-bdbd-703e385aa79f",
+  "files": [],
+  "subMetas": {
+    "592ab": {
+      "importer": "gltf-mesh",
+      "uuid": "6546c893-f306-4699-bdbd-703e385aa79f@592ab",
+      "displayName": "",
+      "id": "592ab",
+      "name": "SM_Bld_Shop_Large_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4785b": {
+      "importer": "gltf-mesh",
+      "uuid": "6546c893-f306-4699-bdbd-703e385aa79f@4785b",
+      "displayName": "",
+      "id": "4785b",
+      "name": "SM_Bld_Shop_Large_Glass_02.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "6546c893-f306-4699-bdbd-703e385aa79f@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "6546c893-f306-4699-bdbd-703e385aa79f@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6ea96": {
+      "importer": "gltf-material",
+      "uuid": "6546c893-f306-4699-bdbd-703e385aa79f@6ea96",
+      "displayName": "",
+      "id": "6ea96",
+      "name": "lambert26.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4e2ec": {
+      "importer": "gltf-scene",
+      "uuid": "6546c893-f306-4699-bdbd-703e385aa79f@4e2ec",
+      "displayName": "",
+      "id": "4e2ec",
+      "name": "SM_Bld_Shop_Large_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "6546c893-f306-4699-bdbd-703e385aa79f@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "6546c893-f306-4699-bdbd-703e385aa79f@4e2ec",
+    "assetFinder": {
+      "meshes": [
+        "6546c893-f306-4699-bdbd-703e385aa79f@592ab",
+        "6546c893-f306-4699-bdbd-703e385aa79f@4785b"
+      ],
+      "skeletons": [],
+      "textures": [
+        "6546c893-f306-4699-bdbd-703e385aa79f@988dc"
+      ],
+      "materials": [
+        "6546c893-f306-4699-bdbd-703e385aa79f@6ea96"
+      ],
+      "scenes": [
+        "6546c893-f306-4699-bdbd-703e385aa79f@4e2ec"
+      ]
+    }
+  }
+}

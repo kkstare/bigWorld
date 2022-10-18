@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ded89c60-56a3-497f-a4a8-e7139a80196d",
+  "files": [],
+  "subMetas": {
+    "c7408": {
+      "importer": "gltf-mesh",
+      "uuid": "ded89c60-56a3-497f-a4a8-e7139a80196d@c7408",
+      "displayName": "",
+      "id": "c7408",
+      "name": "SM_Generic_Small_Rocks_04.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "ded89c60-56a3-497f-a4a8-e7139a80196d@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "ded89c60-56a3-497f-a4a8-e7139a80196d@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "ded89c60-56a3-497f-a4a8-e7139a80196d@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1abea": {
+      "importer": "gltf-scene",
+      "uuid": "ded89c60-56a3-497f-a4a8-e7139a80196d@1abea",
+      "displayName": "",
+      "id": "1abea",
+      "name": "SM_Generic_Small_Rocks_04.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "ded89c60-56a3-497f-a4a8-e7139a80196d@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "ded89c60-56a3-497f-a4a8-e7139a80196d@1abea",
+    "assetFinder": {
+      "meshes": [
+        "ded89c60-56a3-497f-a4a8-e7139a80196d@c7408"
+      ],
+      "skeletons": [],
+      "textures": [
+        "ded89c60-56a3-497f-a4a8-e7139a80196d@988dc"
+      ],
+      "materials": [
+        "ded89c60-56a3-497f-a4a8-e7139a80196d@8d883"
+      ],
+      "scenes": [
+        "ded89c60-56a3-497f-a4a8-e7139a80196d@1abea"
+      ]
+    }
+  }
+}

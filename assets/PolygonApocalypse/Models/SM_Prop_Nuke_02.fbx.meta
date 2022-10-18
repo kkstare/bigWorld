@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d59e691d-aab3-4fa1-aa40-3fba1b414f13",
+  "files": [],
+  "subMetas": {
+    "67333": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d59e691d-aab3-4fa1-aa40-3fba1b414f13@67333",
+      "displayName": "",
+      "id": "67333",
+      "name": "Copter:file113.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "06d8e": {
+      "importer": "gltf-mesh",
+      "uuid": "d59e691d-aab3-4fa1-aa40-3fba1b414f13@06d8e",
+      "displayName": "",
+      "id": "06d8e",
+      "name": "SM_Prop_Nuke_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "adc7b": {
+      "importer": "texture",
+      "uuid": "d59e691d-aab3-4fa1-aa40-3fba1b414f13@adc7b",
+      "displayName": "",
+      "id": "adc7b",
+      "name": "Copter:file113.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d59e691d-aab3-4fa1-aa40-3fba1b414f13@67333"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c3a06": {
+      "importer": "gltf-material",
+      "uuid": "d59e691d-aab3-4fa1-aa40-3fba1b414f13@c3a06",
+      "displayName": "",
+      "id": "c3a06",
+      "name": "_lambert2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5832d": {
+      "importer": "gltf-scene",
+      "uuid": "d59e691d-aab3-4fa1-aa40-3fba1b414f13@5832d",
+      "displayName": "",
+      "id": "5832d",
+      "name": "SM_Prop_Nuke_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Copter:file113",
+        "uri": "d59e691d-aab3-4fa1-aa40-3fba1b414f13@67333"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "d59e691d-aab3-4fa1-aa40-3fba1b414f13@5832d",
+    "assetFinder": {
+      "meshes": [
+        "d59e691d-aab3-4fa1-aa40-3fba1b414f13@06d8e"
+      ],
+      "skeletons": [],
+      "textures": [
+        "d59e691d-aab3-4fa1-aa40-3fba1b414f13@adc7b"
+      ],
+      "materials": [
+        "d59e691d-aab3-4fa1-aa40-3fba1b414f13@c3a06"
+      ],
+      "scenes": [
+        "d59e691d-aab3-4fa1-aa40-3fba1b414f13@5832d"
+      ]
+    }
+  }
+}

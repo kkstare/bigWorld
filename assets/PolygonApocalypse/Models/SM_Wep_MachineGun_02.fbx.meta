@@ -1,0 +1,219 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f9f416db-35bc-4423-8218-e4a0b639a038",
+  "files": [],
+  "subMetas": {
+    "73c67": {
+      "importer": "gltf-mesh",
+      "uuid": "f9f416db-35bc-4423-8218-e4a0b639a038@73c67",
+      "displayName": "",
+      "id": "73c67",
+      "name": "SM_Wep_MachineGun_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e1fc2": {
+      "importer": "gltf-mesh",
+      "uuid": "f9f416db-35bc-4423-8218-e4a0b639a038@e1fc2",
+      "displayName": "",
+      "id": "e1fc2",
+      "name": "SM_Wep_MachineGun_02_Slide_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "104b2": {
+      "importer": "gltf-mesh",
+      "uuid": "f9f416db-35bc-4423-8218-e4a0b639a038@104b2",
+      "displayName": "",
+      "id": "104b2",
+      "name": "SM_Wep_MachineGun_02_Handle_01.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b1f57": {
+      "importer": "gltf-mesh",
+      "uuid": "f9f416db-35bc-4423-8218-e4a0b639a038@b1f57",
+      "displayName": "",
+      "id": "b1f57",
+      "name": "SM_Wep_MachineGun_02_Top_01.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d0c8f": {
+      "importer": "gltf-mesh",
+      "uuid": "f9f416db-35bc-4423-8218-e4a0b639a038@d0c8f",
+      "displayName": "",
+      "id": "d0c8f",
+      "name": "SM_Wep_MachineGun_02_Trigger_01.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c7cf7": {
+      "importer": "gltf-mesh",
+      "uuid": "f9f416db-35bc-4423-8218-e4a0b639a038@c7cf7",
+      "displayName": "",
+      "id": "c7cf7",
+      "name": "SM_Wep_MachineGun_02_Magazine_01.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e43a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "f9f416db-35bc-4423-8218-e4a0b639a038@1e43a",
+      "displayName": "",
+      "id": "1e43a",
+      "name": "file1198.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "05eac": {
+      "importer": "texture",
+      "uuid": "f9f416db-35bc-4423-8218-e4a0b639a038@05eac",
+      "displayName": "",
+      "id": "05eac",
+      "name": "file1198.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5bd2": {
+      "importer": "gltf-material",
+      "uuid": "f9f416db-35bc-4423-8218-e4a0b639a038@a5bd2",
+      "displayName": "",
+      "id": "a5bd2",
+      "name": "lambert.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f00f3": {
+      "importer": "gltf-scene",
+      "uuid": "f9f416db-35bc-4423-8218-e4a0b639a038@f00f3",
+      "displayName": "",
+      "id": "f00f3",
+      "name": "SM_Wep_MachineGun_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+  "name": "file1198",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "f9f416db-35bc-4423-8218-e4a0b639a038@1e43a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "f9f416db-35bc-4423-8218-e4a0b639a038@f00f3",
+    "assetFinder": {
+      "meshes": [
+        "f9f416db-35bc-4423-8218-e4a0b639a038@73c67",
+        "f9f416db-35bc-4423-8218-e4a0b639a038@e1fc2",
+        "f9f416db-35bc-4423-8218-e4a0b639a038@104b2",
+        "f9f416db-35bc-4423-8218-e4a0b639a038@b1f57",
+        "f9f416db-35bc-4423-8218-e4a0b639a038@d0c8f",
+        "f9f416db-35bc-4423-8218-e4a0b639a038@c7cf7"
+      ],
+      "skeletons": [],
+      "textures": [
+        "f9f416db-35bc-4423-8218-e4a0b639a038@05eac"
+      ],
+      "materials": [
+        "f9f416db-35bc-4423-8218-e4a0b639a038@a5bd2"
+      ],
+      "scenes": [
+        "f9f416db-35bc-4423-8218-e4a0b639a038@f00f3"
+      ]
+    },
+    "useVertexColors": true
+  }
+}

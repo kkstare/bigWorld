@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "73cd520e-25c8-49a4-978d-665d2c1c8f40",
+  "files": [],
+  "subMetas": {
+    "15962": {
+      "importer": "gltf-material",
+      "uuid": "73cd520e-25c8-49a4-978d-665d2c1c8f40@15962",
+      "displayName": "",
+      "id": "15962",
+      "name": "db:New_Characters_Rigging_29:BloodDecal.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6320f": {
+      "importer": "gltf-mesh",
+      "uuid": "73cd520e-25c8-49a4-978d-665d2c1c8f40@6320f",
+      "displayName": "",
+      "id": "6320f",
+      "name": "SM_Prop_DeadBody_Spiked_Male_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2eb10": {
+      "importer": "gltf-scene",
+      "uuid": "73cd520e-25c8-49a4-978d-665d2c1c8f40@2eb10",
+      "displayName": "",
+      "id": "2eb10",
+      "name": "SM_Prop_DeadBody_Spiked_Male_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "73cd520e-25c8-49a4-978d-665d2c1c8f40@2eb10",
+    "assetFinder": {
+      "meshes": [
+        "73cd520e-25c8-49a4-978d-665d2c1c8f40@6320f"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "73cd520e-25c8-49a4-978d-665d2c1c8f40@15962"
+      ],
+      "scenes": [
+        "73cd520e-25c8-49a4-978d-665d2c1c8f40@2eb10"
+      ]
+    }
+  }
+}

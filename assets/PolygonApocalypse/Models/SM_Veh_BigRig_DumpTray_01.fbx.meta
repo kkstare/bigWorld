@@ -1,0 +1,145 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b4a412bc-03db-44b6-9140-0999271ff1fb",
+  "files": [],
+  "subMetas": {
+    "3ed3d": {
+      "importer": "gltf-mesh",
+      "uuid": "b4a412bc-03db-44b6-9140-0999271ff1fb@3ed3d",
+      "displayName": "",
+      "id": "3ed3d",
+      "name": "SM_Veh_BigRig_DumpTray_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f5d5c": {
+      "importer": "gltf-mesh",
+      "uuid": "b4a412bc-03db-44b6-9140-0999271ff1fb@f5d5c",
+      "displayName": "",
+      "id": "f5d5c",
+      "name": "SM_Veh_BigRig_DumpTray_Door_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "008d7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "b4a412bc-03db-44b6-9140-0999271ff1fb@008d7",
+      "displayName": "",
+      "id": "008d7",
+      "name": "__PolygonZombie_Texture_A_2.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "76a36": {
+      "importer": "texture",
+      "uuid": "b4a412bc-03db-44b6-9140-0999271ff1fb@76a36",
+      "displayName": "",
+      "id": "76a36",
+      "name": "__PolygonZombie_Texture_A_2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b4a412bc-03db-44b6-9140-0999271ff1fb@008d7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e18d5": {
+      "importer": "gltf-material",
+      "uuid": "b4a412bc-03db-44b6-9140-0999271ff1fb@e18d5",
+      "displayName": "",
+      "id": "e18d5",
+      "name": "lambert32.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bfa7d": {
+      "importer": "gltf-scene",
+      "uuid": "b4a412bc-03db-44b6-9140-0999271ff1fb@bfa7d",
+      "displayName": "",
+      "id": "bfa7d",
+      "name": "SM_Veh_BigRig_DumpTray_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "__PolygonZombie_Texture_A_2",
+        "uri": "b4a412bc-03db-44b6-9140-0999271ff1fb@008d7"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "b4a412bc-03db-44b6-9140-0999271ff1fb@bfa7d",
+    "assetFinder": {
+      "meshes": [
+        "b4a412bc-03db-44b6-9140-0999271ff1fb@3ed3d",
+        "b4a412bc-03db-44b6-9140-0999271ff1fb@f5d5c"
+      ],
+      "skeletons": [],
+      "textures": [
+        "b4a412bc-03db-44b6-9140-0999271ff1fb@76a36"
+      ],
+      "materials": [
+        "b4a412bc-03db-44b6-9140-0999271ff1fb@e18d5"
+      ],
+      "scenes": [
+        "b4a412bc-03db-44b6-9140-0999271ff1fb@bfa7d"
+      ]
+    }
+  }
+}

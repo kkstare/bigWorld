@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "cc3d1777-35fd-4b02-ae60-2cad1d9fa50f",
+  "files": [],
+  "subMetas": {
+    "55891": {
+      "importer": "gltf-embeded-image",
+      "uuid": "cc3d1777-35fd-4b02-ae60-2cad1d9fa50f@55891",
+      "displayName": "",
+      "id": "55891",
+      "name": "file1205.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "34f2b": {
+      "importer": "gltf-mesh",
+      "uuid": "cc3d1777-35fd-4b02-ae60-2cad1d9fa50f@34f2b",
+      "displayName": "",
+      "id": "34f2b",
+      "name": "SM_Chr_Attach_Mask_Hockey_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "24f74": {
+      "importer": "texture",
+      "uuid": "cc3d1777-35fd-4b02-ae60-2cad1d9fa50f@24f74",
+      "displayName": "",
+      "id": "24f74",
+      "name": "file1205.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "cc3d1777-35fd-4b02-ae60-2cad1d9fa50f@55891"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d2eea": {
+      "importer": "gltf-material",
+      "uuid": "cc3d1777-35fd-4b02-ae60-2cad1d9fa50f@d2eea",
+      "displayName": "",
+      "id": "d2eea",
+      "name": "lambert286.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0b19c": {
+      "importer": "gltf-scene",
+      "uuid": "cc3d1777-35fd-4b02-ae60-2cad1d9fa50f@0b19c",
+      "displayName": "",
+      "id": "0b19c",
+      "name": "SM_Chr_Attach_Mask_Hockey_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1205",
+        "uri": "cc3d1777-35fd-4b02-ae60-2cad1d9fa50f@55891"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "cc3d1777-35fd-4b02-ae60-2cad1d9fa50f@0b19c",
+    "assetFinder": {
+      "meshes": [
+        "cc3d1777-35fd-4b02-ae60-2cad1d9fa50f@34f2b"
+      ],
+      "skeletons": [],
+      "textures": [
+        "cc3d1777-35fd-4b02-ae60-2cad1d9fa50f@24f74"
+      ],
+      "materials": [
+        "cc3d1777-35fd-4b02-ae60-2cad1d9fa50f@d2eea"
+      ],
+      "scenes": [
+        "cc3d1777-35fd-4b02-ae60-2cad1d9fa50f@0b19c"
+      ]
+    }
+  }
+}

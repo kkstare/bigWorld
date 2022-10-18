@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "400160bc-079d-4d99-8c0b-d34f3479f0ed",
+  "files": [],
+  "subMetas": {
+    "15962": {
+      "importer": "gltf-material",
+      "uuid": "400160bc-079d-4d99-8c0b-d34f3479f0ed@15962",
+      "displayName": "",
+      "id": "15962",
+      "name": "db:New_Characters_Rigging_29:BloodDecal.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9f47e": {
+      "importer": "gltf-mesh",
+      "uuid": "400160bc-079d-4d99-8c0b-d34f3479f0ed@9f47e",
+      "displayName": "",
+      "id": "9f47e",
+      "name": "SM_Prop_DeadBody_Sitting_Male_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4e297": {
+      "importer": "gltf-scene",
+      "uuid": "400160bc-079d-4d99-8c0b-d34f3479f0ed@4e297",
+      "displayName": "",
+      "id": "4e297",
+      "name": "SM_Prop_DeadBody_Sitting_Male_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "400160bc-079d-4d99-8c0b-d34f3479f0ed@4e297",
+    "assetFinder": {
+      "meshes": [
+        "400160bc-079d-4d99-8c0b-d34f3479f0ed@9f47e"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "400160bc-079d-4d99-8c0b-d34f3479f0ed@15962"
+      ],
+      "scenes": [
+        "400160bc-079d-4d99-8c0b-d34f3479f0ed@4e297"
+      ]
+    }
+  }
+}

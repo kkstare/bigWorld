@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "db477527-9b06-48f7-8d11-6938fd825b0c",
+  "files": [],
+  "subMetas": {
+    "86312": {
+      "importer": "gltf-scene",
+      "uuid": "db477527-9b06-48f7-8d11-6938fd825b0c@86312",
+      "displayName": "",
+      "id": "86312",
+      "name": "SM_Chr_Attach_Waitress_Female_Glasses_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b9898": {
+      "importer": "gltf-mesh",
+      "uuid": "db477527-9b06-48f7-8d11-6938fd825b0c@b9898",
+      "displayName": "",
+      "id": "b9898",
+      "name": "SM_Chr_Attach_Waitress_Female_Glasses_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "92a32": {
+      "importer": "gltf-material",
+      "uuid": "db477527-9b06-48f7-8d11-6938fd825b0c@92a32",
+      "displayName": "",
+      "id": "92a32",
+      "name": "BloodDecal42.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "db477527-9b06-48f7-8d11-6938fd825b0c@86312",
+    "assetFinder": {
+      "meshes": [
+        "db477527-9b06-48f7-8d11-6938fd825b0c@b9898"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "db477527-9b06-48f7-8d11-6938fd825b0c@92a32"
+      ],
+      "scenes": [
+        "db477527-9b06-48f7-8d11-6938fd825b0c@86312"
+      ]
+    }
+  }
+}

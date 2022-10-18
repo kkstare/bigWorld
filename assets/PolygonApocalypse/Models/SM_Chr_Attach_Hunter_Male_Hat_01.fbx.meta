@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "350b328b-079d-4447-8767-89aa3aaf5db1",
+  "files": [],
+  "subMetas": {
+    "06e02": {
+      "importer": "gltf-mesh",
+      "uuid": "350b328b-079d-4447-8767-89aa3aaf5db1@06e02",
+      "displayName": "",
+      "id": "06e02",
+      "name": "SM_Chr_Attach_Hunter_Male_Hat_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b0bdf": {
+      "importer": "gltf-embeded-image",
+      "uuid": "350b328b-079d-4447-8767-89aa3aaf5db1@b0bdf",
+      "displayName": "",
+      "id": "b0bdf",
+      "name": "file485.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "b9f71": {
+      "importer": "texture",
+      "uuid": "350b328b-079d-4447-8767-89aa3aaf5db1@b9f71",
+      "displayName": "",
+      "id": "b9f71",
+      "name": "file485.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "350b328b-079d-4447-8767-89aa3aaf5db1@b0bdf"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "05e44": {
+      "importer": "gltf-material",
+      "uuid": "350b328b-079d-4447-8767-89aa3aaf5db1@05e44",
+      "displayName": "",
+      "id": "05e44",
+      "name": "blinn5.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c8870": {
+      "importer": "gltf-scene",
+      "uuid": "350b328b-079d-4447-8767-89aa3aaf5db1@c8870",
+      "displayName": "",
+      "id": "c8870",
+      "name": "SM_Chr_Attach_Hunter_Male_Hat_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file485",
+        "uri": "350b328b-079d-4447-8767-89aa3aaf5db1@b0bdf"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "350b328b-079d-4447-8767-89aa3aaf5db1@c8870",
+    "assetFinder": {
+      "meshes": [
+        "350b328b-079d-4447-8767-89aa3aaf5db1@06e02"
+      ],
+      "skeletons": [],
+      "textures": [
+        "350b328b-079d-4447-8767-89aa3aaf5db1@b9f71"
+      ],
+      "materials": [
+        "350b328b-079d-4447-8767-89aa3aaf5db1@05e44"
+      ],
+      "scenes": [
+        "350b328b-079d-4447-8767-89aa3aaf5db1@c8870"
+      ]
+    }
+  }
+}

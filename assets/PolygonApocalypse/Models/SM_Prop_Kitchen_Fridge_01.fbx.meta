@@ -1,0 +1,182 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "0a3c158a-6e9e-4eba-888c-66a2be7818e3",
+  "files": [],
+  "subMetas": {
+    "c578d": {
+      "importer": "gltf-mesh",
+      "uuid": "0a3c158a-6e9e-4eba-888c-66a2be7818e3@c578d",
+      "displayName": "",
+      "id": "c578d",
+      "name": "SM_Prop_Kitchen_Fridge_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "93bfb": {
+      "importer": "gltf-mesh",
+      "uuid": "0a3c158a-6e9e-4eba-888c-66a2be7818e3@93bfb",
+      "displayName": "",
+      "id": "93bfb",
+      "name": "SM_Prop_Kitchen_Fridge_Tray_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6ce9f": {
+      "importer": "gltf-mesh",
+      "uuid": "0a3c158a-6e9e-4eba-888c-66a2be7818e3@6ce9f",
+      "displayName": "",
+      "id": "6ce9f",
+      "name": "SM_Prop_Kitchen_Fridge_01_Door_02.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8f8dd": {
+      "importer": "gltf-mesh",
+      "uuid": "0a3c158a-6e9e-4eba-888c-66a2be7818e3@8f8dd",
+      "displayName": "",
+      "id": "8f8dd",
+      "name": "SM_Prop_Kitchen_Fridge_01_Door_01.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "0a3c158a-6e9e-4eba-888c-66a2be7818e3@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "0a3c158a-6e9e-4eba-888c-66a2be7818e3@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c8ff4": {
+      "importer": "gltf-material",
+      "uuid": "0a3c158a-6e9e-4eba-888c-66a2be7818e3@c8ff4",
+      "displayName": "",
+      "id": "c8ff4",
+      "name": "lambert888.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f35de": {
+      "importer": "gltf-scene",
+      "uuid": "0a3c158a-6e9e-4eba-888c-66a2be7818e3@f35de",
+      "displayName": "",
+      "id": "f35de",
+      "name": "SM_Prop_Kitchen_Fridge_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "0a3c158a-6e9e-4eba-888c-66a2be7818e3@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "0a3c158a-6e9e-4eba-888c-66a2be7818e3@f35de",
+    "assetFinder": {
+      "meshes": [
+        "0a3c158a-6e9e-4eba-888c-66a2be7818e3@c578d",
+        "0a3c158a-6e9e-4eba-888c-66a2be7818e3@93bfb",
+        "0a3c158a-6e9e-4eba-888c-66a2be7818e3@6ce9f",
+        "0a3c158a-6e9e-4eba-888c-66a2be7818e3@8f8dd"
+      ],
+      "skeletons": [],
+      "textures": [
+        "0a3c158a-6e9e-4eba-888c-66a2be7818e3@988dc"
+      ],
+      "materials": [
+        "0a3c158a-6e9e-4eba-888c-66a2be7818e3@c8ff4"
+      ],
+      "scenes": [
+        "0a3c158a-6e9e-4eba-888c-66a2be7818e3@f35de"
+      ]
+    }
+  }
+}

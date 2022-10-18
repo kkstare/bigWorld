@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ae183205-585b-477c-8799-e0c49ae5233a",
+  "files": [],
+  "subMetas": {
+    "0685a": {
+      "importer": "gltf-mesh",
+      "uuid": "ae183205-585b-477c-8799-e0c49ae5233a@0685a",
+      "displayName": "",
+      "id": "0685a",
+      "name": "SM_Bld_Bunker_Wall_Concrete_x1_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "ae183205-585b-477c-8799-e0c49ae5233a@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "ae183205-585b-477c-8799-e0c49ae5233a@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "ae183205-585b-477c-8799-e0c49ae5233a@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a8a52": {
+      "importer": "gltf-scene",
+      "uuid": "ae183205-585b-477c-8799-e0c49ae5233a@a8a52",
+      "displayName": "",
+      "id": "a8a52",
+      "name": "SM_Bld_Bunker_Wall_Concrete_x1_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "ae183205-585b-477c-8799-e0c49ae5233a@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "ae183205-585b-477c-8799-e0c49ae5233a@a8a52",
+    "assetFinder": {
+      "meshes": [
+        "ae183205-585b-477c-8799-e0c49ae5233a@0685a"
+      ],
+      "skeletons": [],
+      "textures": [
+        "ae183205-585b-477c-8799-e0c49ae5233a@988dc"
+      ],
+      "materials": [
+        "ae183205-585b-477c-8799-e0c49ae5233a@8d883"
+      ],
+      "scenes": [
+        "ae183205-585b-477c-8799-e0c49ae5233a@a8a52"
+      ]
+    }
+  }
+}

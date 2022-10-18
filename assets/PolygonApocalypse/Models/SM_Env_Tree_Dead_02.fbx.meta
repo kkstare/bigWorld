@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "8c399712-f553-4a74-9a76-3b3a232f52bb",
+  "files": [],
+  "subMetas": {
+    "d5881": {
+      "importer": "gltf-mesh",
+      "uuid": "8c399712-f553-4a74-9a76-3b3a232f52bb@d5881",
+      "displayName": "",
+      "id": "d5881",
+      "name": "SM_Env_Tree_Dead_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "8c399712-f553-4a74-9a76-3b3a232f52bb@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "8c399712-f553-4a74-9a76-3b3a232f52bb@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "8c399712-f553-4a74-9a76-3b3a232f52bb@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7cb31": {
+      "importer": "gltf-scene",
+      "uuid": "8c399712-f553-4a74-9a76-3b3a232f52bb@7cb31",
+      "displayName": "",
+      "id": "7cb31",
+      "name": "SM_Env_Tree_Dead_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "8c399712-f553-4a74-9a76-3b3a232f52bb@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "8c399712-f553-4a74-9a76-3b3a232f52bb@7cb31",
+    "assetFinder": {
+      "meshes": [
+        "8c399712-f553-4a74-9a76-3b3a232f52bb@d5881"
+      ],
+      "skeletons": [],
+      "textures": [
+        "8c399712-f553-4a74-9a76-3b3a232f52bb@988dc"
+      ],
+      "materials": [
+        "8c399712-f553-4a74-9a76-3b3a232f52bb@8d883"
+      ],
+      "scenes": [
+        "8c399712-f553-4a74-9a76-3b3a232f52bb@7cb31"
+      ]
+    }
+  }
+}

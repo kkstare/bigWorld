@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b68914a3-cb11-48c0-b539-2110c2c7a8cb",
+  "files": [],
+  "subMetas": {
+    "ea579": {
+      "importer": "gltf-mesh",
+      "uuid": "b68914a3-cb11-48c0-b539-2110c2c7a8cb@ea579",
+      "displayName": "",
+      "id": "ea579",
+      "name": "SM_Prop_Luggage_Retro_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "07cfd": {
+      "importer": "gltf-embeded-image",
+      "uuid": "b68914a3-cb11-48c0-b539-2110c2c7a8cb@07cfd",
+      "displayName": "",
+      "id": "07cfd",
+      "name": "file1199.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "bd1a6": {
+      "importer": "texture",
+      "uuid": "b68914a3-cb11-48c0-b539-2110c2c7a8cb@bd1a6",
+      "displayName": "",
+      "id": "bd1a6",
+      "name": "file1199.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b68914a3-cb11-48c0-b539-2110c2c7a8cb@07cfd"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a7424": {
+      "importer": "gltf-material",
+      "uuid": "b68914a3-cb11-48c0-b539-2110c2c7a8cb@a7424",
+      "displayName": "",
+      "id": "a7424",
+      "name": "lambert5.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "08c1e": {
+      "importer": "gltf-scene",
+      "uuid": "b68914a3-cb11-48c0-b539-2110c2c7a8cb@08c1e",
+      "displayName": "",
+      "id": "08c1e",
+      "name": "SM_Prop_Luggage_Retro_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1199",
+        "uri": "b68914a3-cb11-48c0-b539-2110c2c7a8cb@07cfd"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "b68914a3-cb11-48c0-b539-2110c2c7a8cb@08c1e",
+    "assetFinder": {
+      "meshes": [
+        "b68914a3-cb11-48c0-b539-2110c2c7a8cb@ea579"
+      ],
+      "skeletons": [],
+      "textures": [
+        "b68914a3-cb11-48c0-b539-2110c2c7a8cb@bd1a6"
+      ],
+      "materials": [
+        "b68914a3-cb11-48c0-b539-2110c2c7a8cb@a7424"
+      ],
+      "scenes": [
+        "b68914a3-cb11-48c0-b539-2110c2c7a8cb@08c1e"
+      ]
+    }
+  }
+}

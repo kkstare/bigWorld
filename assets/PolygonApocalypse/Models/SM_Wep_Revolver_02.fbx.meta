@@ -1,0 +1,344 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "bbc91fa9-763f-4e62-832f-151fa687b779",
+  "files": [],
+  "subMetas": {
+    "40843": {
+      "importer": "gltf-mesh",
+      "uuid": "bbc91fa9-763f-4e62-832f-151fa687b779@40843",
+      "displayName": "",
+      "id": "40843",
+      "name": "SM_Wep_Revolver_02_Scope_01.mesh",
+      "userData": {
+        "gltfIndex": 11
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "71062": {
+      "importer": "gltf-mesh",
+      "uuid": "bbc91fa9-763f-4e62-832f-151fa687b779@71062",
+      "displayName": "",
+      "id": "71062",
+      "name": "SM_Wep_Revolver_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "92079": {
+      "importer": "gltf-mesh",
+      "uuid": "bbc91fa9-763f-4e62-832f-151fa687b779@92079",
+      "displayName": "",
+      "id": "92079",
+      "name": "SM_Wep_Revolver_02_Cylinder_Bullet_05.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "220fa": {
+      "importer": "gltf-mesh",
+      "uuid": "bbc91fa9-763f-4e62-832f-151fa687b779@220fa",
+      "displayName": "",
+      "id": "220fa",
+      "name": "SM_Wep_Revolver_02_Trigger_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bed68": {
+      "importer": "gltf-mesh",
+      "uuid": "bbc91fa9-763f-4e62-832f-151fa687b779@bed68",
+      "displayName": "",
+      "id": "bed68",
+      "name": "SM_Wep_Revolver_02_Cylinder_01.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cf38f": {
+      "importer": "gltf-mesh",
+      "uuid": "bbc91fa9-763f-4e62-832f-151fa687b779@cf38f",
+      "displayName": "",
+      "id": "cf38f",
+      "name": "SM_Wep_Revolver_02_Cylinder_Spin_01.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "49e2a": {
+      "importer": "gltf-mesh",
+      "uuid": "bbc91fa9-763f-4e62-832f-151fa687b779@49e2a",
+      "displayName": "",
+      "id": "49e2a",
+      "name": "SM_Wep_Revolver_02_Cylinder_Bullet_06.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5325e": {
+      "importer": "gltf-mesh",
+      "uuid": "bbc91fa9-763f-4e62-832f-151fa687b779@5325e",
+      "displayName": "",
+      "id": "5325e",
+      "name": "SM_Wep_Revolver_02_Cylinder_Bullet_01.mesh",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fd5ca": {
+      "importer": "gltf-mesh",
+      "uuid": "bbc91fa9-763f-4e62-832f-151fa687b779@fd5ca",
+      "displayName": "",
+      "id": "fd5ca",
+      "name": "SM_Wep_Revolver_02_Cylinder_Bullet_02.mesh",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cec9c": {
+      "importer": "gltf-mesh",
+      "uuid": "bbc91fa9-763f-4e62-832f-151fa687b779@cec9c",
+      "displayName": "",
+      "id": "cec9c",
+      "name": "SM_Wep_Revolver_02_Cylinder_Bullet_03.mesh",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "93baa": {
+      "importer": "gltf-mesh",
+      "uuid": "bbc91fa9-763f-4e62-832f-151fa687b779@93baa",
+      "displayName": "",
+      "id": "93baa",
+      "name": "SM_Wep_Revolver_02_Cylinder_Bullet_04.mesh",
+      "userData": {
+        "gltfIndex": 9
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1d5ed": {
+      "importer": "gltf-mesh",
+      "uuid": "bbc91fa9-763f-4e62-832f-151fa687b779@1d5ed",
+      "displayName": "",
+      "id": "1d5ed",
+      "name": "SM_Wep_Revolver_02_Hammer_01.mesh",
+      "userData": {
+        "gltfIndex": 10
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b6f90": {
+      "importer": "gltf-mesh",
+      "uuid": "bbc91fa9-763f-4e62-832f-151fa687b779@b6f90",
+      "displayName": "",
+      "id": "b6f90",
+      "name": "SM_Wep_Revolver_02_Bullets_01.mesh",
+      "userData": {
+        "gltfIndex": 12
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e43a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "bbc91fa9-763f-4e62-832f-151fa687b779@1e43a",
+      "displayName": "",
+      "id": "1e43a",
+      "name": "file1198.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "05eac": {
+      "importer": "texture",
+      "uuid": "bbc91fa9-763f-4e62-832f-151fa687b779@05eac",
+      "displayName": "",
+      "id": "05eac",
+      "name": "file1198.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5bd2": {
+      "importer": "gltf-material",
+      "uuid": "bbc91fa9-763f-4e62-832f-151fa687b779@a5bd2",
+      "displayName": "",
+      "id": "a5bd2",
+      "name": "lambert.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "50d69": {
+      "importer": "gltf-scene",
+      "uuid": "bbc91fa9-763f-4e62-832f-151fa687b779@50d69",
+      "displayName": "",
+      "id": "50d69",
+      "name": "SM_Wep_Revolver_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1198",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "bbc91fa9-763f-4e62-832f-151fa687b779@1e43a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "bbc91fa9-763f-4e62-832f-151fa687b779@50d69",
+    "assetFinder": {
+      "meshes": [
+        "bbc91fa9-763f-4e62-832f-151fa687b779@71062",
+        "bbc91fa9-763f-4e62-832f-151fa687b779@220fa",
+        "bbc91fa9-763f-4e62-832f-151fa687b779@bed68",
+        "bbc91fa9-763f-4e62-832f-151fa687b779@cf38f",
+        "bbc91fa9-763f-4e62-832f-151fa687b779@92079",
+        "bbc91fa9-763f-4e62-832f-151fa687b779@49e2a",
+        "bbc91fa9-763f-4e62-832f-151fa687b779@5325e",
+        "bbc91fa9-763f-4e62-832f-151fa687b779@fd5ca",
+        "bbc91fa9-763f-4e62-832f-151fa687b779@cec9c",
+        "bbc91fa9-763f-4e62-832f-151fa687b779@93baa",
+        "bbc91fa9-763f-4e62-832f-151fa687b779@1d5ed",
+        "bbc91fa9-763f-4e62-832f-151fa687b779@40843",
+        "bbc91fa9-763f-4e62-832f-151fa687b779@b6f90"
+      ],
+      "skeletons": [],
+      "textures": [
+        "bbc91fa9-763f-4e62-832f-151fa687b779@05eac"
+      ],
+      "materials": [
+        "bbc91fa9-763f-4e62-832f-151fa687b779@a5bd2"
+      ],
+      "scenes": [
+        "bbc91fa9-763f-4e62-832f-151fa687b779@50d69"
+      ]
+    }
+  }
+}

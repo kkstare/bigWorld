@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "96ab2517-55ff-49a6-91b7-ac1e9803fd05",
+  "files": [],
+  "subMetas": {
+    "68145": {
+      "importer": "gltf-mesh",
+      "uuid": "96ab2517-55ff-49a6-91b7-ac1e9803fd05@68145",
+      "displayName": "",
+      "id": "68145",
+      "name": "SM_Item_Duffle_Bag_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e942": {
+      "importer": "gltf-embeded-image",
+      "uuid": "96ab2517-55ff-49a6-91b7-ac1e9803fd05@1e942",
+      "displayName": "",
+      "id": "1e942",
+      "name": "Copter:file112.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "585d0": {
+      "importer": "texture",
+      "uuid": "96ab2517-55ff-49a6-91b7-ac1e9803fd05@585d0",
+      "displayName": "",
+      "id": "585d0",
+      "name": "Copter:file112.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "96ab2517-55ff-49a6-91b7-ac1e9803fd05@1e942"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a3ca": {
+      "importer": "gltf-material",
+      "uuid": "96ab2517-55ff-49a6-91b7-ac1e9803fd05@7a3ca",
+      "displayName": "",
+      "id": "7a3ca",
+      "name": "lambert2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a48a6": {
+      "importer": "gltf-scene",
+      "uuid": "96ab2517-55ff-49a6-91b7-ac1e9803fd05@a48a6",
+      "displayName": "",
+      "id": "a48a6",
+      "name": "SM_Item_Duffle_Bag_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Copter:file112",
+        "uri": "96ab2517-55ff-49a6-91b7-ac1e9803fd05@1e942"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "96ab2517-55ff-49a6-91b7-ac1e9803fd05@a48a6",
+    "assetFinder": {
+      "meshes": [
+        "96ab2517-55ff-49a6-91b7-ac1e9803fd05@68145"
+      ],
+      "skeletons": [],
+      "textures": [
+        "96ab2517-55ff-49a6-91b7-ac1e9803fd05@585d0"
+      ],
+      "materials": [
+        "96ab2517-55ff-49a6-91b7-ac1e9803fd05@7a3ca"
+      ],
+      "scenes": [
+        "96ab2517-55ff-49a6-91b7-ac1e9803fd05@a48a6"
+      ]
+    }
+  }
+}

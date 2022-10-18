@@ -1,0 +1,162 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "3ae52c6a-1d7c-492c-b912-a7ecbbb892ca",
+  "files": [],
+  "subMetas": {
+    "964f1": {
+      "importer": "gltf-mesh",
+      "uuid": "3ae52c6a-1d7c-492c-b912-a7ecbbb892ca@964f1",
+      "displayName": "",
+      "id": "964f1",
+      "name": "SM_Prop_Car_Wrecked_Stack_02_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e43a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "3ae52c6a-1d7c-492c-b912-a7ecbbb892ca@1e43a",
+      "displayName": "",
+      "id": "1e43a",
+      "name": "file1198.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "05eac": {
+      "importer": "texture",
+      "uuid": "3ae52c6a-1d7c-492c-b912-a7ecbbb892ca@05eac",
+      "displayName": "",
+      "id": "05eac",
+      "name": "file1198.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "51f37": {
+      "importer": "gltf-material",
+      "uuid": "3ae52c6a-1d7c-492c-b912-a7ecbbb892ca@51f37",
+      "displayName": "",
+      "id": "51f37",
+      "name": "lambert166.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5bd2": {
+      "importer": "gltf-material",
+      "uuid": "3ae52c6a-1d7c-492c-b912-a7ecbbb892ca@a5bd2",
+      "displayName": "",
+      "id": "a5bd2",
+      "name": "lambert.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e9ffa": {
+      "importer": "gltf-material",
+      "uuid": "3ae52c6a-1d7c-492c-b912-a7ecbbb892ca@e9ffa",
+      "displayName": "",
+      "id": "e9ffa",
+      "name": "lambert167.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a4c77": {
+      "importer": "gltf-scene",
+      "uuid": "3ae52c6a-1d7c-492c-b912-a7ecbbb892ca@a4c77",
+      "displayName": "",
+      "id": "a4c77",
+      "name": "SM_Prop_Car_Wrecked_Stack_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1198",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "3ae52c6a-1d7c-492c-b912-a7ecbbb892ca@1e43a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "3ae52c6a-1d7c-492c-b912-a7ecbbb892ca@a4c77",
+    "assetFinder": {
+      "meshes": [
+        "3ae52c6a-1d7c-492c-b912-a7ecbbb892ca@964f1"
+      ],
+      "skeletons": [],
+      "textures": [
+        "3ae52c6a-1d7c-492c-b912-a7ecbbb892ca@05eac"
+      ],
+      "materials": [
+        "3ae52c6a-1d7c-492c-b912-a7ecbbb892ca@51f37",
+        "3ae52c6a-1d7c-492c-b912-a7ecbbb892ca@a5bd2",
+        "3ae52c6a-1d7c-492c-b912-a7ecbbb892ca@e9ffa"
+      ],
+      "scenes": [
+        "3ae52c6a-1d7c-492c-b912-a7ecbbb892ca@a4c77"
+      ]
+    }
+  }
+}

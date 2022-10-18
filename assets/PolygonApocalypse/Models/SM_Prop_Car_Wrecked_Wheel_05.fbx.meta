@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "0e9d8284-8b43-4630-8b6f-53b625ef3541",
+  "files": [],
+  "subMetas": {
+    "5a8e8": {
+      "importer": "gltf-mesh",
+      "uuid": "0e9d8284-8b43-4630-8b6f-53b625ef3541@5a8e8",
+      "displayName": "",
+      "id": "5a8e8",
+      "name": "SM_Prop_Car_Wrecked_Wheel_05.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6ab56": {
+      "importer": "gltf-embeded-image",
+      "uuid": "0e9d8284-8b43-4630-8b6f-53b625ef3541@6ab56",
+      "displayName": "",
+      "id": "6ab56",
+      "name": "file112.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "cd223": {
+      "importer": "texture",
+      "uuid": "0e9d8284-8b43-4630-8b6f-53b625ef3541@cd223",
+      "displayName": "",
+      "id": "cd223",
+      "name": "file112.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0e9d8284-8b43-4630-8b6f-53b625ef3541@6ab56"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3ecd6": {
+      "importer": "gltf-material",
+      "uuid": "0e9d8284-8b43-4630-8b6f-53b625ef3541@3ecd6",
+      "displayName": "",
+      "id": "3ecd6",
+      "name": "Vehicles.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "df40c": {
+      "importer": "gltf-scene",
+      "uuid": "0e9d8284-8b43-4630-8b6f-53b625ef3541@df40c",
+      "displayName": "",
+      "id": "df40c",
+      "name": "SM_Prop_Car_Wrecked_Wheel_05.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file112",
+        "uri": "0e9d8284-8b43-4630-8b6f-53b625ef3541@6ab56"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "0e9d8284-8b43-4630-8b6f-53b625ef3541@df40c",
+    "assetFinder": {
+      "meshes": [
+        "0e9d8284-8b43-4630-8b6f-53b625ef3541@5a8e8"
+      ],
+      "skeletons": [],
+      "textures": [
+        "0e9d8284-8b43-4630-8b6f-53b625ef3541@cd223"
+      ],
+      "materials": [
+        "0e9d8284-8b43-4630-8b6f-53b625ef3541@3ecd6"
+      ],
+      "scenes": [
+        "0e9d8284-8b43-4630-8b6f-53b625ef3541@df40c"
+      ]
+    }
+  }
+}

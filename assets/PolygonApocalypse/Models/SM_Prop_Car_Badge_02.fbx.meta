@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "740dc590-2e08-4ce9-a271-11b4a808da6c",
+  "files": [],
+  "subMetas": {
+    "19219": {
+      "importer": "texture",
+      "uuid": "740dc590-2e08-4ce9-a271-11b4a808da6c@19219",
+      "displayName": "",
+      "id": "19219",
+      "name": "file114.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "740dc590-2e08-4ce9-a271-11b4a808da6c@e513d"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "733b0": {
+      "importer": "gltf-mesh",
+      "uuid": "740dc590-2e08-4ce9-a271-11b4a808da6c@733b0",
+      "displayName": "",
+      "id": "733b0",
+      "name": "SM_Prop_Car_Badge_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e513d": {
+      "importer": "gltf-embeded-image",
+      "uuid": "740dc590-2e08-4ce9-a271-11b4a808da6c@e513d",
+      "displayName": "",
+      "id": "e513d",
+      "name": "file114.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "c0b62": {
+      "importer": "gltf-material",
+      "uuid": "740dc590-2e08-4ce9-a271-11b4a808da6c@c0b62",
+      "displayName": "",
+      "id": "c0b62",
+      "name": "lambert25.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c6e07": {
+      "importer": "gltf-scene",
+      "uuid": "740dc590-2e08-4ce9-a271-11b4a808da6c@c6e07",
+      "displayName": "",
+      "id": "c6e07",
+      "name": "SM_Prop_Car_Badge_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file114",
+        "uri": "740dc590-2e08-4ce9-a271-11b4a808da6c@e513d"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "740dc590-2e08-4ce9-a271-11b4a808da6c@c6e07",
+    "assetFinder": {
+      "meshes": [
+        "740dc590-2e08-4ce9-a271-11b4a808da6c@733b0"
+      ],
+      "skeletons": [],
+      "textures": [
+        "740dc590-2e08-4ce9-a271-11b4a808da6c@19219"
+      ],
+      "materials": [
+        "740dc590-2e08-4ce9-a271-11b4a808da6c@c0b62"
+      ],
+      "scenes": [
+        "740dc590-2e08-4ce9-a271-11b4a808da6c@c6e07"
+      ]
+    }
+  }
+}

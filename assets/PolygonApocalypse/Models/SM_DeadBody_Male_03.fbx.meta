@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "5c4b99c0-a1a2-4d32-99f7-9b8fa44c05f9",
+  "files": [],
+  "subMetas": {
+    "85537": {
+      "importer": "gltf-scene",
+      "uuid": "5c4b99c0-a1a2-4d32-99f7-9b8fa44c05f9@85537",
+      "displayName": "",
+      "id": "85537",
+      "name": "SM_DeadBody_Male_03.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f8d53": {
+      "importer": "gltf-mesh",
+      "uuid": "5c4b99c0-a1a2-4d32-99f7-9b8fa44c05f9@f8d53",
+      "displayName": "",
+      "id": "f8d53",
+      "name": "SM_DeadBody_Male_03.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "41eed": {
+      "importer": "gltf-material",
+      "uuid": "5c4b99c0-a1a2-4d32-99f7-9b8fa44c05f9@41eed",
+      "displayName": "",
+      "id": "41eed",
+      "name": "New_Characters_Rigging_29:BloodDecal.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "5c4b99c0-a1a2-4d32-99f7-9b8fa44c05f9@85537",
+    "assetFinder": {
+      "meshes": [
+        "5c4b99c0-a1a2-4d32-99f7-9b8fa44c05f9@f8d53"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "5c4b99c0-a1a2-4d32-99f7-9b8fa44c05f9@41eed"
+      ],
+      "scenes": [
+        "5c4b99c0-a1a2-4d32-99f7-9b8fa44c05f9@85537"
+      ]
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "75e910f4-5449-4bfb-acce-bb24823f44fd",
+  "files": [],
+  "subMetas": {
+    "5aea6": {
+      "importer": "gltf-mesh",
+      "uuid": "75e910f4-5449-4bfb-acce-bb24823f44fd@5aea6",
+      "displayName": "",
+      "id": "5aea6",
+      "name": "SM_Env_Dirt_Slope_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "75e910f4-5449-4bfb-acce-bb24823f44fd@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "75e910f4-5449-4bfb-acce-bb24823f44fd@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "75e910f4-5449-4bfb-acce-bb24823f44fd@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ca98d": {
+      "importer": "gltf-scene",
+      "uuid": "75e910f4-5449-4bfb-acce-bb24823f44fd@ca98d",
+      "displayName": "",
+      "id": "ca98d",
+      "name": "SM_Env_Dirt_Slope_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "75e910f4-5449-4bfb-acce-bb24823f44fd@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "75e910f4-5449-4bfb-acce-bb24823f44fd@ca98d",
+    "assetFinder": {
+      "meshes": [
+        "75e910f4-5449-4bfb-acce-bb24823f44fd@5aea6"
+      ],
+      "skeletons": [],
+      "textures": [
+        "75e910f4-5449-4bfb-acce-bb24823f44fd@988dc"
+      ],
+      "materials": [
+        "75e910f4-5449-4bfb-acce-bb24823f44fd@8d883"
+      ],
+      "scenes": [
+        "75e910f4-5449-4bfb-acce-bb24823f44fd@ca98d"
+      ]
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "6d0b7977-7e3b-40b7-889d-ad984e8fb5de",
+  "files": [],
+  "subMetas": {
+    "a38fa": {
+      "importer": "gltf-mesh",
+      "uuid": "6d0b7977-7e3b-40b7-889d-ad984e8fb5de@a38fa",
+      "displayName": "",
+      "id": "a38fa",
+      "name": "SM_Wep_Veh_Harpoon_Ammo_04.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d9bf0": {
+      "importer": "gltf-material",
+      "uuid": "6d0b7977-7e3b-40b7-889d-ad984e8fb5de@d9bf0",
+      "displayName": "",
+      "id": "d9bf0",
+      "name": "pasted__lambert95.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bb721": {
+      "importer": "gltf-scene",
+      "uuid": "6d0b7977-7e3b-40b7-889d-ad984e8fb5de@bb721",
+      "displayName": "",
+      "id": "bb721",
+      "name": "SM_Wep_Veh_Harpoon_Ammo_04.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "6d0b7977-7e3b-40b7-889d-ad984e8fb5de@bb721",
+    "assetFinder": {
+      "meshes": [
+        "6d0b7977-7e3b-40b7-889d-ad984e8fb5de@a38fa"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "6d0b7977-7e3b-40b7-889d-ad984e8fb5de@d9bf0"
+      ],
+      "scenes": [
+        "6d0b7977-7e3b-40b7-889d-ad984e8fb5de@bb721"
+      ]
+    }
+  }
+}

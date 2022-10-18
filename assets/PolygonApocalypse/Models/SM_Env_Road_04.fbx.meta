@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d6abc25e-d3a1-45ab-aa2e-e5c04faf01ec",
+  "files": [],
+  "subMetas": {
+    "abea6": {
+      "importer": "gltf-mesh",
+      "uuid": "d6abc25e-d3a1-45ab-aa2e-e5c04faf01ec@abea6",
+      "displayName": "",
+      "id": "abea6",
+      "name": "SM_Env_Road_04.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8b24b": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d6abc25e-d3a1-45ab-aa2e-e5c04faf01ec@8b24b",
+      "displayName": "",
+      "id": "8b24b",
+      "name": "pasted__file996.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "4280d": {
+      "importer": "texture",
+      "uuid": "d6abc25e-d3a1-45ab-aa2e-e5c04faf01ec@4280d",
+      "displayName": "",
+      "id": "4280d",
+      "name": "pasted__file996.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d6abc25e-d3a1-45ab-aa2e-e5c04faf01ec@8b24b"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "633e5": {
+      "importer": "gltf-material",
+      "uuid": "d6abc25e-d3a1-45ab-aa2e-e5c04faf01ec@633e5",
+      "displayName": "",
+      "id": "633e5",
+      "name": "Base_Maya_Scene1:pasted__MiniColour44.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9c895": {
+      "importer": "gltf-scene",
+      "uuid": "d6abc25e-d3a1-45ab-aa2e-e5c04faf01ec@9c895",
+      "displayName": "",
+      "id": "9c895",
+      "name": "SM_Env_Road_04.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "pasted__file996",
+        "uri": "d6abc25e-d3a1-45ab-aa2e-e5c04faf01ec@8b24b"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "d6abc25e-d3a1-45ab-aa2e-e5c04faf01ec@9c895",
+    "assetFinder": {
+      "meshes": [
+        "d6abc25e-d3a1-45ab-aa2e-e5c04faf01ec@abea6"
+      ],
+      "skeletons": [],
+      "textures": [
+        "d6abc25e-d3a1-45ab-aa2e-e5c04faf01ec@4280d"
+      ],
+      "materials": [
+        "d6abc25e-d3a1-45ab-aa2e-e5c04faf01ec@633e5"
+      ],
+      "scenes": [
+        "d6abc25e-d3a1-45ab-aa2e-e5c04faf01ec@9c895"
+      ]
+    }
+  }
+}

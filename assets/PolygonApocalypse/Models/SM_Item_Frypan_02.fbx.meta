@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "82f25886-c617-4b38-b133-95da19284016",
+  "files": [],
+  "subMetas": {
+    "e3309": {
+      "importer": "gltf-mesh",
+      "uuid": "82f25886-c617-4b38-b133-95da19284016@e3309",
+      "displayName": "",
+      "id": "e3309",
+      "name": "SM_Item_Frypan_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e942": {
+      "importer": "gltf-embeded-image",
+      "uuid": "82f25886-c617-4b38-b133-95da19284016@1e942",
+      "displayName": "",
+      "id": "1e942",
+      "name": "Copter:file112.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "585d0": {
+      "importer": "texture",
+      "uuid": "82f25886-c617-4b38-b133-95da19284016@585d0",
+      "displayName": "",
+      "id": "585d0",
+      "name": "Copter:file112.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "82f25886-c617-4b38-b133-95da19284016@1e942"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a3ca": {
+      "importer": "gltf-material",
+      "uuid": "82f25886-c617-4b38-b133-95da19284016@7a3ca",
+      "displayName": "",
+      "id": "7a3ca",
+      "name": "lambert2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d17b": {
+      "importer": "gltf-scene",
+      "uuid": "82f25886-c617-4b38-b133-95da19284016@7d17b",
+      "displayName": "",
+      "id": "7d17b",
+      "name": "SM_Item_Frypan_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Copter:file112",
+        "uri": "82f25886-c617-4b38-b133-95da19284016@1e942"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "82f25886-c617-4b38-b133-95da19284016@7d17b",
+    "assetFinder": {
+      "meshes": [
+        "82f25886-c617-4b38-b133-95da19284016@e3309"
+      ],
+      "skeletons": [],
+      "textures": [
+        "82f25886-c617-4b38-b133-95da19284016@585d0"
+      ],
+      "materials": [
+        "82f25886-c617-4b38-b133-95da19284016@7a3ca"
+      ],
+      "scenes": [
+        "82f25886-c617-4b38-b133-95da19284016@7d17b"
+      ]
+    }
+  }
+}

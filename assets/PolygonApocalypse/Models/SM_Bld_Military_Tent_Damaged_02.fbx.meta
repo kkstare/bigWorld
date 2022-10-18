@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "23365020-6aa2-4466-8a46-a5107fb55854",
+  "files": [],
+  "subMetas": {
+    "5d325": {
+      "importer": "gltf-mesh",
+      "uuid": "23365020-6aa2-4466-8a46-a5107fb55854@5d325",
+      "displayName": "",
+      "id": "5d325",
+      "name": "SM_Bld_Military_Tent_Damaged_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "26fdd": {
+      "importer": "gltf-material",
+      "uuid": "23365020-6aa2-4466-8a46-a5107fb55854@26fdd",
+      "displayName": "",
+      "id": "26fdd",
+      "name": "lambert36.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "eb9d8": {
+      "importer": "gltf-scene",
+      "uuid": "23365020-6aa2-4466-8a46-a5107fb55854@eb9d8",
+      "displayName": "",
+      "id": "eb9d8",
+      "name": "SM_Bld_Military_Tent_Damaged_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "23365020-6aa2-4466-8a46-a5107fb55854@eb9d8",
+    "assetFinder": {
+      "meshes": [
+        "23365020-6aa2-4466-8a46-a5107fb55854@5d325"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "23365020-6aa2-4466-8a46-a5107fb55854@26fdd"
+      ],
+      "scenes": [
+        "23365020-6aa2-4466-8a46-a5107fb55854@eb9d8"
+      ]
+    }
+  }
+}

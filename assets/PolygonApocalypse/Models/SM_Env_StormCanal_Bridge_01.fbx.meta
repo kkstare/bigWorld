@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "cd5e43de-6741-49a8-bcb1-9207aa15dcc8",
+  "files": [],
+  "subMetas": {
+    "f7772": {
+      "importer": "gltf-mesh",
+      "uuid": "cd5e43de-6741-49a8-bcb1-9207aa15dcc8@f7772",
+      "displayName": "",
+      "id": "f7772",
+      "name": "SM_Env_StormCanal_Bridge_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b225a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "cd5e43de-6741-49a8-bcb1-9207aa15dcc8@b225a",
+      "displayName": "",
+      "id": "b225a",
+      "name": "file996.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "f0e3c": {
+      "importer": "texture",
+      "uuid": "cd5e43de-6741-49a8-bcb1-9207aa15dcc8@f0e3c",
+      "displayName": "",
+      "id": "f0e3c",
+      "name": "file996.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "cd5e43de-6741-49a8-bcb1-9207aa15dcc8@b225a"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a1e29": {
+      "importer": "gltf-material",
+      "uuid": "cd5e43de-6741-49a8-bcb1-9207aa15dcc8@a1e29",
+      "displayName": "",
+      "id": "a1e29",
+      "name": "Base_Maya_Scene:pasted__MiniColour44.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8adc1": {
+      "importer": "gltf-scene",
+      "uuid": "cd5e43de-6741-49a8-bcb1-9207aa15dcc8@8adc1",
+      "displayName": "",
+      "id": "8adc1",
+      "name": "SM_Env_StormCanal_Bridge_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file996",
+        "uri": "cd5e43de-6741-49a8-bcb1-9207aa15dcc8@b225a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "cd5e43de-6741-49a8-bcb1-9207aa15dcc8@8adc1",
+    "assetFinder": {
+      "meshes": [
+        "cd5e43de-6741-49a8-bcb1-9207aa15dcc8@f7772"
+      ],
+      "skeletons": [],
+      "textures": [
+        "cd5e43de-6741-49a8-bcb1-9207aa15dcc8@f0e3c"
+      ],
+      "materials": [
+        "cd5e43de-6741-49a8-bcb1-9207aa15dcc8@a1e29"
+      ],
+      "scenes": [
+        "cd5e43de-6741-49a8-bcb1-9207aa15dcc8@8adc1"
+      ]
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "8ad4e776-7da2-42fd-b0e6-587556149c9a",
+  "files": [],
+  "subMetas": {
+    "23215": {
+      "importer": "gltf-embeded-image",
+      "uuid": "8ad4e776-7da2-42fd-b0e6-587556149c9a@23215",
+      "displayName": "",
+      "id": "23215",
+      "name": "file1031.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "4775b": {
+      "importer": "gltf-mesh",
+      "uuid": "8ad4e776-7da2-42fd-b0e6-587556149c9a@4775b",
+      "displayName": "",
+      "id": "4775b",
+      "name": "SM_Item_Alcohol_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5691d": {
+      "importer": "texture",
+      "uuid": "8ad4e776-7da2-42fd-b0e6-587556149c9a@5691d",
+      "displayName": "",
+      "id": "5691d",
+      "name": "file1031.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "8ad4e776-7da2-42fd-b0e6-587556149c9a@23215"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "38a38": {
+      "importer": "gltf-material",
+      "uuid": "8ad4e776-7da2-42fd-b0e6-587556149c9a@38a38",
+      "displayName": "",
+      "id": "38a38",
+      "name": "lambert886.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f0509": {
+      "importer": "gltf-scene",
+      "uuid": "8ad4e776-7da2-42fd-b0e6-587556149c9a@f0509",
+      "displayName": "",
+      "id": "f0509",
+      "name": "SM_Item_Alcohol_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1031",
+        "uri": "8ad4e776-7da2-42fd-b0e6-587556149c9a@23215"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "8ad4e776-7da2-42fd-b0e6-587556149c9a@f0509",
+    "assetFinder": {
+      "meshes": [
+        "8ad4e776-7da2-42fd-b0e6-587556149c9a@4775b"
+      ],
+      "skeletons": [],
+      "textures": [
+        "8ad4e776-7da2-42fd-b0e6-587556149c9a@5691d"
+      ],
+      "materials": [
+        "8ad4e776-7da2-42fd-b0e6-587556149c9a@38a38"
+      ],
+      "scenes": [
+        "8ad4e776-7da2-42fd-b0e6-587556149c9a@f0509"
+      ]
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "1bf8ba45-cb21-4d5d-b1f7-12154143c507",
+  "files": [],
+  "subMetas": {
+    "01bd5": {
+      "importer": "gltf-mesh",
+      "uuid": "1bf8ba45-cb21-4d5d-b1f7-12154143c507@01bd5",
+      "displayName": "",
+      "id": "01bd5",
+      "name": "SM_Prop_Glass_Shard_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b225a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "1bf8ba45-cb21-4d5d-b1f7-12154143c507@b225a",
+      "displayName": "",
+      "id": "b225a",
+      "name": "file996.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "f0e3c": {
+      "importer": "texture",
+      "uuid": "1bf8ba45-cb21-4d5d-b1f7-12154143c507@f0e3c",
+      "displayName": "",
+      "id": "f0e3c",
+      "name": "file996.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "1bf8ba45-cb21-4d5d-b1f7-12154143c507@b225a"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a1e29": {
+      "importer": "gltf-material",
+      "uuid": "1bf8ba45-cb21-4d5d-b1f7-12154143c507@a1e29",
+      "displayName": "",
+      "id": "a1e29",
+      "name": "Base_Maya_Scene:pasted__MiniColour44.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d2488": {
+      "importer": "gltf-scene",
+      "uuid": "1bf8ba45-cb21-4d5d-b1f7-12154143c507@d2488",
+      "displayName": "",
+      "id": "d2488",
+      "name": "SM_Prop_Glass_Shard_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file996",
+        "uri": "1bf8ba45-cb21-4d5d-b1f7-12154143c507@b225a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "1bf8ba45-cb21-4d5d-b1f7-12154143c507@d2488",
+    "assetFinder": {
+      "meshes": [
+        "1bf8ba45-cb21-4d5d-b1f7-12154143c507@01bd5"
+      ],
+      "skeletons": [],
+      "textures": [
+        "1bf8ba45-cb21-4d5d-b1f7-12154143c507@f0e3c"
+      ],
+      "materials": [
+        "1bf8ba45-cb21-4d5d-b1f7-12154143c507@a1e29"
+      ],
+      "scenes": [
+        "1bf8ba45-cb21-4d5d-b1f7-12154143c507@d2488"
+      ]
+    }
+  }
+}

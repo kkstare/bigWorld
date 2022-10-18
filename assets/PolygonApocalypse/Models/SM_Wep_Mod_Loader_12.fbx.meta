@@ -1,0 +1,98 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "7cffe61e-12ae-4cea-8105-f9683276a333",
+  "files": [],
+  "subMetas": {
+    "fd714": {
+      "importer": "gltf-mesh",
+      "uuid": "7cffe61e-12ae-4cea-8105-f9683276a333@fd714",
+      "displayName": "",
+      "id": "fd714",
+      "name": "SM_Wep_Mod_Loader_12.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b6ba4": {
+      "importer": "gltf-mesh",
+      "uuid": "7cffe61e-12ae-4cea-8105-f9683276a333@b6ba4",
+      "displayName": "",
+      "id": "b6ba4",
+      "name": "SM_Wep_Mod_Loader_12_Magazine.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "7cffe61e-12ae-4cea-8105-f9683276a333@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ec31d": {
+      "importer": "gltf-scene",
+      "uuid": "7cffe61e-12ae-4cea-8105-f9683276a333@ec31d",
+      "displayName": "",
+      "id": "ec31d",
+      "name": "SM_Wep_Mod_Loader_12.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "7cffe61e-12ae-4cea-8105-f9683276a333@ec31d",
+    "assetFinder": {
+      "meshes": [
+        "7cffe61e-12ae-4cea-8105-f9683276a333@fd714",
+        "7cffe61e-12ae-4cea-8105-f9683276a333@b6ba4"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "7cffe61e-12ae-4cea-8105-f9683276a333@8d883"
+      ],
+      "scenes": [
+        "7cffe61e-12ae-4cea-8105-f9683276a333@ec31d"
+      ]
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "8f9aac36-7859-415a-a079-61883ee474f3",
+  "files": [],
+  "subMetas": {
+    "ffc46": {
+      "importer": "gltf-mesh",
+      "uuid": "8f9aac36-7859-415a-a079-61883ee474f3@ffc46",
+      "displayName": "",
+      "id": "ffc46",
+      "name": "SM_Prop_Mannequin_Male_04.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7ee2e": {
+      "importer": "gltf-embeded-image",
+      "uuid": "8f9aac36-7859-415a-a079-61883ee474f3@7ee2e",
+      "displayName": "",
+      "id": "7ee2e",
+      "name": "lambert4SG2F1.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "672f6": {
+      "importer": "texture",
+      "uuid": "8f9aac36-7859-415a-a079-61883ee474f3@672f6",
+      "displayName": "",
+      "id": "672f6",
+      "name": "lambert4SG2F1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "8f9aac36-7859-415a-a079-61883ee474f3@7ee2e"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2627e": {
+      "importer": "gltf-material",
+      "uuid": "8f9aac36-7859-415a-a079-61883ee474f3@2627e",
+      "displayName": "",
+      "id": "2627e",
+      "name": "lambert4SG2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2a400": {
+      "importer": "gltf-scene",
+      "uuid": "8f9aac36-7859-415a-a079-61883ee474f3@2a400",
+      "displayName": "",
+      "id": "2a400",
+      "name": "SM_Prop_Mannequin_Male_04.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "lambert4SG2F1",
+        "uri": "8f9aac36-7859-415a-a079-61883ee474f3@7ee2e"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "8f9aac36-7859-415a-a079-61883ee474f3@2a400",
+    "assetFinder": {
+      "meshes": [
+        "8f9aac36-7859-415a-a079-61883ee474f3@ffc46"
+      ],
+      "skeletons": [],
+      "textures": [
+        "8f9aac36-7859-415a-a079-61883ee474f3@672f6"
+      ],
+      "materials": [
+        "8f9aac36-7859-415a-a079-61883ee474f3@2627e"
+      ],
+      "scenes": [
+        "8f9aac36-7859-415a-a079-61883ee474f3@2a400"
+      ]
+    }
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "198a52f1-716b-4647-a11a-ea5751bb81d0",
+  "files": [],
+  "subMetas": {
+    "ae002": {
+      "importer": "gltf-mesh",
+      "uuid": "198a52f1-716b-4647-a11a-ea5751bb81d0@ae002",
+      "displayName": "",
+      "id": "ae002",
+      "name": "SM_Wep_Pistol_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9f508": {
+      "importer": "gltf-mesh",
+      "uuid": "198a52f1-716b-4647-a11a-ea5751bb81d0@9f508",
+      "displayName": "",
+      "id": "9f508",
+      "name": "SM_Wep_Pistol_01_Silencer_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a6e8b": {
+      "importer": "gltf-mesh",
+      "uuid": "198a52f1-716b-4647-a11a-ea5751bb81d0@a6e8b",
+      "displayName": "",
+      "id": "a6e8b",
+      "name": "SM_Wep_Pistol_01_Slide_01.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fc492": {
+      "importer": "gltf-mesh",
+      "uuid": "198a52f1-716b-4647-a11a-ea5751bb81d0@fc492",
+      "displayName": "",
+      "id": "fc492",
+      "name": "SM_Wep_Pistol_01_Trigger_01.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a15dd": {
+      "importer": "gltf-mesh",
+      "uuid": "198a52f1-716b-4647-a11a-ea5751bb81d0@a15dd",
+      "displayName": "",
+      "id": "a15dd",
+      "name": "SM_Wep_Pistol_01_Magazine_01.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3a373": {
+      "importer": "gltf-mesh",
+      "uuid": "198a52f1-716b-4647-a11a-ea5751bb81d0@3a373",
+      "displayName": "",
+      "id": "3a373",
+      "name": "SM_Wep_Pistol_01_Stock_01.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e43a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "198a52f1-716b-4647-a11a-ea5751bb81d0@1e43a",
+      "displayName": "",
+      "id": "1e43a",
+      "name": "file1198.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "05eac": {
+      "importer": "texture",
+      "uuid": "198a52f1-716b-4647-a11a-ea5751bb81d0@05eac",
+      "displayName": "",
+      "id": "05eac",
+      "name": "file1198.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5bd2": {
+      "importer": "gltf-material",
+      "uuid": "198a52f1-716b-4647-a11a-ea5751bb81d0@a5bd2",
+      "displayName": "",
+      "id": "a5bd2",
+      "name": "lambert.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "990b1": {
+      "importer": "gltf-scene",
+      "uuid": "198a52f1-716b-4647-a11a-ea5751bb81d0@990b1",
+      "displayName": "",
+      "id": "990b1",
+      "name": "SM_Wep_Pistol_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1198",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "198a52f1-716b-4647-a11a-ea5751bb81d0@1e43a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "198a52f1-716b-4647-a11a-ea5751bb81d0@990b1",
+    "assetFinder": {
+      "meshes": [
+        "198a52f1-716b-4647-a11a-ea5751bb81d0@ae002",
+        "198a52f1-716b-4647-a11a-ea5751bb81d0@9f508",
+        "198a52f1-716b-4647-a11a-ea5751bb81d0@a6e8b",
+        "198a52f1-716b-4647-a11a-ea5751bb81d0@fc492",
+        "198a52f1-716b-4647-a11a-ea5751bb81d0@a15dd",
+        "198a52f1-716b-4647-a11a-ea5751bb81d0@3a373"
+      ],
+      "skeletons": [],
+      "textures": [
+        "198a52f1-716b-4647-a11a-ea5751bb81d0@05eac"
+      ],
+      "materials": [
+        "198a52f1-716b-4647-a11a-ea5751bb81d0@a5bd2"
+      ],
+      "scenes": [
+        "198a52f1-716b-4647-a11a-ea5751bb81d0@990b1"
+      ]
+    }
+  }
+}

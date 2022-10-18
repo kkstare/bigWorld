@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d0a67e1b-0f8f-40f0-b64b-c66e62bc1ced",
+  "files": [],
+  "subMetas": {
+    "4a9a7": {
+      "importer": "gltf-mesh",
+      "uuid": "d0a67e1b-0f8f-40f0-b64b-c66e62bc1ced@4a9a7",
+      "displayName": "",
+      "id": "4a9a7",
+      "name": "SM_Env_Road_Patch_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "d0a67e1b-0f8f-40f0-b64b-c66e62bc1ced@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e421a": {
+      "importer": "gltf-scene",
+      "uuid": "d0a67e1b-0f8f-40f0-b64b-c66e62bc1ced@e421a",
+      "displayName": "",
+      "id": "e421a",
+      "name": "SM_Env_Road_Patch_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "d0a67e1b-0f8f-40f0-b64b-c66e62bc1ced@e421a",
+    "assetFinder": {
+      "meshes": [
+        "d0a67e1b-0f8f-40f0-b64b-c66e62bc1ced@4a9a7"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "d0a67e1b-0f8f-40f0-b64b-c66e62bc1ced@8d883"
+      ],
+      "scenes": [
+        "d0a67e1b-0f8f-40f0-b64b-c66e62bc1ced@e421a"
+      ]
+    }
+  }
+}

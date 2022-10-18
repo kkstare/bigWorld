@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "cbb724f0-6e5a-48d4-b0d0-b3ef020aa112",
+  "files": [],
+  "subMetas": {
+    "c0cfe": {
+      "importer": "gltf-mesh",
+      "uuid": "cbb724f0-6e5a-48d4-b0d0-b3ef020aa112@c0cfe",
+      "displayName": "",
+      "id": "c0cfe",
+      "name": "SM_Chr_Attach_Scout_Female_Radio_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c4886": {
+      "importer": "gltf-material",
+      "uuid": "cbb724f0-6e5a-48d4-b0d0-b3ef020aa112@c4886",
+      "displayName": "",
+      "id": "c4886",
+      "name": "BloodDecal34.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4ce8b": {
+      "importer": "gltf-scene",
+      "uuid": "cbb724f0-6e5a-48d4-b0d0-b3ef020aa112@4ce8b",
+      "displayName": "",
+      "id": "4ce8b",
+      "name": "SM_Chr_Attach_Scout_Female_Radio_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "cbb724f0-6e5a-48d4-b0d0-b3ef020aa112@4ce8b",
+    "assetFinder": {
+      "meshes": [
+        "cbb724f0-6e5a-48d4-b0d0-b3ef020aa112@c0cfe"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "cbb724f0-6e5a-48d4-b0d0-b3ef020aa112@c4886"
+      ],
+      "scenes": [
+        "cbb724f0-6e5a-48d4-b0d0-b3ef020aa112@4ce8b"
+      ]
+    }
+  }
+}

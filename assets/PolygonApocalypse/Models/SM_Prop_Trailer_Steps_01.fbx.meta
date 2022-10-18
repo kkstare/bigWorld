@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "0cf78fd1-943f-4feb-bc61-d887f6a7e86c",
+  "files": [],
+  "subMetas": {
+    "d600d": {
+      "importer": "gltf-mesh",
+      "uuid": "0cf78fd1-943f-4feb-bc61-d887f6a7e86c@d600d",
+      "displayName": "",
+      "id": "d600d",
+      "name": "SM_Prop_Trailer_Steps_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f1ec6": {
+      "importer": "gltf-embeded-image",
+      "uuid": "0cf78fd1-943f-4feb-bc61-d887f6a7e86c@f1ec6",
+      "displayName": "",
+      "id": "f1ec6",
+      "name": "file110.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "d85a1": {
+      "importer": "texture",
+      "uuid": "0cf78fd1-943f-4feb-bc61-d887f6a7e86c@d85a1",
+      "displayName": "",
+      "id": "d85a1",
+      "name": "file110.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0cf78fd1-943f-4feb-bc61-d887f6a7e86c@f1ec6"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ed320": {
+      "importer": "gltf-material",
+      "uuid": "0cf78fd1-943f-4feb-bc61-d887f6a7e86c@ed320",
+      "displayName": "",
+      "id": "ed320",
+      "name": "lambert33.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "08e0a": {
+      "importer": "gltf-scene",
+      "uuid": "0cf78fd1-943f-4feb-bc61-d887f6a7e86c@08e0a",
+      "displayName": "",
+      "id": "08e0a",
+      "name": "SM_Prop_Trailer_Steps_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file110",
+        "uri": "0cf78fd1-943f-4feb-bc61-d887f6a7e86c@f1ec6"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "0cf78fd1-943f-4feb-bc61-d887f6a7e86c@08e0a",
+    "assetFinder": {
+      "meshes": [
+        "0cf78fd1-943f-4feb-bc61-d887f6a7e86c@d600d"
+      ],
+      "skeletons": [],
+      "textures": [
+        "0cf78fd1-943f-4feb-bc61-d887f6a7e86c@d85a1"
+      ],
+      "materials": [
+        "0cf78fd1-943f-4feb-bc61-d887f6a7e86c@ed320"
+      ],
+      "scenes": [
+        "0cf78fd1-943f-4feb-bc61-d887f6a7e86c@08e0a"
+      ]
+    }
+  }
+}

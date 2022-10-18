@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ff300e74-e112-4be9-8eaf-2ab7a25a4aa3",
+  "files": [],
+  "subMetas": {
+    "f1758": {
+      "importer": "gltf-mesh",
+      "uuid": "ff300e74-e112-4be9-8eaf-2ab7a25a4aa3@f1758",
+      "displayName": "",
+      "id": "f1758",
+      "name": "SM_Item_SmartPhone_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e43a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "ff300e74-e112-4be9-8eaf-2ab7a25a4aa3@1e43a",
+      "displayName": "",
+      "id": "1e43a",
+      "name": "file1198.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "05eac": {
+      "importer": "texture",
+      "uuid": "ff300e74-e112-4be9-8eaf-2ab7a25a4aa3@05eac",
+      "displayName": "",
+      "id": "05eac",
+      "name": "file1198.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a3ca": {
+      "importer": "gltf-material",
+      "uuid": "ff300e74-e112-4be9-8eaf-2ab7a25a4aa3@7a3ca",
+      "displayName": "",
+      "id": "7a3ca",
+      "name": "lambert2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1feaa": {
+      "importer": "gltf-scene",
+      "uuid": "ff300e74-e112-4be9-8eaf-2ab7a25a4aa3@1feaa",
+      "displayName": "",
+      "id": "1feaa",
+      "name": "SM_Item_SmartPhone_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1198",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "ff300e74-e112-4be9-8eaf-2ab7a25a4aa3@1e43a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "ff300e74-e112-4be9-8eaf-2ab7a25a4aa3@1feaa",
+    "assetFinder": {
+      "meshes": [
+        "ff300e74-e112-4be9-8eaf-2ab7a25a4aa3@f1758"
+      ],
+      "skeletons": [],
+      "textures": [
+        "ff300e74-e112-4be9-8eaf-2ab7a25a4aa3@05eac"
+      ],
+      "materials": [
+        "ff300e74-e112-4be9-8eaf-2ab7a25a4aa3@7a3ca"
+      ],
+      "scenes": [
+        "ff300e74-e112-4be9-8eaf-2ab7a25a4aa3@1feaa"
+      ]
+    }
+  }
+}

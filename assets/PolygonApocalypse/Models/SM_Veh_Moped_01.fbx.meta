@@ -1,0 +1,235 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "7d28b9b4-8d72-4db8-9003-b070c755b835",
+  "files": [],
+  "subMetas": {
+    "27676": {
+      "importer": "gltf-mesh",
+      "uuid": "7d28b9b4-8d72-4db8-9003-b070c755b835@27676",
+      "displayName": "",
+      "id": "27676",
+      "name": "SM_Veh_Moped_Wheel_Armour_01.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "91889": {
+      "importer": "gltf-mesh",
+      "uuid": "7d28b9b4-8d72-4db8-9003-b070c755b835@91889",
+      "displayName": "",
+      "id": "91889",
+      "name": "SM_Veh_Moped_RearWheel_01.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bdf6d": {
+      "importer": "gltf-mesh",
+      "uuid": "7d28b9b4-8d72-4db8-9003-b070c755b835@bdf6d",
+      "displayName": "",
+      "id": "bdf6d",
+      "name": "SM_Veh_Moped_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "208ad": {
+      "importer": "gltf-mesh",
+      "uuid": "7d28b9b4-8d72-4db8-9003-b070c755b835@208ad",
+      "displayName": "",
+      "id": "208ad",
+      "name": "SM_Veh_Moped_Handles_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "aecd0": {
+      "importer": "gltf-mesh",
+      "uuid": "7d28b9b4-8d72-4db8-9003-b070c755b835@aecd0",
+      "displayName": "",
+      "id": "aecd0",
+      "name": "SM_Veh_Moped_FrontWheel_Cover_01.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "36e16": {
+      "importer": "gltf-mesh",
+      "uuid": "7d28b9b4-8d72-4db8-9003-b070c755b835@36e16",
+      "displayName": "",
+      "id": "36e16",
+      "name": "SM_Veh_Moped_FrontWheel_01.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a6e99": {
+      "importer": "gltf-mesh",
+      "uuid": "7d28b9b4-8d72-4db8-9003-b070c755b835@a6e99",
+      "displayName": "",
+      "id": "a6e99",
+      "name": "SM_Veh_Moped_Armour_01.mesh",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "008d7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "7d28b9b4-8d72-4db8-9003-b070c755b835@008d7",
+      "displayName": "",
+      "id": "008d7",
+      "name": "__PolygonZombie_Texture_A_2.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "76a36": {
+      "importer": "texture",
+      "uuid": "7d28b9b4-8d72-4db8-9003-b070c755b835@76a36",
+      "displayName": "",
+      "id": "76a36",
+      "name": "__PolygonZombie_Texture_A_2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "7d28b9b4-8d72-4db8-9003-b070c755b835@008d7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e18d5": {
+      "importer": "gltf-material",
+      "uuid": "7d28b9b4-8d72-4db8-9003-b070c755b835@e18d5",
+      "displayName": "",
+      "id": "e18d5",
+      "name": "lambert32.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4b524": {
+      "importer": "gltf-scene",
+      "uuid": "7d28b9b4-8d72-4db8-9003-b070c755b835@4b524",
+      "displayName": "",
+      "id": "4b524",
+      "name": "SM_Veh_Moped_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "__PolygonZombie_Texture_A_2",
+        "uri": "7d28b9b4-8d72-4db8-9003-b070c755b835@008d7"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "7d28b9b4-8d72-4db8-9003-b070c755b835@4b524",
+    "assetFinder": {
+      "meshes": [
+        "7d28b9b4-8d72-4db8-9003-b070c755b835@bdf6d",
+        "7d28b9b4-8d72-4db8-9003-b070c755b835@208ad",
+        "7d28b9b4-8d72-4db8-9003-b070c755b835@aecd0",
+        "7d28b9b4-8d72-4db8-9003-b070c755b835@36e16",
+        "7d28b9b4-8d72-4db8-9003-b070c755b835@27676",
+        "7d28b9b4-8d72-4db8-9003-b070c755b835@91889",
+        "7d28b9b4-8d72-4db8-9003-b070c755b835@a6e99"
+      ],
+      "skeletons": [],
+      "textures": [
+        "7d28b9b4-8d72-4db8-9003-b070c755b835@76a36"
+      ],
+      "materials": [
+        "7d28b9b4-8d72-4db8-9003-b070c755b835@e18d5"
+      ],
+      "scenes": [
+        "7d28b9b4-8d72-4db8-9003-b070c755b835@4b524"
+      ]
+    }
+  }
+}

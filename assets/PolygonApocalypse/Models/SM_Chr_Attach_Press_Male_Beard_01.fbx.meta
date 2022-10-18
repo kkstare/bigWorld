@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e9d68f5f-d5b7-4854-90b6-2bc6f5d1a232",
+  "files": [],
+  "subMetas": {
+    "adbd7": {
+      "importer": "gltf-mesh",
+      "uuid": "e9d68f5f-d5b7-4854-90b6-2bc6f5d1a232@adbd7",
+      "displayName": "",
+      "id": "adbd7",
+      "name": "SM_Chr_Attach_Press_Male_Beard_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "aa2b3": {
+      "importer": "gltf-material",
+      "uuid": "e9d68f5f-d5b7-4854-90b6-2bc6f5d1a232@aa2b3",
+      "displayName": "",
+      "id": "aa2b3",
+      "name": "BloodDecal25.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "605e8": {
+      "importer": "gltf-scene",
+      "uuid": "e9d68f5f-d5b7-4854-90b6-2bc6f5d1a232@605e8",
+      "displayName": "",
+      "id": "605e8",
+      "name": "SM_Chr_Attach_Press_Male_Beard_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "e9d68f5f-d5b7-4854-90b6-2bc6f5d1a232@605e8",
+    "assetFinder": {
+      "meshes": [
+        "e9d68f5f-d5b7-4854-90b6-2bc6f5d1a232@adbd7"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "e9d68f5f-d5b7-4854-90b6-2bc6f5d1a232@aa2b3"
+      ],
+      "scenes": [
+        "e9d68f5f-d5b7-4854-90b6-2bc6f5d1a232@605e8"
+      ]
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "2b58ee61-08e6-4ddd-ad94-207c4de8cc46",
+  "files": [],
+  "subMetas": {
+    "15962": {
+      "importer": "gltf-material",
+      "uuid": "2b58ee61-08e6-4ddd-ad94-207c4de8cc46@15962",
+      "displayName": "",
+      "id": "15962",
+      "name": "db:New_Characters_Rigging_29:BloodDecal.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "61a71": {
+      "importer": "gltf-mesh",
+      "uuid": "2b58ee61-08e6-4ddd-ad94-207c4de8cc46@61a71",
+      "displayName": "",
+      "id": "61a71",
+      "name": "SM_Prop_Bed_Gurney_BodySheet_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "08ace": {
+      "importer": "gltf-scene",
+      "uuid": "2b58ee61-08e6-4ddd-ad94-207c4de8cc46@08ace",
+      "displayName": "",
+      "id": "08ace",
+      "name": "SM_Prop_Bed_Gurney_BodySheet_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "2b58ee61-08e6-4ddd-ad94-207c4de8cc46@08ace",
+    "assetFinder": {
+      "meshes": [
+        "2b58ee61-08e6-4ddd-ad94-207c4de8cc46@61a71"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "2b58ee61-08e6-4ddd-ad94-207c4de8cc46@15962"
+      ],
+      "scenes": [
+        "2b58ee61-08e6-4ddd-ad94-207c4de8cc46@08ace"
+      ]
+    }
+  }
+}

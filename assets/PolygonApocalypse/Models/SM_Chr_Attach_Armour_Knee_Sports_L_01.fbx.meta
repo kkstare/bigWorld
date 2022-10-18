@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f64386af-2f02-484d-9e09-97a8ee7c9d85",
+  "files": [],
+  "subMetas": {
+    "2c3f1": {
+      "importer": "gltf-mesh",
+      "uuid": "f64386af-2f02-484d-9e09-97a8ee7c9d85@2c3f1",
+      "displayName": "",
+      "id": "2c3f1",
+      "name": "SM_Chr_Attach_Armour_Knee_Sports_L_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "577a3": {
+      "importer": "gltf-embeded-image",
+      "uuid": "f64386af-2f02-484d-9e09-97a8ee7c9d85@577a3",
+      "displayName": "",
+      "id": "577a3",
+      "name": "file487.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "9f2ca": {
+      "importer": "texture",
+      "uuid": "f64386af-2f02-484d-9e09-97a8ee7c9d85@9f2ca",
+      "displayName": "",
+      "id": "9f2ca",
+      "name": "file487.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "f64386af-2f02-484d-9e09-97a8ee7c9d85@577a3"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9c292": {
+      "importer": "gltf-material",
+      "uuid": "f64386af-2f02-484d-9e09-97a8ee7c9d85@9c292",
+      "displayName": "",
+      "id": "9c292",
+      "name": "lambert255.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "995ef": {
+      "importer": "gltf-scene",
+      "uuid": "f64386af-2f02-484d-9e09-97a8ee7c9d85@995ef",
+      "displayName": "",
+      "id": "995ef",
+      "name": "SM_Chr_Attach_Armour_Knee_Sports_L_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file487",
+        "uri": "f64386af-2f02-484d-9e09-97a8ee7c9d85@577a3"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "f64386af-2f02-484d-9e09-97a8ee7c9d85@995ef",
+    "assetFinder": {
+      "meshes": [
+        "f64386af-2f02-484d-9e09-97a8ee7c9d85@2c3f1"
+      ],
+      "skeletons": [],
+      "textures": [
+        "f64386af-2f02-484d-9e09-97a8ee7c9d85@9f2ca"
+      ],
+      "materials": [
+        "f64386af-2f02-484d-9e09-97a8ee7c9d85@9c292"
+      ],
+      "scenes": [
+        "f64386af-2f02-484d-9e09-97a8ee7c9d85@995ef"
+      ]
+    }
+  }
+}

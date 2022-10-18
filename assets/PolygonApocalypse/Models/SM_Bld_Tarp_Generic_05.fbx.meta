@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "bace6231-dac0-45dd-846c-a64cbda92b3f",
+  "files": [],
+  "subMetas": {
+    "102d8": {
+      "importer": "gltf-mesh",
+      "uuid": "bace6231-dac0-45dd-846c-a64cbda92b3f@102d8",
+      "displayName": "",
+      "id": "102d8",
+      "name": "SM_Bld_Tarp_Generic_05.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "43c71": {
+      "importer": "gltf-embeded-image",
+      "uuid": "bace6231-dac0-45dd-846c-a64cbda92b3f@43c71",
+      "displayName": "",
+      "id": "43c71",
+      "name": "file1.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "d20e9": {
+      "importer": "texture",
+      "uuid": "bace6231-dac0-45dd-846c-a64cbda92b3f@d20e9",
+      "displayName": "",
+      "id": "d20e9",
+      "name": "file1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "bace6231-dac0-45dd-846c-a64cbda92b3f@43c71"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a3ca": {
+      "importer": "gltf-material",
+      "uuid": "bace6231-dac0-45dd-846c-a64cbda92b3f@7a3ca",
+      "displayName": "",
+      "id": "7a3ca",
+      "name": "lambert2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0fa92": {
+      "importer": "gltf-scene",
+      "uuid": "bace6231-dac0-45dd-846c-a64cbda92b3f@0fa92",
+      "displayName": "",
+      "id": "0fa92",
+      "name": "SM_Bld_Tarp_Generic_05.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1",
+        "uri": "bace6231-dac0-45dd-846c-a64cbda92b3f@43c71"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "bace6231-dac0-45dd-846c-a64cbda92b3f@0fa92",
+    "assetFinder": {
+      "meshes": [
+        "bace6231-dac0-45dd-846c-a64cbda92b3f@102d8"
+      ],
+      "skeletons": [],
+      "textures": [
+        "bace6231-dac0-45dd-846c-a64cbda92b3f@d20e9"
+      ],
+      "materials": [
+        "bace6231-dac0-45dd-846c-a64cbda92b3f@7a3ca"
+      ],
+      "scenes": [
+        "bace6231-dac0-45dd-846c-a64cbda92b3f@0fa92"
+      ]
+    }
+  }
+}

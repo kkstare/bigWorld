@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "7550c853-47bd-4b2e-96f9-898831802fcb",
+  "files": [],
+  "subMetas": {
+    "90f0e": {
+      "importer": "gltf-mesh",
+      "uuid": "7550c853-47bd-4b2e-96f9-898831802fcb@90f0e",
+      "displayName": "",
+      "id": "90f0e",
+      "name": "SM_Bld_Diner_Sign.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f282b": {
+      "importer": "gltf-embeded-image",
+      "uuid": "7550c853-47bd-4b2e-96f9-898831802fcb@f282b",
+      "displayName": "",
+      "id": "f282b",
+      "name": "file1202.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "a5a34": {
+      "importer": "texture",
+      "uuid": "7550c853-47bd-4b2e-96f9-898831802fcb@a5a34",
+      "displayName": "",
+      "id": "a5a34",
+      "name": "file1202.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "7550c853-47bd-4b2e-96f9-898831802fcb@f282b"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fdb30": {
+      "importer": "gltf-material",
+      "uuid": "7550c853-47bd-4b2e-96f9-898831802fcb@fdb30",
+      "displayName": "",
+      "id": "fdb30",
+      "name": "lambert23.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "055f6": {
+      "importer": "gltf-scene",
+      "uuid": "7550c853-47bd-4b2e-96f9-898831802fcb@055f6",
+      "displayName": "",
+      "id": "055f6",
+      "name": "SM_Bld_Diner_Sign.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1202",
+        "uri": "7550c853-47bd-4b2e-96f9-898831802fcb@f282b"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "7550c853-47bd-4b2e-96f9-898831802fcb@055f6",
+    "assetFinder": {
+      "meshes": [
+        "7550c853-47bd-4b2e-96f9-898831802fcb@90f0e"
+      ],
+      "skeletons": [],
+      "textures": [
+        "7550c853-47bd-4b2e-96f9-898831802fcb@a5a34"
+      ],
+      "materials": [
+        "7550c853-47bd-4b2e-96f9-898831802fcb@fdb30"
+      ],
+      "scenes": [
+        "7550c853-47bd-4b2e-96f9-898831802fcb@055f6"
+      ]
+    }
+  }
+}

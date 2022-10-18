@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "896d918f-f657-42a0-8102-e15de617f9a5",
+  "files": [],
+  "subMetas": {
+    "6b805": {
+      "importer": "gltf-mesh",
+      "uuid": "896d918f-f657-42a0-8102-e15de617f9a5@6b805",
+      "displayName": "",
+      "id": "6b805",
+      "name": "SM_Chr_Attach_Nerd_Female_Glasses_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d83ad": {
+      "importer": "gltf-material",
+      "uuid": "896d918f-f657-42a0-8102-e15de617f9a5@d83ad",
+      "displayName": "",
+      "id": "d83ad",
+      "name": "BloodDecal21.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f0754": {
+      "importer": "gltf-scene",
+      "uuid": "896d918f-f657-42a0-8102-e15de617f9a5@f0754",
+      "displayName": "",
+      "id": "f0754",
+      "name": "SM_Chr_Attach_Nerd_Female_Glasses_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "896d918f-f657-42a0-8102-e15de617f9a5@f0754",
+    "assetFinder": {
+      "meshes": [
+        "896d918f-f657-42a0-8102-e15de617f9a5@6b805"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "896d918f-f657-42a0-8102-e15de617f9a5@d83ad"
+      ],
+      "scenes": [
+        "896d918f-f657-42a0-8102-e15de617f9a5@f0754"
+      ]
+    }
+  }
+}

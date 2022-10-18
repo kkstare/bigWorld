@@ -1,0 +1,163 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "8249e89e-a917-4028-9726-72f564b446c2",
+  "files": [],
+  "subMetas": {
+    "23215": {
+      "importer": "gltf-embeded-image",
+      "uuid": "8249e89e-a917-4028-9726-72f564b446c2@23215",
+      "displayName": "",
+      "id": "23215",
+      "name": "file1031.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "44217": {
+      "importer": "gltf-mesh",
+      "uuid": "8249e89e-a917-4028-9726-72f564b446c2@44217",
+      "displayName": "",
+      "id": "44217",
+      "name": "SM_Prop_Bear_Trap_Jaw_01.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b4d3d": {
+      "importer": "gltf-mesh",
+      "uuid": "8249e89e-a917-4028-9726-72f564b446c2@b4d3d",
+      "displayName": "",
+      "id": "b4d3d",
+      "name": "SM_Prop_Bear_Trap_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e9adc": {
+      "importer": "gltf-mesh",
+      "uuid": "8249e89e-a917-4028-9726-72f564b446c2@e9adc",
+      "displayName": "",
+      "id": "e9adc",
+      "name": "SM_Prop_Bear_Trap_Jaw_02.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5691d": {
+      "importer": "texture",
+      "uuid": "8249e89e-a917-4028-9726-72f564b446c2@5691d",
+      "displayName": "",
+      "id": "5691d",
+      "name": "file1031.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "8249e89e-a917-4028-9726-72f564b446c2@23215"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "38a38": {
+      "importer": "gltf-material",
+      "uuid": "8249e89e-a917-4028-9726-72f564b446c2@38a38",
+      "displayName": "",
+      "id": "38a38",
+      "name": "lambert886.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b9f4a": {
+      "importer": "gltf-scene",
+      "uuid": "8249e89e-a917-4028-9726-72f564b446c2@b9f4a",
+      "displayName": "",
+      "id": "b9f4a",
+      "name": "SM_Prop_Bear_Trap_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1031",
+        "uri": "8249e89e-a917-4028-9726-72f564b446c2@23215"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "8249e89e-a917-4028-9726-72f564b446c2@b9f4a",
+    "assetFinder": {
+      "meshes": [
+        "8249e89e-a917-4028-9726-72f564b446c2@b4d3d",
+        "8249e89e-a917-4028-9726-72f564b446c2@e9adc",
+        "8249e89e-a917-4028-9726-72f564b446c2@44217"
+      ],
+      "skeletons": [],
+      "textures": [
+        "8249e89e-a917-4028-9726-72f564b446c2@5691d"
+      ],
+      "materials": [
+        "8249e89e-a917-4028-9726-72f564b446c2@38a38"
+      ],
+      "scenes": [
+        "8249e89e-a917-4028-9726-72f564b446c2@b9f4a"
+      ]
+    }
+  }
+}

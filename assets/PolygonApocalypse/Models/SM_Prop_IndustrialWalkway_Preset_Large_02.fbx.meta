@@ -1,0 +1,190 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "1a98bbd6-05a1-45c4-8575-c696c93b91ec",
+  "files": [],
+  "subMetas": {
+    "14661": {
+      "importer": "gltf-material",
+      "uuid": "1a98bbd6-05a1-45c4-8575-c696c93b91ec@14661",
+      "displayName": "",
+      "id": "14661",
+      "name": "A_Wire.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "38577": {
+      "importer": "texture",
+      "uuid": "1a98bbd6-05a1-45c4-8575-c696c93b91ec@38577",
+      "displayName": "",
+      "id": "38577",
+      "name": "file1135.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "1a98bbd6-05a1-45c4-8575-c696c93b91ec@209c7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "93f34": {
+      "importer": "gltf-mesh",
+      "uuid": "1a98bbd6-05a1-45c4-8575-c696c93b91ec@93f34",
+      "displayName": "",
+      "id": "93f34",
+      "name": "SM_Prop_IndustrialWalkway_Preset_Large_02_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "1a98bbd6-05a1-45c4-8575-c696c93b91ec@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "209c7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "1a98bbd6-05a1-45c4-8575-c696c93b91ec@209c7",
+      "displayName": "",
+      "id": "209c7",
+      "name": "file1135.image",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "1a98bbd6-05a1-45c4-8575-c696c93b91ec@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "1a98bbd6-05a1-45c4-8575-c696c93b91ec@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e8964": {
+      "importer": "gltf-scene",
+      "uuid": "1a98bbd6-05a1-45c4-8575-c696c93b91ec@e8964",
+      "displayName": "",
+      "id": "e8964",
+      "name": "SM_Prop_IndustrialWalkway_Preset_Large_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "1a98bbd6-05a1-45c4-8575-c696c93b91ec@5de53"
+      },
+      {
+        "name": "file1135",
+        "uri": "1a98bbd6-05a1-45c4-8575-c696c93b91ec@209c7"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "1a98bbd6-05a1-45c4-8575-c696c93b91ec@e8964",
+    "assetFinder": {
+      "meshes": [
+        "1a98bbd6-05a1-45c4-8575-c696c93b91ec@93f34"
+      ],
+      "skeletons": [],
+      "textures": [
+        "1a98bbd6-05a1-45c4-8575-c696c93b91ec@988dc",
+        "1a98bbd6-05a1-45c4-8575-c696c93b91ec@38577"
+      ],
+      "materials": [
+        "1a98bbd6-05a1-45c4-8575-c696c93b91ec@8d883",
+        "1a98bbd6-05a1-45c4-8575-c696c93b91ec@14661"
+      ],
+      "scenes": [
+        "1a98bbd6-05a1-45c4-8575-c696c93b91ec@e8964"
+      ]
+    }
+  }
+}

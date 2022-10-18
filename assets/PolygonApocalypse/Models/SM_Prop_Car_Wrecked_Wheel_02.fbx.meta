@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "383242a0-b156-4e5d-9da8-0442a2dbcbd6",
+  "files": [],
+  "subMetas": {
+    "80668": {
+      "importer": "gltf-scene",
+      "uuid": "383242a0-b156-4e5d-9da8-0442a2dbcbd6@80668",
+      "displayName": "",
+      "id": "80668",
+      "name": "SM_Prop_Car_Wrecked_Wheel_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "08fa7": {
+      "importer": "gltf-mesh",
+      "uuid": "383242a0-b156-4e5d-9da8-0442a2dbcbd6@08fa7",
+      "displayName": "",
+      "id": "08fa7",
+      "name": "SM_Prop_Car_Wrecked_Wheel_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6ab56": {
+      "importer": "gltf-embeded-image",
+      "uuid": "383242a0-b156-4e5d-9da8-0442a2dbcbd6@6ab56",
+      "displayName": "",
+      "id": "6ab56",
+      "name": "file112.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "cd223": {
+      "importer": "texture",
+      "uuid": "383242a0-b156-4e5d-9da8-0442a2dbcbd6@cd223",
+      "displayName": "",
+      "id": "cd223",
+      "name": "file112.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "383242a0-b156-4e5d-9da8-0442a2dbcbd6@6ab56"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3ecd6": {
+      "importer": "gltf-material",
+      "uuid": "383242a0-b156-4e5d-9da8-0442a2dbcbd6@3ecd6",
+      "displayName": "",
+      "id": "3ecd6",
+      "name": "Vehicles.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file112",
+        "uri": "383242a0-b156-4e5d-9da8-0442a2dbcbd6@6ab56"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "383242a0-b156-4e5d-9da8-0442a2dbcbd6@80668",
+    "assetFinder": {
+      "meshes": [
+        "383242a0-b156-4e5d-9da8-0442a2dbcbd6@08fa7"
+      ],
+      "skeletons": [],
+      "textures": [
+        "383242a0-b156-4e5d-9da8-0442a2dbcbd6@cd223"
+      ],
+      "materials": [
+        "383242a0-b156-4e5d-9da8-0442a2dbcbd6@3ecd6"
+      ],
+      "scenes": [
+        "383242a0-b156-4e5d-9da8-0442a2dbcbd6@80668"
+      ]
+    }
+  }
+}

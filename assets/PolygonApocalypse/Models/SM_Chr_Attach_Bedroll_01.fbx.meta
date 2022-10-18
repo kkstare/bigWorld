@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a738e2ba-5c72-4a45-8c82-350e4c9c891d",
+  "files": [],
+  "subMetas": {
+    "f1cf0": {
+      "importer": "gltf-mesh",
+      "uuid": "a738e2ba-5c72-4a45-8c82-350e4c9c891d@f1cf0",
+      "displayName": "",
+      "id": "f1cf0",
+      "name": "SM_Chr_Attach_Bedroll_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0d88e": {
+      "importer": "gltf-embeded-image",
+      "uuid": "a738e2ba-5c72-4a45-8c82-350e4c9c891d@0d88e",
+      "displayName": "",
+      "id": "0d88e",
+      "name": "file508.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "f6b71": {
+      "importer": "texture",
+      "uuid": "a738e2ba-5c72-4a45-8c82-350e4c9c891d@f6b71",
+      "displayName": "",
+      "id": "f6b71",
+      "name": "file508.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "a738e2ba-5c72-4a45-8c82-350e4c9c891d@0d88e"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b1287": {
+      "importer": "gltf-material",
+      "uuid": "a738e2ba-5c72-4a45-8c82-350e4c9c891d@b1287",
+      "displayName": "",
+      "id": "b1287",
+      "name": "lambert276.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "552c8": {
+      "importer": "gltf-scene",
+      "uuid": "a738e2ba-5c72-4a45-8c82-350e4c9c891d@552c8",
+      "displayName": "",
+      "id": "552c8",
+      "name": "SM_Chr_Attach_Bedroll_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file508",
+        "uri": "a738e2ba-5c72-4a45-8c82-350e4c9c891d@0d88e"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "a738e2ba-5c72-4a45-8c82-350e4c9c891d@552c8",
+    "assetFinder": {
+      "meshes": [
+        "a738e2ba-5c72-4a45-8c82-350e4c9c891d@f1cf0"
+      ],
+      "skeletons": [],
+      "textures": [
+        "a738e2ba-5c72-4a45-8c82-350e4c9c891d@f6b71"
+      ],
+      "materials": [
+        "a738e2ba-5c72-4a45-8c82-350e4c9c891d@b1287"
+      ],
+      "scenes": [
+        "a738e2ba-5c72-4a45-8c82-350e4c9c891d@552c8"
+      ]
+    }
+  }
+}

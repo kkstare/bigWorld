@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "2f92990b-4ea7-4702-b21d-c77b5b684d4b",
+  "files": [],
+  "subMetas": {
+    "48721": {
+      "importer": "gltf-scene",
+      "uuid": "2f92990b-4ea7-4702-b21d-c77b5b684d4b@48721",
+      "displayName": "",
+      "id": "48721",
+      "name": "SM_Env_StormCanal_Straight_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fb08f": {
+      "importer": "gltf-mesh",
+      "uuid": "2f92990b-4ea7-4702-b21d-c77b5b684d4b@fb08f",
+      "displayName": "",
+      "id": "fb08f",
+      "name": "SM_Env_StormCanal_Straight_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b225a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "2f92990b-4ea7-4702-b21d-c77b5b684d4b@b225a",
+      "displayName": "",
+      "id": "b225a",
+      "name": "file996.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "f0e3c": {
+      "importer": "texture",
+      "uuid": "2f92990b-4ea7-4702-b21d-c77b5b684d4b@f0e3c",
+      "displayName": "",
+      "id": "f0e3c",
+      "name": "file996.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "2f92990b-4ea7-4702-b21d-c77b5b684d4b@b225a"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a1e29": {
+      "importer": "gltf-material",
+      "uuid": "2f92990b-4ea7-4702-b21d-c77b5b684d4b@a1e29",
+      "displayName": "",
+      "id": "a1e29",
+      "name": "Base_Maya_Scene:pasted__MiniColour44.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file996",
+        "uri": "2f92990b-4ea7-4702-b21d-c77b5b684d4b@b225a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "2f92990b-4ea7-4702-b21d-c77b5b684d4b@48721",
+    "assetFinder": {
+      "meshes": [
+        "2f92990b-4ea7-4702-b21d-c77b5b684d4b@fb08f"
+      ],
+      "skeletons": [],
+      "textures": [
+        "2f92990b-4ea7-4702-b21d-c77b5b684d4b@f0e3c"
+      ],
+      "materials": [
+        "2f92990b-4ea7-4702-b21d-c77b5b684d4b@a1e29"
+      ],
+      "scenes": [
+        "2f92990b-4ea7-4702-b21d-c77b5b684d4b@48721"
+      ]
+    }
+  }
+}

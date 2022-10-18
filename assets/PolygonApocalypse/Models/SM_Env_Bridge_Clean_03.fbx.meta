@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c07f0ea1-3303-491f-8220-e6e3932d5679",
+  "files": [],
+  "subMetas": {
+    "18830": {
+      "importer": "gltf-mesh",
+      "uuid": "c07f0ea1-3303-491f-8220-e6e3932d5679@18830",
+      "displayName": "",
+      "id": "18830",
+      "name": "SM_Env_Bridge_Clean_03.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e942": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c07f0ea1-3303-491f-8220-e6e3932d5679@1e942",
+      "displayName": "",
+      "id": "1e942",
+      "name": "Copter:file112.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "585d0": {
+      "importer": "texture",
+      "uuid": "c07f0ea1-3303-491f-8220-e6e3932d5679@585d0",
+      "displayName": "",
+      "id": "585d0",
+      "name": "Copter:file112.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c07f0ea1-3303-491f-8220-e6e3932d5679@1e942"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a3ca": {
+      "importer": "gltf-material",
+      "uuid": "c07f0ea1-3303-491f-8220-e6e3932d5679@7a3ca",
+      "displayName": "",
+      "id": "7a3ca",
+      "name": "lambert2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6d001": {
+      "importer": "gltf-scene",
+      "uuid": "c07f0ea1-3303-491f-8220-e6e3932d5679@6d001",
+      "displayName": "",
+      "id": "6d001",
+      "name": "SM_Env_Bridge_Clean_03.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Copter:file112",
+        "uri": "c07f0ea1-3303-491f-8220-e6e3932d5679@1e942"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "c07f0ea1-3303-491f-8220-e6e3932d5679@6d001",
+    "assetFinder": {
+      "meshes": [
+        "c07f0ea1-3303-491f-8220-e6e3932d5679@18830"
+      ],
+      "skeletons": [],
+      "textures": [
+        "c07f0ea1-3303-491f-8220-e6e3932d5679@585d0"
+      ],
+      "materials": [
+        "c07f0ea1-3303-491f-8220-e6e3932d5679@7a3ca"
+      ],
+      "scenes": [
+        "c07f0ea1-3303-491f-8220-e6e3932d5679@6d001"
+      ]
+    }
+  }
+}

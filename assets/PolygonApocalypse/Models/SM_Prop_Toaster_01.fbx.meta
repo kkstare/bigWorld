@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "076b6a13-1b2f-4001-81a1-cf833706a7cd",
+  "files": [],
+  "subMetas": {
+    "b2cbd": {
+      "importer": "gltf-mesh",
+      "uuid": "076b6a13-1b2f-4001-81a1-cf833706a7cd@b2cbd",
+      "displayName": "",
+      "id": "b2cbd",
+      "name": "SM_Prop_Toaster_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "076b6a13-1b2f-4001-81a1-cf833706a7cd@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "076b6a13-1b2f-4001-81a1-cf833706a7cd@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "076b6a13-1b2f-4001-81a1-cf833706a7cd@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c8856": {
+      "importer": "gltf-scene",
+      "uuid": "076b6a13-1b2f-4001-81a1-cf833706a7cd@c8856",
+      "displayName": "",
+      "id": "c8856",
+      "name": "SM_Prop_Toaster_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "076b6a13-1b2f-4001-81a1-cf833706a7cd@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "076b6a13-1b2f-4001-81a1-cf833706a7cd@c8856",
+    "assetFinder": {
+      "meshes": [
+        "076b6a13-1b2f-4001-81a1-cf833706a7cd@b2cbd"
+      ],
+      "skeletons": [],
+      "textures": [
+        "076b6a13-1b2f-4001-81a1-cf833706a7cd@988dc"
+      ],
+      "materials": [
+        "076b6a13-1b2f-4001-81a1-cf833706a7cd@8d883"
+      ],
+      "scenes": [
+        "076b6a13-1b2f-4001-81a1-cf833706a7cd@c8856"
+      ]
+    }
+  }
+}

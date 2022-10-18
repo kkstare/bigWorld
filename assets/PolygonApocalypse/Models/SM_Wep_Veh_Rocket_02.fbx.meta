@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "76ee7770-1c5c-420a-bc5a-7952d45c06ec",
+  "files": [],
+  "subMetas": {
+    "e94f0": {
+      "importer": "gltf-mesh",
+      "uuid": "76ee7770-1c5c-420a-bc5a-7952d45c06ec@e94f0",
+      "displayName": "",
+      "id": "e94f0",
+      "name": "SM_Wep_Veh_Rocket_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c3a14": {
+      "importer": "gltf-material",
+      "uuid": "76ee7770-1c5c-420a-bc5a-7952d45c06ec@c3a14",
+      "displayName": "",
+      "id": "c3a14",
+      "name": "pasted__lambert97.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2dac3": {
+      "importer": "gltf-scene",
+      "uuid": "76ee7770-1c5c-420a-bc5a-7952d45c06ec@2dac3",
+      "displayName": "",
+      "id": "2dac3",
+      "name": "SM_Wep_Veh_Rocket_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "76ee7770-1c5c-420a-bc5a-7952d45c06ec@2dac3",
+    "assetFinder": {
+      "meshes": [
+        "76ee7770-1c5c-420a-bc5a-7952d45c06ec@e94f0"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "76ee7770-1c5c-420a-bc5a-7952d45c06ec@c3a14"
+      ],
+      "scenes": [
+        "76ee7770-1c5c-420a-bc5a-7952d45c06ec@2dac3"
+      ]
+    }
+  }
+}

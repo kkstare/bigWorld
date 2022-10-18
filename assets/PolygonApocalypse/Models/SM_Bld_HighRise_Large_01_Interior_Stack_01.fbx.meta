@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "1d1cc703-1903-48dd-99b9-1c9806e894cf",
+  "files": [],
+  "subMetas": {
+    "5dbcb": {
+      "importer": "gltf-mesh",
+      "uuid": "1d1cc703-1903-48dd-99b9-1c9806e894cf@5dbcb",
+      "displayName": "",
+      "id": "5dbcb",
+      "name": "SM_Bld_HighRise_Large_01_Interior_Stack_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "582f5": {
+      "importer": "gltf-material",
+      "uuid": "1d1cc703-1903-48dd-99b9-1c9806e894cf@582f5",
+      "displayName": "",
+      "id": "582f5",
+      "name": "lambert38.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d82e5": {
+      "importer": "gltf-scene",
+      "uuid": "1d1cc703-1903-48dd-99b9-1c9806e894cf@d82e5",
+      "displayName": "",
+      "id": "d82e5",
+      "name": "SM_Bld_HighRise_Large_01_Interior_Stack_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "1d1cc703-1903-48dd-99b9-1c9806e894cf@d82e5",
+    "assetFinder": {
+      "meshes": [
+        "1d1cc703-1903-48dd-99b9-1c9806e894cf@5dbcb"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "1d1cc703-1903-48dd-99b9-1c9806e894cf@582f5"
+      ],
+      "scenes": [
+        "1d1cc703-1903-48dd-99b9-1c9806e894cf@d82e5"
+      ]
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "886b7ff6-f418-40c4-aa56-7263092dec94",
+  "files": [],
+  "subMetas": {
+    "20ca4": {
+      "importer": "gltf-mesh",
+      "uuid": "886b7ff6-f418-40c4-aa56-7263092dec94@20ca4",
+      "displayName": "",
+      "id": "20ca4",
+      "name": "SM_Env_Path_DoorLeft_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bf8ac": {
+      "importer": "gltf-embeded-image",
+      "uuid": "886b7ff6-f418-40c4-aa56-7263092dec94@bf8ac",
+      "displayName": "",
+      "id": "bf8ac",
+      "name": "file999.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "e4df9": {
+      "importer": "texture",
+      "uuid": "886b7ff6-f418-40c4-aa56-7263092dec94@e4df9",
+      "displayName": "",
+      "id": "e4df9",
+      "name": "file999.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "886b7ff6-f418-40c4-aa56-7263092dec94@bf8ac"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "886b7ff6-f418-40c4-aa56-7263092dec94@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6c416": {
+      "importer": "gltf-scene",
+      "uuid": "886b7ff6-f418-40c4-aa56-7263092dec94@6c416",
+      "displayName": "",
+      "id": "6c416",
+      "name": "SM_Env_Path_DoorLeft_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file999",
+        "uri": "886b7ff6-f418-40c4-aa56-7263092dec94@bf8ac"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "886b7ff6-f418-40c4-aa56-7263092dec94@6c416",
+    "assetFinder": {
+      "meshes": [
+        "886b7ff6-f418-40c4-aa56-7263092dec94@20ca4"
+      ],
+      "skeletons": [],
+      "textures": [
+        "886b7ff6-f418-40c4-aa56-7263092dec94@e4df9"
+      ],
+      "materials": [
+        "886b7ff6-f418-40c4-aa56-7263092dec94@8d883"
+      ],
+      "scenes": [
+        "886b7ff6-f418-40c4-aa56-7263092dec94@6c416"
+      ]
+    }
+  }
+}

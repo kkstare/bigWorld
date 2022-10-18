@@ -1,0 +1,145 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "3448bae8-f6bf-4ea4-96cd-b4859a3c773e",
+  "files": [],
+  "subMetas": {
+    "d4608": {
+      "importer": "gltf-mesh",
+      "uuid": "3448bae8-f6bf-4ea4-96cd-b4859a3c773e@d4608",
+      "displayName": "",
+      "id": "d4608",
+      "name": "SM_Bld_HeliPad_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e83ad": {
+      "importer": "gltf-mesh",
+      "uuid": "3448bae8-f6bf-4ea4-96cd-b4859a3c773e@e83ad",
+      "displayName": "",
+      "id": "e83ad",
+      "name": "SM_Bld_HeliPad_Skirt_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e942": {
+      "importer": "gltf-embeded-image",
+      "uuid": "3448bae8-f6bf-4ea4-96cd-b4859a3c773e@1e942",
+      "displayName": "",
+      "id": "1e942",
+      "name": "Copter:file112.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "585d0": {
+      "importer": "texture",
+      "uuid": "3448bae8-f6bf-4ea4-96cd-b4859a3c773e@585d0",
+      "displayName": "",
+      "id": "585d0",
+      "name": "Copter:file112.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3448bae8-f6bf-4ea4-96cd-b4859a3c773e@1e942"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4c740": {
+      "importer": "gltf-material",
+      "uuid": "3448bae8-f6bf-4ea4-96cd-b4859a3c773e@4c740",
+      "displayName": "",
+      "id": "4c740",
+      "name": "Copter:lambert12.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e562f": {
+      "importer": "gltf-scene",
+      "uuid": "3448bae8-f6bf-4ea4-96cd-b4859a3c773e@e562f",
+      "displayName": "",
+      "id": "e562f",
+      "name": "SM_Bld_HeliPad_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Copter:file112",
+        "uri": "3448bae8-f6bf-4ea4-96cd-b4859a3c773e@1e942"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "3448bae8-f6bf-4ea4-96cd-b4859a3c773e@e562f",
+    "assetFinder": {
+      "meshes": [
+        "3448bae8-f6bf-4ea4-96cd-b4859a3c773e@d4608",
+        "3448bae8-f6bf-4ea4-96cd-b4859a3c773e@e83ad"
+      ],
+      "skeletons": [],
+      "textures": [
+        "3448bae8-f6bf-4ea4-96cd-b4859a3c773e@585d0"
+      ],
+      "materials": [
+        "3448bae8-f6bf-4ea4-96cd-b4859a3c773e@4c740"
+      ],
+      "scenes": [
+        "3448bae8-f6bf-4ea4-96cd-b4859a3c773e@e562f"
+      ]
+    }
+  }
+}

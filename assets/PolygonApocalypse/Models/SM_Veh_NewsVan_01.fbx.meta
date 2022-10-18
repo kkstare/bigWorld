@@ -1,0 +1,368 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "bad92a84-cfcc-4cb6-aa6e-42e636c76303",
+  "files": [],
+  "subMetas": {
+    "33258": {
+      "importer": "gltf-mesh",
+      "uuid": "bad92a84-cfcc-4cb6-aa6e-42e636c76303@33258",
+      "displayName": "",
+      "id": "33258",
+      "name": "SM_Veh_NewsVan_SteeringW.mesh",
+      "userData": {
+        "gltfIndex": 13
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "40519": {
+      "importer": "gltf-mesh",
+      "uuid": "bad92a84-cfcc-4cb6-aa6e-42e636c76303@40519",
+      "displayName": "",
+      "id": "40519",
+      "name": "SM_Veh_NewsVan_Roof_Props_01.mesh",
+      "userData": {
+        "gltfIndex": 14
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3d0dc": {
+      "importer": "gltf-mesh",
+      "uuid": "bad92a84-cfcc-4cb6-aa6e-42e636c76303@3d0dc",
+      "displayName": "",
+      "id": "3d0dc",
+      "name": "SM_Veh_NewsVan_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "503da": {
+      "importer": "gltf-mesh",
+      "uuid": "bad92a84-cfcc-4cb6-aa6e-42e636c76303@503da",
+      "displayName": "",
+      "id": "503da",
+      "name": "SM_Veh_NewsVan_Glass_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "31edc": {
+      "importer": "gltf-mesh",
+      "uuid": "bad92a84-cfcc-4cb6-aa6e-42e636c76303@31edc",
+      "displayName": "",
+      "id": "31edc",
+      "name": "SM_Veh_NewsVan_Top_01.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a7303": {
+      "importer": "gltf-mesh",
+      "uuid": "bad92a84-cfcc-4cb6-aa6e-42e636c76303@a7303",
+      "displayName": "",
+      "id": "a7303",
+      "name": "SM_Veh_NewsVan_Top_Dish_02.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "70b33": {
+      "importer": "gltf-mesh",
+      "uuid": "bad92a84-cfcc-4cb6-aa6e-42e636c76303@70b33",
+      "displayName": "",
+      "id": "70b33",
+      "name": "SM_Veh_NewsVan_Wheel_rl1.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9c3cf": {
+      "importer": "gltf-mesh",
+      "uuid": "bad92a84-cfcc-4cb6-aa6e-42e636c76303@9c3cf",
+      "displayName": "",
+      "id": "9c3cf",
+      "name": "SM_Veh_NewsVan_Top_Dish_01.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4ee09": {
+      "importer": "gltf-mesh",
+      "uuid": "bad92a84-cfcc-4cb6-aa6e-42e636c76303@4ee09",
+      "displayName": "",
+      "id": "4ee09",
+      "name": "SM_Veh_NewsVan_Wheel_fl.mesh",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f01bd": {
+      "importer": "gltf-mesh",
+      "uuid": "bad92a84-cfcc-4cb6-aa6e-42e636c76303@f01bd",
+      "displayName": "",
+      "id": "f01bd",
+      "name": "SM_Veh_NewsVan_Door_l.mesh",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2a669": {
+      "importer": "gltf-mesh",
+      "uuid": "bad92a84-cfcc-4cb6-aa6e-42e636c76303@2a669",
+      "displayName": "",
+      "id": "2a669",
+      "name": "SM_Veh_NewsVan_Door_l_Glass.mesh",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e6086": {
+      "importer": "gltf-mesh",
+      "uuid": "bad92a84-cfcc-4cb6-aa6e-42e636c76303@e6086",
+      "displayName": "",
+      "id": "e6086",
+      "name": "SM_Veh_NewsVan_Wheel_rl.mesh",
+      "userData": {
+        "gltfIndex": 9
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8f3e5": {
+      "importer": "gltf-mesh",
+      "uuid": "bad92a84-cfcc-4cb6-aa6e-42e636c76303@8f3e5",
+      "displayName": "",
+      "id": "8f3e5",
+      "name": "SM_Veh_NewsVan_Wheel_fr.mesh",
+      "userData": {
+        "gltfIndex": 10
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a6213": {
+      "importer": "gltf-mesh",
+      "uuid": "bad92a84-cfcc-4cb6-aa6e-42e636c76303@a6213",
+      "displayName": "",
+      "id": "a6213",
+      "name": "SM_Veh_NewsVan_Door_r.mesh",
+      "userData": {
+        "gltfIndex": 11
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dd90c": {
+      "importer": "gltf-mesh",
+      "uuid": "bad92a84-cfcc-4cb6-aa6e-42e636c76303@dd90c",
+      "displayName": "",
+      "id": "dd90c",
+      "name": "SM_Veh_NewsVan_Door_r_Glass.mesh",
+      "userData": {
+        "gltfIndex": 12
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6dd0f": {
+      "importer": "gltf-mesh",
+      "uuid": "bad92a84-cfcc-4cb6-aa6e-42e636c76303@6dd0f",
+      "displayName": "",
+      "id": "6dd0f",
+      "name": "SM_Veh_NewsVan_Glass_Armour_01.mesh",
+      "userData": {
+        "gltfIndex": 15
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "550bd": {
+      "importer": "gltf-mesh",
+      "uuid": "bad92a84-cfcc-4cb6-aa6e-42e636c76303@550bd",
+      "displayName": "",
+      "id": "550bd",
+      "name": "SM_Veh_NewsVan_Armour_01.mesh",
+      "userData": {
+        "gltfIndex": 16
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3df92": {
+      "importer": "gltf-material",
+      "uuid": "bad92a84-cfcc-4cb6-aa6e-42e636c76303@3df92",
+      "displayName": "",
+      "id": "3df92",
+      "name": "___BloodDecal1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d33d3": {
+      "importer": "gltf-scene",
+      "uuid": "bad92a84-cfcc-4cb6-aa6e-42e636c76303@d33d3",
+      "displayName": "",
+      "id": "d33d3",
+      "name": "SM_Veh_NewsVan_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "bad92a84-cfcc-4cb6-aa6e-42e636c76303@d33d3",
+    "assetFinder": {
+      "meshes": [
+        "bad92a84-cfcc-4cb6-aa6e-42e636c76303@3d0dc",
+        "bad92a84-cfcc-4cb6-aa6e-42e636c76303@503da",
+        "bad92a84-cfcc-4cb6-aa6e-42e636c76303@31edc",
+        "bad92a84-cfcc-4cb6-aa6e-42e636c76303@a7303",
+        "bad92a84-cfcc-4cb6-aa6e-42e636c76303@70b33",
+        "bad92a84-cfcc-4cb6-aa6e-42e636c76303@9c3cf",
+        "bad92a84-cfcc-4cb6-aa6e-42e636c76303@4ee09",
+        "bad92a84-cfcc-4cb6-aa6e-42e636c76303@f01bd",
+        "bad92a84-cfcc-4cb6-aa6e-42e636c76303@2a669",
+        "bad92a84-cfcc-4cb6-aa6e-42e636c76303@e6086",
+        "bad92a84-cfcc-4cb6-aa6e-42e636c76303@8f3e5",
+        "bad92a84-cfcc-4cb6-aa6e-42e636c76303@a6213",
+        "bad92a84-cfcc-4cb6-aa6e-42e636c76303@dd90c",
+        "bad92a84-cfcc-4cb6-aa6e-42e636c76303@33258",
+        "bad92a84-cfcc-4cb6-aa6e-42e636c76303@40519",
+        "bad92a84-cfcc-4cb6-aa6e-42e636c76303@6dd0f",
+        "bad92a84-cfcc-4cb6-aa6e-42e636c76303@550bd"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "bad92a84-cfcc-4cb6-aa6e-42e636c76303@3df92"
+      ],
+      "scenes": [
+        "bad92a84-cfcc-4cb6-aa6e-42e636c76303@d33d3"
+      ]
+    }
+  }
+}

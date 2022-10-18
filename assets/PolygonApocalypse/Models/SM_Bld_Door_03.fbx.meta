@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ab7bd5bb-cb4a-448b-b985-83c1ed3ecd16",
+  "files": [],
+  "subMetas": {
+    "c7db9": {
+      "importer": "gltf-mesh",
+      "uuid": "ab7bd5bb-cb4a-448b-b985-83c1ed3ecd16@c7db9",
+      "displayName": "",
+      "id": "c7db9",
+      "name": "SM_Bld_Door_03.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "ab7bd5bb-cb4a-448b-b985-83c1ed3ecd16@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "ab7bd5bb-cb4a-448b-b985-83c1ed3ecd16@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "ab7bd5bb-cb4a-448b-b985-83c1ed3ecd16@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f3da5": {
+      "importer": "gltf-scene",
+      "uuid": "ab7bd5bb-cb4a-448b-b985-83c1ed3ecd16@f3da5",
+      "displayName": "",
+      "id": "f3da5",
+      "name": "SM_Bld_Door_03.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "ab7bd5bb-cb4a-448b-b985-83c1ed3ecd16@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "ab7bd5bb-cb4a-448b-b985-83c1ed3ecd16@f3da5",
+    "assetFinder": {
+      "meshes": [
+        "ab7bd5bb-cb4a-448b-b985-83c1ed3ecd16@c7db9"
+      ],
+      "skeletons": [],
+      "textures": [
+        "ab7bd5bb-cb4a-448b-b985-83c1ed3ecd16@988dc"
+      ],
+      "materials": [
+        "ab7bd5bb-cb4a-448b-b985-83c1ed3ecd16@8d883"
+      ],
+      "scenes": [
+        "ab7bd5bb-cb4a-448b-b985-83c1ed3ecd16@f3da5"
+      ]
+    }
+  }
+}

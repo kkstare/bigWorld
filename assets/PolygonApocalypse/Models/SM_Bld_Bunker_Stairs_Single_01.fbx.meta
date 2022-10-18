@@ -1,0 +1,164 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "aabb4650-4cf8-4028-8afd-85377e84e2a9",
+  "files": [],
+  "subMetas": {
+    "8cb66": {
+      "importer": "gltf-mesh",
+      "uuid": "aabb4650-4cf8-4028-8afd-85377e84e2a9@8cb66",
+      "displayName": "",
+      "id": "8cb66",
+      "name": "SM_Bld_Bunker_Stairs_Single_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "44adf": {
+      "importer": "gltf-mesh",
+      "uuid": "aabb4650-4cf8-4028-8afd-85377e84e2a9@44adf",
+      "displayName": "",
+      "id": "44adf",
+      "name": "SM_Bld_Bunker_Stairs_Single_Wall_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dbdfe": {
+      "importer": "gltf-mesh",
+      "uuid": "aabb4650-4cf8-4028-8afd-85377e84e2a9@dbdfe",
+      "displayName": "",
+      "id": "dbdfe",
+      "name": "SM_Bld_Bunker_Stairs_Single_Wall_02.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "aabb4650-4cf8-4028-8afd-85377e84e2a9@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "aabb4650-4cf8-4028-8afd-85377e84e2a9@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "aabb4650-4cf8-4028-8afd-85377e84e2a9@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1ab00": {
+      "importer": "gltf-scene",
+      "uuid": "aabb4650-4cf8-4028-8afd-85377e84e2a9@1ab00",
+      "displayName": "",
+      "id": "1ab00",
+      "name": "SM_Bld_Bunker_Stairs_Single_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "aabb4650-4cf8-4028-8afd-85377e84e2a9@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "aabb4650-4cf8-4028-8afd-85377e84e2a9@1ab00",
+    "assetFinder": {
+      "meshes": [
+        "aabb4650-4cf8-4028-8afd-85377e84e2a9@8cb66",
+        "aabb4650-4cf8-4028-8afd-85377e84e2a9@44adf",
+        "aabb4650-4cf8-4028-8afd-85377e84e2a9@dbdfe"
+      ],
+      "skeletons": [],
+      "textures": [
+        "aabb4650-4cf8-4028-8afd-85377e84e2a9@988dc"
+      ],
+      "materials": [
+        "aabb4650-4cf8-4028-8afd-85377e84e2a9@8d883"
+      ],
+      "scenes": [
+        "aabb4650-4cf8-4028-8afd-85377e84e2a9@1ab00"
+      ]
+    }
+  }
+}

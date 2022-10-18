@@ -1,0 +1,146 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "4bab19de-5c19-48b9-a0d8-fceae39141f1",
+  "files": [],
+  "subMetas": {
+    "b15c5": {
+      "importer": "gltf-mesh",
+      "uuid": "4bab19de-5c19-48b9-a0d8-fceae39141f1@b15c5",
+      "displayName": "",
+      "id": "b15c5",
+      "name": "SM_Prop_Billboard_Roof_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "67cd4": {
+      "importer": "gltf-mesh",
+      "uuid": "4bab19de-5c19-48b9-a0d8-fceae39141f1@67cd4",
+      "displayName": "",
+      "id": "67cd4",
+      "name": "SM_Prop_Billboard_Sign_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "4bab19de-5c19-48b9-a0d8-fceae39141f1@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "4bab19de-5c19-48b9-a0d8-fceae39141f1@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a3ca": {
+      "importer": "gltf-material",
+      "uuid": "4bab19de-5c19-48b9-a0d8-fceae39141f1@7a3ca",
+      "displayName": "",
+      "id": "7a3ca",
+      "name": "lambert2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "29dfa": {
+      "importer": "gltf-scene",
+      "uuid": "4bab19de-5c19-48b9-a0d8-fceae39141f1@29dfa",
+      "displayName": "",
+      "id": "29dfa",
+      "name": "SM_Prop_Billboard_Roof_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "4bab19de-5c19-48b9-a0d8-fceae39141f1@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "4bab19de-5c19-48b9-a0d8-fceae39141f1@29dfa",
+    "assetFinder": {
+      "meshes": [
+        "4bab19de-5c19-48b9-a0d8-fceae39141f1@b15c5",
+        "4bab19de-5c19-48b9-a0d8-fceae39141f1@67cd4"
+      ],
+      "skeletons": [],
+      "textures": [
+        "4bab19de-5c19-48b9-a0d8-fceae39141f1@988dc"
+      ],
+      "materials": [
+        "4bab19de-5c19-48b9-a0d8-fceae39141f1@7a3ca"
+      ],
+      "scenes": [
+        "4bab19de-5c19-48b9-a0d8-fceae39141f1@29dfa"
+      ]
+    }
+  }
+}

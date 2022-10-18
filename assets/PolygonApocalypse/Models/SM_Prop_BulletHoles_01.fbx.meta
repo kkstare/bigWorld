@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c0e32a90-10ab-445b-8040-7a7a103bc3ed",
+  "files": [],
+  "subMetas": {
+    "5c345": {
+      "importer": "gltf-mesh",
+      "uuid": "c0e32a90-10ab-445b-8040-7a7a103bc3ed@5c345",
+      "displayName": "",
+      "id": "5c345",
+      "name": "SM_Prop_BulletHoles_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "43c71": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c0e32a90-10ab-445b-8040-7a7a103bc3ed@43c71",
+      "displayName": "",
+      "id": "43c71",
+      "name": "file1.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "d20e9": {
+      "importer": "texture",
+      "uuid": "c0e32a90-10ab-445b-8040-7a7a103bc3ed@d20e9",
+      "displayName": "",
+      "id": "d20e9",
+      "name": "file1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c0e32a90-10ab-445b-8040-7a7a103bc3ed@43c71"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a3ca": {
+      "importer": "gltf-material",
+      "uuid": "c0e32a90-10ab-445b-8040-7a7a103bc3ed@7a3ca",
+      "displayName": "",
+      "id": "7a3ca",
+      "name": "lambert2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e2e91": {
+      "importer": "gltf-scene",
+      "uuid": "c0e32a90-10ab-445b-8040-7a7a103bc3ed@e2e91",
+      "displayName": "",
+      "id": "e2e91",
+      "name": "SM_Prop_BulletHoles_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1",
+        "uri": "c0e32a90-10ab-445b-8040-7a7a103bc3ed@43c71"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "c0e32a90-10ab-445b-8040-7a7a103bc3ed@e2e91",
+    "assetFinder": {
+      "meshes": [
+        "c0e32a90-10ab-445b-8040-7a7a103bc3ed@5c345"
+      ],
+      "skeletons": [],
+      "textures": [
+        "c0e32a90-10ab-445b-8040-7a7a103bc3ed@d20e9"
+      ],
+      "materials": [
+        "c0e32a90-10ab-445b-8040-7a7a103bc3ed@7a3ca"
+      ],
+      "scenes": [
+        "c0e32a90-10ab-445b-8040-7a7a103bc3ed@e2e91"
+      ]
+    }
+  }
+}

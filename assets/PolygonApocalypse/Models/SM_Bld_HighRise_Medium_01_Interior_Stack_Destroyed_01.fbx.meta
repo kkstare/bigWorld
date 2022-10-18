@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "491dbb76-b466-41c1-b89d-b83829790c8b",
+  "files": [],
+  "subMetas": {
+    "dcc5e": {
+      "importer": "gltf-mesh",
+      "uuid": "491dbb76-b466-41c1-b89d-b83829790c8b@dcc5e",
+      "displayName": "",
+      "id": "dcc5e",
+      "name": "SM_Bld_HighRise_Medium_01_Interior_Stack_Destroyed_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "491dbb76-b466-41c1-b89d-b83829790c8b@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "491dbb76-b466-41c1-b89d-b83829790c8b@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a9c63": {
+      "importer": "gltf-material",
+      "uuid": "491dbb76-b466-41c1-b89d-b83829790c8b@a9c63",
+      "displayName": "",
+      "id": "a9c63",
+      "name": "lambert42.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "07930": {
+      "importer": "gltf-scene",
+      "uuid": "491dbb76-b466-41c1-b89d-b83829790c8b@07930",
+      "displayName": "",
+      "id": "07930",
+      "name": "SM_Bld_HighRise_Medium_01_Interior_Stack_Destroyed_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "491dbb76-b466-41c1-b89d-b83829790c8b@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "491dbb76-b466-41c1-b89d-b83829790c8b@07930",
+    "assetFinder": {
+      "meshes": [
+        "491dbb76-b466-41c1-b89d-b83829790c8b@dcc5e"
+      ],
+      "skeletons": [],
+      "textures": [
+        "491dbb76-b466-41c1-b89d-b83829790c8b@988dc"
+      ],
+      "materials": [
+        "491dbb76-b466-41c1-b89d-b83829790c8b@a9c63"
+      ],
+      "scenes": [
+        "491dbb76-b466-41c1-b89d-b83829790c8b@07930"
+      ]
+    }
+  }
+}

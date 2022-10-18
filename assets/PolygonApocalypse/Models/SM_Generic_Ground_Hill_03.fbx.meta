@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f1a5838f-ded7-4cc7-a5c9-1bdcb0175dd8",
+  "files": [],
+  "subMetas": {
+    "38040": {
+      "importer": "gltf-embeded-image",
+      "uuid": "f1a5838f-ded7-4cc7-a5c9-1bdcb0175dd8@38040",
+      "displayName": "",
+      "id": "38040",
+      "name": "file982.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "f757c": {
+      "importer": "gltf-mesh",
+      "uuid": "f1a5838f-ded7-4cc7-a5c9-1bdcb0175dd8@f757c",
+      "displayName": "",
+      "id": "f757c",
+      "name": "SM_Generic_Ground_Hill_03.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "19bac": {
+      "importer": "texture",
+      "uuid": "f1a5838f-ded7-4cc7-a5c9-1bdcb0175dd8@19bac",
+      "displayName": "",
+      "id": "19bac",
+      "name": "file982.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "f1a5838f-ded7-4cc7-a5c9-1bdcb0175dd8@38040"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6de5f": {
+      "importer": "gltf-material",
+      "uuid": "f1a5838f-ded7-4cc7-a5c9-1bdcb0175dd8@6de5f",
+      "displayName": "",
+      "id": "6de5f",
+      "name": "lambert855.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9888f": {
+      "importer": "gltf-scene",
+      "uuid": "f1a5838f-ded7-4cc7-a5c9-1bdcb0175dd8@9888f",
+      "displayName": "",
+      "id": "9888f",
+      "name": "SM_Generic_Ground_Hill_03.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file982",
+        "uri": "f1a5838f-ded7-4cc7-a5c9-1bdcb0175dd8@38040"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "f1a5838f-ded7-4cc7-a5c9-1bdcb0175dd8@9888f",
+    "assetFinder": {
+      "meshes": [
+        "f1a5838f-ded7-4cc7-a5c9-1bdcb0175dd8@f757c"
+      ],
+      "skeletons": [],
+      "textures": [
+        "f1a5838f-ded7-4cc7-a5c9-1bdcb0175dd8@19bac"
+      ],
+      "materials": [
+        "f1a5838f-ded7-4cc7-a5c9-1bdcb0175dd8@6de5f"
+      ],
+      "scenes": [
+        "f1a5838f-ded7-4cc7-a5c9-1bdcb0175dd8@9888f"
+      ]
+    }
+  }
+}

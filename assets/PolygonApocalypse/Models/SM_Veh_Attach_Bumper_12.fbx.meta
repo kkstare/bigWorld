@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "0d77334c-a6cd-49d8-8aa7-6543c3d15f8e",
+  "files": [],
+  "subMetas": {
+    "4d62e": {
+      "importer": "gltf-mesh",
+      "uuid": "0d77334c-a6cd-49d8-8aa7-6543c3d15f8e@4d62e",
+      "displayName": "",
+      "id": "4d62e",
+      "name": "SM_Veh_Attach_Bumper_12.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "53c5b": {
+      "importer": "gltf-embeded-image",
+      "uuid": "0d77334c-a6cd-49d8-8aa7-6543c3d15f8e@53c5b",
+      "displayName": "",
+      "id": "53c5b",
+      "name": "_file113.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "4e269": {
+      "importer": "texture",
+      "uuid": "0d77334c-a6cd-49d8-8aa7-6543c3d15f8e@4e269",
+      "displayName": "",
+      "id": "4e269",
+      "name": "_file113.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0d77334c-a6cd-49d8-8aa7-6543c3d15f8e@53c5b"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8f2cc": {
+      "importer": "gltf-material",
+      "uuid": "0d77334c-a6cd-49d8-8aa7-6543c3d15f8e@8f2cc",
+      "displayName": "",
+      "id": "8f2cc",
+      "name": "_Apoc_Car.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c2ecd": {
+      "importer": "gltf-scene",
+      "uuid": "0d77334c-a6cd-49d8-8aa7-6543c3d15f8e@c2ecd",
+      "displayName": "",
+      "id": "c2ecd",
+      "name": "SM_Veh_Attach_Bumper_12.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "_file113",
+        "uri": "0d77334c-a6cd-49d8-8aa7-6543c3d15f8e@53c5b"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "0d77334c-a6cd-49d8-8aa7-6543c3d15f8e@c2ecd",
+    "assetFinder": {
+      "meshes": [
+        "0d77334c-a6cd-49d8-8aa7-6543c3d15f8e@4d62e"
+      ],
+      "skeletons": [],
+      "textures": [
+        "0d77334c-a6cd-49d8-8aa7-6543c3d15f8e@4e269"
+      ],
+      "materials": [
+        "0d77334c-a6cd-49d8-8aa7-6543c3d15f8e@8f2cc"
+      ],
+      "scenes": [
+        "0d77334c-a6cd-49d8-8aa7-6543c3d15f8e@c2ecd"
+      ]
+    }
+  }
+}

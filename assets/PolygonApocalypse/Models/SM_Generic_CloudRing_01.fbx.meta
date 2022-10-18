@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "73ecca98-77a6-4f21-b971-497a5f6b0d9f",
+  "files": [],
+  "subMetas": {
+    "f3672": {
+      "importer": "gltf-mesh",
+      "uuid": "73ecca98-77a6-4f21-b971-497a5f6b0d9f@f3672",
+      "displayName": "",
+      "id": "f3672",
+      "name": "SM_Generic_CloudRing_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6099f": {
+      "importer": "gltf-material",
+      "uuid": "73ecca98-77a6-4f21-b971-497a5f6b0d9f@6099f",
+      "displayName": "",
+      "id": "6099f",
+      "name": "Clouds.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e9696": {
+      "importer": "gltf-scene",
+      "uuid": "73ecca98-77a6-4f21-b971-497a5f6b0d9f@e9696",
+      "displayName": "",
+      "id": "e9696",
+      "name": "SM_Generic_CloudRing_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "73ecca98-77a6-4f21-b971-497a5f6b0d9f@e9696",
+    "assetFinder": {
+      "meshes": [
+        "73ecca98-77a6-4f21-b971-497a5f6b0d9f@f3672"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "73ecca98-77a6-4f21-b971-497a5f6b0d9f@6099f"
+      ],
+      "scenes": [
+        "73ecca98-77a6-4f21-b971-497a5f6b0d9f@e9696"
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": false,
+  "uuid": "7739de31-58c3-4344-89c7-e93acb6bdbe1",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    }
+  }
+}

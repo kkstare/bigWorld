@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a5d6c940-204e-4ffb-92d8-83acf7925902",
+  "files": [],
+  "subMetas": {
+    "cb69e": {
+      "importer": "gltf-mesh",
+      "uuid": "a5d6c940-204e-4ffb-92d8-83acf7925902@cb69e",
+      "displayName": "",
+      "id": "cb69e",
+      "name": "SM_Prop_Bullet_Casing_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "adacb": {
+      "importer": "gltf-embeded-image",
+      "uuid": "a5d6c940-204e-4ffb-92d8-83acf7925902@adacb",
+      "displayName": "",
+      "id": "adacb",
+      "name": "file2.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "e873a": {
+      "importer": "texture",
+      "uuid": "a5d6c940-204e-4ffb-92d8-83acf7925902@e873a",
+      "displayName": "",
+      "id": "e873a",
+      "name": "file2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "a5d6c940-204e-4ffb-92d8-83acf7925902@adacb"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "55b43": {
+      "importer": "gltf-material",
+      "uuid": "a5d6c940-204e-4ffb-92d8-83acf7925902@55b43",
+      "displayName": "",
+      "id": "55b43",
+      "name": "lambert3.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cb96f": {
+      "importer": "gltf-scene",
+      "uuid": "a5d6c940-204e-4ffb-92d8-83acf7925902@cb96f",
+      "displayName": "",
+      "id": "cb96f",
+      "name": "SM_Prop_Bullet_Casing_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file2",
+        "uri": "a5d6c940-204e-4ffb-92d8-83acf7925902@adacb"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "a5d6c940-204e-4ffb-92d8-83acf7925902@cb96f",
+    "assetFinder": {
+      "meshes": [
+        "a5d6c940-204e-4ffb-92d8-83acf7925902@cb69e"
+      ],
+      "skeletons": [],
+      "textures": [
+        "a5d6c940-204e-4ffb-92d8-83acf7925902@e873a"
+      ],
+      "materials": [
+        "a5d6c940-204e-4ffb-92d8-83acf7925902@55b43"
+      ],
+      "scenes": [
+        "a5d6c940-204e-4ffb-92d8-83acf7925902@cb96f"
+      ]
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "88a3a058-5e57-4ff4-95ce-3188f14374bb",
+  "files": [],
+  "subMetas": {
+    "bbdef": {
+      "importer": "gltf-mesh",
+      "uuid": "88a3a058-5e57-4ff4-95ce-3188f14374bb@bbdef",
+      "displayName": "",
+      "id": "bbdef",
+      "name": "SM_Prop_Ship_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c20c2": {
+      "importer": "gltf-material",
+      "uuid": "88a3a058-5e57-4ff4-95ce-3188f14374bb@c20c2",
+      "displayName": "",
+      "id": "c20c2",
+      "name": "lambert926.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9c48f": {
+      "importer": "gltf-scene",
+      "uuid": "88a3a058-5e57-4ff4-95ce-3188f14374bb@9c48f",
+      "displayName": "",
+      "id": "9c48f",
+      "name": "SM_Prop_Ship_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "88a3a058-5e57-4ff4-95ce-3188f14374bb@9c48f",
+    "assetFinder": {
+      "meshes": [
+        "88a3a058-5e57-4ff4-95ce-3188f14374bb@bbdef"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "88a3a058-5e57-4ff4-95ce-3188f14374bb@c20c2"
+      ],
+      "scenes": [
+        "88a3a058-5e57-4ff4-95ce-3188f14374bb@9c48f"
+      ]
+    }
+  }
+}

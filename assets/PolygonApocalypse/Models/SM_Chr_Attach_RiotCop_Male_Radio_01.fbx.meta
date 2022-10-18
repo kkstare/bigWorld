@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "31c6e408-2ba2-41ff-a18c-7a0cb3149971",
+  "files": [],
+  "subMetas": {
+    "1f2a7": {
+      "importer": "gltf-mesh",
+      "uuid": "31c6e408-2ba2-41ff-a18c-7a0cb3149971@1f2a7",
+      "displayName": "",
+      "id": "1f2a7",
+      "name": "SM_Chr_Attach_RiotCop_Male_Radio_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6213d": {
+      "importer": "gltf-material",
+      "uuid": "31c6e408-2ba2-41ff-a18c-7a0cb3149971@6213d",
+      "displayName": "",
+      "id": "6213d",
+      "name": "BloodDecal32.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "69d7a": {
+      "importer": "gltf-scene",
+      "uuid": "31c6e408-2ba2-41ff-a18c-7a0cb3149971@69d7a",
+      "displayName": "",
+      "id": "69d7a",
+      "name": "SM_Chr_Attach_RiotCop_Male_Radio_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "31c6e408-2ba2-41ff-a18c-7a0cb3149971@69d7a",
+    "assetFinder": {
+      "meshes": [
+        "31c6e408-2ba2-41ff-a18c-7a0cb3149971@1f2a7"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "31c6e408-2ba2-41ff-a18c-7a0cb3149971@6213d"
+      ],
+      "scenes": [
+        "31c6e408-2ba2-41ff-a18c-7a0cb3149971@69d7a"
+      ]
+    }
+  }
+}

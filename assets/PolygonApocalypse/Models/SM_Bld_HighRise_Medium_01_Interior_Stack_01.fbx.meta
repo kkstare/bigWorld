@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "4725cc1a-1657-4468-81ca-c04e56fd3535",
+  "files": [],
+  "subMetas": {
+    "95673": {
+      "importer": "gltf-material",
+      "uuid": "4725cc1a-1657-4468-81ca-c04e56fd3535@95673",
+      "displayName": "",
+      "id": "95673",
+      "name": "lambert41.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c69be": {
+      "importer": "gltf-mesh",
+      "uuid": "4725cc1a-1657-4468-81ca-c04e56fd3535@c69be",
+      "displayName": "",
+      "id": "c69be",
+      "name": "SM_Bld_HighRise_Medium_01_Interior_Stack_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ab9e4": {
+      "importer": "gltf-scene",
+      "uuid": "4725cc1a-1657-4468-81ca-c04e56fd3535@ab9e4",
+      "displayName": "",
+      "id": "ab9e4",
+      "name": "SM_Bld_HighRise_Medium_01_Interior_Stack_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "4725cc1a-1657-4468-81ca-c04e56fd3535@ab9e4",
+    "assetFinder": {
+      "meshes": [
+        "4725cc1a-1657-4468-81ca-c04e56fd3535@c69be"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "4725cc1a-1657-4468-81ca-c04e56fd3535@95673"
+      ],
+      "scenes": [
+        "4725cc1a-1657-4468-81ca-c04e56fd3535@ab9e4"
+      ]
+    }
+  }
+}

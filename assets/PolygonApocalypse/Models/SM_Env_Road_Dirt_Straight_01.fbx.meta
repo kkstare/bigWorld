@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "5555ed20-26b1-446e-9466-4d3282bb35b4",
+  "files": [],
+  "subMetas": {
+    "407b0": {
+      "importer": "gltf-mesh",
+      "uuid": "5555ed20-26b1-446e-9466-4d3282bb35b4@407b0",
+      "displayName": "",
+      "id": "407b0",
+      "name": "SM_Env_Road_Dirt_Straight_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dfe29": {
+      "importer": "gltf-embeded-image",
+      "uuid": "5555ed20-26b1-446e-9466-4d3282bb35b4@dfe29",
+      "displayName": "",
+      "id": "dfe29",
+      "name": "file3.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "a562b": {
+      "importer": "texture",
+      "uuid": "5555ed20-26b1-446e-9466-4d3282bb35b4@a562b",
+      "displayName": "",
+      "id": "a562b",
+      "name": "file3.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "5555ed20-26b1-446e-9466-4d3282bb35b4@dfe29"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ee760": {
+      "importer": "gltf-material",
+      "uuid": "5555ed20-26b1-446e-9466-4d3282bb35b4@ee760",
+      "displayName": "",
+      "id": "ee760",
+      "name": "lambert12.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5ab0d": {
+      "importer": "gltf-scene",
+      "uuid": "5555ed20-26b1-446e-9466-4d3282bb35b4@5ab0d",
+      "displayName": "",
+      "id": "5ab0d",
+      "name": "SM_Env_Road_Dirt_Straight_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file3",
+        "uri": "5555ed20-26b1-446e-9466-4d3282bb35b4@dfe29"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "5555ed20-26b1-446e-9466-4d3282bb35b4@5ab0d",
+    "assetFinder": {
+      "meshes": [
+        "5555ed20-26b1-446e-9466-4d3282bb35b4@407b0"
+      ],
+      "skeletons": [],
+      "textures": [
+        "5555ed20-26b1-446e-9466-4d3282bb35b4@a562b"
+      ],
+      "materials": [
+        "5555ed20-26b1-446e-9466-4d3282bb35b4@ee760"
+      ],
+      "scenes": [
+        "5555ed20-26b1-446e-9466-4d3282bb35b4@5ab0d"
+      ]
+    }
+  }
+}

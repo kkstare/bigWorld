@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "8eaf0d30-6f05-42c2-8df9-2712bf58935f",
+  "files": [],
+  "subMetas": {
+    "95547": {
+      "importer": "gltf-material",
+      "uuid": "8eaf0d30-6f05-42c2-8df9-2712bf58935f@95547",
+      "displayName": "",
+      "id": "95547",
+      "name": "lambert925.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e15e5": {
+      "importer": "gltf-mesh",
+      "uuid": "8eaf0d30-6f05-42c2-8df9-2712bf58935f@e15e5",
+      "displayName": "",
+      "id": "e15e5",
+      "name": "SM_Bld_Bunker_Ladder_End_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "8eaf0d30-6f05-42c2-8df9-2712bf58935f@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "8eaf0d30-6f05-42c2-8df9-2712bf58935f@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1a392": {
+      "importer": "gltf-scene",
+      "uuid": "8eaf0d30-6f05-42c2-8df9-2712bf58935f@1a392",
+      "displayName": "",
+      "id": "1a392",
+      "name": "SM_Bld_Bunker_Ladder_End_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "8eaf0d30-6f05-42c2-8df9-2712bf58935f@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "8eaf0d30-6f05-42c2-8df9-2712bf58935f@1a392",
+    "assetFinder": {
+      "meshes": [
+        "8eaf0d30-6f05-42c2-8df9-2712bf58935f@e15e5"
+      ],
+      "skeletons": [],
+      "textures": [
+        "8eaf0d30-6f05-42c2-8df9-2712bf58935f@988dc"
+      ],
+      "materials": [
+        "8eaf0d30-6f05-42c2-8df9-2712bf58935f@95547"
+      ],
+      "scenes": [
+        "8eaf0d30-6f05-42c2-8df9-2712bf58935f@1a392"
+      ]
+    }
+  }
+}

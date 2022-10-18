@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "12af3e30-0d61-4ef1-84d6-dee74e82e996",
+  "files": [],
+  "subMetas": {
+    "7a752": {
+      "importer": "gltf-mesh",
+      "uuid": "12af3e30-0d61-4ef1-84d6-dee74e82e996@7a752",
+      "displayName": "",
+      "id": "7a752",
+      "name": "SM_Prop_Brick_Half_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "26fdd": {
+      "importer": "gltf-material",
+      "uuid": "12af3e30-0d61-4ef1-84d6-dee74e82e996@26fdd",
+      "displayName": "",
+      "id": "26fdd",
+      "name": "lambert36.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b7a9a": {
+      "importer": "gltf-scene",
+      "uuid": "12af3e30-0d61-4ef1-84d6-dee74e82e996@b7a9a",
+      "displayName": "",
+      "id": "b7a9a",
+      "name": "SM_Prop_Brick_Half_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "12af3e30-0d61-4ef1-84d6-dee74e82e996@b7a9a",
+    "assetFinder": {
+      "meshes": [
+        "12af3e30-0d61-4ef1-84d6-dee74e82e996@7a752"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "12af3e30-0d61-4ef1-84d6-dee74e82e996@26fdd"
+      ],
+      "scenes": [
+        "12af3e30-0d61-4ef1-84d6-dee74e82e996@b7a9a"
+      ]
+    }
+  }
+}

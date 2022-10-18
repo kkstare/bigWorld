@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f0326599-92b2-48b3-8bda-8bf43674abda",
+  "files": [],
+  "subMetas": {
+    "12292": {
+      "importer": "gltf-mesh",
+      "uuid": "f0326599-92b2-48b3-8bda-8bf43674abda@12292",
+      "displayName": "",
+      "id": "12292",
+      "name": "SM_Bld_Junk_Shelter_05_Tarp.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "f0326599-92b2-48b3-8bda-8bf43674abda@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "f0326599-92b2-48b3-8bda-8bf43674abda@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "86f3e": {
+      "importer": "gltf-material",
+      "uuid": "f0326599-92b2-48b3-8bda-8bf43674abda@86f3e",
+      "displayName": "",
+      "id": "86f3e",
+      "name": "lambert431.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "30d58": {
+      "importer": "gltf-scene",
+      "uuid": "f0326599-92b2-48b3-8bda-8bf43674abda@30d58",
+      "displayName": "",
+      "id": "30d58",
+      "name": "SM_Bld_Junk_Shelter_05_Tarp.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "f0326599-92b2-48b3-8bda-8bf43674abda@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "f0326599-92b2-48b3-8bda-8bf43674abda@30d58",
+    "assetFinder": {
+      "meshes": [
+        "f0326599-92b2-48b3-8bda-8bf43674abda@12292"
+      ],
+      "skeletons": [],
+      "textures": [
+        "f0326599-92b2-48b3-8bda-8bf43674abda@988dc"
+      ],
+      "materials": [
+        "f0326599-92b2-48b3-8bda-8bf43674abda@86f3e"
+      ],
+      "scenes": [
+        "f0326599-92b2-48b3-8bda-8bf43674abda@30d58"
+      ]
+    }
+  }
+}

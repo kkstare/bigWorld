@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a22a994c-2740-4384-943d-412eeb39f141",
+  "files": [],
+  "subMetas": {
+    "b8ab0": {
+      "importer": "gltf-mesh",
+      "uuid": "a22a994c-2740-4384-943d-412eeb39f141@b8ab0",
+      "displayName": "",
+      "id": "b8ab0",
+      "name": "SM_Prop_BloodPool_03.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "43c71": {
+      "importer": "gltf-embeded-image",
+      "uuid": "a22a994c-2740-4384-943d-412eeb39f141@43c71",
+      "displayName": "",
+      "id": "43c71",
+      "name": "file1.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "d20e9": {
+      "importer": "texture",
+      "uuid": "a22a994c-2740-4384-943d-412eeb39f141@d20e9",
+      "displayName": "",
+      "id": "d20e9",
+      "name": "file1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "a22a994c-2740-4384-943d-412eeb39f141@43c71"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a3ca": {
+      "importer": "gltf-material",
+      "uuid": "a22a994c-2740-4384-943d-412eeb39f141@7a3ca",
+      "displayName": "",
+      "id": "7a3ca",
+      "name": "lambert2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f67bd": {
+      "importer": "gltf-scene",
+      "uuid": "a22a994c-2740-4384-943d-412eeb39f141@f67bd",
+      "displayName": "",
+      "id": "f67bd",
+      "name": "SM_Prop_BloodPool_03.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1",
+        "uri": "a22a994c-2740-4384-943d-412eeb39f141@43c71"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "a22a994c-2740-4384-943d-412eeb39f141@f67bd",
+    "assetFinder": {
+      "meshes": [
+        "a22a994c-2740-4384-943d-412eeb39f141@b8ab0"
+      ],
+      "skeletons": [],
+      "textures": [
+        "a22a994c-2740-4384-943d-412eeb39f141@d20e9"
+      ],
+      "materials": [
+        "a22a994c-2740-4384-943d-412eeb39f141@7a3ca"
+      ],
+      "scenes": [
+        "a22a994c-2740-4384-943d-412eeb39f141@f67bd"
+      ]
+    }
+  }
+}

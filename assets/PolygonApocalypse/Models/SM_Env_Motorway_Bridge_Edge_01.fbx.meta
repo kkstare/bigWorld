@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "9e60087d-5186-4c8d-9d16-55011549268e",
+  "files": [],
+  "subMetas": {
+    "dba19": {
+      "importer": "gltf-mesh",
+      "uuid": "9e60087d-5186-4c8d-9d16-55011549268e@dba19",
+      "displayName": "",
+      "id": "dba19",
+      "name": "SM_Env_Motorway_Bridge_Edge_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d29ca": {
+      "importer": "gltf-embeded-image",
+      "uuid": "9e60087d-5186-4c8d-9d16-55011549268e@d29ca",
+      "displayName": "",
+      "id": "d29ca",
+      "name": "file1001.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "fd9f9": {
+      "importer": "texture",
+      "uuid": "9e60087d-5186-4c8d-9d16-55011549268e@fd9f9",
+      "displayName": "",
+      "id": "fd9f9",
+      "name": "file1001.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f5222": {
+      "importer": "gltf-material",
+      "uuid": "9e60087d-5186-4c8d-9d16-55011549268e@f5222",
+      "displayName": "",
+      "id": "f5222",
+      "name": "lambert34.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9479a": {
+      "importer": "gltf-scene",
+      "uuid": "9e60087d-5186-4c8d-9d16-55011549268e@9479a",
+      "displayName": "",
+      "id": "9479a",
+      "name": "SM_Env_Motorway_Bridge_Edge_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1001",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "9e60087d-5186-4c8d-9d16-55011549268e@d29ca"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "9e60087d-5186-4c8d-9d16-55011549268e@9479a",
+    "assetFinder": {
+      "meshes": [
+        "9e60087d-5186-4c8d-9d16-55011549268e@dba19"
+      ],
+      "skeletons": [],
+      "textures": [
+        "9e60087d-5186-4c8d-9d16-55011549268e@fd9f9"
+      ],
+      "materials": [
+        "9e60087d-5186-4c8d-9d16-55011549268e@f5222"
+      ],
+      "scenes": [
+        "9e60087d-5186-4c8d-9d16-55011549268e@9479a"
+      ]
+    }
+  }
+}

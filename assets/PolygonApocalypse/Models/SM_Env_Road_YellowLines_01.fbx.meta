@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "29fbd4bc-c311-4e10-ba2b-384bc99b37ac",
+  "files": [],
+  "subMetas": {
+    "e302e": {
+      "importer": "gltf-mesh",
+      "uuid": "29fbd4bc-c311-4e10-ba2b-384bc99b37ac@e302e",
+      "displayName": "",
+      "id": "e302e",
+      "name": "SM_Env_Road_YellowLines_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8b24b": {
+      "importer": "gltf-embeded-image",
+      "uuid": "29fbd4bc-c311-4e10-ba2b-384bc99b37ac@8b24b",
+      "displayName": "",
+      "id": "8b24b",
+      "name": "pasted__file996.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "4280d": {
+      "importer": "texture",
+      "uuid": "29fbd4bc-c311-4e10-ba2b-384bc99b37ac@4280d",
+      "displayName": "",
+      "id": "4280d",
+      "name": "pasted__file996.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "29fbd4bc-c311-4e10-ba2b-384bc99b37ac@8b24b"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "633e5": {
+      "importer": "gltf-material",
+      "uuid": "29fbd4bc-c311-4e10-ba2b-384bc99b37ac@633e5",
+      "displayName": "",
+      "id": "633e5",
+      "name": "Base_Maya_Scene1:pasted__MiniColour44.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "20df5": {
+      "importer": "gltf-scene",
+      "uuid": "29fbd4bc-c311-4e10-ba2b-384bc99b37ac@20df5",
+      "displayName": "",
+      "id": "20df5",
+      "name": "SM_Env_Road_YellowLines_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "pasted__file996",
+        "uri": "29fbd4bc-c311-4e10-ba2b-384bc99b37ac@8b24b"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "29fbd4bc-c311-4e10-ba2b-384bc99b37ac@20df5",
+    "assetFinder": {
+      "meshes": [
+        "29fbd4bc-c311-4e10-ba2b-384bc99b37ac@e302e"
+      ],
+      "skeletons": [],
+      "textures": [
+        "29fbd4bc-c311-4e10-ba2b-384bc99b37ac@4280d"
+      ],
+      "materials": [
+        "29fbd4bc-c311-4e10-ba2b-384bc99b37ac@633e5"
+      ],
+      "scenes": [
+        "29fbd4bc-c311-4e10-ba2b-384bc99b37ac@20df5"
+      ]
+    }
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "bf545752-9ddd-41e2-a860-d891cc72634c",
+  "files": [],
+  "subMetas": {
+    "aa5b8": {
+      "importer": "gltf-mesh",
+      "uuid": "bf545752-9ddd-41e2-a860-d891cc72634c@aa5b8",
+      "displayName": "",
+      "id": "aa5b8",
+      "name": "SM_Wep_AAGun_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5eebb": {
+      "importer": "gltf-mesh",
+      "uuid": "bf545752-9ddd-41e2-a860-d891cc72634c@5eebb",
+      "displayName": "",
+      "id": "5eebb",
+      "name": "SM_Wep_AAGun_Swivel_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "38a5e": {
+      "importer": "gltf-mesh",
+      "uuid": "bf545752-9ddd-41e2-a860-d891cc72634c@38a5e",
+      "displayName": "",
+      "id": "38a5e",
+      "name": "SM_Wep_AAGun_Body_01.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ca59b": {
+      "importer": "gltf-mesh",
+      "uuid": "bf545752-9ddd-41e2-a860-d891cc72634c@ca59b",
+      "displayName": "",
+      "id": "ca59b",
+      "name": "SM_Wep_AAGun_Mag_02.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "24ad3": {
+      "importer": "gltf-mesh",
+      "uuid": "bf545752-9ddd-41e2-a860-d891cc72634c@24ad3",
+      "displayName": "",
+      "id": "24ad3",
+      "name": "SM_Wep_AAGun_Mag_01.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ecfb9": {
+      "importer": "gltf-mesh",
+      "uuid": "bf545752-9ddd-41e2-a860-d891cc72634c@ecfb9",
+      "displayName": "",
+      "id": "ecfb9",
+      "name": "SM_Wep_AAGun_Handle_01.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dd1de": {
+      "importer": "gltf-mesh",
+      "uuid": "bf545752-9ddd-41e2-a860-d891cc72634c@dd1de",
+      "displayName": "",
+      "id": "dd1de",
+      "name": "SM_Wep_AAGun_Handle_02.mesh",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a0bcd": {
+      "importer": "gltf-material",
+      "uuid": "bf545752-9ddd-41e2-a860-d891cc72634c@a0bcd",
+      "displayName": "",
+      "id": "a0bcd",
+      "name": "pasted__lambert92.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9d762": {
+      "importer": "gltf-scene",
+      "uuid": "bf545752-9ddd-41e2-a860-d891cc72634c@9d762",
+      "displayName": "",
+      "id": "9d762",
+      "name": "SM_Wep_AAGun_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "bf545752-9ddd-41e2-a860-d891cc72634c@9d762",
+    "assetFinder": {
+      "meshes": [
+        "bf545752-9ddd-41e2-a860-d891cc72634c@aa5b8",
+        "bf545752-9ddd-41e2-a860-d891cc72634c@5eebb",
+        "bf545752-9ddd-41e2-a860-d891cc72634c@38a5e",
+        "bf545752-9ddd-41e2-a860-d891cc72634c@ca59b",
+        "bf545752-9ddd-41e2-a860-d891cc72634c@24ad3",
+        "bf545752-9ddd-41e2-a860-d891cc72634c@ecfb9",
+        "bf545752-9ddd-41e2-a860-d891cc72634c@dd1de"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "bf545752-9ddd-41e2-a860-d891cc72634c@a0bcd"
+      ],
+      "scenes": [
+        "bf545752-9ddd-41e2-a860-d891cc72634c@9d762"
+      ]
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "71c7c68c-cc03-490b-a721-03ffdf16d149",
+  "files": [],
+  "subMetas": {
+    "89dc7": {
+      "importer": "gltf-mesh",
+      "uuid": "71c7c68c-cc03-490b-a721-03ffdf16d149@89dc7",
+      "displayName": "",
+      "id": "89dc7",
+      "name": "SM_Bld_HighRise_Large_01_Interior_Roof_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "34ee8": {
+      "importer": "gltf-mesh",
+      "uuid": "71c7c68c-cc03-490b-a721-03ffdf16d149@34ee8",
+      "displayName": "",
+      "id": "34ee8",
+      "name": "SM_Bld_HighRise_Large_01_Interior_Roof_Overgrowth_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ac6aa": {
+      "importer": "gltf-material",
+      "uuid": "71c7c68c-cc03-490b-a721-03ffdf16d149@ac6aa",
+      "displayName": "",
+      "id": "ac6aa",
+      "name": "lambert37.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9a917": {
+      "importer": "gltf-scene",
+      "uuid": "71c7c68c-cc03-490b-a721-03ffdf16d149@9a917",
+      "displayName": "",
+      "id": "9a917",
+      "name": "SM_Bld_HighRise_Large_01_Interior_Roof_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "71c7c68c-cc03-490b-a721-03ffdf16d149@9a917",
+    "assetFinder": {
+      "meshes": [
+        "71c7c68c-cc03-490b-a721-03ffdf16d149@89dc7",
+        "71c7c68c-cc03-490b-a721-03ffdf16d149@34ee8"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "71c7c68c-cc03-490b-a721-03ffdf16d149@ac6aa"
+      ],
+      "scenes": [
+        "71c7c68c-cc03-490b-a721-03ffdf16d149@9a917"
+      ]
+    }
+  }
+}

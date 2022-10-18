@@ -1,0 +1,164 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "1004de64-7974-40b2-8c1b-9ce144570188",
+  "files": [],
+  "subMetas": {
+    "f96a6": {
+      "importer": "gltf-mesh",
+      "uuid": "1004de64-7974-40b2-8c1b-9ce144570188@f96a6",
+      "displayName": "",
+      "id": "f96a6",
+      "name": "SM_Wep_SpearGun_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ee632": {
+      "importer": "gltf-mesh",
+      "uuid": "1004de64-7974-40b2-8c1b-9ce144570188@ee632",
+      "displayName": "",
+      "id": "ee632",
+      "name": "SM_Wep_SpearGun_01_Trigger_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "127a3": {
+      "importer": "gltf-mesh",
+      "uuid": "1004de64-7974-40b2-8c1b-9ce144570188@127a3",
+      "displayName": "",
+      "id": "127a3",
+      "name": "SM_Wep_SpearGun_01_Spear_01.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e43a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "1004de64-7974-40b2-8c1b-9ce144570188@1e43a",
+      "displayName": "",
+      "id": "1e43a",
+      "name": "file1198.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "05eac": {
+      "importer": "texture",
+      "uuid": "1004de64-7974-40b2-8c1b-9ce144570188@05eac",
+      "displayName": "",
+      "id": "05eac",
+      "name": "file1198.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5bd2": {
+      "importer": "gltf-material",
+      "uuid": "1004de64-7974-40b2-8c1b-9ce144570188@a5bd2",
+      "displayName": "",
+      "id": "a5bd2",
+      "name": "lambert.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d1960": {
+      "importer": "gltf-scene",
+      "uuid": "1004de64-7974-40b2-8c1b-9ce144570188@d1960",
+      "displayName": "",
+      "id": "d1960",
+      "name": "SM_Wep_SpearGun_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1198",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "1004de64-7974-40b2-8c1b-9ce144570188@1e43a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "1004de64-7974-40b2-8c1b-9ce144570188@d1960",
+    "assetFinder": {
+      "meshes": [
+        "1004de64-7974-40b2-8c1b-9ce144570188@f96a6",
+        "1004de64-7974-40b2-8c1b-9ce144570188@ee632",
+        "1004de64-7974-40b2-8c1b-9ce144570188@127a3"
+      ],
+      "skeletons": [],
+      "textures": [
+        "1004de64-7974-40b2-8c1b-9ce144570188@05eac"
+      ],
+      "materials": [
+        "1004de64-7974-40b2-8c1b-9ce144570188@a5bd2"
+      ],
+      "scenes": [
+        "1004de64-7974-40b2-8c1b-9ce144570188@d1960"
+      ]
+    }
+  }
+}

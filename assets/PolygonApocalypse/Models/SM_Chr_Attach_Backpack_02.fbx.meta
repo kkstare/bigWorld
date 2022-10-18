@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c441f59b-f10c-4729-84fc-f449679c1289",
+  "files": [],
+  "subMetas": {
+    "901d2": {
+      "importer": "gltf-mesh",
+      "uuid": "c441f59b-f10c-4729-84fc-f449679c1289@901d2",
+      "displayName": "",
+      "id": "901d2",
+      "name": "SM_Chr_Attach_Backpack_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9519e": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c441f59b-f10c-4729-84fc-f449679c1289@9519e",
+      "displayName": "",
+      "id": "9519e",
+      "name": "file504.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "5638e": {
+      "importer": "texture",
+      "uuid": "c441f59b-f10c-4729-84fc-f449679c1289@5638e",
+      "displayName": "",
+      "id": "5638e",
+      "name": "file504.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c441f59b-f10c-4729-84fc-f449679c1289@9519e"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "eb25f": {
+      "importer": "gltf-material",
+      "uuid": "c441f59b-f10c-4729-84fc-f449679c1289@eb25f",
+      "displayName": "",
+      "id": "eb25f",
+      "name": "lambert272.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7b659": {
+      "importer": "gltf-scene",
+      "uuid": "c441f59b-f10c-4729-84fc-f449679c1289@7b659",
+      "displayName": "",
+      "id": "7b659",
+      "name": "SM_Chr_Attach_Backpack_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file504",
+        "uri": "c441f59b-f10c-4729-84fc-f449679c1289@9519e"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "c441f59b-f10c-4729-84fc-f449679c1289@7b659",
+    "assetFinder": {
+      "meshes": [
+        "c441f59b-f10c-4729-84fc-f449679c1289@901d2"
+      ],
+      "skeletons": [],
+      "textures": [
+        "c441f59b-f10c-4729-84fc-f449679c1289@5638e"
+      ],
+      "materials": [
+        "c441f59b-f10c-4729-84fc-f449679c1289@eb25f"
+      ],
+      "scenes": [
+        "c441f59b-f10c-4729-84fc-f449679c1289@7b659"
+      ]
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "3d90138e-8f84-4c7f-9497-03d55ba7f3d6",
+  "files": [],
+  "subMetas": {
+    "51273": {
+      "importer": "gltf-scene",
+      "uuid": "3d90138e-8f84-4c7f-9497-03d55ba7f3d6@51273",
+      "displayName": "",
+      "id": "51273",
+      "name": "SM_Item_Ammo_Crate_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b8086": {
+      "importer": "gltf-mesh",
+      "uuid": "3d90138e-8f84-4c7f-9497-03d55ba7f3d6@b8086",
+      "displayName": "",
+      "id": "b8086",
+      "name": "SM_Item_Ammo_Crate_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "113be": {
+      "importer": "gltf-mesh",
+      "uuid": "3d90138e-8f84-4c7f-9497-03d55ba7f3d6@113be",
+      "displayName": "",
+      "id": "113be",
+      "name": "SM_Item_Ammo_Crate_Lid_02.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "26fdd": {
+      "importer": "gltf-material",
+      "uuid": "3d90138e-8f84-4c7f-9497-03d55ba7f3d6@26fdd",
+      "displayName": "",
+      "id": "26fdd",
+      "name": "lambert36.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "3d90138e-8f84-4c7f-9497-03d55ba7f3d6@51273",
+    "assetFinder": {
+      "meshes": [
+        "3d90138e-8f84-4c7f-9497-03d55ba7f3d6@b8086",
+        "3d90138e-8f84-4c7f-9497-03d55ba7f3d6@113be"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "3d90138e-8f84-4c7f-9497-03d55ba7f3d6@26fdd"
+      ],
+      "scenes": [
+        "3d90138e-8f84-4c7f-9497-03d55ba7f3d6@51273"
+      ]
+    }
+  }
+}

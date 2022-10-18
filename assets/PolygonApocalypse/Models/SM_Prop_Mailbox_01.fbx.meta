@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ae0ef804-09ae-43ab-8f9b-2e5f79cb8a9c",
+  "files": [],
+  "subMetas": {
+    "23215": {
+      "importer": "gltf-embeded-image",
+      "uuid": "ae0ef804-09ae-43ab-8f9b-2e5f79cb8a9c@23215",
+      "displayName": "",
+      "id": "23215",
+      "name": "file1031.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ebc80": {
+      "importer": "gltf-mesh",
+      "uuid": "ae0ef804-09ae-43ab-8f9b-2e5f79cb8a9c@ebc80",
+      "displayName": "",
+      "id": "ebc80",
+      "name": "SM_Prop_Mailbox_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5691d": {
+      "importer": "texture",
+      "uuid": "ae0ef804-09ae-43ab-8f9b-2e5f79cb8a9c@5691d",
+      "displayName": "",
+      "id": "5691d",
+      "name": "file1031.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "ae0ef804-09ae-43ab-8f9b-2e5f79cb8a9c@23215"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "38a38": {
+      "importer": "gltf-material",
+      "uuid": "ae0ef804-09ae-43ab-8f9b-2e5f79cb8a9c@38a38",
+      "displayName": "",
+      "id": "38a38",
+      "name": "lambert886.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "27f37": {
+      "importer": "gltf-scene",
+      "uuid": "ae0ef804-09ae-43ab-8f9b-2e5f79cb8a9c@27f37",
+      "displayName": "",
+      "id": "27f37",
+      "name": "SM_Prop_Mailbox_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1031",
+        "uri": "ae0ef804-09ae-43ab-8f9b-2e5f79cb8a9c@23215"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "ae0ef804-09ae-43ab-8f9b-2e5f79cb8a9c@27f37",
+    "assetFinder": {
+      "meshes": [
+        "ae0ef804-09ae-43ab-8f9b-2e5f79cb8a9c@ebc80"
+      ],
+      "skeletons": [],
+      "textures": [
+        "ae0ef804-09ae-43ab-8f9b-2e5f79cb8a9c@5691d"
+      ],
+      "materials": [
+        "ae0ef804-09ae-43ab-8f9b-2e5f79cb8a9c@38a38"
+      ],
+      "scenes": [
+        "ae0ef804-09ae-43ab-8f9b-2e5f79cb8a9c@27f37"
+      ]
+    }
+  }
+}

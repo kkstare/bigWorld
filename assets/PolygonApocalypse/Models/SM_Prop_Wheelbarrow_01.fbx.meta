@@ -1,0 +1,145 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e3ce1ca9-ac0f-41ad-9b80-3a8c63a14f05",
+  "files": [],
+  "subMetas": {
+    "23215": {
+      "importer": "gltf-embeded-image",
+      "uuid": "e3ce1ca9-ac0f-41ad-9b80-3a8c63a14f05@23215",
+      "displayName": "",
+      "id": "23215",
+      "name": "file1031.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "533e4": {
+      "importer": "gltf-mesh",
+      "uuid": "e3ce1ca9-ac0f-41ad-9b80-3a8c63a14f05@533e4",
+      "displayName": "",
+      "id": "533e4",
+      "name": "SM_Prop_Wheelbarrow_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4ec72": {
+      "importer": "gltf-mesh",
+      "uuid": "e3ce1ca9-ac0f-41ad-9b80-3a8c63a14f05@4ec72",
+      "displayName": "",
+      "id": "4ec72",
+      "name": "SM_Prop_Wheelbarrow_Wheel_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5691d": {
+      "importer": "texture",
+      "uuid": "e3ce1ca9-ac0f-41ad-9b80-3a8c63a14f05@5691d",
+      "displayName": "",
+      "id": "5691d",
+      "name": "file1031.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "e3ce1ca9-ac0f-41ad-9b80-3a8c63a14f05@23215"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "38a38": {
+      "importer": "gltf-material",
+      "uuid": "e3ce1ca9-ac0f-41ad-9b80-3a8c63a14f05@38a38",
+      "displayName": "",
+      "id": "38a38",
+      "name": "lambert886.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b136a": {
+      "importer": "gltf-scene",
+      "uuid": "e3ce1ca9-ac0f-41ad-9b80-3a8c63a14f05@b136a",
+      "displayName": "",
+      "id": "b136a",
+      "name": "SM_Prop_Wheelbarrow_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1031",
+        "uri": "e3ce1ca9-ac0f-41ad-9b80-3a8c63a14f05@23215"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "e3ce1ca9-ac0f-41ad-9b80-3a8c63a14f05@b136a",
+    "assetFinder": {
+      "meshes": [
+        "e3ce1ca9-ac0f-41ad-9b80-3a8c63a14f05@533e4",
+        "e3ce1ca9-ac0f-41ad-9b80-3a8c63a14f05@4ec72"
+      ],
+      "skeletons": [],
+      "textures": [
+        "e3ce1ca9-ac0f-41ad-9b80-3a8c63a14f05@5691d"
+      ],
+      "materials": [
+        "e3ce1ca9-ac0f-41ad-9b80-3a8c63a14f05@38a38"
+      ],
+      "scenes": [
+        "e3ce1ca9-ac0f-41ad-9b80-3a8c63a14f05@b136a"
+      ]
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "1d3e929f-70f4-486e-a744-04c2f49bbaa7",
+  "files": [],
+  "subMetas": {
+    "39f7a": {
+      "importer": "gltf-mesh",
+      "uuid": "1d3e929f-70f4-486e-a744-04c2f49bbaa7@39f7a",
+      "displayName": "",
+      "id": "39f7a",
+      "name": "SM_Wep_Mod_Body_29.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "578ed": {
+      "importer": "gltf-mesh",
+      "uuid": "1d3e929f-70f4-486e-a744-04c2f49bbaa7@578ed",
+      "displayName": "",
+      "id": "578ed",
+      "name": "SM_Wep_Mod_Body_29_Trigger_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "73e12": {
+      "importer": "gltf-mesh",
+      "uuid": "1d3e929f-70f4-486e-a744-04c2f49bbaa7@73e12",
+      "displayName": "",
+      "id": "73e12",
+      "name": "SM_Wep_Mod_Body_29_Trigger_02.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "1d3e929f-70f4-486e-a744-04c2f49bbaa7@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e5306": {
+      "importer": "gltf-scene",
+      "uuid": "1d3e929f-70f4-486e-a744-04c2f49bbaa7@e5306",
+      "displayName": "",
+      "id": "e5306",
+      "name": "SM_Wep_Mod_Body_29.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "1d3e929f-70f4-486e-a744-04c2f49bbaa7@e5306",
+    "assetFinder": {
+      "meshes": [
+        "1d3e929f-70f4-486e-a744-04c2f49bbaa7@39f7a",
+        "1d3e929f-70f4-486e-a744-04c2f49bbaa7@578ed",
+        "1d3e929f-70f4-486e-a744-04c2f49bbaa7@73e12"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "1d3e929f-70f4-486e-a744-04c2f49bbaa7@8d883"
+      ],
+      "scenes": [
+        "1d3e929f-70f4-486e-a744-04c2f49bbaa7@e5306"
+      ]
+    }
+  }
+}

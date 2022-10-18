@@ -1,0 +1,146 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "0a983318-45fe-4fb9-b464-616ec809f3af",
+  "files": [],
+  "subMetas": {
+    "2f40d": {
+      "importer": "gltf-mesh",
+      "uuid": "0a983318-45fe-4fb9-b464-616ec809f3af@2f40d",
+      "displayName": "",
+      "id": "2f40d",
+      "name": "SM_Prop_GraveStick_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "658f4": {
+      "importer": "gltf-mesh",
+      "uuid": "0a983318-45fe-4fb9-b464-616ec809f3af@658f4",
+      "displayName": "",
+      "id": "658f4",
+      "name": "SM_Prop_GraveStick_Pile_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5de53": {
+      "importer": "gltf-embeded-image",
+      "uuid": "0a983318-45fe-4fb9-b464-616ec809f3af@5de53",
+      "displayName": "",
+      "id": "5de53",
+      "name": "file284.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "988dc": {
+      "importer": "texture",
+      "uuid": "0a983318-45fe-4fb9-b464-616ec809f3af@988dc",
+      "displayName": "",
+      "id": "988dc",
+      "name": "file284.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "0a983318-45fe-4fb9-b464-616ec809f3af@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "116b9": {
+      "importer": "gltf-scene",
+      "uuid": "0a983318-45fe-4fb9-b464-616ec809f3af@116b9",
+      "displayName": "",
+      "id": "116b9",
+      "name": "SM_Prop_GraveStick_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file284",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "0a983318-45fe-4fb9-b464-616ec809f3af@5de53"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "0a983318-45fe-4fb9-b464-616ec809f3af@116b9",
+    "assetFinder": {
+      "meshes": [
+        "0a983318-45fe-4fb9-b464-616ec809f3af@2f40d",
+        "0a983318-45fe-4fb9-b464-616ec809f3af@658f4"
+      ],
+      "skeletons": [],
+      "textures": [
+        "0a983318-45fe-4fb9-b464-616ec809f3af@988dc"
+      ],
+      "materials": [
+        "0a983318-45fe-4fb9-b464-616ec809f3af@8d883"
+      ],
+      "scenes": [
+        "0a983318-45fe-4fb9-b464-616ec809f3af@116b9"
+      ]
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "0efdfc4f-0baa-4b0d-8890-b205f58e7086",
+  "files": [],
+  "subMetas": {
+    "0e7df": {
+      "importer": "gltf-mesh",
+      "uuid": "0efdfc4f-0baa-4b0d-8890-b205f58e7086@0e7df",
+      "displayName": "",
+      "id": "0e7df",
+      "name": "SM_Chr_Attach_Hunter_Male_Hat_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "acae1": {
+      "importer": "gltf-material",
+      "uuid": "0efdfc4f-0baa-4b0d-8890-b205f58e7086@acae1",
+      "displayName": "",
+      "id": "acae1",
+      "name": "BloodDecal18.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "314e4": {
+      "importer": "gltf-scene",
+      "uuid": "0efdfc4f-0baa-4b0d-8890-b205f58e7086@314e4",
+      "displayName": "",
+      "id": "314e4",
+      "name": "SM_Chr_Attach_Hunter_Male_Hat_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "0efdfc4f-0baa-4b0d-8890-b205f58e7086@314e4",
+    "assetFinder": {
+      "meshes": [
+        "0efdfc4f-0baa-4b0d-8890-b205f58e7086@0e7df"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "0efdfc4f-0baa-4b0d-8890-b205f58e7086@acae1"
+      ],
+      "scenes": [
+        "0efdfc4f-0baa-4b0d-8890-b205f58e7086@314e4"
+      ]
+    }
+  }
+}

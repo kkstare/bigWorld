@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "7c3275d8-d367-409d-b2ae-37de2091b326",
+  "files": [],
+  "subMetas": {
+    "706fd": {
+      "importer": "gltf-mesh",
+      "uuid": "7c3275d8-d367-409d-b2ae-37de2091b326@706fd",
+      "displayName": "",
+      "id": "706fd",
+      "name": "SM_Prop_Powerpole_Line_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6ee5e": {
+      "importer": "gltf-embeded-image",
+      "uuid": "7c3275d8-d367-409d-b2ae-37de2091b326@6ee5e",
+      "displayName": "",
+      "id": "6ee5e",
+      "name": "file1130.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "2521c": {
+      "importer": "texture",
+      "uuid": "7c3275d8-d367-409d-b2ae-37de2091b326@2521c",
+      "displayName": "",
+      "id": "2521c",
+      "name": "file1130.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "7c3275d8-d367-409d-b2ae-37de2091b326@6ee5e"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f1ba2": {
+      "importer": "gltf-material",
+      "uuid": "7c3275d8-d367-409d-b2ae-37de2091b326@f1ba2",
+      "displayName": "",
+      "id": "f1ba2",
+      "name": "Farm_Mat1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f13f8": {
+      "importer": "gltf-scene",
+      "uuid": "7c3275d8-d367-409d-b2ae-37de2091b326@f13f8",
+      "displayName": "",
+      "id": "f13f8",
+      "name": "SM_Prop_Powerpole_Line_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1130",
+        "uri": "7c3275d8-d367-409d-b2ae-37de2091b326@6ee5e"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "7c3275d8-d367-409d-b2ae-37de2091b326@f13f8",
+    "assetFinder": {
+      "meshes": [
+        "7c3275d8-d367-409d-b2ae-37de2091b326@706fd"
+      ],
+      "skeletons": [],
+      "textures": [
+        "7c3275d8-d367-409d-b2ae-37de2091b326@2521c"
+      ],
+      "materials": [
+        "7c3275d8-d367-409d-b2ae-37de2091b326@f1ba2"
+      ],
+      "scenes": [
+        "7c3275d8-d367-409d-b2ae-37de2091b326@f13f8"
+      ]
+    }
+  }
+}

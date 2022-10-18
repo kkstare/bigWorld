@@ -1,0 +1,128 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "3b6b5ad6-3285-42ee-9d0d-83b73f4c484f",
+  "files": [],
+  "subMetas": {
+    "9f05d": {
+      "importer": "gltf-mesh",
+      "uuid": "3b6b5ad6-3285-42ee-9d0d-83b73f4c484f@9f05d",
+      "displayName": "",
+      "id": "9f05d",
+      "name": "SM_Wep_Crowbar_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e43a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "3b6b5ad6-3285-42ee-9d0d-83b73f4c484f@1e43a",
+      "displayName": "",
+      "id": "1e43a",
+      "name": "file1198.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "05eac": {
+      "importer": "texture",
+      "uuid": "3b6b5ad6-3285-42ee-9d0d-83b73f4c484f@05eac",
+      "displayName": "",
+      "id": "05eac",
+      "name": "file1198.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5bd2": {
+      "importer": "gltf-material",
+      "uuid": "3b6b5ad6-3285-42ee-9d0d-83b73f4c484f@a5bd2",
+      "displayName": "",
+      "id": "a5bd2",
+      "name": "lambert.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e4132": {
+      "importer": "gltf-scene",
+      "uuid": "3b6b5ad6-3285-42ee-9d0d-83b73f4c484f@e4132",
+      "displayName": "",
+      "id": "e4132",
+      "name": "SM_Wep_Crowbar_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1198",
+        "remap": "db://assets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png",
+        "uri": "3b6b5ad6-3285-42ee-9d0d-83b73f4c484f@1e43a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "3b6b5ad6-3285-42ee-9d0d-83b73f4c484f@e4132",
+    "assetFinder": {
+      "meshes": [
+        "3b6b5ad6-3285-42ee-9d0d-83b73f4c484f@9f05d"
+      ],
+      "skeletons": [],
+      "textures": [
+        "3b6b5ad6-3285-42ee-9d0d-83b73f4c484f@05eac"
+      ],
+      "materials": [
+        "3b6b5ad6-3285-42ee-9d0d-83b73f4c484f@a5bd2"
+      ],
+      "scenes": [
+        "3b6b5ad6-3285-42ee-9d0d-83b73f4c484f@e4132"
+      ]
+    }
+  }
+}

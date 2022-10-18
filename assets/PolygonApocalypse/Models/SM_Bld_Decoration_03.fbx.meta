@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "cedc075a-37e4-4c5a-bb61-0cac1b32bdcd",
+  "files": [],
+  "subMetas": {
+    "66f6a": {
+      "importer": "gltf-mesh",
+      "uuid": "cedc075a-37e4-4c5a-bb61-0cac1b32bdcd@66f6a",
+      "displayName": "",
+      "id": "66f6a",
+      "name": "SM_Bld_Decoration_03.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "43c71": {
+      "importer": "gltf-embeded-image",
+      "uuid": "cedc075a-37e4-4c5a-bb61-0cac1b32bdcd@43c71",
+      "displayName": "",
+      "id": "43c71",
+      "name": "file1.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "d20e9": {
+      "importer": "texture",
+      "uuid": "cedc075a-37e4-4c5a-bb61-0cac1b32bdcd@d20e9",
+      "displayName": "",
+      "id": "d20e9",
+      "name": "file1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "cedc075a-37e4-4c5a-bb61-0cac1b32bdcd@43c71"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fdb30": {
+      "importer": "gltf-material",
+      "uuid": "cedc075a-37e4-4c5a-bb61-0cac1b32bdcd@fdb30",
+      "displayName": "",
+      "id": "fdb30",
+      "name": "lambert23.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3b863": {
+      "importer": "gltf-scene",
+      "uuid": "cedc075a-37e4-4c5a-bb61-0cac1b32bdcd@3b863",
+      "displayName": "",
+      "id": "3b863",
+      "name": "SM_Bld_Decoration_03.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1",
+        "uri": "cedc075a-37e4-4c5a-bb61-0cac1b32bdcd@43c71"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "cedc075a-37e4-4c5a-bb61-0cac1b32bdcd@3b863",
+    "assetFinder": {
+      "meshes": [
+        "cedc075a-37e4-4c5a-bb61-0cac1b32bdcd@66f6a"
+      ],
+      "skeletons": [],
+      "textures": [
+        "cedc075a-37e4-4c5a-bb61-0cac1b32bdcd@d20e9"
+      ],
+      "materials": [
+        "cedc075a-37e4-4c5a-bb61-0cac1b32bdcd@fdb30"
+      ],
+      "scenes": [
+        "cedc075a-37e4-4c5a-bb61-0cac1b32bdcd@3b863"
+      ]
+    }
+  }
+}

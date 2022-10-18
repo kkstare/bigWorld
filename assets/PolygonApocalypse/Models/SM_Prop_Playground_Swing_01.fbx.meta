@@ -1,0 +1,163 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f594602e-f2d8-4ca7-9565-06c9e559f60a",
+  "files": [],
+  "subMetas": {
+    "23215": {
+      "importer": "gltf-embeded-image",
+      "uuid": "f594602e-f2d8-4ca7-9565-06c9e559f60a@23215",
+      "displayName": "",
+      "id": "23215",
+      "name": "file1031.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "d4bef": {
+      "importer": "gltf-mesh",
+      "uuid": "f594602e-f2d8-4ca7-9565-06c9e559f60a@d4bef",
+      "displayName": "",
+      "id": "d4bef",
+      "name": "SM_Prop_Playground_Swing_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d4a63": {
+      "importer": "gltf-mesh",
+      "uuid": "f594602e-f2d8-4ca7-9565-06c9e559f60a@d4a63",
+      "displayName": "",
+      "id": "d4a63",
+      "name": "SM_Prop_Playground_Swing_Rope_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "38e8e": {
+      "importer": "gltf-mesh",
+      "uuid": "f594602e-f2d8-4ca7-9565-06c9e559f60a@38e8e",
+      "displayName": "",
+      "id": "38e8e",
+      "name": "SM_Prop_Playground_Swing_Rope_02.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5691d": {
+      "importer": "texture",
+      "uuid": "f594602e-f2d8-4ca7-9565-06c9e559f60a@5691d",
+      "displayName": "",
+      "id": "5691d",
+      "name": "file1031.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "f594602e-f2d8-4ca7-9565-06c9e559f60a@23215"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "38a38": {
+      "importer": "gltf-material",
+      "uuid": "f594602e-f2d8-4ca7-9565-06c9e559f60a@38a38",
+      "displayName": "",
+      "id": "38a38",
+      "name": "lambert886.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4bf07": {
+      "importer": "gltf-scene",
+      "uuid": "f594602e-f2d8-4ca7-9565-06c9e559f60a@4bf07",
+      "displayName": "",
+      "id": "4bf07",
+      "name": "SM_Prop_Playground_Swing_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1031",
+        "uri": "f594602e-f2d8-4ca7-9565-06c9e559f60a@23215"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "f594602e-f2d8-4ca7-9565-06c9e559f60a@4bf07",
+    "assetFinder": {
+      "meshes": [
+        "f594602e-f2d8-4ca7-9565-06c9e559f60a@d4bef",
+        "f594602e-f2d8-4ca7-9565-06c9e559f60a@d4a63",
+        "f594602e-f2d8-4ca7-9565-06c9e559f60a@38e8e"
+      ],
+      "skeletons": [],
+      "textures": [
+        "f594602e-f2d8-4ca7-9565-06c9e559f60a@5691d"
+      ],
+      "materials": [
+        "f594602e-f2d8-4ca7-9565-06c9e559f60a@38a38"
+      ],
+      "scenes": [
+        "f594602e-f2d8-4ca7-9565-06c9e559f60a@4bf07"
+      ]
+    }
+  }
+}
