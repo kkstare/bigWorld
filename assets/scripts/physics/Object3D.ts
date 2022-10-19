@@ -27,7 +27,7 @@ export class Object3D extends Component {
     group = PhysicsSystem.PhysicsGroup.DEFAULT;
 
     @property
-    useTriangle: boolean = false; //default is convex hull,
+    useTriangle: boolean = true; //default is convex hull,
 
     @property({ group: "Kdtree", visible() { return (this as any).useTriangle; } })
     debug: boolean = false;

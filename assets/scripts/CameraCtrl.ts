@@ -73,6 +73,13 @@ export class CameraCtrl extends Component {
         input.on(Input.EventType.MOUSE_WHEEL, this._onScroll, this)
     }
 
+
+    public changeView() {
+
+
+    }
+
+
     private _onTouchStart(event: EventTouch) {
         // if (event) {
         this.rayCheck(event, 2)
@@ -253,7 +260,9 @@ export class CameraCtrl extends Component {
             camera = this.cameraParent
         }
 
+        // v3.set(-offset.x, 0, offset.y)
         v3.set(offset.x, 0, -offset.y)
+
         Vec3.rotateY(v3, v3, up, ComFun.angleToRadian(camera.eulerAngles.y));
 
         return v3

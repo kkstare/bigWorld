@@ -74,8 +74,6 @@ export class Joystick extends Component {
         this.touchPos = null!
     }
     onMove(v2: Vec2) {
-        console.log(v2)
-
         let rotate = new Vec3(v2.x, 0, -v2.y).negative()
         let rotY = misc.radiansToDegrees(new Vec2(rotate.x, rotate.z).signAngle(new Vec2(0, -1)));
         this.playerNode.eulerAngles = new Vec3(0, rotY, 0);
