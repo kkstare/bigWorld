@@ -1,4 +1,4 @@
-import { assetManager, Button, Camera, Component, director, EventHandler, game, geometry, ImageAsset, Label, lerp, Mask, MeshRenderer, Node, Renderable2D, renderer, RenderTexture, Sprite, SpriteFrame, Texture2D, tween, UITransform, v3, Vec3, view, Widget } from "cc";
+import { assetManager, Button, Camera, Component, director, EventHandler, game, geometry, ImageAsset, Label, lerp, Mask, MeshRenderer, Node, renderer, RenderTexture, Sprite, SpriteFrame, Texture2D, tween, UIRenderer, UITransform, v3, Vec3, view, Widget } from "cc";
 
 /**
  * 面片节点
@@ -993,7 +993,7 @@ export default class ComFun {
     public static setNodeGray(node: Node): void {
         var grayAttr = ComFun._grayAttr;
         if (!(<any>node)[grayAttr]) {
-            let arr = node.getComponentsInChildren(Renderable2D), render = node.getComponent(Renderable2D), grayMat = ComFun._grayMat, oTypes = [];
+            let arr = node.getComponentsInChildren(UIRenderer), render = node.getComponent(UIRenderer), grayMat = ComFun._grayMat, oTypes = [];
             if (render) {
                 arr.unshift(render);
             }
@@ -1018,7 +1018,7 @@ export default class ComFun {
      * @param node 
      */
     public static cancelNodeGray(node: Node): void {
-        var grayAttr = ComFun._grayAttr, info = (<any>node)[grayAttr] as [Renderable2D[], number[]];
+        var grayAttr = ComFun._grayAttr, info = (<any>node)[grayAttr] as [UIRenderer[], number[]];
         if (info) {
             let grayMat = ComFun._grayMat;
             delete (<any>node)[grayAttr];
