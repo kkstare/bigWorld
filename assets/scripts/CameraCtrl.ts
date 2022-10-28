@@ -1,4 +1,4 @@
-import { Camera, Component, EventMouse, EventTouch, geometry, input, Input, Node, PhysicsSystem, tween, Vec2, Vec3, _decorator } from 'cc';
+import { Camera, Component, EventMouse, EventTouch, game, geometry, input, Input, Node, PhysicsSystem, tween, Vec2, Vec3, _decorator } from 'cc';
 import ComFun from './ComFun';
 
 const { ccclass, property } = _decorator;
@@ -32,7 +32,6 @@ export class CameraCtrl extends Component {
     public static get ins(): CameraCtrl {
         return CameraCtrl._ins;
     }
-
 
 
     /** 相机的初始位置 */
@@ -199,6 +198,7 @@ export class CameraCtrl extends Component {
 
         mEv.x = Math.min(Math.max(minPitchAngle, mEv.x), maxPitchAngle);
 
+        game.emit("cameraDirty")
         this.cameraParent.eulerAngles = vec3.lerp(mEv, 0.1);
     }
 

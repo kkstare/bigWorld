@@ -27,6 +27,9 @@ export class TexMgr extends Component {
     }
 
     public static releaseTex(res: Texture2D) {
+        if (!res) {
+            return
+        }
 
         res?.decRef()
         // assetManager.releaseAsset(res)

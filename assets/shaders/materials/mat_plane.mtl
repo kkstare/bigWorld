@@ -13,7 +13,9 @@
   ],
   "_states": [
     {
-      "rasterizerState": {},
+      "rasterizerState": {
+        "cullMode": 0
+      },
       "depthStencilState": {},
       "blendState": {
         "targets": [
@@ -23,6 +25,11 @@
     }
   ],
   "_props": [
-    {}
+    {
+      "mainTexture": {
+        "__uuid__": "e248228d-fe09-42ac-a152-d2d39360cade@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      }
+    }
   ]
 }
