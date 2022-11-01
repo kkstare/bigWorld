@@ -1,10 +1,16 @@
-import { Camera, Component, game, instantiate, MeshRenderer, Node, Texture2D, Vec3, _decorator } from 'cc';
-import ComFun from '../scripts/ComFun';
-import { TexMgr } from './TexMgr';
+import { Camera, Component, game, instantiate, Node, Vec3, _decorator } from 'cc';
+import { Plane } from './Plane';
 const { ccclass, property } = _decorator;
 
 @ccclass('PlaneMgr')
 export class PlaneMgr extends Component {
+
+    private static _ins: PlaneMgr;
+    public static get ins(): PlaneMgr {
+        return PlaneMgr._ins;
+    }
+
+
     @property(Node)
     planeParent!: Node;
 
@@ -21,6 +27,7 @@ export class PlaneMgr extends Component {
     dirtyPlane: Record<number, Node> = {}
 
     onLoad() {
+        PlaneMgr._ins = this
         // game.on(PipelineEventType.RENDER_FRAME_END, this.checkShow, this)
         // director.on(PipelineEventType.RENDER_FRAME_END, this.checkShow, this)
         // this.camera.node.on(PipelineEventType.RENDER_FRAME_END, this.checkShow, this)
@@ -30,25 +37,19 @@ export class PlaneMgr extends Component {
             this.cameraDirty = true
         })
         this.initPlanes()
-        this.scheduleOnce(() => {
-            this.checkShow()
-        })
+
     }
 
     async start() {
         let children = this.planeParent.children
         for (let index = 0; index < children.length; index++) {
-            let tex = await TexMgr.loadTexture("bg" + (index + 1))
-            children[index].getComponent(MeshRenderer).getMaterialInstance(0).setProperty("mainTexture", tex)
+            children[index].getComponent(Plane).init(index)
         }
-        // this.checkShow()
-
     }
 
 
     initPlanes() {
         let baseNode = this.planeParent.children[0]
-
         const dis = Math.sqrt(baseNode.position.x * baseNode.position.x + baseNode.position.z * baseNode.position.z)
 
         for (let index = 0; index < 16; index++) {
@@ -69,38 +70,36 @@ export class PlaneMgr extends Component {
         }
     }
 
-    randDel() {
-        let randIndex = Math.floor(Math.random() * 5)
+    // randDel() {
+    //     let randIndex = Math.floor(Math.random() * 5)
 
-        let tex: Texture2D = this.planeParent.children[randIndex].getComponent(MeshRenderer).getMaterialInstance(0).getProperty("mainTexture") as Texture2D
-        console.log(tex)
+    //     let tex: Texture2D = this.planeParent.children[randIndex].getComponent(MeshRenderer).getMaterialInstance(0).getProperty("mainTexture") as Texture2D
+    //     console.log(tex)
 
-        TexMgr.releaseTex(tex)
-        this.planeParent.children[randIndex].getComponent(MeshRenderer).getMaterialInstance(0).setProperty("mainTexture", null)
-    }
+    //     TexMgr.releaseTex(tex)
+    //     this.planeParent.children[randIndex].getComponent(MeshRenderer).getMaterialInstance(0).setProperty("mainTexture", null)
+    // }
 
-    async randUp() {
-        let randIndex = Math.floor(Math.random() * 5)
-        let randTexId = Math.floor(Math.random() * 5) + 1
+    // async randUp() {
+    //     let randIndex = Math.floor(Math.random() * 5)
+    //     let randTexId = Math.floor(Math.random() * 5) + 1
 
 
-        let tex = await TexMgr.loadTexture("bg" + (randTexId))
+    //     let tex = await TexMgr.loadTexture("bg" + (randTexId))
 
-        let oldTex: Texture2D = this.planeParent.children[randIndex].getComponent(MeshRenderer).getMaterialInstance(0).getProperty("mainTexture") as Texture2D
-        TexMgr.releaseTex(oldTex)
-        this.planeParent.children[randIndex].getComponent(MeshRenderer).getMaterialInstance(0).setProperty("mainTexture", tex)
+    //     let oldTex: Texture2D = this.planeParent.children[randIndex].getComponent(MeshRenderer).getMaterialInstance(0).getProperty("mainTexture") as Texture2D
+    //     TexMgr.releaseTex(oldTex)
+    //     this.planeParent.children[randIndex].getComponent(MeshRenderer).getMaterialInstance(0).setProperty("mainTexture", tex)
 
-    }
+    // }
 
     checkShow() {
-        let children = this.planeParent.children
+        let children = this.planeParent.children, indexs = []
         for (let index = 0; index < children.length; index++) {
-            // const node = children[index];
-            let isIn = ComFun.inViewport(children[index].getComponent(MeshRenderer), this.camera)
-            console.log(index, isIn)
-
+            let isIn = children[index].getComponent(Plane).checkShow()
+            isIn && indexs.push(index);
         }
-
+        console.log(indexs);
     }
 
     update(dt: number) {

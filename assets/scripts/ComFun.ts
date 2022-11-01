@@ -1199,7 +1199,7 @@ export default class ComFun {
      * @param camera 
      */
     public static pointInViewport(point: Vec3, camera: Camera): boolean {
-        var { x, y } = camera.worldToScreen(point, _vec30), rect = view.getViewportRect(), sub = 20;
+        var { x, y } = camera.worldToScreen(point, _vec30), rect = view.getViewportRect(), sub = 0;
         return x > -sub && x < rect.width + sub && y > -sub && y < rect.height + sub;
     }
 

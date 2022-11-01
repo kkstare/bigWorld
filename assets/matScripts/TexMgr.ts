@@ -18,7 +18,7 @@ export class TexMgr extends Component {
                     }
 
                     res.addRef()
-                    console.log(res.refCount)
+                    // console.log(res.refCount)
                     resolve(res)
                     // res.decRef()
                 })

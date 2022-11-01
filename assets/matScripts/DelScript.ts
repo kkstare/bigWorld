@@ -15,11 +15,11 @@ export class DelScript extends Component {
     bindMap: Record<string, Function> = {
         "btn1": () => {
             console.log("点击删除")
-            this.PlaneMgr.randDel()
+            // this.PlaneMgr.randDel()
         },
         "btn2": () => {
             console.log("点击修改")
-            this.PlaneMgr.randUp()
+            // this.PlaneMgr.randUp()
 
         }
     }

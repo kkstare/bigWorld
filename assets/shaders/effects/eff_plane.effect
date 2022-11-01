@@ -24,9 +24,15 @@ CCEffect %{
 }%
 
 CCProgram unlit-fs %{
+  
+  // #if __VERSION__ < 300
+      #extension GL_EXT_shader_texture_lod : enable
+  // #endif
+
   precision highp float;
   #include <legacy/output>
   #include <legacy/fog-fs>
+
 
   in vec2 v_uv;
   in vec3 v_position;
@@ -38,7 +44,20 @@ CCProgram unlit-fs %{
   };
 
   vec4 frag () {
-    vec4 col = mainColor * texture(mainTexture, v_uv);
+      // vec4 color = texture2DLodEXT(mainTexture, v_uv, 0.5);
+      vec4 color = texture(mainTexture, v_uv);
+
+    // #if __VERSION__ < 300
+    //   #ifdef GL_EXT_shader_texture_lod
+    //     vec4 color = texture2DLodEXT(mainTexture,v_uv, roughness);
+    //   #else
+    //     vec4 color = texture2D(mainTexture, v_uv);
+    //   #endif
+    // #else
+    //   vec4 color = textureLod(mainTexture, v_uv, roughness);
+    // #endif
+
+    vec4 col = mainColor * color;
     CC_APPLY_FOG(col, v_position);
     return CCFragOutput(col);
   }
