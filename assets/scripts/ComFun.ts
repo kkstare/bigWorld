@@ -8,7 +8,7 @@ interface IPlaneNode extends Node {
 }
 
 // 临时变量
-const _vec30 = v3(), _vec31 = v3(), _vec6 = Array.from(Array(6), v3);
+const _vec30 = v3(), _vec31 = v3(), _vec6 = Array.from(Array(8), v3);
 
 export default class ComFun {
 
@@ -1168,7 +1168,7 @@ export default class ComFun {
      */
     public static inViewport(plane: MeshRenderer, camera: Camera): boolean {
         var aabb = plane.model!.worldBounds;
-        return aabb ? ComFun.aabbInViewport(aabb, camera) : false;
+        return aabb ? ComFun.aabbInViewport(aabb, camera, plane) : false;
     }
 
     /**
@@ -1176,14 +1176,10 @@ export default class ComFun {
      * @param aabb 包围盒
      * @param camera 
      */
-    public static aabbInViewport(aabb: geometry.AABB, camera: Camera): boolean {
+    public static aabbInViewport(aabb: geometry.AABB, camera: Camera, plane: MeshRenderer): boolean {
         var center = aabb.center, half = aabb.halfExtents, idx = 0;
-        (<any[]>['x', 'y', 'z']).forEach((attr: 'x' | 'y' | 'z') => {
-            let num = half[attr];
-            if (num) {
-                _vec6[idx++].set(center)[attr] += num;
-                _vec6[idx++].set(center)[attr] -= num;
-            }
+        [[1, 1, 1], [1, 1, -1], [1, -1, 1], [-1, 1, 1], [1, -1, -1], [-1, 1, -1], [-1, -1, 1], [-1, -1, -1]].forEach((v) => {
+            _vec6[idx++].set(center).add3f(v[0] * half.x, v[1] * half.y, v[2] * half.z);
         });
         for (let i = 0, pInV = ComFun.pointInViewport; i < idx; i++) {
             if (pInV(_vec6[i], camera)) {
@@ -1199,8 +1195,12 @@ export default class ComFun {
      * @param camera 
      */
     public static pointInViewport(point: Vec3, camera: Camera): boolean {
-        var { x, y } = camera.worldToScreen(point, _vec30), rect = view.getViewportRect(), sub = 0;
-        return x > -sub && x < rect.width + sub && y > -sub && y < rect.height + sub;
+        camera.worldToScreen(point, _vec30);
+        if (_vec30.z >= 0) {
+            let { x, y } = camera.worldToScreen(point, _vec30), rect = view.getViewportRect(), sub = 20;
+            return x > -sub && x < rect.width + sub && y > -sub && y < rect.height + sub;
+        }
+        return false;
     }
 
     /**

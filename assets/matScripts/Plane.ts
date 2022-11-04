@@ -22,6 +22,9 @@ export class Plane extends Component {
     }
 
     async showTex() {
+
+        this.hideTex()
+
         let tex = await TexMgr.loadTexture("bg" + (this.index + 1))
         this.node.getComponent(MeshRenderer).getMaterialInstance(0).setProperty("mainTexture", tex)
     }
